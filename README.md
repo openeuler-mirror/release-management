@@ -7,11 +7,11 @@ release management including key features, release plan, development and branch 
 软件架构说明
 
 
-#### 安装教程
+#### sig team member
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  jimmy.jiang
+2.  ci-robot
+3.  fishman
 
 #### 使用说明
 
