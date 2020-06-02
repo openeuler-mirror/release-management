@@ -11,7 +11,7 @@ Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA�
 
 ## 组织会议
 
-公开的视频会议时间：北京时间每双周四上午，9:15~10:45，请订阅dev@openeuler.org，以获取相关会议通知
+公开的视频会议时间：北京时间每双周二上午，9:15~10:45，请订阅dev@openeuler.org，以获取相关会议通知
 
 
 
