@@ -1,37 +1,40 @@
-# release-management
+﻿# 发行经理
 
-#### 介绍
-release management including key features, release plan, development and branch plan, release scope and notes 
+Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA等各个团队，完成openEuler社区版本的发布工作。主要职责如下：
 
-#### 软件架构
-软件架构说明
-
-
-#### sig team member
-
-1.  jimmy.jiang
-2.  ci-robot
-3.  fishman
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- 规划和计划openEuler版本的发行时间表
+- 在开发/测试周期中跟踪（更新updates或功能feature）的开发状态
+- 发布协调（在QA，发布工程师，技术委员会等范围内），参与相关组和发布相关等会议
+- 负责openEuler项目的交付过程协调
 
 
-#### 码云特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 组织会议
+
+公开的视频会议时间：北京时间每双周四上午，9:15~10:45，请订阅dev@openeuler.org，以获取相关会议通知
+
+
+
+## 成员
+
+- 江裕民[[@yuming_jiang](https://gitee.com/yuming_jiang)]
+- 马亮[[@MarlonMa](https://gitee.com/marlonma)]
+- 管延杰 [[@guanyanjie](https://gitee.com/guanyanjie)]
+- 刘博 [[@boliurise](https://gitee.com/boliurise)]
+- 朱延鹏 [[@zyp-rock](https://gitee.com/zyp-rock)]
+- 姜振华 [[@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang)]
+
+
+## 联系方式
+
+邮箱列表：dev@openeuler.org
+
+
+
+## 项目清单
+
+### Release Manager
+
+Repository地址：https://gitee.com/openeuler/release-management
+
+*发布经理团队的相关信息均在以上Reository内，可以进入该Repository了解详情
