@@ -1,15 +1,7 @@
-+++
-title = "openEuler Lifecycle"
-date = "2020-03-25"
-tags = ["release", "lifecycle", ]
-archives = "2020-03"
-author = "WangXun, Technical Committee"
-summary = "openEuler lifecycle."
-+++
 
 # openEuler社区版本命名，发布时间与生命周期管理/openEuler community release rule and life cycle management 
 
-![openEuler lifecycle](<../2020-03-25-lifecycle-02.png>)
+![openEuler lifecycle](<./lifecycle_picture.png>)
 
 * 社区版本按按照交付年份和月份进行版本号命名。例如，openEuler 20.09于2020年09月发布。
 * openEuler release is named based on the delivery year and month. For example, openEuler 20.09 will be released in September 2020.
