@@ -20,10 +20,10 @@ Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA�
 - 江裕民[[@yuming_jiang](https://gitee.com/yuming_jiang)]
 - 管延杰 [[@guanyanjie](https://gitee.com/guanyanjie)]
 - 刘博 [[@boliurise](https://gitee.com/boliurise)]
-- 朱延鹏 [[@zyp-rock](https://gitee.com/zyp-rock)]
+- 朱延朋 [[@zyp-rock](https://gitee.com/zyp-rock)]
 - 姜振华 [[@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang)]
 - 胡峰 [[@solarhu](https://gitee.com/solarhu)]
-
+- 陈亚强[[@chenyaqiang](https://gitee.com/chenyaqiang)]
 
 ## 联系方式
 
