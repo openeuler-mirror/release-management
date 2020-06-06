@@ -4,7 +4,7 @@
 
 **Our Rules: High-speed Railway Mode and Quality First**  
 (1) In principle, the version release time is not changed and the version is released on time.   
-(2) Features that do not meet quality requirements can be released at the next release point.  
+(2) Features that do not meet quality requirements can be released at the next release version.  
 (3) Submit key feature changes with great impact to the technical committee （TC）for evaluation.  
 
 **The Schedule Control Policy of openEuler 20.09**
