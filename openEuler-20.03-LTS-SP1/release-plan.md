@@ -1,17 +1,17 @@
-#release plan
-##develop        :2020-10-12~2020-11-7
-##comptibility   :2020-11-8~2020-11-18
-##build          :2020-11-19~2020-11-21
-##test1          :2020-11-23~2020-11-28
-##test2          :2020-11-30~2020-12-5
-##test3          :2020-12-7~2020-12-12
-##test4          :2020-12-14~2020-14-19
-##release        :2020-12-22
+# release plan
+## develop        :2020-10-12~2020-11-7
+## comptibility   :2020-11-8~2020-11-18
+## build          :2020-11-19~2020-11-21
+## test1          :2020-11-23~2020-11-28
+## test2          :2020-11-30~2020-12-5
+## test3          :2020-12-7~2020-12-12
+## test4          :2020-12-14~2020-14-19
+## release        :2020-12-22
 
-#feture list
+# feture list
 |:-:|:--:|:----:|:---:|
 |no|fetur|status|owner|
-|----:|---:|---:|----:|
+|:----|:---|:---|:----|
 |1|[openEuler 20.03 LTS SP1支持高可用pacemaker](https://gitee.com/openeuler/release-management/issues/I23GH2?from=project-issue)|discussion| |
 |2|[openEuler 20.03 LTS SP1支持openGauss版本](https://gitee.com/openeuler/release-management/issues/I23GGW?from=project-issue)|discussion| |
 |3|[openEuler 20.03 LTS SP1支持1822 HBA卡驱动](https://gitee.com/openeuler/release-management/issues/I23GGR?from=project-issue)|discussion| |
