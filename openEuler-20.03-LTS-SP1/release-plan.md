@@ -1,15 +1,15 @@
-# release plan
-## develop        :2020-10-12~2020-11-7
-## comptibility   :2020-11-8~2020-11-18
-## build          :2020-11-19~2020-11-21
-## test1          :2020-11-23~2020-11-28
-## test2          :2020-11-30~2020-12-5
-## test3          :2020-12-7~2020-12-12
-## test4          :2020-12-14~2020-14-19
-## release        :2020-12-22
+# Release plan
+|Stange name|Begin time|End time|
+|Develop|2020-10-12|2020-11-7|
+|Comptibility|2020-11-8|2020-11-18|
+|Buil|2020-11-19|2020-11-21|
+|Test round 1|2020-11-23|2020-11-28|
+|Test round 2|2020-11-30|2020-12-5|
+|Test round 3|2020-12-7|2020-12-12|
+|Test round 4|2020-12-14|2020-12-19|
+|release|2020-12-21|2020-12-22|
 
-# feture list
-|:-:|:--:|:----:|:---:|
+# Feture list
 |no|fetur|status|owner|
 |:----|:---|:---|:----|
 |1|[openEuler 20.03 LTS SP1支持高可用pacemaker](https://gitee.com/openeuler/release-management/issues/I23GH2?from=project-issue)|discussion| |
