@@ -1,5 +1,6 @@
 # Release plan
 |Stange name|Begin time|End time|
+|:----------|:---------|:-------|
 |Develop|2020-10-12|2020-11-7|
 |Comptibility|2020-11-8|2020-11-18|
 |Buil|2020-11-19|2020-11-21|
