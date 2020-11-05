@@ -36,3 +36,5 @@
 |21|[openEuler 20.03 LTS SP1支持abrt组件](https://gitee.com/openeuler/release-management/issues/I23GDU?from=project-issue)|developing| | |
 |22|[openEuler 20.03 LTS SP1支持osinfo](https://gitee.com/openeuler/release-management/issues/I23GDP?from=project-issue)|developing| | |
 |21|[microcode_ctl需要回合支持x86](https://gitee.com/openeuler/release-management/issues/I1RFVK?from=project-issue)|developing| | |
+|22|[openEuler 20.03 LTS SP1新增 raspberrypi 版本](https://gitee.com/openeuler/release-management/issues/I1RMC1?from=project-issue)|developing|RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|
+
