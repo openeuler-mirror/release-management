@@ -20,7 +20,7 @@
 |5|[openEuler 20.03 LTS SP1支持openStack](https://gitee.com/openeuler/release-management/issues/I23GGJ?from=project-issue)|discussion| | |
 |6|[openEuler 20.03 LTS SP1支持金融领域软件包](https://gitee.com/openeuler/release-management/issues/I23GG1?from=project-issue)|developing| | |
 |7|[openEuler 20.03 LTS SP1支持大数据管理组件Ambari的依赖组件](https://gitee.com/openeuler/release-management/issues/I23GFY?from=project-issue)|developing| | |
-|8|[openEuler 20.03 LTS SP1新增DDE组件](https://gitee.com/openeuler/release-management/issues/I23GFR?from=project-issue)|developing| | |
+|8|[openEuler 20.03 LTS SP1新增DDE组件](https://gitee.com/openeuler/release-management/issues/I23GFR?from=project-issue)|developing|sig-DDE|panchenbo|
 |9|[openEuler 20.03-LTS版本新增criu组件](https://gitee.com/openeuler/release-management/issues/I23GFP?from=project-issue)|developing| | |
 |10|[openEuler 20.03 LTS SP1支持libxml，hyperscan](https://gitee.com/openeuler/release-management/issues/I23GFL?from=project-issue)|developing| | |
 |11|[openEuler 20.03 LTS SP1同时支持openjdk多个版本](https://gitee.com/openeuler/release-management/issues/I23GFC?from=project-issue)|developing| | |
