@@ -13,7 +13,7 @@
 # Feture list
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
-|1|[openEuler 20.03 LTS SP1支持高可用pacemaker](https://gitee.com/openeuler/release-management/issues/I23GH2?from=project-issue)|discussion| | |
+|1|[openEuler 20.03 LTS SP1支持高可用pacemaker](https://gitee.com/openeuler/release-management/issues/I23GH2?from=project-issue)|developing|sig-HA|yangzhao_kl|
 |2|[openEuler 20.03 LTS SP1支持openGauss版本](https://gitee.com/openeuler/release-management/issues/I23GGW?from=project-issue)|discussion| | |
 |3|[openEuler 20.03 LTS SP1支持1822 HBA卡驱动](https://gitee.com/openeuler/release-management/issues/I23GGR?from=project-issue)|discussion| | |
 |4|[openEuler 20.03 LTS SP1支持华为多路径](https://gitee.com/openeuler/release-management/issues/I23GGO?from=project-issue)|developing| | |
