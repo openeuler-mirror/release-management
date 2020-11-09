@@ -20,14 +20,14 @@
 |5|[openEuler 20.03 LTS SP1支持openStack](https://gitee.com/openeuler/release-management/issues/I23GGJ?from=project-issue)|discussion| | |
 |6|[openEuler 20.03 LTS SP1支持金融领域软件包](https://gitee.com/openeuler/release-management/issues/I23GG1?from=project-issue)|developing| | |
 |7|[openEuler 20.03 LTS SP1支持大数据管理组件Ambari的依赖组件](https://gitee.com/openeuler/release-management/issues/I23GFY?from=project-issue)|developing| | |
-|8|[openEuler 20.03 LTS SP1新增DDE组件](https://gitee.com/openeuler/release-management/issues/I23GFR?from=project-issue)|developing| | |
+|8|[openEuler 20.03 LTS SP1新增DDE组件](https://gitee.com/openeuler/release-management/issues/I23GFR?from=project-issue)|developing|sig-DDE|[@panchenbo](https://gitee.com/panchenbo)|
 |9|[openEuler 20.03-LTS版本新增criu组件](https://gitee.com/openeuler/release-management/issues/I23GFP?from=project-issue)|developing| | |
 |10|[openEuler 20.03 LTS SP1支持libxml，hyperscan](https://gitee.com/openeuler/release-management/issues/I23GFL?from=project-issue)|developing| | |
 |11|[openEuler 20.03 LTS SP1同时支持openjdk多个版本](https://gitee.com/openeuler/release-management/issues/I23GFC?from=project-issue)|developing| | |
-|12|[openEuler 20.03 SP1 虚拟化支持内存，cpu热添加](https://gitee.com/openeuler/release-management/issues/I23GF7?from=project-issue)|developing| | |
-|13|[openEuler 20.03 SP1 “支持vmtop”](https://gitee.com/openeuler/release-management/issues/I23GF2?from=project-issue)|developing| | |
-|14|[openEuler 20.03 LTS SP1虚拟化支持安全启动](https://gitee.com/openeuler/release-management/issues/I23GEY?from=project-issue)|developing| | |
-|15|[openEuler 20.03 LTS SP1虚拟化支持custom模式](https://gitee.com/openeuler/release-management/issues/I23GEU?from=project-issue)|developing| | |
+|12|[openEuler 20.03 SP1 虚拟化支持内存，cpu热添加](https://gitee.com/openeuler/release-management/issues/I23GF7?from=project-issue)|developing| Virt | [@alexchen](https://gitee.com/zhendongchen) |
+|13|[openEuler 20.03 SP1 “支持vmtop”](https://gitee.com/openeuler/release-management/issues/I23GF2?from=project-issue)|developing| Virt | [@alexchen](https://gitee.com/zhendongchen) |
+|14|[openEuler 20.03 LTS SP1虚拟化支持安全启动](https://gitee.com/openeuler/release-management/issues/I23GEY?from=project-issue)|developing| Virt | [@alexchen](https://gitee.com/zhendongchen) |
+|15|[openEuler 20.03 LTS SP1虚拟化支持custom模式](https://gitee.com/openeuler/release-management/issues/I23GEU?from=project-issue)|developing| Virt | [@alexchen](https://gitee.com/zhendongchen) |
 |16|[openEuler 20.03 LTS SP1回合20.09 Atune](https://gitee.com/openeuler/release-management/issues/I23GEM?from=project-issue)|developing| | |
 |17|[openEuler 20.03 LTS SP1补充SONY使用的依赖包](https://gitee.com/openeuler/release-management/issues/I23GEG?from=project-issue)|developing| | |
 |18|[openEuler 20.03 LTS SP1补齐pts安装依赖](https://gitee.com/openeuler/release-management/issues/I23GEC?from=project-issue)|developing| | |
@@ -35,4 +35,6 @@
 |20|[openEuler 20.03 LTS SP1开源openEuler-rpm-config宏](https://gitee.com/openeuler/release-management/issues/I23GDZ?from=project-issue)|developing| | |
 |21|[openEuler 20.03 LTS SP1支持abrt组件](https://gitee.com/openeuler/release-management/issues/I23GDU?from=project-issue)|developing| | |
 |22|[openEuler 20.03 LTS SP1支持osinfo](https://gitee.com/openeuler/release-management/issues/I23GDP?from=project-issue)|developing| | |
-|21|[microcode_ctl需要回合支持x86](https://gitee.com/openeuler/release-management/issues/I1RFVK?from=project-issue)|developing| | |
+|23|[microcode_ctl需要回合支持x86](https://gitee.com/openeuler/release-management/issues/I1RFVK?from=project-issue)|developing| | |
+|24|[openEuler 20.03 LTS SP1新增 raspberrypi 版本](https://gitee.com/openeuler/release-management/issues/I1RMC1?from=project-issue)|developing|RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|
+|25|[openEuler 20.03 LTS SP1新增UKUI组件](https://gitee.com/openeuler/release-management/issues/I1R54N?from=project-issue)|developing|sig_UKUI|[@dou33](https://gitee.com/dou33)|
