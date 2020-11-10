@@ -3,10 +3,10 @@
 The release manager SIG is responsible for coordinating teams for openEuler project:
 
 - Setting the schedule for openEuler development cycles.
-- Reviewing and approving technical content from Fedora Working groups (Product Requirement Docs, deliverables, processes).
+- Reviewing and approving technical integration from openEuler SIGs groups.
 - Responsible for what software is offered to end users under what conditions.
-- Larger changes to the Fedora Package collection
-- Approval and coordination of Changes for Fedora releases.
+- Larger changes to the openEuler Package collection
+- Approval and coordination of Changes for openEuler releases.
 
 
 
