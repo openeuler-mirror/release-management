@@ -12,7 +12,7 @@ The release manager SIG is responsible for coordinating teams for openEuler proj
 
 ## Meetings guidelines
 
-conference time: 9:30~11:30 a.m (GMT+8)，please subscribe to the [release sig email list](https://openeuler.org/en/community/mailing-list/) for relevant meeting announcements.
+conference time: BiWednesday 9:30~11:30 a.m (GMT+8)，please subscribe to the [release sig email list](https://openeuler.org/en/community/mailing-list/) for relevant meeting announcements.
 
 ## Meeting minutes
 You can find [Release management SIG meeting minutes](https://gitee.com/openeuler/release-management/wikis) at the openEuler wiki site as well as posted to the link:release@openeuler.org mail list after each meeting.
