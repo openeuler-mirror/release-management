@@ -1,0 +1,9 @@
+release:
+- branch: master
+  frozen: false
+  owner:
+  - solarhu
+  - yaqiangchen
+  - Ronnie_Jiang
+  - zyp-rock
+  - yumin_jiang
