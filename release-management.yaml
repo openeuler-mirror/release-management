@@ -7,3 +7,14 @@ release:
   - Ronnie_Jiang
   - zyp-rock
   - yumin_jiang
+release:
+- branch: openEuler-20.03-LTS-SP1
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - Ronnie_Jiang
+  - openeuler-basic
+  - orange-snn
+  - small_leek
+
