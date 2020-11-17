@@ -6,7 +6,7 @@ openEuler社区及其它第三方开发者共同提供了丰富易用的软件�
 
 ##  openEuler提供的附加软件仓库
 -  **update** --- openEuler LTS和创新版正式发布的OS和Everything仓库中软件包定期更新集合仓库，属于OS和Everything仓库的子集，用于解决软件包bugfix和CVE安全漏洞修复，update仓库通常同时存在一个软件的多个版本的更新；
--  **EPOL (Extra Packages for openEuler Linux ) ** --- 作为openEuler LTS和创新版本软件包仓库的补充，为openEuler社区提供尽可能丰富的软件包。该仓库软件包**源码均需要来源于openEuler社区**，同时因受社区软件包质量、技术成熟度、社区参与者投入等原因暂时无法完全满足openEuler社区软件包发布质量及维护支持要求，但openEuler社区从开源社区使用者角度来考虑，提供这类软件包供社区爱好者使用，同时明确无法为该类软件包提供bugfix和CVE安全漏洞修复；EPOL软件仓无法独立编译、构建和完整安装，该仓库需要结合OS、Everithing仓库一起使用；
+-  **EPOL(Extra Packages for openEuler Linux )** --- 作为openEuler LTS和创新版本软件包仓库的补充，为openEuler社区提供尽可能丰富的软件包。该仓库软件包**源码均需要来源于openEuler社区**，同时因受社区软件包质量、技术成熟度、社区参与者投入等原因暂时无法完全满足openEuler社区软件包发布质量及维护支持要求，但openEuler社区从开源社区使用者角度来考虑，提供这类软件包供社区爱好者使用，同时明确无法为该类软件包提供bugfix和CVE安全漏洞修复；EPOL软件仓无法独立编译、构建和完整安装，该仓库需要结合OS、Everithing仓库一起使用；
 -  **debuginfo** ---  openEuler LTS和创新版正式发布的OS和Everything仓库中软件包的debuginfo包，这些包中默认带着编译时所添加的调试符号信息，用于gdb调试使用。该软件仓库默认情况下不在系统yum配置文件中，使用者根据需要自行配置。
 -  **source** --- openEuler LTS和创新版正式发布的全量软件包源码包集合仓库，提供给使用者重新构建自定义RPM包；同时请考虑重建 SRPM 将会为你带来的额外的工作负担，即每当该包有安全CVE漏洞更新发布时，你需要重新获取该包source包重新构建，已解决问题及安全漏洞；
 -  **docker_img** --- openEuler LTS和创新版正式发布的基础容器镜像，供使用者快速创建一个基础容器工作环境；
