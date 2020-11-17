@@ -49,4 +49,4 @@ ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM�
 - PR样例： https://gitee.com/src-openeuler/mkeuleros/pulls/91
 
 ## 七、新增软件包流程图
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1117/190821_b54ff1b8_5603730.png "new_package.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1117/190932_99e94b47_5603730.png "new_package.PNG")
