@@ -38,3 +38,4 @@
 |23|[microcode_ctl需要回合支持x86](https://gitee.com/openeuler/release-management/issues/I1RFVK?from=project-issue)|developing| | |
 |24|[openEuler 20.03 LTS SP1新增 raspberrypi 版本](https://gitee.com/openeuler/release-management/issues/I1RMC1?from=project-issue)|developing|RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|
 |25|[openEuler 20.03 LTS SP1新增UKUI组件](https://gitee.com/openeuler/release-management/issues/I1R54N?from=project-issue)|developing|sig_UKUI|[@dou33](https://gitee.com/dou33)|
+|26|[openEuler 20.03 LTS SP1新增netinstall组件](https://gitee.com/openeuler/release-management/issues/I1Y26A?from=project-issue)|developing|sig-OS-Builder|[@t_feng](https://gitee.com/t_feng)|
