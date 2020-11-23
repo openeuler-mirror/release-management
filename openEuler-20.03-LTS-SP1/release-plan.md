@@ -39,3 +39,7 @@
 |24|[openEuler 20.03 LTS SP1新增 raspberrypi 版本](https://gitee.com/openeuler/release-management/issues/I1RMC1?from=project-issue)|developing|RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|
 |25|[openEuler 20.03 LTS SP1新增UKUI组件](https://gitee.com/openeuler/release-management/issues/I1R54N?from=project-issue)|developing|sig_UKUI|[@dou33](https://gitee.com/dou33)|
 |26|[openEuler 20.03 LTS SP1新增netinstall组件](https://gitee.com/openeuler/release-management/issues/I1Y26A?from=project-issue)|developing|sig-OS-Builder|[@t_feng](https://gitee.com/t_feng)|
+|27|[openEuler20.03 LTS SP1版本支持飞腾 arm64架构CPU](https://gitee.com/openeuler/release-management/issues/I1RXGT?from=project-issue)|developing|||
+|28|[openEuler 20.03-LTS版本升级新增bcc的软件包](https://gitee.com/openeuler/release-management/issues/I1O7RM?from=project-issue)|developing|||
+|29|[openEuler 20.03 LTS SP1申请新增maildrop和proftpd软件包](https://gitee.com/openeuler/release-management/issues/I1TWXG?from=project-issue)|developing|||
+|30|[openEuler 20.03 LTS SP1内核开启config_acpi_nfit内核选项](https://gitee.com/openeuler/release-management/issues/I26KWQ?from=project-issue)|developing|||
