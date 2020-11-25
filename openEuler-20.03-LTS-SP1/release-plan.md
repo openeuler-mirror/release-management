@@ -11,6 +11,7 @@
 |release|2020-12-21|2020-12-22|
 
 # Feture list
+## 状态说明：discussion(方案讨论，需求未接受)，developing(开发中)，Testing(测试中)，Accepted(已验收)
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |1|[openEuler 20.03 LTS SP1支持高可用pacemaker](https://gitee.com/openeuler/release-management/issues/I23GH2?from=project-issue)|developing|sig-HA|yangzhao_kl|
