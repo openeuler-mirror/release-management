@@ -3,12 +3,18 @@
 新建软件仓库分为两种：新建**原创软件** upstream开源仓库，新引入**其他开源社区开源软件**源码仓库。
 
 ### **原创开源软件**，选择openEuler作为upstream托管仓库，对应的PR创建流程如下：
-- a) 提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
+- a) 原创开源软件**加入openEuler社区已有sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
 - PR示例：https://gitee.com/openeuler/community/pulls/1226/files
 
+- b) 原创开源软件**申请新的sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
+- PR示例：https://gitee.com/openeuler/community/pulls/1280/files
+
 ### **开源软件引入openEuler社区**，作为openEuler社区版本rebuild构建使用，对应的PR创建流程样例如下：
-- a) 提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
+- a) 开源软件**加入openEuler社区已有sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
 - PR示例：https://gitee.com/openeuler/community/pulls/975/files
+
+-b) 开源软件**申请新的sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
+- PR示例：https://gitee.com/openeuler/community/pulls/1251/files
 
 ## 二、代码上传到gitee社区
 
