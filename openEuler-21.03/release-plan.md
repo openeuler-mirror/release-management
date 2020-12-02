@@ -19,4 +19,4 @@
 |2|[openEuler 21.03 support virtualization live migration pro](https://gitee.com/openeuler/release-management/issues/I25ZB1?from=project-issue)|discussion|sig-virt|[@alexchen](https://gitee.com/alexchen)|
 |3|[openEuler 21.03 support StratoVirt function enhancement](https://gitee.com/openeuler/release-management/issues/I25ZH0?from=project-issue)|discussion|sig-virt|[@alexchen](https://gitee.com/alexchen)|
 |4|[openEuler 21.03 support Risc-v virt live migration](https://gitee.com/openeuler/release-management/issues/I25ZF1?from=project-issue)|discussion|sig-virt|[@alexchen](https://gitee.com/alexchen)|
-|1|[openEuler 21.03 support DDE](https://gitee.com/openeuler/release-management/issues/I27TT4?from=project-issue)|discussion|sig-DDE|[@panchenbo](https://gitee.com/panchenbo) |
+|5|[openEuler 21.03 support DDE](https://gitee.com/openeuler/release-management/issues/I27TT4?from=project-issue)|discussion|sig-DDE|[@panchenbo](https://gitee.com/panchenbo) |
