@@ -21,3 +21,4 @@
 |4|[openEuler 21.03 support Risc-v virt live migration](https://gitee.com/openeuler/release-management/issues/I25ZF1?from=project-issue)|discussion|sig-virt|[@alexchen](https://gitee.com/alexchen)|
 |5|[openEuler 21.03 support DDE](https://gitee.com/openeuler/release-management/issues/I27TT4?from=project-issue)|discussion|sig-DDE|[@panchenbo](https://gitee.com/panchenbo)|
 |6|[openEuler 21.03 kernel update to version 5.10](https://gitee.com/openeuler/release-management/issues/I27YGU?from=project-issue)|discussion|sig-kernel|[@XieXiuQi](https://gitee.com/xiexiuqi)|
+|7|[openEuler 21.03 remove python 2 from release](https://gitee.com/openeuler/release-management/issues/I29EV9?from=project-issue)|discussion|sig-python-modules|[@yaqiangchen](https://gitee.com/yaqiangchen)|
