@@ -22,5 +22,5 @@
 |5|[openEuler 21.03 support DDE](https://gitee.com/openeuler/release-management/issues/I27TT4?from=project-issue)|discussion|sig-DDE|[@panchenbo](https://gitee.com/panchenbo)|
 |6|[openEuler 21.03 kernel update to version 5.10](https://gitee.com/openeuler/release-management/issues/I27YGU?from=project-issue)|discussion|sig-kernel|[@XieXiuQi](https://gitee.com/xiexiuqi)|
 |7|[openEuler 21.03 remove python 2 from release](https://gitee.com/openeuler/release-management/issues/I29EV9?from=project-issue)|discussion|sig-python-modules|[@yaqiangchen](https://gitee.com/yaqiangchen)|
-|8|[openEuler 21.03 support xfce](https://gitee.com/openeuler/release-management/issues/I29LTB?from=project-issue)|discussion|xfce|[@dillon_chen](https://gitee.com/dillon_chen)|
-|9|[openEuler 21.03 support GNOME](https://gitee.com/openeuler/release-management/issues/I29LTT?from=project-issue)|discussion|GNOME|[@dillon_chen](https://gitee.com/dillon_chen)|
+|8|[openEuler 21.03 support xfce 4.14](https://gitee.com/openeuler/release-management/issues/I29LTB?from=project-issue)|discussion|xfce|[@dillon_chen](https://gitee.com/dillon_chen)|
+|9|[openEuler 21.03 support GNOME 3.38.1](https://gitee.com/openeuler/release-management/issues/I29LTT?from=project-issue)|discussion|GNOME|[@dillon_chen](https://gitee.com/dillon_chen)|
