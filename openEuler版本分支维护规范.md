@@ -1,4 +1,5 @@
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1219/202227_8b162406_5603730.png "openEuler-branch-specification.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1219/202613_8dbe83a5_5603730.png "openEuler-branch-specification.PNG")
+
 openEuler社区的本着广泛合作，持续创新，包容并举的愿景，与所有开源软件世界的开发者共同持续打造稳定、创新的开源软件平台，构建支持多处理器架构、统一和开放的操作系统openEuler，推动软硬件生态繁荣发展。
 在基于以上开源开放的理念的同时， openEuler遵从开源软件及版本分支管理规范，对每个版本分支确定明确且清晰的规范策略，本文档作为社区维护人员介绍现有的openEuler社区各个分支中的软件包维护策略。如果有任何疑问或者需要澄清的地方，请您提交issue到[release-management SIG](https://gitee.com/openeuler/release-management/issues)中进行讨论。
 
