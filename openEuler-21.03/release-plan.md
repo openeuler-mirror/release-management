@@ -28,3 +28,4 @@
 |12|[openEuler 21.03 support replace vender info](https://gitee.com/openeuler/release-management/issues/I2C2JJ?from=project-issue)|discussion|Builder|[@t.feng](https://gitee.com/t.feng)|
 |13|[openEuler 21.03 support nvwa](https://gitee.com/openeuler/release-management/issues/I2B057?from=project-issue)|discussion|sig-ops|[@EulerOSWander](https://gitee.com/EulerOSWander)|
 |14|[openEuler 21.03 support secGear](https://gitee.com/openeuler/release-management/issues/I2B0KY?from=project-issue)|discussion|sig-confidential-computing|[@chenmaodong](https://gitee.com/chenmaodong)|
+|15|[openEuler 21.03 support RaspberryPi](https://gitee.com/openeuler/release-management/issues/I2CVE3)|discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|
