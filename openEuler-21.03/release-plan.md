@@ -24,6 +24,7 @@
 |7|[openEuler 21.03 remove python 2 from release](https://gitee.com/openeuler/release-management/issues/I29EV9?from=project-issue)|discussion|sig-python-modules|[@yaqiangchen](https://gitee.com/yaqiangchen)|
 |8|[openEuler 21.03 support xfce 4.14](https://gitee.com/openeuler/release-management/issues/I29LTB?from=project-issue)|discussion|xfce|[@dillon_chen](https://gitee.com/dillon_chen)|
 |9|[openEuler 21.03 support GNOME 3.38.1](https://gitee.com/openeuler/release-management/issues/I29LTT?from=project-issue)|discussion|GNOME|[@dillon_chen](https://gitee.com/dillon_chen)|
+|10|[openEuler 21.03 Increase the dependency library of ROS-base](https://gitee.com/openeuler/release-management/issues/I2D19V?from=project-issue)|discussion|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu)|
 |11|[openEuler 21.03 support memig](https://gitee.com/openeuler/release-management/issues/I2C2NY?from=project-issue)|discussion|memig|[@liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
 |12|[openEuler 21.03 support replace vender info](https://gitee.com/openeuler/release-management/issues/I2C2JJ?from=project-issue)|discussion|Builder|[@t.feng](https://gitee.com/t.feng)|
 |13|[openEuler 21.03 support nvwa](https://gitee.com/openeuler/release-management/issues/I2B057?from=project-issue)|discussion|sig-ops|[@EulerOSWander](https://gitee.com/EulerOSWander)|
