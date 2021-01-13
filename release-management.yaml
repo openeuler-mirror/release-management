@@ -9,7 +9,7 @@ release:
   - yumin_jiang
 release:
 - branch: openEuler-20.03-LTS-SP1
-  frozen: true
+  frozen: false
   owner:
   - solarhu
   - yaqiangchen
