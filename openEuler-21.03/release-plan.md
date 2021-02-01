@@ -33,3 +33,4 @@
 |16|[openEuler 21.03 support UKUI](https://gitee.com/openeuler/release-management/issues/I2E61C)|discussion|sig-UKUI|[@dou33](https://gitee.com/dou33)|
 |17|[openEuler 21.03 support HA](https://gitee.com/openeuler/release-management/issues/I2E5R3?from=project-issue)|discussion|sig-HA|[@yangzhao_kl](https://gitee.com/yangzhao_kl)|
 |18|[openEuler 21.03 support StratoVirt microvm image](https://gitee.com/openeuler/release-management/issues/I2P83D?from=project-issue)|discussion|sig-virt|[@alexchen](https://gitee.com/zhendongchen)|
+|20|[openEuler 21.03 support KubeSphere](https://gitee.com/openeuler/release-management/issues/I34L4L)|discussion|sig-kubesphere|[@feynmanzhou](https://gitee.com/feynmanzhou)|
