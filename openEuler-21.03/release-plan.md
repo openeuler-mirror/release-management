@@ -35,3 +35,5 @@
 |18|[openEuler 21.03 support StratoVirt microvm image](https://gitee.com/openeuler/release-management/issues/I2P83D?from=project-issue)|discussion|sig-virt|[@alexchen](https://gitee.com/zhendongchen)|
 |19|[openEuler 21.03 support Kubernetes](https://gitee.com/openeuler/release-management/issues/I2CMA0?from=project-issue)|discussion|sig-cloudnative|[@jingxiaolu](https://gitee.com/jingxiaolu)|
 |20|[openEuler 21.03 support KubeSphere](https://gitee.com/openeuler/release-management/issues/I34L4L)|discussion|sig-kubesphere|[@feynmanzhou](https://gitee.com/feynmanzhou)|
+|21|[openEuler 21.03 update SPDK](https://gitee.com/openeuler/release-management/issues/I35A62)|discussion|Storage|[@liuzhiqiang](https://gitee.com/liuzhiqiang26)|
+|22|[openEuler 21.03 update some software](https://gitee.com/openeuler/release-management/issues/I35BTA)|discussion|release-management|[@chenyaqiang](https://gitee.com/yaqiangchen)|
