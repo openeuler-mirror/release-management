@@ -18,23 +18,30 @@ conference time: BiWednesday 9:30~11:30 a.m (GMT+8)，please subscribe to the [r
 You can find [Release management SIG meeting minutes](https://gitee.com/openeuler/release-management/wikis) at the openEuler wiki site as well as posted to the link:release@openeuler.org mail list after each meeting.
 
 ## Release managerment SIG member
-**Maintainer: **
-- Jiang Zhenhua [@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang)
-- Jiang Yuming  [@yuming_jiang](https://gitee.com/yuming_jiang)
-- Hu Feng [@solarhu](https://gitee.com/solarhu)
-- Zhu Yanpeng [@zyp-rock](https://gitee.com/zyp-rock)
-- Chen Yaqiang [@chenyaqiang](https://gitee.com/chenyaqiang)
+** Maintainer: **
+|   Name |GiteeID| Email   |
+|----------|--------------|------------|
+|Jiang Zhenhua| [@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang) | zhenghua.jiang@huawei.com|
+|Jiang Yuming|  [@yuming_jiang](https://gitee.com/yuming_jiang)  |jiangyumin@huawei.com|
+|Hu Feng| [@solarhu](https://gitee.com/solarhu) | solar.hu@huawei.com|
+| Zhu Yanpeng| [@zyp-rock](https://gitee.com/zyp-rock) | zhuyanpeng@huawei.com|
+| Chen Yaqiang| [@chenyaqiang](https://gitee.com/chenyaqiang) | chen_yaqiang@foxmail.com|
+| Xu Xiaosong| [@xxiaosong](https://gitee.com/xxiaosong) | xuxiaosong@huawei.com|
 
-**Extended member: **
-- Liu Bo [@boliurise](https://gitee.com/boliurise)
-- Ming Pei [@dolphin-m](https://gitee.com/dolphin-m)
-- Zhang Wei [@hwzw](https://gitee.com/hwzw)
-- Li Yongqiang [@Charlie_li](https://gitee.com/Charlie_li)
+**Commiter member: **
+|   Name |GiteeID| Email   |
+|----------|--------------|------------|
+|Wang Xun| |dream.wang@huawei.com|
+| Liu Bo| [@boliurise](https://gitee.com/boliurise)  |liubo79@huawei.com|
+| Ming Pei |[@dolphin-m](https://gitee.com/dolphin-m)  |mingpei@huawei.com|
+| Zhang Wei| [@hwzw](https://gitee.com/hwzw)  |zw.zhang@huawei.com|
+| Li Yongqiang| [@Charlie_li](https://gitee.com/Charlie_li) | liyongqiang@huawei.com|
 
 ## Contact information
 
-Mail List：release@openeuler.org
-
+| sig ID| Gitee weblink           | Email  |
+| :-------------: |:--------:| :-----|
+|release-management|[release-management](https://gitee.com/openeuler/release-management/)|release@openeuler.org|
 
 
 ## Release management SIG information

@@ -18,21 +18,28 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 
 ## 成员
 **Maintainer：**
-- 姜振华 [@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang)
-- 江裕民[@yuming_jiang](https://gitee.com/yuming_jiang)
-- 胡峰 [@solarhu](https://gitee.com/solarhu)
-- 朱延朋 [@zyp-rock](https://gitee.com/zyp-rock)
-- 陈亚强 [@chenyaqiang](https://gitee.com/chenyaqiang)
+| 姓名| GiteeID           | 邮件地址  |
+| :-------------: |:--------:| :-----|
+|姜振华| [@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang) |zhenghua.jiang@huawei.com|
+|江裕民| [@yuming_jiang](https://gitee.com/yuming_jiang)  |jiangyumin@huawei.com|
+|胡峰 | [@solarhu](https://gitee.com/solarhu)| solar.hu@huawei.com|
+|朱延朋  | [@zyp-rock](https://gitee.com/zyp-rock)|  zhuyanpeng@huawei.com|
+|陈亚强  | [@chenyaqiang](https://gitee.com/chenyaqiang)|  chen_yaqiang@foxmail.com|
+|许小松  | [@xxiaosong](https://gitee.com/xxiaosong)|  xuxiaosong@huawei.com| 
 
-**扩展成员：**
-- 刘博 [@boliurise](https://gitee.com/boliurise)
-- 明沛 [@dolphin-m](https://gitee.com/dolphin-m)
-- 张伟 [@hwzw](https://gitee.com/hwzw)
-- 李永强 [@Charlie_li](https://gitee.com/Charlie_li)
+**Commiter:**
+| 姓名| GiteeID           | 邮件地址  |
+| :-------------: |:--------:| :-----|
+|王勋| |dream.wang@huawei.com|
+|刘博| [@boliurise](https://gitee.com/boliurise) | liubo79@huawei.com|
+|明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
+|张伟| [@hwzw](https://gitee.com/hwzw) | zw.zhang@huawei.com|
+|李永强| [@Charlie_li](https://gitee.com/Charlie_li) | liyongqiang@huawei.com|
 
 ## 联系方式
-
-邮箱列表：release@openeuler.org
+| sig ID| Gitee 访问链接           | 邮件地址  |
+| :-------------: |:--------:| :-----|
+|release-management|[release-management](https://gitee.com/openeuler/release-management/)|release@openeuler.org|
 
 
 
