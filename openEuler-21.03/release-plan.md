@@ -37,3 +37,4 @@
 |20|[openEuler 21.03 support KubeSphere](https://gitee.com/openeuler/release-management/issues/I34L4L)|discussion|sig-kubesphere|[@feynmanzhou](https://gitee.com/feynmanzhou)|
 |21|[openEuler 21.03 update SPDK](https://gitee.com/openeuler/release-management/issues/I35A62)|discussion|Storage|[@liuzhiqiang](https://gitee.com/liuzhiqiang26)|
 |22|[openEuler 21.03 update some software](https://gitee.com/openeuler/release-management/issues/I35BTA)|discussion|release-management|[@chenyaqiang](https://gitee.com/yaqiangchen)|
+|23|[openEuler 21.03 slim container base image](https://gitee.com/openeuler/release-management/issues/I35D25)|discussion|sig-cloudnative|[@jingxiaolu](https://gitee.com/jingxiaolu)|
