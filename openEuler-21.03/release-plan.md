@@ -8,7 +8,7 @@
 |Build beta branch|2021-2-1|2022-2-22|
 |Beta test round 1|2021-2-24|2021-3-2|
 |Beta test round 2|2021-3-5|2021-3-11|
-|Beta test round 3|2021-3-15|2021-5-19|
+|Beta test round 3|2021-3-15|2021-3-19|
 |Beta test round 4|2021-3-22|2021-3-24|
 |release|2021-3-25|2021-3-26|
 
