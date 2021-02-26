@@ -16,7 +16,7 @@
 状态说明：discussion(方案讨论，需求未接受)，Reject(未纳入版本)，developing(开发中)，Testing(测试中)，Accepted(已验收)
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
-|1|[openEuler 21.03 support openStack](https://gitee.com/openeuler/release-management/issues/I25Y6B?from=project-issue)|developing|sig-openstack|[@joec88](https://gitee.com/joec88) [@liksh](https://gitee.com/liksh) |
+|1|[openEuler 21.03 support openStack](https://gitee.com/openeuler/release-management/issues/I25Y6B?from=project-issue)|Testing|sig-openstack|[@joec88](https://gitee.com/joec88) [@liksh](https://gitee.com/liksh) |
 |2|[openEuler 21.03 support virtualization live migration pro](https://gitee.com/openeuler/release-management/issues/I25ZB1?from=project-issue)|Testing|sig-virt|[@alexchen](https://gitee.com/zhendongchen)|
 |3|[openEuler 21.03 support StratoVirt function enhancement](https://gitee.com/openeuler/release-management/issues/I25ZH0?from=project-issue)|Testing|sig-virt|[@alexchen](https://gitee.com/zhendongchen)|
 |4|[openEuler 21.03 support Risc-v virt live migration](https://gitee.com/openeuler/release-management/issues/I25ZF1?from=project-issue)|Testing|sig-virt|[@alexchen](https://gitee.com/zhendongchen)|
