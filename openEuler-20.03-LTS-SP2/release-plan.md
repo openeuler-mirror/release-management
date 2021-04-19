@@ -25,3 +25,4 @@
 |1|[内核热升级](https://gitee.com/openeuler/release-management/issues/I3JDU8?from=project-issue)|Developing|ops|[anatas](https://gitee.com/anatas)|
 |2|[etmem](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Developing|etmem|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
 |3|[secGear](https://gitee.com/openeuler/release-management/issues/I3JE3U?from=project-issue)|Developing|sig-confidential-computing|[chenmaodong](https://gitee.com/chenmaodong)|
+|4|openEuler 20.03 LTS SP2 support OpenStack Rocky|discussion|sig-openstack|@joec88 @liksh @xiyuanwang @huangtianhua|
