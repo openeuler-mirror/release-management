@@ -51,3 +51,11 @@
 |27|[openEuler 20.03 LTS SP2支持金融领域软件包](https://gitee.com/openeuler/release-management/issues/I3N311?from=project-issue)|Developing|||
 |28|[openEuler 20.03 LTS SP2支持kmod功能](https://gitee.com/openeuler/release-management/issues/I3N30C?from=project-issue)|Developing|||
 |29|[openEuler 20.03 LTS SP2支持华为多路径](https://gitee.com/openeuler/release-management/issues/I3N2XS?from=project-issue)|Developing|||
+|30|[openEuler 20.03 LTS SP2 CPU核故障在线隔离解决方案](https://gitee.com/openeuler/release-management/issues/I3N36L?from=project-issue)|Developing|||
+|31|[openEuler 20.03 LTS SP2 支持多应用版本构建和发布](https://gitee.com/openeuler/release-management/issues/I3N36K?from=project-issue)|Developing|||
+|32|[openEuler 20.03 LTS SP2 内存UCE故障降级，用户数据保持一致，业务可持续运行](https://gitee.com/openeuler/release-management/issues/I3N36H?from=project-issue)|Developing|||
+|33|[openEuler 20.03 LTS SP2 故障预测框架](https://gitee.com/openeuler/release-management/issues/I3N36F?from=project-issue)|Developing|||
+|34|[openEuler 20.03 LTS SP2 IO_URING全栈使能](https://gitee.com/openeuler/release-management/issues/I3N36C?from=project-issue)|Developing|||
+|35|[openEuler 20.03 LTS SP2 Qemu：虚拟化可靠性和可维护性增强](https://gitee.com/openeuler/release-management/issues/I3N369?from=project-issue)|Developing|||
+|36|[openEuler 20.03 LTS SP2 Qemu：热迁移pro，提升热迁移性能+安全](https://gitee.com/openeuler/release-management/issues/I3N368?from=project-issue)|Developing|||
+|37|[openEuler 20.03 LTS SP2支持StratoVirt：下一代轻量化虚拟化平台](https://gitee.com/openeuler/release-management/issues/I3N364?from=project-issue)|Developing|||
