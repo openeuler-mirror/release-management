@@ -23,7 +23,7 @@
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |1|[内核热升级](https://gitee.com/openeuler/release-management/issues/I3JDU8?from=project-issue)|Developing|ops|[anatas](https://gitee.com/anatas)|
-|2|[etmem](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Developing|etmem|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
+|2|[etmem](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Developing|storage|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
 |3|[secGear](https://gitee.com/openeuler/release-management/issues/I3JE3U?from=project-issue)|Developing|sig-confidential-computing|[chenmaodong](https://gitee.com/chenmaodong)|
 |4|openEuler 20.03 LTS SP2 support OpenStack Rocky|discussion|sig-openstack|@joec88 @liksh @xiyuanwang @huangtianhua|
 |5|[openEuler 20.03 LTS SP2支持osinfo软件包](https://gitee.com/openeuler/release-management/issues/I3N30H?from=project-issue)|Developing|||
@@ -38,7 +38,7 @@
 |14|[openEuler 20.03 LTS SP2支持maildrop和proftpd](https://gitee.com/openeuler/release-management/issues/I3N30X?from=project-issue)|Developing|||
 |15|[openEuler 20.03 LTS SP2支持 iSulad 2.0](https://gitee.com/openeuler/release-management/issues/I3N312?from=project-issue)|Developing|||
 |16|[openEuler 20.03 LTS SP2 A-tune 2.0](https://gitee.com/openeuler/release-management/issues/I3N314?from=project-issue)|Developing|||
-|17|[openEuler 20.03 LTS SP2 支持小型化OS](https://gitee.com/openeuler/release-management/issues/I3N315?from=project-issue)|Developing|||
+|17|[openEuler 20.03 LTS SP2 支持网络安装](https://gitee.com/openeuler/release-management/issues/I3N315?from=project-issue)|Developing|||
 |18|[openEuler 20.03 LTS SP2 支持 criu组件](https://gitee.com/openeuler/release-management/issues/I3N319?from=project-issue)|Developing|||
 |19|[openEuler 20.03 LTS SP2支持config_acpi_nfit](https://gitee.com/openeuler/release-management/issues/I3N31B?from=project-issue)|Developing|||
 |20|[openEuler 20.03 LTS SP2 虚拟化增强](https://gitee.com/openeuler/release-management/issues/I3N31E?from=project-issue)|Developing|||
