@@ -59,3 +59,5 @@
 |35|[openEuler 20.03 LTS SP2 Qemu：虚拟化可靠性和可维护性增强](https://gitee.com/openeuler/release-management/issues/I3N369?from=project-issue)|Developing|||
 |36|[openEuler 20.03 LTS SP2 Qemu：热迁移pro，提升热迁移性能+安全](https://gitee.com/openeuler/release-management/issues/I3N368?from=project-issue)|Developing|||
 |37|[openEuler 20.03 LTS SP2支持StratoVirt：下一代轻量化虚拟化平台](https://gitee.com/openeuler/release-management/issues/I3N364?from=project-issue)|Developing|||
+|38|[【openEuler 20.03 LTS SP2】继承xfce 4.14](https://gitee.com/openeuler/release-management/issues/I3NC3I?from=project-issue)|Discussion|xfce|[@dillon_chen](https://gitee.com/dillon_chen)|
+|39|[【openEuler 20.03 LTS SP2】继承Kubernetes 1.18](https://gitee.com/openeuler/release-management/issues/I3NC5H?from=project-issue)|Discussion|sig-cloudnative|[@jingxiaolu](https://gitee.com/jingxiaolu)|
