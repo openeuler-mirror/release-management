@@ -61,3 +61,5 @@
 |37|[openEuler 20.03 LTS SP2支持StratoVirt：下一代轻量化虚拟化平台](https://gitee.com/openeuler/release-management/issues/I3N364?from=project-issue)|Developing|||
 |38|[【openEuler 20.03 LTS SP2】继承xfce 4.14](https://gitee.com/openeuler/release-management/issues/I3NC3I?from=project-issue)|Discussion|xfce|[@dillon_chen](https://gitee.com/dillon_chen)|
 |39|[【openEuler 20.03 LTS SP2】继承Kubernetes 1.18](https://gitee.com/openeuler/release-management/issues/I3NC5H?from=project-issue)|Discussion|sig-cloudnative|[@jingxiaolu](https://gitee.com/jingxiaolu)|
+|40|[【openEuler 20.03 LTS SP2】继承pkgship](https://gitee.com/openeuler/release-management/issues/I3O070?from=project-issue)|Discussion|||
+|41|[【openEuler 20.03 LTS SP2】继承门禁检查功能](https://gitee.com/openeuler/release-management/issues/I3O08F?from=project-issue)|Discussion|||
