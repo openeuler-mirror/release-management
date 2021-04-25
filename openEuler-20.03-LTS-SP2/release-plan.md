@@ -22,9 +22,9 @@
 
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
-|1|[内核热升级](https://gitee.com/openeuler/release-management/issues/I3JDU8?from=project-issue)|Developing|ops|[anatas](https://gitee.com/anatas)|
-|2|[etmem](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Developing|storage|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
-|3|[secGear](https://gitee.com/openeuler/release-management/issues/I3JE3U?from=project-issue)|Developing|sig-confidential-computing|[chenmaodong](https://gitee.com/chenmaodong)|
+|1|[openEuler 20.03-LTS-SP2版本支持内核热升级](https://gitee.com/openeuler/release-management/issues/I3JDU8?from=project-issue)|Developing|ops|[anatas](https://gitee.com/anatas)|
+|2|[openEuler 20.03-LTS-SP2支持内存分级扩展特性](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Developing|storage|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
+|3|[openEuler 20.03-LTS-SP2版本集成secgear组件](https://gitee.com/openeuler/release-management/issues/I3JE3U?from=project-issue)|Developing|sig-confidential-computing|[chenmaodong](https://gitee.com/chenmaodong)|
 |4|openEuler 20.03 LTS SP2 support OpenStack Rocky|discussion|sig-openstack|@joec88 @liksh @xiyuanwang @huangtianhua|
 |5|[openEuler 20.03 LTS SP2支持osinfo软件包](https://gitee.com/openeuler/release-management/issues/I3N30H?from=project-issue)|Developing|||
 |6|[openEuler 20.03 LTS SP2开源openEuler-rpm-config宏定义文件](https://gitee.com/openeuler/release-management/issues/I3N30J?from=project-issue)|Developing|||
@@ -63,3 +63,10 @@
 |39|[【openEuler 20.03 LTS SP2】继承Kubernetes 1.18](https://gitee.com/openeuler/release-management/issues/I3NC5H?from=project-issue)|Discussion|sig-cloudnative|[@jingxiaolu](https://gitee.com/jingxiaolu)|
 |40|[【openEuler 20.03 LTS SP2】继承pkgship](https://gitee.com/openeuler/release-management/issues/I3O070?from=project-issue)|Discussion|||
 |41|[【openEuler 20.03 LTS SP2】继承门禁检查功能](https://gitee.com/openeuler/release-management/issues/I3O08F?from=project-issue)|Discussion|||
+|42|[openEuler 20.03-LTS-SP2 集成 kubernetes 及其依赖组件](https://gitee.com/openeuler/release-management/issues/I2BHF4?from=project-issue)|Discussion|||
+|43|[openEuler 20.03-LTS-SP2 arm虚拟机支持NMI watchdog](https://gitee.com/openeuler/release-management/issues/I2B4WL?from=project-issue)|Discussion|||
+|44|[openEuler 20.03-LTS-SP2 集成 coredns 及其依赖组件](https://gitee.com/openeuler/release-management/issues/I3MXLJ?from=project-issue)|Discussion|||
+|45|[【openEuler 20.03 LTS SP2】虚拟机热迁移支持TLS](https://gitee.com/openeuler/release-management/issues/I3IE57?from=project-issue)|Discussion|||
+|46|[【kernel-4.19】openEuler kernel nvme 驱动增强](https://gitee.com/openeuler/release-management/issues/I1WGZE?from=project-issue)|Discussion|||
+|47|[openEuler 20.03-LTS-SP2 集成 etcd 及其依赖组件](https://gitee.com/openeuler/release-management/issues/I3MXGJ?from=project-issue)|Discussion|||
+|48|[【openEuler 20.03 LTS SP2】【虚拟化】回合openEuler 21.03，vmtop支持x86](https://gitee.com/openeuler/release-management/issues/I3NLWF?from=project-issue)|Discussion|||
