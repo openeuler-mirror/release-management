@@ -21,7 +21,7 @@
 
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
-|1|[openEuler 20.03-LTS-SP2版本支持内核热升级](https://gitee.com/openeuler/release-management/issues/I3JDU8?from=project-issue)|Developing|ops|[anatas](https://gitee.com/anatas)|
+|1|[【openEuler 20.03 LTS SP2】【虚拟化】回合openEuler 21.03，vmtop支持x86](https://gitee.com/openeuler/release-management/issues/I3NLWF?from=project-issue)|Discussion|||
 |2|[openEuler 20.03-LTS-SP2支持内存分级扩展特性](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Developing|storage|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
 |3|[openEuler 20.03-LTS-SP2版本集成secgear组件](https://gitee.com/openeuler/release-management/issues/I3JE3U?from=project-issue)|Developing|sig-confidential-computing|[chenmaodong](https://gitee.com/chenmaodong)|
 |4|openEuler 20.03 LTS SP2 support OpenStack Rocky|discussion|sig-openstack|@joec88 @liksh @xiyuanwang @huangtianhua|
@@ -42,14 +42,14 @@
 |19|[openEuler 20.03 LTS SP2支持config_acpi_nfit](https://gitee.com/openeuler/release-management/issues/I3N31B?from=project-issue)|Developing|||
 |20|[openEuler 20.03 LTS SP2 虚拟化增强](https://gitee.com/openeuler/release-management/issues/I3N31E?from=project-issue)|Developing|||
 |21|[openEuler 20.03 LTS SP2 支持 UKUI桌面](https://gitee.com/openeuler/release-management/issues/I3N31F?from=project-issue)|Developing|||
-|22|[openEuler 20.03 LTS SP2 支持openGauss](https://gitee.com/openeuler/release-management/issues/I3N31I?from=project-issue)|Developing|||
+|22|[openEuler 20.03 LTS SP2 支持openGauss](https://gitee.com/openeuler/release-management/issues/I3N31I?from=project-issue)|Discussion|||
 |23|[openEuler 20.03 LTS SP2 支持DDE桌面](https://gitee.com/openeuler/release-management/issues/I3N31J?from=project-issue)|Developing|||
 |24|[openEuler 20.03 LTS SP2 编译器支持openjdk](https://gitee.com/openeuler/release-management/issues/I3N31M?from=project-issue)|Developing|||
 |25|[openEuler 20.03 LTS SP2支持HA](https://gitee.com/openeuler/release-management/issues/I3N31O?from=project-issue)|Developing|||
 |26|[openEuler 20.03 LTS SP2 加速库版本同步](https://gitee.com/openeuler/release-management/issues/I3N31Q?from=project-issue)|Developing|||
 |27|[openEuler 20.03 LTS SP2支持金融领域软件包](https://gitee.com/openeuler/release-management/issues/I3N311?from=project-issue)|Developing|||
 |28|[openEuler 20.03 LTS SP2支持kmod功能](https://gitee.com/openeuler/release-management/issues/I3N30C?from=project-issue)|Developing|||
-|29|[openEuler 20.03 LTS SP2支持华为多路径](https://gitee.com/openeuler/release-management/issues/I3N2XS?from=project-issue)|Developing|||
+|29|[openEuler 20.03 LTS SP2支持华为多路径](https://gitee.com/openeuler/release-management/issues/I3N2XS?from=project-issue)|Discussion|||
 |30|[openEuler 20.03 LTS SP2 CPU核故障在线隔离解决方案](https://gitee.com/openeuler/release-management/issues/I3N36L?from=project-issue)|Developing|||
 |31|[openEuler 20.03 LTS SP2 支持多应用版本构建和发布](https://gitee.com/openeuler/release-management/issues/I3N36K?from=project-issue)|Developing|||
 |32|[openEuler 20.03 LTS SP2 内存UCE故障降级，用户数据保持一致，业务可持续运行](https://gitee.com/openeuler/release-management/issues/I3N36H?from=project-issue)|Developing|||
@@ -67,4 +67,3 @@
 |44|[【openEuler 20.03 LTS SP2】虚拟机热迁移支持TLS](https://gitee.com/openeuler/release-management/issues/I3IE57?from=project-issue)|Discussion|||
 |45|[【kernel-4.19】openEuler kernel nvme 驱动增强](https://gitee.com/openeuler/release-management/issues/I1WGZE?from=project-issue)|Discussion|||
 |46|[openEuler 20.03-LTS-SP2 集成 etcd 及其依赖组件](https://gitee.com/openeuler/release-management/issues/I3MXGJ?from=project-issue)|Discussion|||
-|47|[【openEuler 20.03 LTS SP2】【虚拟化】回合openEuler 21.03，vmtop支持x86](https://gitee.com/openeuler/release-management/issues/I3NLWF?from=project-issue)|Discussion|||
