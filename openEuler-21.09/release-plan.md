@@ -21,4 +21,4 @@
 
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
-||||||
+| [#I3U85C](https://gitee.com/openeuler/release-management/issues/I3U85C) | 【openEuler 21.09】GCC升级到10.3.0版本 | Developing | Compiler | [@Haijian.Zhang](https://gitee.com/open_euler/dashboard/members/haijianzhang) ,[@eastb233](https://gitee.com/open_euler/dashboard/members/eastb233) |
