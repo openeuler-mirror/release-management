@@ -20,4 +20,12 @@ release:
   - jdkboy
   - xiexiuqi
   - openeuler-basic
+release:
+- branch: openEuler-20.03-LTS-SP2
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - small_leek
+  - xuxiaosong
 
