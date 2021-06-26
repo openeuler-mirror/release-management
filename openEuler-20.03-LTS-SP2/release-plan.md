@@ -24,7 +24,7 @@
 |1|[【openEuler 20.03 LTS SP2】【虚拟化】回合openEuler 21.03，vmtop支持x86](https://gitee.com/openeuler/release-management/issues/I3NLWF?from=project-issue)|Accepted|virt|@alexchen|
 |2|[openEuler 20.03-LTS-SP2支持内存分级扩展特性](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Accepted|storage|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
 |3|[openEuler 20.03-LTS-SP2版本集成secgear组件](https://gitee.com/openeuler/release-management/issues/I3JE3U?from=project-issue)|Accepted|sig-confidential-computing|[chenmaodong](https://gitee.com/chenmaodong)|
-|4|openEuler 20.03 LTS SP2 support OpenStack Rocky|Accepted|sig-openstack|@joec88 @liksh @xiyuanwang @huangtianhua|
+|4|openEuler 20.03 LTS SP2 supports OpenStack Rocky and Queens|Accepted|sig-openstack|[joec88](https://gitee.com/joec88) [zh-f](https://gitee.com/zh-f) [huangtianhua](https://gitee.com/huangtianhua) [xiyuanwang](https://gitee.com/xiyuanwang) [liksh](https://gitee.com/liksh) [zhangy1317](https://gitee.com/zhangy1317) [sean-lau](https://gitee.com/sean-lau)|
 |5|[openEuler 20.03 LTS SP2支持osinfo软件包](https://gitee.com/openeuler/release-management/issues/I3N30H?from=project-issue)|Accepted|packaging|	@solarhu|
 |6|[openEuler 20.03 LTS SP2开源openEuler-rpm-config宏定义文件](https://gitee.com/openeuler/release-management/issues/I3N30J?from=project-issue)|Accepted|Base-service|@overweight|
 |7|[openEuler 20.03 LTS SP2 支持 compat-openssl10、libzip等](https://gitee.com/openeuler/release-management/issues/I3N30L?from=project-issue)|Accepted|packaging|@solarhu|
