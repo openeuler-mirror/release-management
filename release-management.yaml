@@ -22,7 +22,7 @@ release:
   - openeuler-basic
 release:
 - branch: openEuler-20.03-LTS-SP2
-  frozen: true
+  frozen: false
   owner:
   - solarhu
   - yaqiangchen
