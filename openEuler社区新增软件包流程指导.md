@@ -13,7 +13,7 @@
 - a) 开源软件**加入openEuler社区已有sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
 - PR示例：https://gitee.com/openeuler/community/pulls/975/files
 
--b) 开源软件**申请新的sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
+- b) 开源软件**申请新的sig组**，提交申请建仓PR，TC 及对应sig组review approve后既可自动创建gitee软件仓（CI脚本自动触发），同时CI脚本会自动触发在OBS的factory编译工程中创建预验证工程；
 - PR示例：https://gitee.com/openeuler/community/pulls/1251/files
 
 ## 二、代码上传到gitee社区
@@ -23,7 +23,7 @@
 
 ## 三、代码编译构建二进制RPM包（OBS构建工程）
 
-在第二步骤中新包在OBS的factor工程下编译成功且稳定后，就可以申请移仓到OBS mainline编译工程中来了，申请PR样例如下（openEuler社区是共主干开发，mainline是不受限新增包，编译成功稳定就可以申请加入mainline工程）
+在第二步骤中新包在OBS的factory工程下编译成功且稳定后，就可以申请移仓到OBS mainline编译工程中来了，申请PR样例如下（openEuler社区是共主干开发，mainline是不受限新增包，编译成功稳定就可以申请加入mainline工程）
 
 
 - PR示例：https://gitee.com/src-openeuler/obs_meta/pulls/388/files
@@ -36,7 +36,7 @@
 - 【PR样例】https://gitee.com/src-openeuler/mkeuleros/pulls/91
  
 
-## 五、提交需求，申请新增软件包纳入relase发布版本ISO中正式对外发布
+## 五、提交需求，申请新增软件包纳入release发布版本ISO中正式对外发布
 申请该包被纳入各个版本正式release发布的ISO交付件构建列表中，需要在版本分支拉出来之前的需求收集阶段，提需求给release sig，根据openEuler社区质量要求、版本需求接纳原则来评审；
 
 ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM包规模），全量ISO（everything ISO,大约10000+ 二进制RPM包）。
@@ -46,7 +46,7 @@ ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM�
  
 
 ## 六、release版本ISO中参与版本编译、构建申请（OBS/jenkins工程）
-需求纳入relase版本后，提交PR申请该包纳入release 分支对应的OBS和jenkins编译构建交付件列表
+需求纳入release版本后，提交PR申请该包纳入release 分支对应的OBS和jenkins编译构建交付件列表
 
 【OBS编译工程PR申请样例】
 
