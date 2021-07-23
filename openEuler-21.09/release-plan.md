@@ -29,3 +29,4 @@
 | [#I41F61](https://gitee.com/openeuler/release-management/issues/I41F61) | [openEuler 21.09]eggo：一键式、轻量化、可配置集群部署，支撑中移动X86/ARM双平面解决方案| Developing | SIG-CloudNative | [@jingwoo](https://gitee.com/jingwoo) |
 | [#I41F5Z](https://gitee.com/openeuler/release-management/issues/I41F5Z) | [openEuler 21.09]kubOS：运行内存消耗<150M,重启时间<15s；| Developing | SIG-CloudNative | [@radeon92](https://gitee.com/radeon92) |
 | [#I41F5A](https://gitee.com/openeuler/release-management/issues/I41F5A) | [openEuler 21.09]内存分级扩展框架增强，新增用户态swap及策略框架，性能降低<15%| Developing | SIG-Storage  | [@whoisxxx](https://gitee.com/whoisxxx) |
+| [#I427HO](https://gitee.com/openeuler/release-management/issues/I427HO) | [openEuler 21.09] openEuler 21.09 支持 OpenResty 1.19.3.1 | Developing | SIG-OpenResty | [@Joey](https://gitee.com/imjoey) [@fukiki](https://gitee.com/fukiki) [@fuchangjie](https://gitee.com/fu_changjie) [@Jacean](https://gitee.com/Jacean) |
