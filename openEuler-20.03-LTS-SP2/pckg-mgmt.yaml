@@ -17934,12 +17934,6 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
-  - name: python-passlib
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
   - name: nodejs-util-deprecate
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -18091,12 +18085,6 @@ packages:
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
   - name: nodejs-sinon
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
-  - name: python-lazy-object-proxy
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
     obs_from: openEuler:20.03:LTS:Next:Epol
@@ -19531,12 +19519,6 @@ packages:
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
   - name: hunspell-dsb
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
-  - name: python-isort
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
     obs_from: openEuler:20.03:LTS:Next:Epol
@@ -21726,12 +21708,6 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
-  - name: perl-Sub-Info
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
   - name: rubygem-typhoeus
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -22315,12 +22291,6 @@ packages:
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
   - name: thunar-media-tags-plugin
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
-  - name: geoclue2
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
     obs_from: openEuler:20.03:LTS:Next:Epol
@@ -22944,12 +22914,6 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
-  - name: python-WSGIProxy2
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
   - name: nodejs-es6-iterator
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -23473,12 +23437,6 @@ packages:
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-06-17-15-09-21
   - name: nodejs-boom
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
-  - name: perl-Test-Warn
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
     obs_from: openEuler:20.03:LTS:Next:Epol
