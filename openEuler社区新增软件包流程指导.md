@@ -1,3 +1,11 @@
+
+openEuler社区软件包引入到各版本分支原则
+1、软件包引入master保护分支，通过tc委员会及对应sig组review、approve即可；
+2、软件包从master分支引入到openEuler其他保护分支，需通过tc委员会、对应sig组、以及release managerment sig集体review、approve后可集成到对应版本分支中；
+
+下图简要介绍具体操作流程
+！[软件包分支变更权限控制](https://gitee.com/yaqiangchen/release-management/blob/master/Pictures/pckg-mgmt.png)
+
 ## 一、创建新软件仓库
 
 新建软件仓库分为两种：新建**原创软件** upstream开源仓库，新引入**其他开源社区开源软件**源码仓库。
@@ -48,9 +56,9 @@ ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM�
 ## 六、release版本ISO中参与版本编译、构建申请（OBS/jenkins工程）
 需求纳入release版本后，提交PR申请该包纳入release 分支对应的OBS和jenkins编译构建交付件列表
 
-【OBS编译工程PR申请样例】
+【openEuler分支中软件包增删PR申请样例】
 
-- PR样例：https://gitee.com/src-openeuler/obs_meta/pulls/135/files
+- PR样例：https://gitee.com/openeuler/release-management/pulls/108
 
 【jenkins构建工程PR申请样例】
 - PR样例： https://gitee.com/src-openeuler/mkeuleros/pulls/91
