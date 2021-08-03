@@ -1,12 +1,16 @@
 release:
 - branch: master
-  frozen: false
+  frozen: true
   owner:
   - solarhu
   - yaqiangchen
   - Ronnie_Jiang
   - zyp-rock
-  - yumin_jiang
+  - small_leek
+  - Paul_Huang
+  - imxcc 
+  - gatieme 
+  - xuxiaosong
 release:
 - branch: openEuler-21.03
   frozen: false
