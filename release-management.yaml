@@ -1,5 +1,7 @@
 release:
 - branch: master
+  community:
+  - src-openeuler
   frozen: true
   owner:
   - solarhu
@@ -12,6 +14,8 @@ release:
   - gatieme 
   - xuxiaosong
 - branch: openEuler-21.03
+  community:
+  - src-openeuler
   frozen: false
   owner:
   - solarhu
@@ -24,6 +28,8 @@ release:
   - xiexiuqi
   - openeuler-basic
 - branch: openEuler-20.03-LTS-SP2
+  community:
+  - src-openeuler
   frozen: false
   owner:
   - solarhu
