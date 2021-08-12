@@ -11820,6 +11820,12 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-11-09-47-43
+  - name: eggo
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-12-14-57-43
   - name: hunspell-cop
     branch_from: master
     branch_to: openEuler-21.09
