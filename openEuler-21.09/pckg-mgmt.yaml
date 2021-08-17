@@ -495,8 +495,8 @@ packages:
   - name: cufflinks
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-47-43
   - name: bsh
     branch_from: master
@@ -2613,8 +2613,8 @@ packages:
   - name: nv-codec-headers
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-47-43
   - name: perl-Package-Constants
     branch_from: master
@@ -3027,8 +3027,8 @@ packages:
   - name: flatbuffers
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-47-43
   - name: nodejs-maxmin
     branch_from: master
@@ -6795,8 +6795,8 @@ packages:
   - name: ffmpeg
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-47-43
   - name: nodejs-hosted-git-info
     branch_from: master
@@ -11181,8 +11181,8 @@ packages:
   - name: libass
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-47-43
   - name: hyphen-id
     branch_from: master
@@ -19665,8 +19665,8 @@ packages:
   - name: flume
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-47-43
   - name: xinetd
     branch_from: master
