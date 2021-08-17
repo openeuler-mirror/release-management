@@ -1,8 +1,22 @@
 release:
+- branch: openEuler-21.09
+  community:
+  - src-openeuler
+  frozen: false
+  owner:
+  - solarhu
+  - yaqiangchen
+  - Ronnie_Jiang
+  - zyp-rock
+  - small_leek
+  - Paul_Huang
+  - imxcc 
+  - gatieme 
+  - xxiaosong
 - branch: master
   community:
   - src-openeuler
-  frozen: true
+  frozen: false
   owner:
   - solarhu
   - yaqiangchen
