@@ -24198,5 +24198,143 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-08-17-17-15-00
+  - name: jpegoptim
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: vo-amrwbenc
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: avro
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: canal
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: nexus
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: aom
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: gpdb
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: opencore-amr
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: python-jenkins
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: xvidcore
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: x264
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-18-18-15-00
+  - name: activemq
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: fish
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: log4cpp
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: mxml
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: ncbi-blast
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: python-josepy
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: python-kaitaistruct
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: python-posix_ipc
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: python-pyRFC3339
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: ranger
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: rinetd
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
+  - name: sundials
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-08-18-18-15-00
   recycle: []
   delete: []
