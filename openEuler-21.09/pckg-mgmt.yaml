@@ -25626,12 +25626,6 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-48-06
-  - name: deepin-manual
-    branch_from: master
-    branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-08-11-09-48-06
   - name: python-XStatic-jQuery
     branch_from: master
     branch_to: openEuler-21.09
@@ -28663,4 +28657,10 @@ packages:
     obs_to: openEuler:21.09:Epol
     date: 2021-08-11-09-48-06
   recycle: []
-  delete: []
+  delete: 
+  - name: deepin-manual
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-18-11-44-06
