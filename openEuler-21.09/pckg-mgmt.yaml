@@ -28882,13 +28882,13 @@ packages:
     branch_from: master
     branch_to: openEuler-21.09
     obs_from: openEuler:Mainline
-    obs_to: openEuler-21.09
+    obs_to: openEuler:21.09
     date: 2021-08-18-14-47-10
   - name: python-xcffib
     branch_from: master
     branch_to: openEuler-21.09
     obs_from: openEuler:Mainline
-    obs_to: openEuler-21.09
+    obs_to: openEuler:21.09
     date: 2021-08-18-14-47-10
   recycle: []
   delete: []
