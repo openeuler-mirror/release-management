@@ -25095,8 +25095,8 @@ packages:
   - name: python-typing-extensions
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: python-argon2-cffi
     branch_from: master
@@ -25449,8 +25449,8 @@ packages:
   - name: python-soupsieve
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: kf5-sonnet
     branch_from: master
@@ -27171,8 +27171,8 @@ packages:
   - name: python-mypy
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: simple-scan
     branch_from: master
@@ -27519,8 +27519,8 @@ packages:
   - name: python-mypy-extensions
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: python-oslo.i18n
     branch_from: master
@@ -27951,8 +27951,8 @@ packages:
   - name: python-typed-ast
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: python-pycadf
     branch_from: master
