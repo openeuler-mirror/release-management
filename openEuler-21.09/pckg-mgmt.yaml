@@ -7199,7 +7199,7 @@ packages:
     branch_to: openEuler-21.09
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
-    date: 2021-08-16-11-13-43  
+    date: 2021-08-16-11-13-43
   - name: python-nose2
     branch_from: master
     branch_to: openEuler-21.09
@@ -28974,5 +28974,155 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-18-14-47-10
+  - name: python-muranoclient
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: liberasurecode
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-persist-queue
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-senlinclient
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-ntc-templates
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-rbd-iscsi-client
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: openstack-swift
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-selenium
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-zunclient
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-zake
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-pact
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-setuptools-rust
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-20-03-51-27
+  - name: python-infinisdk
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: openstack-trove
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-sphinxcontrib-autoprogram
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-gnocchiclient
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-sushy-oem-idrac
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-os-api-ref
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-mitba
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-dfs-sdk
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-murano-pkg-check
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-pyeclib
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-suds-jurko
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-proboscis
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
+  - name: python-moto
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-20-03-51-27
   recycle: []
   delete: []
