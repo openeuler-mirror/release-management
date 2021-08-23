@@ -6774,6 +6774,12 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP2
     date: 2021-06-17-15-09-21
+  - name: python-pyasn1-modules
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-08-23-10-54-07
   - name: python-pytest-virtualenv
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
