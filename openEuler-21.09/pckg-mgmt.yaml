@@ -25335,8 +25335,8 @@ packages:
   - name: python-nocaselist
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: python-threadloop
     branch_from: master
@@ -26265,8 +26265,8 @@ packages:
   - name: python-pathlib2
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: python-pysnmp
     branch_from: master
@@ -27153,8 +27153,8 @@ packages:
   - name: python-nocasedict
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: python-mypy
     branch_from: master
@@ -28185,8 +28185,8 @@ packages:
   - name: python-yamlloader
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
     date: 2021-08-11-09-48-06
   - name: deepin-dbus-generator
     branch_from: master
