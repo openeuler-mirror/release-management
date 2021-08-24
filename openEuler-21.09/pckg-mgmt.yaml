@@ -11175,9 +11175,9 @@ packages:
   - name: libass
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-08-11-09-47-43
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-24-14-15-43
   - name: hyphen-id
     branch_from: master
     branch_to: openEuler-21.09
