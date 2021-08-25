@@ -26049,9 +26049,9 @@ packages:
   - name: python-memory-profiler
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-08-11-09-48-06
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-25-01-19-15
   - name: python-ConfigArgParse
     branch_from: master
     branch_to: openEuler-21.09
@@ -27471,9 +27471,9 @@ packages:
   - name: python-elementpath
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-08-11-09-48-06
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-25-01-19-15
   - name: deepin-reader
     branch_from: master
     branch_to: openEuler-21.09
@@ -28767,9 +28767,9 @@ packages:
   - name: python-xmlschema
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-08-17-09-13-10
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-25-01-19-15
   - name: python-xattr
     branch_from: master
     branch_to: openEuler-21.09
