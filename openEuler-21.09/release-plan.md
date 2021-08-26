@@ -37,3 +37,13 @@
 | [#I3VD4H](https://gitee.com/open_euler/dashboard?issue_id=I3VD4H) | 【openEuler 21.09】openEuler 21.09 支持HA| Developing |sig-HA|@yangzhao_kl|
 | [#I3VE7L](https://gitee.com/open_euler/dashboard?issue_id=I3VE7L) | 【openEuler 21.09】openEuler DDE版本升级| Developing |sig-DDE|@panchenbo|
 | [#I3VE7A](https://gitee.com/open_euler/dashboard?issue_id=I3VE7A) | 【openEuler 21.09】openEuler 21.09 DDE支持画板，截图，音乐和影院应用| Developing |sig-DDE|@panchenbo|
+| [#I41F6X](https://gitee.com/open_euler/dashboard?issue_id=I41F6X) | 【openEuler 21.09】Stratovirt 2.0支持最小集，支持联创项目|Developing |||
+| [#I3VCZG](https://gitee.com/open_euler/dashboard?issue_id=I3VCZG) | 【openEuler 21.09】openEuler 21.09 支持XFCE|Developing|xfce|@dillon_chen|
+| [#I41AUQ](https://gitee.com/open_euler/dashboard?issue_id=I41AUQ) | 【openEuler 21.09】 支持飞腾FT2500双路服务器|Developing|kernel|@xiexiuqi|
+| [#I3ZXKY](https://gitee.com/open_euler/dashboard?issue_id=I3ZXKY) | 【openEuler-21.09】memcg: enable memcg oom-kill for __GFP_NOFAIL|Developing |kernel|@xiexiuqi|
+| [#I40QDN](https://gitee.com/open_euler/dashboard?issue_id=I40QDN) | 【openEuler-21.09】支持兆芯处理器平台 |Developing|kernel|@xiexiuqi|
+| [#I3Z80Y](https://gitee.com/open_euler/dashboard?issue_id=I3Z80Y) | 【openEuler-21.09】arm64: Add config switch and kernel parameter for CPU0 hotplug |Developing|kernel|@xiexiuqi|
+| [#I3ZFV2](https://gitee.com/open_euler/dashboard?issue_id=I3ZFV2) | 【openEuler-21.09】 add options to tuning the prefetch prolicy for HIP08|Developing|kernel|@xiexiuqi|
+| [#I3ZX4D](https://gitee.com/open_euler/dashboard?issue_id=I3ZX4D) | 【openEuler-21.09】introduce qos scheduler for co-location|Developing|kernel|@xiexiuqi|
+| [#I3ZXKY](https://gitee.com/open_euler/dashboard?issue_id=I3ZXKY) | 【openEuler-21.09】memcg: enable memcg oom-kill for __GFP_NOFAIL|Developing|kernel|@xiexiuqi|
+| [#I3ZN72](https://gitee.com/open_euler/dashboard?issue_id=I3ZN72) | [openEuler-21.09] stnp 加速 clear_page|Developing|kernel|@xiexiuqi|
