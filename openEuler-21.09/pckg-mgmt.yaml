@@ -21630,6 +21630,84 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-11-09-47-43
+  - name: python-pytest-forked
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-14-56-50
+  - name: python-pytest-xdist
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-00-57
+  - name: python-pyvmomi
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-02-53
+  - name: python-sphinx-notfound-page
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-05-50
+  - name: python-straight-plugin
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-07-25
+  - name: python-gitlab
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-08-40
+  - name: python-winrm
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-10-59
+  - name: python-requests-ntlm
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-27-30
+  - name: python-ntlm-auth
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-28-13
+  - name: python-dateparser
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-15-31-28
+  - name: python-prometheus-api-client
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-15-33-15
+  - name: python-treelib
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-15-35-37
+  - name: python-regex
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-15-36-25
   - name: hive
     branch_from: master
     branch_to: openEuler-21.09
@@ -28761,9 +28839,9 @@ packages:
   - name: python-xmltodict
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-08-17-09-13-10
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-08-26-15-24-21
   - name: python-xmlschema
     branch_from: master
     branch_to: openEuler-21.09
