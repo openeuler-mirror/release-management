@@ -29274,6 +29274,12 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-08-25-17-30-00
+  - name: kubekey
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-10-45-00
   recycle: []
   delete:
   - name: deepin-manual
