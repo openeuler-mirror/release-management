@@ -29280,6 +29280,36 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-08-26-10-45-00
+  - name: openresty
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-10-45-00
+  - name: openresty-openssl111
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-10-45-00
+  - name: openresty-valgrind
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-10-45-00
+  - name: openresty-pcre
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-10-45-00
+  - name: openresty-zlib
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-26-10-45-00
   recycle: []
   delete:
   - name: deepin-manual
