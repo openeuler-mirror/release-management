@@ -4881,9 +4881,9 @@ packages:
   - name: pacemaker
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
-    date: 2021-08-11-09-47-43
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
   - name: mdadm
     branch_from: master
     branch_to: openEuler-21.09
@@ -17277,9 +17277,9 @@ packages:
   - name: corosync
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
-    date: 2021-08-11-09-47-43
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
   - name: adwaita-icon-theme
     branch_from: master
     branch_to: openEuler-21.09
@@ -29382,6 +29382,72 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-08-26-10-45-00
+  - name: pcs
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: fence-virt
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: fence-agents
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: corosync-qdevice
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: sbd
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: nagios-plugins
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: execstack
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: booth
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: jing-trang
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: python-clufter
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
+  - name: freeradius-client
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-27-16-00-00
   recycle: []
   delete:
   - name: deepin-manual
