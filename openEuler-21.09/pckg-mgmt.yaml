@@ -29448,6 +29448,66 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-08-27-16-00-00
+  - name: rubygem-fluentd
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-cool.io
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-dig_rb
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-http_parser
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-serverengine
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-sigdump
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-strptime
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-tzinfo-data
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-webrick
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
+  - name: rubygem-yajl-ruby
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-08-30-10-00-00
   recycle: []
   delete:
   - name: deepin-manual
