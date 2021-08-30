@@ -22276,8 +22276,8 @@ packages:
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
     obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP1:Epol
-    date: 2021-08-26-11-53-00
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-08-31-09-03-00
   - name: lsyncd
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
