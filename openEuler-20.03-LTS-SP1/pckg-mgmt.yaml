@@ -22764,5 +22764,413 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP1:Epol
     date: 2021-08-31-16-49-52
+  - name: SuperLU
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: android-json-org-java
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: aries-blueprint-annotation-api
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: aries-blueprint-api
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: aries-quiesce-api
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: axiom
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: bcrypt
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: boilerpipe
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: cfitsio
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: codegen
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: cryptacular
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: dietlibc
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: enca
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: epstool
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: figlet
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: freexl
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: geos
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: glog
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: iperf2
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: jasypt
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: java-libpst
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: java-uuid-generator
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: java-xmlbuilder
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: jdeparser2
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: je
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: jmatio
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: jsonic
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: jtoaster
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: latexmk
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: ldaptive
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: lettuce
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: libdap
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: libgeotiff
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: libgta
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: libiodbc
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: libspatialite
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: lmbench
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: lmfit
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: lohit-tamil-fonts
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: mavibot
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: mongo-java-driver2
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: munge
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: mybatis
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: mybatis-generator
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: mybatis-parent
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: mysema-commons-lang
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: netperf
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: ogdi
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: openpgm
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-CPAN-Changes
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-Crypt-CBC
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-DBD-Pg
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-IO-Tty
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-MIME-Charset
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-Module-Pluggable
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-Scope-Guard
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-Sub-Info
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: perl-XML-Structured
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: pesign-obs-integration
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: polyglot
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-WSGIProxy2
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-isort
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-lazy-object-proxy
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-monotonic
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-portalocker
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-retrying
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-testresources
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
+  - name: python-xlrd
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-01-09-45-14
   recycle: []
   delete: []
