@@ -10884,6 +10884,12 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-11-09-47-43
+  - name: wireless-regdb
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-09-02-13-37-35
   - name: glassfish-websocket-api
     branch_from: master
     branch_to: openEuler-21.09
