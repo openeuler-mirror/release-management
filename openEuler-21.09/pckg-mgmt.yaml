@@ -9306,6 +9306,72 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-11-09-47-43
+  - name: rubygem-faraday-em_http
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-em_synchrony
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-excon
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-httpclient
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-net_http
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-net_http_persistent
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-patron
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-faraday-rack
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-ruby2_keywords
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-fluent-plugin-elasticsearch
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
+  - name: rubygem-elasticsearch-ruby
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-03-11-25-43
   - name: python-requests-oauthlib
     branch_from: master
     branch_to: openEuler-21.09
