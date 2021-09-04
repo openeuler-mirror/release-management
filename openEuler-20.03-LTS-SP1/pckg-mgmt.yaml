@@ -24000,5 +24000,83 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP1:Epol
     date: 2021-09-03-16-20-56
+  - name: swtpm
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: mom
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: safelease
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: ioprocess
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: perl-Regexp-Common
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: ovirt-ansible-image-template
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: ovirt-ansible-vm-infra
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: python-codecov
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: python-bandit
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: python-GitPython
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: python-gitdb
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: python-smmap
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
+  - name: python-nosexcover
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-04-10-45-36
   recycle: []
   delete: []
