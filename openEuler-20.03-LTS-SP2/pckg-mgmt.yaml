@@ -13962,6 +13962,54 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP2
     date: 2021-06-17-15-09-21
+  - name: python-ntlm-auth
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-requests-ntlm
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-xmltodict
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-pyvmomi
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-gitlab
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-httmock
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-pbkdf2
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
+  - name: python-winrm
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: perl-Authen-SASL
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -18807,9 +18855,9 @@ packages:
   - name: python-s3transfer
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: rubygem-ansi
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -20169,9 +20217,9 @@ packages:
   - name: python-botocore
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: rubygem-method_source
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -21387,9 +21435,9 @@ packages:
   - name: python-boto3
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-06-17-15-09-21
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: nodejs-make-arrow-function
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -24531,27 +24579,27 @@ packages:
   - name: python-pytest-forked
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-08-24-16-41-37
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: python-pytest-xdist
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-08-24-16-41-37
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: python-sphinx-notfound-page
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-08-24-16-41-37
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: python-straight-plugin
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP2:Epol
-    date: 2021-08-24-16-41-37
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2
+    date: 2021-09-06-10-49-21
   - name: python-testrepository
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
