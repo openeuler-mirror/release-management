@@ -29,14 +29,14 @@
 | [#I41F61](https://gitee.com/openeuler/release-management/issues/I41F61) | [openEuler 21.09]eggo：一键式、轻量化、可配置集群部署，支撑中移动X86/ARM双平面解决方案| Testing| SIG-CloudNative | [@jingwoo](https://gitee.com/jingwoo) |
 | [#I41F5Z](https://gitee.com/openeuler/release-management/issues/I41F5Z) | [openEuler 21.09]kubOS：运行内存消耗<150M,重启时间<15s；| Developing | SIG-CloudNative | [@radeon92](https://gitee.com/radeon92) |
 | [#I41F5A](https://gitee.com/openeuler/release-management/issues/I41F5A) | [openEuler 21.09]内存分级扩展框架增强，新增用户态swap及策略框架，性能降低<15%| Developing | SIG-Storage  | [@whoisxxx](https://gitee.com/whoisxxx) |
-| [#I427HO](https://gitee.com/openeuler/release-management/issues/I427HO) | [openEuler 21.09] openEuler 21.09 支持 OpenResty 1.19.3.1 | Developing | SIG-OpenResty | [@Joey](https://gitee.com/imjoey) [@fukiki](https://gitee.com/fukiki) [@fuchangjie](https://gitee.com/fu_changjie) [@Jacean](https://gitee.com/Jacean) |
+| [#I427HO](https://gitee.com/openeuler/release-management/issues/I427HO) | [openEuler 21.09] openEuler 21.09 支持 OpenResty 1.19.3.1 | Testing | SIG-OpenResty | [@Joey](https://gitee.com/imjoey) [@fukiki](https://gitee.com/fukiki) [@fuchangjie](https://gitee.com/fu_changjie) [@Jacean](https://gitee.com/Jacean) |
 | [#I44CJS](https://gitee.com/openeuler/release-management/issues/I44CJS) | 【openEuler 21.09】openEuler 21.09 支持 架构感知、配置溯源服务 | Developing | SIG-ops | [@luanjianhai](https://gitee.com/luanjianhai)   [@solarhu](https://gitee.com/solarhu)  [@Gongc](https://gitee.com/Gongchen)  [@yaqiangchen](https://gitee.com/yaqiangchen)   [@cmss_dx](https://gitee.com/cmss_dx) [@MrRlu](https://gitee.com/MrRlu) |
 | [#I3VBFP](https://gitee.com/open_euler/dashboard?issue_id=I3VBFP) | 【openEuler 21.09】openEuler 21.09 支持树莓派| Testing|RaspberryPi|@jianminw|
-| [#I3VCTS](https://gitee.com/open_euler/dashboard?issue_id=I3VCTS) | 【openEuler 21.09】openEuler 21.09 支持UKUI| Developing |sig_UKUI|@dou33|
+| [#I3VCTS](https://gitee.com/open_euler/dashboard?issue_id=I3VCTS) | 【openEuler 21.09】openEuler 21.09 支持UKUI| Testing |sig_UKUI|@dou33|
 | [#I3VCZ3](https://gitee.com/open_euler/dashboard?issue_id=I3VCZ3) | 【openEuler 21.09】openEuler 21.09 支持GNOME-3.38| Testing|GNOME|@dillon_chen|
 | [#I3VD4H](https://gitee.com/open_euler/dashboard?issue_id=I3VD4H) | 【openEuler 21.09】openEuler 21.09 支持HA| Testing |sig-HA|@yangzhao_kl|
-| [#I3VE7L](https://gitee.com/open_euler/dashboard?issue_id=I3VE7L) | 【openEuler 21.09】openEuler DDE版本升级| Developing |sig-DDE|@panchenbo|
-| [#I3VE7A](https://gitee.com/open_euler/dashboard?issue_id=I3VE7A) | 【openEuler 21.09】openEuler 21.09 DDE支持画板，截图，音乐和影院应用| Developing |sig-DDE|@panchenbo|
+| [#I3VE7L](https://gitee.com/open_euler/dashboard?issue_id=I3VE7L) | 【openEuler 21.09】openEuler DDE版本升级| Testing |sig-DDE|@panchenbo|
+| [#I3VE7A](https://gitee.com/open_euler/dashboard?issue_id=I3VE7A) | 【openEuler 21.09】openEuler 21.09 DDE支持画板，截图，音乐和影院应用| Testing |sig-DDE|@panchenbo|
 | [#I41F6X](https://gitee.com/open_euler/dashboard?issue_id=I41F6X) | 【openEuler 21.09】Stratovirt 2.0支持最小集，支持联创项目|Testing|||
 | [#I3VCZG](https://gitee.com/open_euler/dashboard?issue_id=I3VCZG) | 【openEuler 21.09】openEuler 21.09 支持XFCE|Testing|xfce|@dillon_chen|
 | [#I41AUQ](https://gitee.com/open_euler/dashboard?issue_id=I41AUQ) | 【openEuler 21.09】 支持飞腾FT2500双路服务器|Testing|kernel|@xiexiuqi|
