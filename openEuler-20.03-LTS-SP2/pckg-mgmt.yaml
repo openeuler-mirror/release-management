@@ -25206,5 +25206,53 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP2
     date: 2021-09-10-10-46-20
+  - name: re2c
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: alertmanager
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: perl-FreezeThaw
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: tig
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: setuptool
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: makeself
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: ovirt-ansible-collection
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
+  - name: ovirt-dependencies
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-10-15-28-03
   recycle: []
   delete: []
