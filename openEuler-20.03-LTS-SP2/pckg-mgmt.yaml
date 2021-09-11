@@ -8340,6 +8340,12 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP2
     date: 2021-06-17-15-09-21
+  - name: nodejs-yarn
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-11-16-05-00
   - name: libutempter
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
