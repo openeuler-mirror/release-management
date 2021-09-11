@@ -5262,6 +5262,12 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-11-09-47-43
+  - name: nodejs-yarn
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-11-16-05-00
   - name: remotetea
     branch_from: master
     branch_to: openEuler-21.09
