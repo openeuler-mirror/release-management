@@ -25542,5 +25542,35 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-09-16-09-13-42
+  - name: python-argparse-manpage
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-16-10-28-00
+  - name: cockpit-ovirt
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-16-10-28-00
+  - name: ovirt-hosted-engine-ha
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-16-10-28-00
+  - name: ovirt-hosted-engine-setup
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-16-10-28-00
+  - name: virt-manager
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-09-16-10-28-00
   recycle: []
   delete: []
