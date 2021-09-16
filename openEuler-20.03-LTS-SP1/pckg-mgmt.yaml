@@ -24732,5 +24732,23 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP1:Epol
     date: 2021-09-15-18-19-00
+  - name: ansible-2.9
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-16-09-13-34
+  - name: postgresql-13
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-16-09-13-34
+  - name: nispor
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-16-09-13-34
   recycle: []
   delete: []
