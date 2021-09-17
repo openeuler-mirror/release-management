@@ -20230,8 +20230,8 @@ packages:
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
     obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP1:Epol
-    date: 2021-07-13-15-00-43
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-17-10-58-13
   - name: rubygem-actioncable
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
@@ -20572,8 +20572,8 @@ packages:
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
     obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP1:Epol
-    date: 2021-07-13-15-00-43
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-17-11-05-23
   - name: nodejs-make-generator-function
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
