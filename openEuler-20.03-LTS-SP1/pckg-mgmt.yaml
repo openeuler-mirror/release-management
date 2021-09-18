@@ -3762,12 +3762,6 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP1
     date: 2021-07-13-15-00-43
-  - name: hardlink
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP1
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP1
-    date: 2021-07-13-15-00-43
   - name: apache-ivy
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
@@ -24805,4 +24799,10 @@ packages:
     obs_to: openEuler:20.03:LTS:SP1:Epol
     date: 2021-09-17-14-53-00
   recycle: []
-  delete: []
+  delete: 
+  - name: hardlink
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-09-18-11-41-43
