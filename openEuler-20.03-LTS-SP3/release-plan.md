@@ -20,15 +20,16 @@
 | Release              | 2021/12/30 | 2021/12/30 | 1    |                                           |
 
 
-# Feture list
+# Feature list
 #### 状态说明：
 - Discussion(方案讨论，需求未接受)
 - Developing(开发中)
 - Testing(测试中)
 - Accepted(已验收)
 
-|no|fetur|status|sig|owner|
+|no|feature|status|sig|owner|
 |:----|:---|:---|:--|:----|
+|1|openEuler 20.03 LTS SP3 OpenStack Kolla supports openEuler OS |Discussion|sig-openstack|[xiyuanwang](https://gitee.com/xiyuanwang)|
 
 
 现启动版本需求收集，欢迎社区开发者们反馈和交流，<br />
