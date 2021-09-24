@@ -24576,6 +24576,36 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP1:Epol
     date: 2021-09-13-14-55-29
+  - name: cgit
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-23-19-41-19
+  - name: php-pecl-zip
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-23-19-41-19
+  - name: gnustep-make
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-23-19-41-19
+  - name: php-pear
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-23-19-41-19
+  - name: gnustep-base
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP1:Epol
+    date: 2021-09-23-19-41-19
   - name: percona-xtrabackup
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
