@@ -29700,6 +29700,18 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-09-09-21-00-00
+  - name: cjson
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-26-22-22-43
+  - name: mosquitto
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-26-22-22-43
   recycle: []
   delete:
   - name: deepin-manual
