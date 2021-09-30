@@ -29741,6 +29741,6 @@ packages:
   - name: KubeOS
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Mainline
-    obs_to: openEuler:21.09
-    date: 2021-09-30-17-20-43
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-30-22-20-43
