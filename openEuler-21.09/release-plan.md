@@ -33,7 +33,6 @@
 | [#I44CJS](https://gitee.com/openeuler/release-management/issues/I44CJS) | 【openEuler 21.09】openEuler 21.09 支持 架构感知、配置溯源服务 | Developing | SIG-ops | [@luanjianhai](https://gitee.com/luanjianhai)   [@solarhu](https://gitee.com/solarhu)  [@Gongc](https://gitee.com/Gongchen)  [@yaqiangchen](https://gitee.com/yaqiangchen)   [@cmss_dx](https://gitee.com/cmss_dx) [@MrRlu](https://gitee.com/MrRlu) |
 | [#I3VBFP](https://gitee.com/open_euler/dashboard?issue_id=I3VBFP) | 【openEuler 21.09】openEuler 21.09 支持树莓派| Testing|RaspberryPi|@jianminw|
 | [#I3VCTS](https://gitee.com/open_euler/dashboard?issue_id=I3VCTS) | 【openEuler 21.09】openEuler 21.09 支持UKUI| Testing |sig_UKUI|@dou33|
-| [#I3VCZ3](https://gitee.com/open_euler/dashboard?issue_id=I3VCZ3) | 【openEuler 21.09】openEuler 21.09 支持GNOME-3.38| Testing|GNOME|@dillon_chen|
 | [#I3VD4H](https://gitee.com/open_euler/dashboard?issue_id=I3VD4H) | 【openEuler 21.09】openEuler 21.09 支持HA| Testing |sig-HA|@yangzhao_kl|
 | [#I3VE7L](https://gitee.com/open_euler/dashboard?issue_id=I3VE7L) | 【openEuler 21.09】openEuler DDE版本升级| Testing |sig-DDE|@panchenbo|
 | [#I3VE7A](https://gitee.com/open_euler/dashboard?issue_id=I3VE7A) | 【openEuler 21.09】openEuler 21.09 DDE支持画板，截图，音乐和影院应用| Testing |sig-DDE|@panchenbo|
@@ -48,3 +47,5 @@
 | [#I3ZXKY](https://gitee.com/open_euler/dashboard?issue_id=I3ZXKY) | 【openEuler-21.09】memcg: enable memcg oom-kill for __GFP_NOFAIL|Testing|kernel|@xiexiuqi|
 | [#I3ZN72](https://gitee.com/open_euler/dashboard?issue_id=I3ZN72) | [openEuler-21.09] stnp 加速 clear_page|Testing|kernel|@xiexiuqi|
 | [#I48FQT](https://gitee.com/open_euler/dashboard?issue_id=I48FQT) | [openEuler-21.09] 21.09继承secGear、虚拟化、容器等特性|Testing|||
+| [#I4CHBP](https://gitee.com/openeuler/release-management/issues/I4CHBP) | 【openEuler-21.09】openEuler支持嵌入式镜像|Testing|sig-embedded||
+| [#I4CHRO](https://gitee.com/openeuler/release-management/issues/I4CHRO) | 【openEuler-21.09】openEuler支持边缘协同框架（kubeedge）|Testing|sig-edge||
