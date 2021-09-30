@@ -29718,6 +29718,12 @@ packages:
     obs_from: openEuler:Epol
     obs_to: openEuler:21.09:Epol
     date: 2021-09-28-14-51-57
+  - name: secpaver
+    branch_from: master
+    branch_to: openEuler-21.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:21.09:Epol
+    date: 2021-09-30-16-51-57
   recycle: []
   delete:
   - name: deepin-manual
