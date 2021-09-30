@@ -29721,7 +29721,7 @@ packages:
   - name: secpaver
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:master
+    obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-09-30-16-51-57
   recycle: []
