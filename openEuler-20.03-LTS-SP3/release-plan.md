@@ -31,7 +31,7 @@
 |:----|:---|:---|:--|:----|
 |1|openEuler 20.03 LTS SP3 OpenStack Kolla supports openEuler OS |Discussion|sig-openstack|[xiyuanwang](https://gitee.com/xiyuanwang)|
 |2|openEuler 20.03 LTS SP3 支持Kiran桌面环境 |Discussion|sig-KIRAN-DESKTOP|[tangjie02](https://gitee.com/tangjie02)|
-
+|3|openEuler 20.03 LTS SP3 Supports OpenStack Trainn |Discussion|sig-openstack|[huangtianhua](https://gitee.com/huangtianhua)|
 
 现启动版本需求收集，欢迎社区开发者们反馈和交流，<br />
 <br />
