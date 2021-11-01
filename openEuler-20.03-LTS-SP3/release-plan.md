@@ -33,7 +33,7 @@
 |2|openEuler 20.03 LTS SP3 支持Kiran桌面环境 |Discussion|sig-KIRAN-DESKTOP|[tangjie02](https://gitee.com/tangjie02)|
 |3|openEuler 20.03 LTS SP3 Supports OpenStack Trainn |Discussion|sig-openstack|[huangtianhua](https://gitee.com/huangtianhua)|
 |4|openEuler 20.03-LTS SP3 新增容器OS支持|Discussion|sig-CloudNative|[liyuanrong](https://gitee.com/li-yuanrong)|
-|5|openEuler 20.03-LTS SP3 新增安全容器全栈支持|Discussion|sig-CloudNative|wujing|
+|5|openEuler 20.03-LTS SP3 新增轻量级安全容器支持|Discussion|sig-CloudNative|wujing|
 |6|openEuler 20.03-LTS SP3 支持云原生集群部署eggo解决方案|Discussion|sig-CloudNative|[liuhao](https://gitee.com/duguhaotian)|
 |7|openEuler 20.03-LTS SP3 新增内存分级扩展|Discussion|Storage|[louhongxiang](https://gitee.com/louhongxiang)|
 |8|openEuler 20.03-LTS SP3 新增定制裁剪工具套件oemaker|Discussion|sig-OS-Builder|zhuchunyi|
