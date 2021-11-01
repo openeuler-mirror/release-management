@@ -9,15 +9,15 @@ packages:
   - name: python-esdk-obs-python
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP2
-    date: 2021-08-17-15-39-43
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-11-01-11-10-00
   - name: python-multi_key_dict
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP2
-    date: 2021-08-17-15-39-43
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-11-01-11-10-00
   - name: python-requests-mock
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -27,9 +27,9 @@ packages:
   - name: python-retrying
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP2
-    date: 2021-08-20-14-44-23
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-11-01-11-10-00
   - name: python-portalocker
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -39,15 +39,15 @@ packages:
   - name: python-concurrent-log-handler
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP2
-    date: 2021-08-20-14-44-23
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-11-01-11-10-00
   - name: python-xlrd
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP2
-    date: 2021-08-20-14-44-23           
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-11-01-11-10-00           
   - name: libraqm
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
@@ -24459,9 +24459,9 @@ packages:
   - name: python-jenkins
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP2
-    date: 2021-08-18-18-15-00
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-11-01-11-10-00
   - name: xvidcore
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
