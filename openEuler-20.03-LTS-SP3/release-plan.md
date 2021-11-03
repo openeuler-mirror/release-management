@@ -33,7 +33,7 @@
 |2|openEuler 20.03 LTS SP3 支持Kiran桌面环境 |Discussion|sig-KIRAN-DESKTOP|[tangjie02](https://gitee.com/tangjie02)|
 |3|openEuler 20.03 LTS SP3 Supports OpenStack Trainn |Discussion|sig-openstack|[huangtianhua](https://gitee.com/huangtianhua)|
 |4|openEuler 20.03-LTS SP3 新增容器OS支持|Discussion|sig-CloudNative|[liyuanrong](https://gitee.com/li-yuanrong)|
-|5|[openEuler 20.03 LTS SP3 支持轻量级容器OS KubeOS实现OS统一管理](https://e.gitee.com/open_euler/issues/list?issue=I4G9X4)|Discussion|sig-CloudNative|wujing|
+|5|openEuler 20.03-LTS SP3 新增轻量级安全容器支持|Discussion|sig-CloudNative|wujing|
 |6|[openEuler 20.03 LTS SP3 eggo支持k8s在X86和ARM64双平面部署](https://e.gitee.com/open_euler/issues/list?issue=I4G9ZJ)|Discussion|sig-CloudNative|[liuhao](https://gitee.com/duguhaotian)|
 |7|openEuler 20.03-LTS SP3 新增内存分级扩展|Discussion|Storage|[louhongxiang](https://gitee.com/louhongxiang)|
 |8|openEuler 20.03-LTS SP3 新增定制裁剪工具套件oemaker|Discussion|sig-OS-Builder|zhuchunyi|
@@ -43,6 +43,7 @@
 |12|[openEuler 20.03 LTS SP3 支持intel ice lake](https://e.gitee.com/open_euler/issues/list?issue=I4GASF) |Discussion|sig-kernel|[gatieme](https://gitee.com/gatieme)|
 |13|[openEuler 20.03 LTS SP3 oemaker提供统一的ISO/image镜像制作操作方式和命令接口](https://e.gitee.com/open_euler/issues/list?issue=I4GA13) |Discussion|sig-OS-Builder|[yaqiangchen](https://gitee.com/yaqiangchen)|
 |14|[openEuler 20.03 LTS SP3 支持shimv2](https://e.gitee.com/open_euler/issues/list?issue=I4GA0N) |Discussion|sig-CloudNative|[yaqiangchen](https://gitee.com/yaqiangchen)|
+|15|[openEuler 20.03 LTS SP3 支持轻量级容器OS KubeOS实现OS统一管理](https://e.gitee.com/open_euler/issues/list?issue=I4G9X4)|Discussion|sig-CloudNative|wujing|
 
 现启动版本需求收集，欢迎社区开发者们反馈和交流，<br />
 <br />
