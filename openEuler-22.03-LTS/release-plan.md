@@ -28,6 +28,8 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 
 |no|feature|status|sig|owner|
 |:----|:---|:---|:--|:----|
+|[I4H9BC](https://gitee.com/openeuler/release-management/issues/I4H9BC)|新增支持RISC-V 镜像|Discussion|RISC-V|[@xuzhou zhang](https://gitee.com/whoisxxx), [@xijing](https://gitee.com/xijing666)|
+
 
 
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
