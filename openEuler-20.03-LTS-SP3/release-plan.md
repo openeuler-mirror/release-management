@@ -43,6 +43,7 @@
 |12|[openEuler 20.03 LTS SP3 支持intel ice lake](https://e.gitee.com/open_euler/issues/list?issue=I4GASF) |Discussion|sig-kernel|[gatieme](https://gitee.com/gatieme)|
 |13|[openEuler 20.03 LTS SP3 支持shimv2](https://e.gitee.com/open_euler/issues/list?issue=I4GA0N) |Discussion|sig-CloudNative|[yaqiangchen](https://gitee.com/yaqiangchen)|
 |14|[openEuler 20.03 LTS SP3 支持轻量级容器OS KubeOS实现OS统一管理](https://e.gitee.com/open_euler/issues/list?issue=I4G9X4)|Discussion|sig-CloudNative|wujing|
+|15|[openEuler 20.03 LTS SP3 支持树莓派](https://gitee.com/openeuler/release-management/issues/I4HRUR)|Discussion|sig-RaspberryPi|[woqidaideshi](https://gitee.com/woqidaideshi)|
 
 现启动版本需求收集，欢迎社区开发者们反馈和交流，<br />
 <br />
