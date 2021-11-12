@@ -35,10 +35,12 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 
 **Honor Maintainer**
 | 姓名| GiteeID           | 邮件地址  |
+| :-------------: |:--------:| :-----|
 |姜振华| [@Ronnie_Jiang](https://gitee.com/Ronnie_Jiang) |zhenghua.jiang@huawei.com|
 |江裕民| [@yuming_jiang](https://gitee.com/yuming_jiang)  |jiangyumin@huawei.com|
 |许小松  | [@xxiaosong](https://gitee.com/xxiaosong)|  xuxiaosong@huawei.com| 
 |刘博| [@boliurise](https://gitee.com/boliurise) | liubo79@huawei.com|
+
 衷心感谢与你们曾经一起在开源社区协作共进的日子，此后，人生海海，山山而川，江湖不远，自在相逢。
 
 ## 联系方式
