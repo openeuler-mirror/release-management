@@ -102,12 +102,6 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP3
     date: 2021-11-09-15-11-11
-  - name: atlas
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP3
-    obs_from: openEuler:20.03:LTS:Next
-    obs_to: openEuler:20.03:LTS:SP3
-    date: 2021-11-09-15-11-11
   - name: gd
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP3
@@ -27265,4 +27259,10 @@ packages:
     obs_to: openEuler:20.03:LTS:SP3:Epol
     date: 2021-11-09-15-32-19
   recycle: []
-  delete: []
+  delete:
+  - name: atlas
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP3
+    date: 2021-11-15-17-11-11 https://gitee.com/openeuler/release-management/pulls/250
