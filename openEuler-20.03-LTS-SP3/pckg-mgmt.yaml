@@ -24024,12 +24024,6 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP3:Epol
     date: 2021-11-09-15-32-19
-  - name: python-fastavro
-    branch_from: openEuler-20.03-LTS-Next
-    branch_to: openEuler-20.03-LTS-SP3
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP3:Epol
-    date: 2021-11-09-15-32-19
   - name: kf5-kemoticons
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP3
