@@ -20040,6 +20040,48 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP3:Epol
     date: 2021-11-09-15-32-19
+  - name: gnocchi
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
+  - name: python-pytimeparse
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
+  - name: python-lz4
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
+  - name: python-daiquiri
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
+  - name: python-json_logger
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
+  - name: python-ceilometermiddleware
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
+  - name: python-cyborgclient
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-01-11-24-53
   - name: kwin
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP3
