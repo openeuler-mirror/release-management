@@ -12,6 +12,36 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP2:Epol
     date: 2021-11-01-11-10-00
+  - name: marco
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-12-02-21-10-00
+  - name: libXpresent
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-12-02-21-10-00
+  - name: mate-settings-daemon
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-12-02-21-10-00
+  - name: libmateweather
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-12-02-21-10-00
+  - name: mate-menus
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP2
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP2:Epol
+    date: 2021-12-02-21-10-00
   - name: python-multi_key_dict
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP2
