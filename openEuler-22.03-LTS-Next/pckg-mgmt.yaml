@@ -7788,6 +7788,12 @@ packages:
     obs_from: openEuler:21.09
     obs_to: openEuler:22.03:LTS:Next
     date: 2021-11-23-19-40-40
+  - name: dbus-broker
+    branch_from: openEuler-21.09
+    branch_to: openEuler-22.03-LTS-Next
+    obs_from: openEuler:21.09
+    obs_to: openEuler:22.03:LTS:Next
+    date: 2021-12-03-16-21-21
   - name: time
     branch_from: openEuler-21.09
     branch_to: openEuler-22.03-LTS-Next
