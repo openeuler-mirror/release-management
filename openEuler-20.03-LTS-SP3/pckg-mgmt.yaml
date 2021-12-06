@@ -28026,6 +28026,66 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP3:Epol
     date: 2021-12-01-18-08-00
+  - name: fcitx-sunpinyin
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: fcitx-cloudpinyin
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: fcitx-qt5
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: fcitx-libpinyin
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: fcitx-configtool
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: fcitx
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: im-chooser
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: sunpinyin
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: unique3
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
+  - name: imsettings
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-08-14-44-45
   recycle: []
   delete:
   - name: atlas
