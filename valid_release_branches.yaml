@@ -7,6 +7,7 @@ branch:
   - openEuler-22.03
   - Multi-Version_oozie-4.3_master 
   - Multi-Version_R-language-3.6.0_master
+  - openEuler-22.03-LTS-Next
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
