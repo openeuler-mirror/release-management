@@ -25008,6 +25008,12 @@ packages:
     obs_from: openEuler:21.09
     obs_to: openEuler:22.03:LTS:Next
     date: 2021-11-23-19-40-40
+  - name: libhugetlbfs
+    branch_from: master
+    branch_to: openEuler-22.03-LTS-Next
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:22.03:LTS:Next
+    date: 2021-12-07-19-29-40
   - name: python-pyghmi
     branch_from: openEuler-21.09
     branch_to: openEuler-22.03-LTS-Next
