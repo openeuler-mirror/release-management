@@ -50,4 +50,12 @@ release:
   - yaqiangchen
   - small_leek
   - xuxiaosong
-
+- branch: openEuler-20.03-LTS-SP3
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - zyp-rock
+  - paul-huang
