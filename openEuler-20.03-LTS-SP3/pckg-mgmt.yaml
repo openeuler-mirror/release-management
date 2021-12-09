@@ -28152,6 +28152,12 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP3:Epol
     date: 2021-12-08-14-44-45
+  - name: libgxim
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-19-45
   recycle: []
   delete:
   - name: atlas
