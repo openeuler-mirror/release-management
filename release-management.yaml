@@ -53,7 +53,7 @@ release:
 - branch: openEuler-20.03-LTS-SP3
   community:
   - src-openeuler
-  frozen: true
+  frozen: false
   owner:
   - solarhu
   - yaqiangchen
