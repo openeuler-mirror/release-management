@@ -28074,6 +28074,54 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP3:Epol
     date: 2021-12-09-16-32-14
+  - name: mate-screensaver
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: caja-extensions
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: gajim
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: mate-polkit
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: mate-session-manager
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: python-cssutils
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: python-nbxmpp
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
+  - name: python-precis_i18n
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2021-12-13-09-20-05
   - name: raspi-config
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP3
