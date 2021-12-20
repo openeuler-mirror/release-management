@@ -30,6 +30,7 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |:----|:---|:---|:--|:----|
 |[I4H9BC](https://gitee.com/openeuler/release-management/issues/I4H9BC)|新增支持RISC-V 镜像|Discussion|RISC-V|[@xuzhou zhang](https://gitee.com/whoisxxx), [@xijing](https://gitee.com/xijing666)|
 |[I4IM2L](https://gitee.com/openeuler/release-management/issues/I4IM2L)|GCC自动反馈优化相关软件包引入及优化效果增强|Discussion|Compiler|[@ma-mingze](https://gitee.com/ma-mingze), [@Haijian.Zhang](https://gitee.com/haijianzhang), [@eastb233](https://gitee.com/eastb233)|
+|[I4N83C](https://gitee.com/openeuler/release-management/issues/I4N83C)|openGauss默认集成到openEuler操作系统中|Discussion|DB|[@zhang_xubo](https://gitee.com/zhang_xubo), [@bzhaoop](https://gitee.com/bzhaoop)|
 
 
 <br />
