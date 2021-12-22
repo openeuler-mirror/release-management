@@ -29,20 +29,19 @@
 
 |no|feature|status|sig|owner|
 |:----|:---|:---|:--|:----|
-|1|openEuler 20.03 LTS SP3 OpenStack Kolla supports openEuler OS |Testing|sig-openstack|[xiyuanwang](https://gitee.com/xiyuanwang)|
-|2|openEuler 20.03 LTS SP3 支持Kiran桌面环境 |Developing|sig-KIRAN-DESKTOP|[tangjie02](https://gitee.com/tangjie02)|
-|3|openEuler 20.03 LTS SP3 Supports OpenStack Train |Testing|sig-openstack|[huangtianhua](https://gitee.com/huangtianhua)|
-|4|openEuler 20.03-LTS SP3 新增容器OS支持|Testing|sig-CloudNative|[liyuanrong](https://gitee.com/li-yuanrong)|
-|5|openEuler 20.03-LTS SP3 新增轻量级安全容器支持|Testing|sig-CloudNative|wujing|
-|6|[openEuler 20.03 LTS SP3 eggo支持k8s在X86和ARM64双平面部署](https://e.gitee.com/open_euler/issues/list?issue=I4G9ZJ)|Testing|sig-CloudNative|[liuhao](https://gitee.com/duguhaotian)|
-|7|openEuler 20.03-LTS SP3 新增内存分级扩展|Testing|Storage|[louhongxiang](https://gitee.com/louhongxiang)|
-|8|[openEuler 20.03-LTS SP3 新增定制裁剪工具套件oemaker](https://e.gitee.com/open_euler/issues/list?issue=I4GA13)|Testing|sig-OS-Builder|zhuchunyi|
-|9|openEuler 20.03-LTS SP3 智能调优A-tune扩展增强|Testing|A-Tune|[hanxinke](https://gitee.com/hanxinke)|
-|10|[openEuler 20.03 LTS SP3 内核特性增强](https://e.gitee.com/open_euler/issues/list?issue=I4GAUL) |Testing|sig-kernel|[gatieme](https://gitee.com/gatieme)|
-|11|[openEuler 20.03 LTS SP3 官网上线北向兼容性清单](https://e.gitee.com/open_euler/issues/list?issue=I4GATR) |Testing|sig-Compatibility-Infra|[lovelijunyi](https://gitee.com/lovelijunyi)|
-|12|[openEuler 20.03 LTS SP3 支持intel ice lake](https://e.gitee.com/open_euler/issues/list?issue=I4GASF) |Testing|sig-kernel|[gatieme](https://gitee.com/gatieme)|
-|13|[openEuler 20.03 LTS SP3 支持shimv2](https://e.gitee.com/open_euler/issues/list?issue=I4GA0N) |Testing|sig-CloudNative|[yaqiangchen](https://gitee.com/yaqiangchen)|
-|14|[openEuler 20.03 LTS SP3 支持树莓派](https://gitee.com/openeuler/release-management/issues/I4HRUR)|Testing|sig-RaspberryPi|[woqidaideshi](https://gitee.com/woqidaideshi)|
+|1|openEuler 20.03 LTS SP3 OpenStack Kolla supports openEuler OS |Accepted|sig-openstack|[xiyuanwang](https://gitee.com/xiyuanwang)|
+|2|openEuler 20.03 LTS SP3 支持Kiran桌面环境 |Accepted|sig-KIRAN-DESKTOP|[tangjie02](https://gitee.com/tangjie02)|
+|3|openEuler 20.03 LTS SP3 Supports OpenStack Train |Accepted|sig-openstack|[huangtianhua](https://gitee.com/huangtianhua)|
+|4|openEuler 20.03-LTS SP3 新增容器OS支持|Accepted|sig-CloudNative|[liyuanrong](https://gitee.com/li-yuanrong)|
+|5|openEuler 20.03-LTS SP3 新增轻量级安全容器支持|Accepted|sig-CloudNative|wujing|
+|6|[openEuler 20.03 LTS SP3 eggo支持k8s在X86和ARM64双平面部署](https://e.gitee.com/open_euler/issues/list?issue=I4G9ZJ)|Accepted|sig-CloudNative|[liuhao](https://gitee.com/duguhaotian)|
+|7|openEuler 20.03-LTS SP3 新增内存分级扩展|Accepted|Storage|[louhongxiang](https://gitee.com/louhongxiang)|
+|8|[openEuler 20.03-LTS SP3 新增定制裁剪工具套件oemaker](https://e.gitee.com/open_euler/issues/list?issue=I4GA13)|Accepted|sig-OS-Builder|zhuchunyi|
+|9|openEuler 20.03-LTS SP3 智能调优A-tune扩展增强|Accepted|A-Tune|[hanxinke](https://gitee.com/hanxinke)|
+|10|[openEuler 20.03 LTS SP3 内核特性增强](https://e.gitee.com/open_euler/issues/list?issue=I4GAUL) |Accepted|sig-kernel|[gatieme](https://gitee.com/gatieme)|
+|11|[openEuler 20.03 LTS SP3 官网上线北向兼容性清单](https://e.gitee.com/open_euler/issues/list?issue=I4GATR) |Accepted|sig-Compatibility-Infra|[lovelijunyi](https://gitee.com/lovelijunyi)|
+|12|[openEuler 20.03 LTS SP3 支持intel ice lake](https://e.gitee.com/open_euler/issues/list?issue=I4GASF) |Accepted|sig-kernel|[gatieme](https://gitee.com/gatieme)|
+|13|[openEuler 20.03 LTS SP3 支持树莓派](https://gitee.com/openeuler/release-management/issues/I4HRUR)|Accepted|sig-RaspberryPi|[woqidaideshi](https://gitee.com/woqidaideshi)|
 
 现启动版本需求收集，欢迎社区开发者们反馈和交流，<br />
 <br />
