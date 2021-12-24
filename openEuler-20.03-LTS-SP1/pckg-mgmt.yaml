@@ -24867,15 +24867,15 @@ packages:
   - name: jaf
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP1:Epol
-    date: 2021-12-23-20-40-00
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-12-24-17-00-00
   - name: jakarta-servlet
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
-    obs_from: openEuler:20.03:LTS:Next:Epol
-    obs_to: openEuler:20.03:LTS:SP1:Epol
-    date: 2021-12-23-20-40-00
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2021-12-24-17-00-00
   - name: scl-utils
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1
