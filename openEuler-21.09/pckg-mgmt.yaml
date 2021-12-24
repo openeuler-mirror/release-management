@@ -29715,15 +29715,15 @@ packages:
   - name: jaf
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-12-23-20-40-57
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-12-24-17-00-00
   - name: jakarta-servlet
     branch_from: master
     branch_to: openEuler-21.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:21.09:Epol
-    date: 2021-12-23-20-40-57
+    obs_from: openEuler:Mainline
+    obs_to: openEuler:21.09
+    date: 2021-12-24-17-00-00
   - name: kubeedge
     branch_from: master
     branch_to: openEuler-21.09
