@@ -32,7 +32,7 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4IM2L](https://gitee.com/openeuler/release-management/issues/I4IM2L)|GCC自动反馈优化相关软件包引入及优化效果增强|Discussion|Compiler|[@ma-mingze](https://gitee.com/ma-mingze), [@Haijian.Zhang](https://gitee.com/haijianzhang), [@eastb233](https://gitee.com/eastb233)|
 |[I4N83C](https://gitee.com/openeuler/release-management/issues/I4N83C)|openGauss默认集成到openEuler操作系统中|Discussion|DB|[@zhang_xubo](https://gitee.com/zhang_xubo), [@bzhaoop](https://gitee.com/bzhaoop)|
 |[I4O21W](https://gitee.com/openeuler/release-management/issues/I4O21W)|新增支持容器场景在离线混合部署|Developing|CloudNative|[@Vanient](https://gitee.com/Vanient)|
-|[I4O21W](https://gitee.com/openeuler/release-management/issues/I4PLUW)|OSV新增前端展示页面以及自动化测试能力|Developing|Compatibility-Infra|[@superninesun](https://gitee.com/superninesun),[@lovelijunyi](https://gitee.com/lovelijunyi)|
+|[I4PLUW](https://gitee.com/openeuler/release-management/issues/I4PLUW)|OSV新增前端展示页面以及自动化测试能力|Developing|Compatibility-Infra|[@superninesun](https://gitee.com/superninesun),[@lovelijunyi](https://gitee.com/lovelijunyi)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
