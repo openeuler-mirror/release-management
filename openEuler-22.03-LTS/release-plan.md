@@ -35,6 +35,7 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4PM21](https://gitee.com/openeuler/release-management/issues/I4PM21)|StratoVirt安全容器支持直通设备热插拔|Developing|Virt|[@frankyj915](https://gitee.com/frankyj915), [@imxcc](https://gitee.com/imxcc)|
 |[I4PMNN](https://gitee.com/openeuler/release-management/issues/I4PMNN)|libcareplus提供Qemu热补丁能力|Developing|Virt|[@mdsc](https://gitee.com/mdsc), [@imxcc](https://gitee.com/imxcc)|
 |[I4PLVR](https://gitee.com/openeuler/release-management/issues/I4PLVR)|IO智能多流|Developing|Kernel|[@hongrongxuan](https://gitee.com/barbo)|
+|[I4PMYT](https://gitee.com/openeuler/release-management/issues/I4PMYT)|新增支持gazelle高性能用户态协议栈|Developing|sig-high-performance-network|[@wu-changsheng](https://gitee.com/wu-changsheng)|
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
