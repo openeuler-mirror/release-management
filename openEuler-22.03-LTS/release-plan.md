@@ -32,6 +32,8 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4IM2L](https://gitee.com/openeuler/release-management/issues/I4IM2L)|GCC自动反馈优化相关软件包引入及优化效果增强|Discussion|Compiler|[@ma-mingze](https://gitee.com/ma-mingze), [@Haijian.Zhang](https://gitee.com/haijianzhang), [@eastb233](https://gitee.com/eastb233)|
 |[I4N83C](https://gitee.com/openeuler/release-management/issues/I4N83C)|openGauss默认集成到openEuler操作系统中|Discussion|DB|[@zhang_xubo](https://gitee.com/zhang_xubo), [@bzhaoop](https://gitee.com/bzhaoop)|
 |[I4O21W](https://gitee.com/openeuler/release-management/issues/I4O21W)|新增支持容器场景在离线混合部署|Developing|CloudNative|[@Vanient](https://gitee.com/Vanient)|
+|[I4PM21](https://gitee.com/openeuler/release-management/issues/I4PM21)|StratoVirt安全容器支持直通设备热插拔|Developing|Virt|[@frankyj915](https://gitee.com/frankyj915), [@imxcc](https://gitee.com/imxcc)|
+|[I4PMNN](https://gitee.com/openeuler/release-management/issues/I4PMNN)|libcareplus提供Qemu热补丁能力|Developing|Virt|[@mdsc](https://gitee.com/mdsc), [@imxcc](https://gitee.com/imxcc)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
