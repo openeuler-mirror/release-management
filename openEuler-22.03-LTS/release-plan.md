@@ -33,7 +33,6 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4N83C](https://gitee.com/openeuler/release-management/issues/I4N83C)|openGauss默认集成到openEuler操作系统中|Discussion|DB|[@zhang_xubo](https://gitee.com/zhang_xubo), [@bzhaoop](https://gitee.com/bzhaoop)|
 |[I4O21W](https://gitee.com/openeuler/release-management/issues/I4O21W)|新增支持容器场景在离线混合部署|Developing|CloudNative|[@Vanient](https://gitee.com/Vanient)|
 |[I4PLUW](https://gitee.com/openeuler/release-management/issues/I4PLUW)|OSV新增前端展示页面以及自动化测试能力|Developing|Compatibility-Infra|[@superninesun](https://gitee.com/superninesun),[@lovelijunyi](https://gitee.com/lovelijunyi)|
-
 |[I4PM21](https://gitee.com/openeuler/release-management/issues/I4PM21)|StratoVirt安全容器支持直通设备热插拔|Developing|Virt|[@frankyj915](https://gitee.com/frankyj915), [@imxcc](https://gitee.com/imxcc)|
 |[I4PMNN](https://gitee.com/openeuler/release-management/issues/I4PMNN)|libcareplus提供Qemu热补丁能力|Developing|Virt|[@mdsc](https://gitee.com/mdsc), [@imxcc](https://gitee.com/imxcc)|
 |[I4PLVR](https://gitee.com/openeuler/release-management/issues/I4PLVR)|IO智能多流|Developing|Kernel|[@hongrongxuan](https://gitee.com/barbo)|
