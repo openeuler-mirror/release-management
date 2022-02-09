@@ -71,3 +71,15 @@ release:
   - licihua
   - zhengshaoyu
   - zengwefeng
+
+- branch: openEuler-22.03-LTS
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - ruebb
+  - licihua
+  - zhengshaoyu
+  - zengwefeng
