@@ -29332,6 +29332,132 @@ packages:
       obs_to: openEuler:22.03:LTS
       change_pr: init openEuler-22.03-LTS
       date: 2022-01-24-15-35-23
+    - name: pcs
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: pacemaker
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: corosync
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: corosync-qdevice
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: fence-agents
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: fence-virt
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: drbd
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: sbd
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: booth
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: execstack
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: freeradius-client
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: google-api-python-client
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: jing-trang
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: nagios-plugins
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: python-clufter
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: python-fasteners
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: python-oauth2client
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
+    - name: python-uritemplate
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next:Epol
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-10-15-25-50
   epol:
   - name: raspberrypi-bluetooth
     branch_from: openEuler-22.03-LTS-Next
@@ -29341,13 +29467,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: tumbler
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: pacemaker
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -29935,13 +30054,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: google-api-python-client
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: qt-at-spi
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -29985,13 +30097,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: xfce4-notifyd
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: python-clufter
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -30062,13 +30167,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: python-h2
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: corosync
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -30957,13 +31055,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: freeradius-client
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: libdbusextended-qt5
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -31405,13 +31496,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: sbd
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: ukui-wallpapers
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -31518,13 +31602,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: udisks2-qt5
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: drbd
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -31762,13 +31839,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: booth
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: kf5-solid
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -31791,13 +31861,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: python-pysmi
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: jing-trang
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -31973,13 +32036,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: ncbi-blast
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: python-fasteners
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -32175,13 +32231,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: execstack
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: python-lexicon
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -32232,13 +32281,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: python-statsd
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: python-uritemplate
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -32329,21 +32371,7 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: python-oauth2client
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: openapi-schema-validator
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: corosync-qdevice
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -32386,13 +32414,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: dleyna-renderer
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: fence-agents
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -32484,13 +32505,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: dtkwidget2
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: nagios-plugins
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -32673,13 +32687,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: pycharm-community
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: pcs
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -32876,13 +32883,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
   - name: time-shutdown
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
-  - name: fence-virt
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
