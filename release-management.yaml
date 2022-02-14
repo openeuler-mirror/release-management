@@ -9,7 +9,7 @@ release:
   - Ronnie_Jiang
   - zyp-rock
   - small_leek
-  - Paul_Huang
+  - paul-huang
   - imxcc 
   - gatieme 
   - xxiaosong
@@ -23,7 +23,7 @@ release:
   - Ronnie_Jiang
   - zyp-rock
   - small_leek
-  - Paul_Huang
+  - paul-huang
   - imxcc 
   - gatieme 
   - xxiaosong
@@ -71,6 +71,7 @@ release:
   - licihua
   - zhengshaoyu
   - zengwefeng
+  - paul-huang
 
 - branch: openEuler-22.03-LTS
   community:
@@ -84,6 +85,7 @@ release:
   - zhengshaoyu
   - zengwefeng
   - imxcc
+  - paul-huang
 
 - branch: openEuler-20.03-LTS
   community:
