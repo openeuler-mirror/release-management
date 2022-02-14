@@ -84,3 +84,16 @@ release:
   - zhengshaoyu
   - zengwefeng
   - imxcc
+
+- branch: openEuler-20.03-LTS
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - ruebb
+  - licihua
+  - zhengshaoyu
+  - zengwefeng
+  - imxcc
