@@ -24888,6 +24888,12 @@ packages:
     obs_from: openEuler:20.03:LTS:Next:Epol
     obs_to: openEuler:20.03:LTS:SP1:Epol
     date: 2021-09-23-19-35-00
+  - name: ongres-stringprep
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2022-02-15-14-21-00
   recycle: []
   delete: 
   - name: hardlink
