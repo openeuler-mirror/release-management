@@ -29333,6 +29333,13 @@ packages:
       change_pr: init openEuler-22.03-LTS
       date: 2022-01-24-15-35-23
   epol:
+  - name: alertmanager
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-15-15-39-04
   - name: raspberrypi-bluetooth
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
