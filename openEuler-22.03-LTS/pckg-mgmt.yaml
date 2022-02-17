@@ -29459,6 +29459,258 @@ packages:
       change_pr: init openEuler-22.03-LTS
       date: 2022-02-10-15-25-50
   epol:
+  - name: kiran-authentication-service
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-biometrics
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-calculator
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-calendar
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cc-daemon
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-control-panel
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-account
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-appearance
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-display
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-keybinding
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-keyboard
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-mouse
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-power
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-cpanel-timedate
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-desktop
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-flameshot
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-gtk-theme
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-icon-theme
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-log
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-menu
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-panel
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-qdbusxml2cpp
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-screensaver
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-session-guard
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-session-manager
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-themes
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-wallpapers
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: kiran-widgets-qt5
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: libcutl
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: xsd
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: zlog
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: mate-control-center
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: mate-media
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: mate-notification-daemon
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: mate-panel
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
+  - name: mate-user-guide
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-00-06
   - name: alertmanager
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
