@@ -33428,6 +33428,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
+  - name: ongres-stringprep
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-02-17-10-08-23
   recycle: []
   delete:
   - name: openstack-nova
