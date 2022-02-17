@@ -1772,6 +1772,20 @@ packages:
       obs_to: openEuler:22.03:LTS
       change_pr: init openEuler-22.03-LTS
       date: 2022-01-24-15-35-23
+    - name: python-remoto
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-17-15-11-30
+    - name: python-kubernetes
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-17-15-11-30
     - name: python-requests-ftp
       branch_from: openEuler-22.03-LTS-Next
       branch_to: openEuler-22.03-LTS
