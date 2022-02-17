@@ -32476,13 +32476,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: python-zstd
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: dde-kwin
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
