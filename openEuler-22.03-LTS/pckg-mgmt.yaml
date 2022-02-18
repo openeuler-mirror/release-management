@@ -34058,6 +34058,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: community-3213
     date: 2022-02-17-11-23-06
+  - name: ukui-interface
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: obs_meta-1310
+    date: 2022-02-22-10-24-06
   - name: perl-Net-IP
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
