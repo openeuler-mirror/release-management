@@ -34079,6 +34079,20 @@ packages:
     obs_to: openEuler:22.03:LTS
     change_pr: obs_meta-1310
     date: 2022-02-17-11-23-06
+  - name: jakarta-el
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1315
+    date: 2022-02-18-16-18-06
+  - name: jakarta-server-pages
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1315
+    date: 2022-02-18-16-18-06
   recycle: []
   delete:
   - name: openstack-nova
