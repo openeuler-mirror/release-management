@@ -34100,6 +34100,13 @@ packages:
     obs_to: openEuler:22.03:LTS
     change_pr: obs_meta-1315
     date: 2022-02-18-16-18-06
+  - name: Imath
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1336
+    date: 2022-02-21-10-13-06
   recycle: []
   delete:
   - name: openstack-nova
