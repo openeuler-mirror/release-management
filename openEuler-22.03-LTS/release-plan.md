@@ -10,12 +10,12 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 | Kernel freezing      | 2022/1/20  | 2022/1/24  | 5    | 内核冻结                                  |
 | Branch 22.03-LTS     | 2022/1/24  | 2022/1/24   | 1    | 拉版本分支：21.09(决议) -> 22.03 LTS-Next -> 22.03 LTS |
 | Build & Alpha        | 2022/1/25   | 2022/1/31  | 5    | 版本启动构建  & 开发自验证              |
-| Test round 1         | 2022/2/14 | 2022/2/18 | 5    | 版本启动测试                              |
-| Beta Version release | 2022/2/21 | 2022/2/23 | 3    | Beta版本发布                              |
-| Test round 2         | 2022/2/22 | 2022/2/25 | 5    |                                           |
-| Test round 3         | 2022/2/28 | 2022/3/4  | 5    |                                           |
-| Test round 4         | 2022/3/7  | 2022/3/11 | 5    |                                           |
-| Test round 5         | 2022/3/15 | 2022/3/17 | 3    |                                           |
+| Test round 1         | 2022/2/16 | 2022/2/22 | 5    | 版本启动测试 //根据round 1转测延期调整顺延                           |
+| Beta Version release | 2022/2/24 | 2022/2/26 | 3    | Beta版本发布                              |
+| Test round 2         | 2022/2/24 | 2022/3/1 | 5    |                                           |
+| Test round 3         | 2022/3/3 | 2022/3/8  | 5    |                                           |
+| Test round 4         | 2022/3/9  | 2022/3/14 | 5    |                                           |
+| Test round 5         | 2022/3/16 | 2022/3/18 | 3    |                                           |
 | Release              | 2022/3/30 | 2022/3/30 | 1    |                                           |
 
 
@@ -44,7 +44,7 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4S8L8](https://gitee.com/openeuler/release-management/issues/I4S8L8)|支持GNOME|Developing|GNOME|[@weijin-deng](https://gitee.com/weijin-deng) [@dwl301](https://gitee.com/dwl301)|
 |[I4S7C0](https://gitee.com/openeuler/release-management/issues/I4S7C0)|支持OpenStack Train/Wallaby版本|Developing|SIG-OpenStack| [@joec88](https://gitee.com/joec88) [@huangtianhua](https://gitee.com/huangtianhua) [@xiyuanwang](@https://gitee.com/xiyuanwang)  [@zh-f](https://gitee.com/zh-f)  [@liksh](https://gitee.com/liksh) [@zhangy1317](https://gitee.com/zhangy1317) |
 |[I4RAOD](https://gitee.com/openeuler/release-management/issues/I4RAOD)|发布kiran-desktop 2.2版本|Developing|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02)|
-|I4S8D3](https://gitee.com/openeuler/release-management/issues/I4S8D3)|支持xfce|Developing|xfce|[@zhang__3125](https://gitee.com/zhang__3125) [@dwl301](https://gitee.com/dwl301)|
+|[I4S8D3](https://gitee.com/openeuler/release-management/issues/I4S8D3)|支持xfce|Developing|xfce|[@zhang__3125](https://gitee.com/zhang__3125) [@dwl301](https://gitee.com/dwl301)|
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
