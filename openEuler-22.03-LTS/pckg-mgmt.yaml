@@ -29479,6 +29479,13 @@ packages:
       obs_to: openEuler:22.03:LTS
       change_pr: init openEuler-22.03-LTS
       date: 2022-02-18-09-45-05
+    - name: gdk-pixbuf-xlib
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-02-21-10-08-22
   epol:
   - name: kiran-authentication-service
     branch_from: openEuler-22.03-LTS-Next
