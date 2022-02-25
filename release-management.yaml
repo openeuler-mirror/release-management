@@ -76,7 +76,7 @@ release:
 - branch: openEuler-22.03-LTS
   community:
   - src-openeuler
-  frozen: true
+  frozen: false
   owner:
   - solarhu
   - yaqiangchen
