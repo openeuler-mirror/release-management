@@ -34268,6 +34268,13 @@ packages:
     obs_to: openEuler:22.03:LTS
     change_pr: obs_meta-1336
     date: 2022-02-21-10-13-06
+  - name: byzanz
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: obs_meta-1341
+    date: 2022-03-01-09-03-06
   recycle: []
   delete:
   - name: openstack-nova
