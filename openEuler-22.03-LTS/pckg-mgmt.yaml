@@ -34275,6 +34275,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: obs_meta-1341
     date: 2022-03-01-09-03-06
+  - name: python-stevedore
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-02-15-33-30
   recycle: []
   delete:
   - name: openstack-nova
@@ -35013,13 +35020,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
   - name: python-stestr
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-26-15-18-30
-  - name: python-stevedore
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
