@@ -34303,6 +34303,76 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-03-02-15-33-30
+  - name: rubygem-pg
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-hiredis
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-rr
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-test-unit-rr
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-racc
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-actiontext
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-actionmailbox
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-sassc-rails
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-sassc
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
+  - name: rubygem-zeitwerk
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1362
+    date: 2022-03-03-19-03-06
   recycle: []
   delete:
   - name: openstack-nova
