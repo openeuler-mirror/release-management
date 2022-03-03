@@ -32630,6 +32630,27 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
+  - name: python-pkginfo
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-03-16-15-55
+  - name: python-readme-renderer
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-03-16-17-59
+  - name: python-bleach
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-03-16-18-20
   - name: kf5-kitemviews
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
