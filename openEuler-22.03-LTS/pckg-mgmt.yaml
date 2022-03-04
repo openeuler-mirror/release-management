@@ -32045,10 +32045,10 @@ packages:
   - name: python-routes
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
     change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
+    date: 2022-03-04-16-17-30
   - name: simple-scan
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
