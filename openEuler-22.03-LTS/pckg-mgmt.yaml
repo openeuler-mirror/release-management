@@ -24684,6 +24684,13 @@ packages:
       obs_to: openEuler:22.03:LTS
       change_pr: init openEuler-22.03-LTS
       date: 2022-01-24-15-35-23
+    - name: gazelle
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: community-3324
+      date: 2022-03-11-09-52-12
     - name: perl-Test-Warnings
       branch_from: openEuler-22.03-LTS-Next
       branch_to: openEuler-22.03-LTS
