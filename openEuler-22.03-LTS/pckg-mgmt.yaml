@@ -29781,6 +29781,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-02-17-10-00-06
+  - name: mate-system-monitor
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-05-17-42-06
   - name: alertmanager
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
