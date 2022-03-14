@@ -34401,13 +34401,6 @@ packages:
     obs_to: openEuler:22.03:LTS
     change_pr: obs_meta-1362
     date: 2022-03-03-19-03-06
-  - name: novnc
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-03-10-01-34-07
   - name: dibbler
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -36020,3 +36013,10 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
+  - name: novnc
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-14-06-59-17
