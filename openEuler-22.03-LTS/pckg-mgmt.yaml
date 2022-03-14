@@ -30180,13 +30180,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-24-15-34-50
-  - name: python-sphinx-feature-classification
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-24-15-34-50
   - name: xarchiver
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -36014,6 +36007,13 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
   - name: novnc
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-14-06-59-17
+  - name: python-sphinx-feature-classification
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
