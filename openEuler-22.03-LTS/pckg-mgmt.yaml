@@ -29543,6 +29543,20 @@ packages:
       change_pr: init openEuler-22.03-LTS
       date: 2022-02-21-10-08-22
   epol:
+  - name: gstreamer1-libav
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-17-15-19-00
+  - name: gnome-tweaks
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-17-15-19-00
   - name: nispor
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
