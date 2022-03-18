@@ -34450,6 +34450,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-03-10-01-34-07
+  - name: spirv-llvm-translator
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1395
+    date: 2022-03-18-16-47-00
   recycle:
   - name: rubygem-session
     branch_from: openEuler-22.03-LTS-Next
