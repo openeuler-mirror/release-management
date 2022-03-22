@@ -37,7 +37,7 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4N83C](https://gitee.com/openeuler/release-management/issues/I4N83C)|openGauss默认集成到openEuler操作系统中|Testing|DB|[@zhang_xubo](https://gitee.com/zhang_xubo), [@bzhaoop](https://gitee.com/bzhaoop)|
 |[I4O21W](https://gitee.com/openeuler/release-management/issues/I4O21W)|新增支持容器场景在离线混合部署|Testing|CloudNative|[@Vanient](https://gitee.com/Vanient)|
 |[I4PM21](https://gitee.com/openeuler/release-management/issues/I4PM21)|StratoVirt安全容器支持直通设备热插拔|Testing|Virt|[@frankyj915](https://gitee.com/frankyj915), [@imxcc](https://gitee.com/imxcc)|
-|[I4PMNN](https://gitee.com/openeuler/release-management/issues/I4PMNN)|libcareplus提供Qemu热补丁能力|Testing|Virt|[@mdsc](https://gitee.com/mdsc), [@imxcc](https://gitee.com/imxcc)|
+|[I4PMNN](https://gitee.com/openeuler/release-management/issues/I4PM1U)|libcareplus提供Qemu热补丁能力|Testing|Virt|[@mdsc](https://gitee.com/mdsc), [@imxcc](https://gitee.com/imxcc)|
 |[I4PMYT](https://gitee.com/openeuler/release-management/issues/I4PMYT)|新增支持gazelle高性能用户态协议栈|Testing|sig-high-performance-network|[@wu-changsheng](https://gitee.com/wu-changsheng)|
 |[I4QL70](https://gitee.com/openeuler/release-management/issues/I4QL70)|支持树莓派|Testing|RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|
 |[I4S8L8](https://gitee.com/openeuler/release-management/issues/I4S8L8)|支持GNOME|Testing|GNOME|[@weijin-deng](https://gitee.com/weijin-deng) [@dwl301](https://gitee.com/dwl301)|
