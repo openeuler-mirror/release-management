@@ -29543,6 +29543,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-03-16-10-42-00
+  - name: gcc-cross
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-24-14-55-00
   - name: mom
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
