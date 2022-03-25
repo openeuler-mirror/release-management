@@ -44,6 +44,7 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 |[I4S7C0](https://gitee.com/openeuler/release-management/issues/I4S7C0)|支持OpenStack Train/Wallaby版本|Testing|SIG-OpenStack| [@joec88](https://gitee.com/joec88) [@huangtianhua](https://gitee.com/huangtianhua) [@xiyuanwang](@https://gitee.com/xiyuanwang)  [@zh-f](https://gitee.com/zh-f)  [@liksh](https://gitee.com/liksh) [@zhangy1317](https://gitee.com/zhangy1317) |
 |[I4RAOD](https://gitee.com/openeuler/release-management/issues/I4RAOD)|发布kiran-desktop 2.2版本|Testing|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02)|
 |[I4S8D3](https://gitee.com/openeuler/release-management/issues/I4S8D3)|支持xfce|Testing|xfce|[@zhang__3125](https://gitee.com/zhang__3125) [@dwl301](https://gitee.com/dwl301)|
+|[I4ZJWD](https://gitee.com/openeuler/release-management/issues/I4ZJWD)|新增支持embedded版本|Testing|embedded|[@beilingxie](https://gitee.com/beilingxie)|
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
