@@ -29522,6 +29522,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-03-17-15-19-00
+  - name: gnome-shell-extension-desktop-icons
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-03-26-16-55-00
   - name: nispor
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
