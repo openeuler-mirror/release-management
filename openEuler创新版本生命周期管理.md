@@ -1,5 +1,5 @@
 openEuler 创新版本大约每6个月发布一次新版本，并在发布后的6个月内持续为该发行版提供软件包更新维护（bugfix、CVE漏洞修复），开发者和社区爱好者可尝鲜该创新版本，第一时间获得自由和开源软件项目的最新stable版本；
-oepnEuler创新版本经过社区sig组和QA团队充分测试，推荐给开发者、openEuler社区贡献者和Linux爱好者使用。
+openEuler创新版本经过社区sig组和QA团队充分测试，推荐给开发者、openEuler社区贡献者和Linux爱好者使用。
 
 ### 开发时间表
 openEuler创新版本大约每6个月发布一次，但不排除受版本质量、社区关键组件构建进度影响到导致的严格的发布时间执行，且创新版本的里程碑发行版均需要由各个sig和QA团队的充分测试验证，已达到openEuler社区版本质量发行标准的情况下允许发布，关于具体的发布计划和发布进展，请关注openEuler社区relase management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)
