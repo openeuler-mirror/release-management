@@ -29507,6 +29507,13 @@ packages:
       obs_to: openEuler:22.03:LTS
       change_pr: init openEuler-22.03-LTS
       date: 2022-02-21-10-08-22
+    - name: kmod-drbd90
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-04-18-14-32-22
   epol:
   - name: stress-ng
     branch_from: openEuler-22.03-LTS-Next
