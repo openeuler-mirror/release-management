@@ -34464,6 +34464,13 @@ packages:
     obs_to: openEuler:22.03:LTS
     change_pr: obs_meta-1395
     date: 2022-03-18-16-47-00
+  - name: cereal
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS
+    change_pr: obs_meta-1434
+    date: 2022-04-22-14-23-00
   recycle: []
   delete:
   - name: openstack-nova
