@@ -21,7 +21,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 | 姓名| GiteeID           | 邮件地址  |
 | :-------------: |:--------:| :-----|
 |胡峰 | [@solarhu](https://gitee.com/solarhu)| solar.hu@huawei.com|
-|黄城飘|[@paul-huang](https://gitee.com/paul-huang)|huangchengpiao@huawei.com|
+|黄诚飘|[@paul-huang](https://gitee.com/paul-huang)|huangchengpiao@huawei.com|
 |陈亚强  | [@chenyaqiang](https://gitee.com/chenyaqiang)|  chen_yaqiang@foxmail.com|
 
 **Commiter:**
