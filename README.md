@@ -11,10 +11,10 @@ Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA�
 
 ## 组织会议
 
-公开的视频会议时间：北京时间双周三上午，9:30~11:30，请订阅release@openeuler.org，以获取相关会议通知
+公开的视频会议时间：北京时间双周五上午，10:00~12:00，请订阅release@openeuler.org，以获取相关会议通知
 
 ## 会议纪要归档
-release management sig历次会议纪要均做归档，详情请查询历史[会议纪要归档wiki](https://gitee.com/openeuler/release-management/wikis)
+release management sig历次会议纪要均做归档，详情请查询历史[会议纪要归档etherpad](https://etherpad.openeuler.org/p/sig-release-management-meetings)
 
 ## 成员
 **Maintainer：**
