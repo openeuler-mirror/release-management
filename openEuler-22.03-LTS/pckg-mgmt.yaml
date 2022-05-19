@@ -29522,6 +29522,55 @@ packages:
       change_pr: init openEuler-22.03-LTS
       date: 2022-04-18-14-32-22
   epol:
+  - name: python-cliff
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
+  - name: python-lockfile
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
+  - name: python-stestr
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
+  - name: python-oslotest
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
+  - name: python-ovsdbapp
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
+  - name: python-websockify
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
+  - name: novnc
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-05-18-14-47-22
   - name: collectd
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -34858,13 +34907,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
-  - name: python-cliff
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-26-15-18-30
   - name: python-sushy
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -35145,13 +35187,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
-  - name: python-ovsdbapp
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-26-15-18-30
   - name: python-requests-mock
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -35264,13 +35299,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
-  - name: python-oslotest
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-26-15-18-30
   - name: python-os-service-types
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
@@ -35286,20 +35314,6 @@ packages:
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
   - name: python-requestsexceptions
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-26-15-18-30
-  - name: python-stestr
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-01-26-15-18-30
-  - name: python-websockify
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
     obs_from: openEuler:22.03:LTS:Next:Epol
@@ -36160,13 +36174,6 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: init openEuler-22.03-LTS
     date: 2022-01-26-15-18-30
-  - name: novnc
-    branch_from: openEuler-22.03-LTS-Next
-    branch_to: openEuler-22.03-LTS
-    obs_from: openEuler:22.03:LTS:Next:Epol
-    obs_to: openEuler:22.03:LTS:Epol
-    change_pr: init openEuler-22.03-LTS
-    date: 2022-03-14-06-59-17
   - name: python-sphinx-feature-classification
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS
