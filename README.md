@@ -1,12 +1,24 @@
-# 发行经理
+## SIG职责
 
 Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA等各个团队，完成openEuler社区版本的发布工作。主要职责如下：
 
+**Maintainer职责包括待不限于以下几点：**
 - 规划和计划openEuler版本的发行时间表
 - 在开发/测试周期中跟踪（更新updates或功能feature）的开发状态
 - 发布协调（在QA，发布工程师，技术委员会等范围内），参与相关组和发布相关等会议
 - 负责openEuler项目的交付过程协调
+- 版本评审发布决策（GO/NO GO）
 
+**Committer职责包括但不限于以下几点：**
+- 同步版本规划/计划
+- 提名/推荐新特性
+- 跟踪特性交付进度
+- 评审新特性
+- 评审版本质量
+- 撰写或更新版本相关文档
+- 优化release sig版本管理流程
+- 组织线下版本相关活动
+- 推广社区版本
 
 
 ## 组织会议
@@ -27,10 +39,33 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 **Commiter:**
 | 姓名| GiteeID           | 邮件地址  |
 | :-------------: |:--------:| :-----|
-|王勋| |dream.wang@huawei.com|
 |明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
 |张伟| [@hwzw](https://gitee.com/hwzw) | zw.zhang@huawei.com|
 |李永强| [@Charlie_li](https://gitee.com/Charlie_li) | liyongqiang@huawei.com|
+|沈永康|	|	|
+|刘涛|	|	|
+|徐磊|	|	|
+|陈家龙|	|	|
+|魏强|	|	|
+|毛晨曦|	|	|
+|廖清伟|	|	|
+|曾卫峰|	|	|
+|吕从庆|	|	|
+|潘晨博|	|	|
+|丁文龙|	|	|
+|庄小凡|	|	|
+|倪杰|	|	|
+|王建民|	|	|
+|席静|	|	|
+|周嘉诚|	|	|
+|汪洋|	|	|
+|周强|	|	|
+|唐杰|	|	|
+|柳鑫浩|	|	|
+|罗清|	|	|
+|刘家杰|	|	|
+|李星|	|	|
+|侯芳东|	|	|
 
 **Honor Maintainer**
 | 姓名| GiteeID           | 邮件地址  |
@@ -40,6 +75,11 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |许小松  | [@xxiaosong](https://gitee.com/xxiaosong)|  xuxiaosong@huawei.com| 
 |刘博| [@boliurise](https://gitee.com/boliurise) | liubo79@huawei.com|
 |朱延朋  | [@zyp-rock](https://gitee.com/zyp-rock)|  zhuyanpeng@huawei.com|
+
+**Honor Commiter**
+| 姓名| GiteeID           | 邮件地址  |
+| :-------------: |:--------:| :-----|
+|王勋| |dream.wang@huawei.com|
 
 衷心感谢与你们曾经一起在开源社区协作共进的日子，此后，人生海海，山山而川，江湖不远，自在相逢。
 
