@@ -1,4 +1,4 @@
-## SIG职责
+# 发行经理
 
 Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA等各个团队，完成openEuler社区版本的发布工作。主要职责如下：
 
@@ -85,12 +85,23 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 
 ## release maintainer竞选流程及原则
 由maintainer和扩展成员提名（个人先向以上成员提出申请），release sig评审
-- 个人或者所属团队，连续6个月以上对社区有持续贡献，且至少有一个特性为版本关键特性（存在于release notes）
-- 持续参加release sig例会，近6个月与会率70%以上
-- 对版本release管理有突出贡献（自我举证）
+- committer成员连续6个月以上对社区有持续贡献，且至少有一个特性为版本关键特性（存在于release notes）；
+- committer成员持续参加release sig例会，近6个月与会率70%以上；
+- committer成员代表伙伴团队可独立参与社区决策；
+- 对release管理/社区版本运作有突出贡献者个人和组织自我推荐（贡献自我举证）
 
 ## release maintianer变更流程及原则
-主动提出或者release提出，release sig评审
+- 主动退出或者release提议退出，release sig评审后发起更新
+- 主动退出或者连续6次以上无故不参与release sig例会
+- 个人或者所属团队，连续6个月无社区贡献
+
+## release committer新增流程及原则：
+- 各个伙伴团队主动提名，日常参与sig组例会，参与版本规划、计划、评审、决策等流程。
+- 对release sig/社区版本运作有突出贡献者个人和组织自我推荐（贡献内容自我举证，贡献形式不限）
+
+
+## release maintianer变更流程及原则
+- 主动退出或者release提议退出，release sig评审后发起更新
 - 主动退出或者连续6次以上无故不参与release sig例会
 - 个人或者所属团队，连续6个月无社区贡献
 
@@ -108,4 +119,6 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 
 Repository地址：https://gitee.com/openeuler/release-management
 
-*发布经理团队的相关信息均在以上Reository内，可以进入该Repository了解详情
+## Release SIG例会纪要
+
+历史纪要归档：https://etherpad.openeuler.org/p/sig-release-management-meetings
