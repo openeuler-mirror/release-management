@@ -942,6 +942,12 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP1
     date: 2021-07-13-15-00-43
+  - name: gazelle
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP1
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP1
+    date: 2022-06-13-15-06-43
   - name: ipcalc
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP1

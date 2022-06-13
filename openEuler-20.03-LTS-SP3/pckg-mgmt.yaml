@@ -306,6 +306,12 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP3
     date: 2021-11-09-15-11-11
+  - name: gazelle
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next
+    obs_to: openEuler:20.03:LTS:SP3
+    date: 2022-06-13-15-13-11
   - name: java-oauth
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP3
