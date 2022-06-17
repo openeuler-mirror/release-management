@@ -49,7 +49,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |超聚变|陈家龙|	|	|
 |SUSE|魏强|	|	|
 |SUSE|毛晨曦|	|	|
-|华为-庞加莱|廖清伟|	|	|
+|华为-庞加莱|廖清伟| [@liaoqingwei](https://gitee.com/liaoqingwei) | liaoqingwei@huawei.com |
 |华为-庞加莱|曾卫峰|	|	|
 |华为|王晔晖|    |    |
 |统信|吕从庆|	|	|
