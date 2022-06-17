@@ -41,6 +41,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 **Commiter:**
 |团队| 姓名| GiteeID           | 邮件地址  |
 | :-------------: | :-------------: |:--------:| :-----|
+|华为-openEuler|王博|    |    |
 |华为-openEuler|明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
 |麒麟|沈永康|	|	|
 |麒麟|刘涛|	|	|
@@ -50,6 +51,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |SUSE|毛晨曦|	|	|
 |华为-庞加莱|廖清伟|	|	|
 |华为-庞加莱|曾卫峰|	|	|
+|华为|王晔晖|    |    |
 |统信|吕从庆|	|	|
 |统信|潘晨博|	|	|
 |拓林思|丁文龙|	|	|
@@ -90,7 +92,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 - committer成员代表伙伴团队可独立参与社区决策；
 - 对release管理/社区版本运作有突出贡献者个人和组织自我推荐（贡献自我举证）
 
-## release maintianer变更流程及原则
+## release committer变更流程及原则
 - 主动退出或者release提议退出，release sig评审后发起更新
 - 主动退出或者连续6次以上无故不参与release sig例会
 - 个人或者所属团队，连续6个月无社区贡献
