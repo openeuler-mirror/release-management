@@ -1,6 +1,20 @@
 packages:
   everything:
     baseos:
+    - name: libxcvt
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1491
+      date: 2022-06-21-11-20-23
+    - name: xorg-x11-server-xwayland
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1491
+      date: 2022-06-21-11-20-23
     - name: libsexy
       branch_from: openEuler-22.03-LTS-Next
       branch_to: openEuler-22.03-LTS
