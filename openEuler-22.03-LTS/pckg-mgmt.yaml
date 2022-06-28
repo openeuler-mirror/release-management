@@ -29535,6 +29535,13 @@ packages:
       obs_to: openEuler:22.03:LTS
       change_pr: init openEuler-22.03-LTS
       date: 2022-04-18-14-32-22
+    - name: open-vm-tools
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: init openEuler-22.03-LTS
+      date: 2022-06-24-11-26-22
   epol:
   - name: python-cliff
     branch_from: openEuler-22.03-LTS-Next
