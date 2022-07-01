@@ -54,8 +54,8 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |华为|王晔晖|    |    |
 |统信|吕从庆|	|	|
 |统信|潘晨博|	|	|
-|拓林思|丁文龙|	|	|
-|拓林思|庄小凡|	|	|
+|拓林思|丁文龙|	[@dwl301](https://gitee.com/dwl301) | wenlong.ding@turbolinux.com.cn |
+|拓林思|庄小凡|	[@zxf-tl](https://gitee.com/zxf-tl) | xiaofan.zhuang@turbolinux.com.cn |
 |申威|倪杰|	|	|
 |中科院-软件所|王建民|	|	|
 |中科院-软件所|席静|	|	|
