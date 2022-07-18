@@ -29024,6 +29024,27 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-15-11-23-34
+    - name: rubygem-hiredis
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-18-11-23-34
+    - name: rubygem-rspec-expectations
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-18-11-23-34
+    - name: tensorflow
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-18-11-23-34
   epol:
   - name: python-senlinclient
     branch_from: master
@@ -35948,5 +35969,61 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-15-11-23-34
+  - name: python-keystone-tempest-plugin
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: python-watcherclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: openstack-tempest
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: python-trove-tempest-plugin
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: python-glance-tempest-plugin
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: python-cinder-tempest-plugin
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: python-ironic-tempest-plugin
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
+  - name: python-ironicclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-18-11-23-34
   recycle: []
   delete: []
