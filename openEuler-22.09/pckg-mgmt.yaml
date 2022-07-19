@@ -29045,6 +29045,27 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-18-11-23-34
+    - name: containers-common
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-35-34
+    - name: evolution-data-server
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-35-34
+    - name: gnome-shell
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-35-34
   epol:
   - name: python-senlinclient
     branch_from: master
