@@ -39,6 +39,17 @@ openEuler 22.09 是基于5.10内核的创新版本（参见[版本生命周期](
 |[I5BMO2](https://gitee.com/openeuler/release-management/issues/I5BMO2)|DDE组件更新支持服务器场景优化|Discussion|sig-DDE|[@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo)|EPOL| |
 |[I5BMNH](https://gitee.com/openeuler/release-management/issues/I5BMNH)|新增软件更新工具支持|Discussion|sig-DDE|[@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo)|EPOL|deepin-upgrade-tool|
 |[I5BMMP](https://gitee.com/openeuler/release-management/issues/I5BMMP)|新增备份还原功能支持|Discussion|sig-Migration|[@blueblue](https://gitee.com/blublue)|EPOL|ubackup|
+|[I545LZ](https://gitee.com/openeuler/release-management/issues/I545LZ)|openEuler 22.09和22.03 SP1支持鲲鹏底软IO能力（存储、usb、SPI、Pcie、IIC、CXL、GPU和GPIO等）|Developing||[@kongzizaixian](https://gitee.com/kongzizaixian)|iso||
+|[I545LT](https://gitee.com/openeuler/release-management/issues/I545LT)|openEuler 22.09和22.03 SP1支持鲲鹏性能调优和调测调优（Rasdaemon、Ras、etm、perf、wayca-SC、Mem-kind、HCCS、Hikptool等）|Developing||[@kongzizaixian](https://gitee.com/kongzizaixian)|iso||
+|[I545LP](https://gitee.com/openeuler/release-management/issues/I545LP)|openEuler 22.09和22.03 SP1支持鲲鹏高速网络功能（DPDK、UB、RDMA-core、ROH、Roce、NIC等）|Developing||[@kongzizaixian](https://gitee.com/kongzizaixian)|iso||
+|[I545LH](https://gitee.com/openeuler/release-management/issues/I545LH)|openEuler 22.09和22.03 SP1支持鲲鹏加速器功能（UADK、UADK_engine、starS、SDMA、ACC等）|Developing||[@kongzizaixian](https://gitee.com/kongzizaixian)|iso||
+|[I545M5](https://gitee.com/openeuler/release-management/issues/I545M5)|openEuler 22.09和22.03 SP1 测试工具能力（pktgen）|Developing||[@kongzizaixian](https://gitee.com/kongzizaixian)|EPOL||
+|[I59BQI](https://gitee.com/openeuler/release-management/issues/I59BQI)|【openEuler 22.09】openEuler 22.09 支持 pod带宽管理特性|Developing||[@wo_cow](https://gitee.com/wo_cow)|iso||
+|[I5BM96](https://gitee.com/openeuler/release-management/issues/I5BM96)|[openEuler 22.09]StratoVirt 2.0支持标准虚拟化|Developing|||iso||
+|[I5BMD4](https://gitee.com/openeuler/release-management/issues/I5BMD4)|[openEuler 22.09]集成k3s边缘解决方案|Developing|||EPOL||
+|[I5BMFH](https://gitee.com/openeuler/release-management/issues/I5BMFH)|[openEuler 22.09]智能多流技术，延长ssd磁盘寿命|Developing|||iso||
+|[I5BMGZ](https://gitee.com/openeuler/release-management/issues/I5BMGZ)|[openEuler 22.09]国密算法适配|Developing|||iso||
+|[I5BMI3](https://gitee.com/openeuler/release-management/issues/I5BMI3)|[openEuler 22.09]libstorage高性能用户态IO|Developing|||iso||
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
