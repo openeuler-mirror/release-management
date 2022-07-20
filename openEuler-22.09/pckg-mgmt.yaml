@@ -29066,6 +29066,538 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-10-35-34
+    - name: rubygem-capybara
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-i18n
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-shoulda-matchers
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-actiontext
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-redis
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-webmock
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-listen
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-railties
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-http-cookie
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rspec-core
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-aruba
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rspec-support
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-spring
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-tzinfo
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-wikicloth
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-mini_magick
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-jbuilder
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-sinatra
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rspec2-core
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-power_assert
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rails-dom-testing
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-mustermann
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-concurrent-ruby
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-simplecov
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-ethon
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-sprockets
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-jquery-rails
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-activemodel-serializers-xml
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-shoulda
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rails-controller-testing
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-delorean
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-timecop
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-temple
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-actionpack
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-activeresource
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-activesupport
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-cucumber-core
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rack-protection
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-sassc-rails
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-activemodel
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-tilt
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-sass
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: folks
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-excon
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-typhoeus
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-sprockets-rails
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-sass-rails
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-shoulda-context
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-cucumber-expressions
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-activerecord
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-actionmailbox
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-byebug
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-domain_name
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-addressable
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-globalid
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rspec-its
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-thread_safe
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-thor
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-actionview
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-xpath
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-actioncable
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-cucumber-tag_expressions
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-cucumber
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rb-inotify
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-launchy
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-httpclient
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-arel
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-actionmailer
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-haml
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-unf
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-activejob
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-cucumber-wire
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-backports
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rack-test
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: rubygem-rails-html-sanitizer
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
+    - name: crun
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-13-44-26
   epol:
   - name: python-senlinclient
     branch_from: master
@@ -36046,5 +36578,68 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-18-11-23-34
+  - name: openstack-placement
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: openstack-nova
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: python-aodhclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: openstack-horizon
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: python-castellan
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: openstack-ironic
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: openstack-ironic-inspector
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: openstack-cinder
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
+  - name: python-ironic-inspector-client
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-20-13-44-26
   recycle: []
   delete: []
