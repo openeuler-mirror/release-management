@@ -50,6 +50,7 @@ openEuler 22.09 是基于5.10内核的创新版本（参见[版本生命周期](
 |[I5BMFH](https://gitee.com/openeuler/release-management/issues/I5BMFH)|[openEuler 22.09]智能多流技术，延长ssd磁盘寿命|Developing|||iso||
 |[I5BMGZ](https://gitee.com/openeuler/release-management/issues/I5BMGZ)|[openEuler 22.09]国密算法适配|Developing|||iso||
 |[I5BMI3](https://gitee.com/openeuler/release-management/issues/I5BMI3)|[openEuler 22.09]libstorage高性能用户态IO|Developing|||iso||
+|[I5H6DI](https://gitee.com/openeuler/release-management/issues/I5H6DI)|增强embedded版本分布式软总线及混合部署能力|Discussion|sig-yocto|[@linzichang](https://gitee.com/linzichang) [@beiling.xie](https://gitee.com/beilingxie) [@zhengjunling](https://gitee.com/junling_zheng) [@ilisimin](https://gitee.com/open_euler/dashboard/members/ilisimin) [@任慰](https://gitee.com/open_euler/dashboard/members/vonhust)|embedded|yocto-meta-openeuler,dsoftbus_standard, yocto-embedded-tools, OpenAMP|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
