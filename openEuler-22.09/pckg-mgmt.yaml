@@ -29052,6 +29052,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-10-35-34
+    - name: pcs
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: evolution-data-server
       branch_from: master
       branch_to: openEuler-22.09
@@ -29059,6 +29066,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-10-35-34
+    - name: corosync
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: gnome-shell
       branch_from: master
       branch_to: openEuler-22.09
@@ -29066,6 +29080,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-10-35-34
+    - name: corosync-qdevice
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-capybara
       branch_from: master
       branch_to: openEuler-22.09
@@ -29073,6 +29094,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: drbd
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-i18n
       branch_from: master
       branch_to: openEuler-22.09
@@ -29080,6 +29108,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: fence-agents
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-shoulda-matchers
       branch_from: master
       branch_to: openEuler-22.09
@@ -29087,6 +29122,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: fence-virt
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-actiontext
       branch_from: master
       branch_to: openEuler-22.09
@@ -29094,6 +29136,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: google-api-python-client
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-redis
       branch_from: master
       branch_to: openEuler-22.09
@@ -29101,6 +29150,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: pacemaker
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-webmock
       branch_from: master
       branch_to: openEuler-22.09
@@ -29108,6 +29164,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: python-fasteners
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-listen
       branch_from: master
       branch_to: openEuler-22.09
@@ -29115,6 +29178,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: python-oauth2client
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-railties
       branch_from: master
       branch_to: openEuler-22.09
@@ -29122,6 +29192,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: python-uritemplate
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-http-cookie
       branch_from: master
       branch_to: openEuler-22.09
@@ -29129,6 +29206,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: sbd
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-20-10-21-34
     - name: rubygem-rspec-core
       branch_from: master
       branch_to: openEuler-22.09
@@ -29656,13 +29740,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: mod_wsgi
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: google-api-python-client
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -32791,13 +32868,6 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-15-11-23-34
-  - name: corosync-qdevice
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
   - name: perl-File-Pid
     branch_from: master
     branch_to: openEuler-22.09
@@ -32883,13 +32953,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: cinnamon-desktop
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: python-fasteners
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -33694,13 +33757,6 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-15-11-23-34
-  - name: fence-virt
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
   - name: python-sphinxcontrib-seqdiag
     branch_from: master
     branch_to: openEuler-22.09
@@ -33926,13 +33982,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: qjson
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: sbd
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -34185,13 +34234,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: python-bashate
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: pacemaker
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -34570,13 +34612,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: xfce-polkit
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: fence-agents
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -35486,13 +35521,6 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-15-11-23-34
-  - name: python-uritemplate
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
   - name: libkscreen-qt5
     branch_from: master
     branch_to: openEuler-22.09
@@ -35787,13 +35815,6 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-15-11-23-34
-  - name: corosync
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
   - name: python-wsme
     branch_from: master
     branch_to: openEuler-22.09
@@ -35844,13 +35865,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: pyang
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: pcs
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -35921,13 +35935,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: xfce-theme-manager
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: drbd
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
@@ -36285,13 +36292,6 @@ packages:
     change_pr: ''
     date: 2022-07-15-11-23-34
   - name: kiran-wallpapers
-    branch_from: master
-    branch_to: openEuler-22.09
-    obs_from: openEuler:Epol
-    obs_to: openEuler:22.09:Epol
-    change_pr: ''
-    date: 2022-07-15-11-23-34
-  - name: python-oauth2client
     branch_from: master
     branch_to: openEuler-22.09
     obs_from: openEuler:Epol
