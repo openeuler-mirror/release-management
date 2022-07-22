@@ -29682,6 +29682,13 @@ packages:
       obs_to: openEuler:22.09
       change_pr: ''
       date: 2022-07-20-13-44-26
+    - name: python-tomli
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-25-09-42-29
   epol:
   - name: python-senlinclient
     branch_from: master
@@ -36648,5 +36655,299 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-22-11-04-50
+  - name: python-django-configurations
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-types-enum34
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pymongocrypt
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-rst.linker
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-suds-community
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-async-generator
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pytest-freezegun
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-croniter
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-autopage
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pytest-mypy
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-sniffio
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-trio
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pytest-mpl
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pytest-randomly
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pycountry
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pip-api
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-oslo.limit
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-monascaclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pipreqs
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-types-cryptography
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pyspnego
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-covdefaults
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-ironic-ui
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-oslo.metrics
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-neutron-tempest-plugin
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-xclarityclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-hvac
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-cyborgclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pytest-env
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-coverage-enable-subprocess
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-blazarclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pyforge
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-cairosvg
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-pyodbc
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-grpcio-gcp
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-types-ipaddress
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-ironic-prometheus-exporter
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: openstack-glance
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-magnumclient
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-fuzzywuzzy
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-requirementslib
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
+  - name: python-jose
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-09-42-29
   recycle: []
   delete: []
