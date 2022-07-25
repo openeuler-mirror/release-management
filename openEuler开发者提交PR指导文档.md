@@ -24,11 +24,11 @@
 
 ***<u>修改对应目录下的pckg-mgmt.yaml，从openEuler-Mainline移动metis至openEuler-Qt，将包内容从openEuler-Mainline删除，并添加至openEuler-Qt</u>***
 
-![0723maser_move](Pictures\0723maser_move.png)
+![0723maser_move](Pictures/0723maser_move.png)
 
 ***<u>note：记录本次PR的所有移动信息至master/release_change.yaml中（该动作为自动动作，无需开发者操作）</u>***
 
-![0723master_move_record](Pictures\0723master_move_record.png)
+![0723master_move_record](Pictures/0723master_move_record.png)
 
 #### 1.2 master下包的删除
 
