@@ -34093,6 +34093,55 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-15-11-23-34
+  - name: caribou
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
+  - name: cjs
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
+  - name: cinnamon-mozjs78
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
+  - name: tint2
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
+  - name: python-tinycss2
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
+  - name: python-pam
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
+  - name: python-xapp
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-25-17-10-00
   - name: kf5-kglobalaccel
     branch_from: master
     branch_to: openEuler-22.09
