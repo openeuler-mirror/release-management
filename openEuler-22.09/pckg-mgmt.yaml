@@ -37089,5 +37089,12 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-26-11-08-36
+  - name: deepin-pw-check
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-26-13-51-36
   recycle: []
   delete: []
