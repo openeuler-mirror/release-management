@@ -1,6 +1,27 @@
 packages:
   everything:
     baseos:
+    - name: LZMA-SDK
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-26-11-23-34
+    - name: yaffs2
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-26-11-23-34
+    - name: mtd-utils
+      branch_from: master
+      branch_to: openEuler-22.09
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:22.09
+      change_pr: ''
+      date: 2022-07-26-11-23-34
     - name: kmod
       branch_from: master
       branch_to: openEuler-22.09
