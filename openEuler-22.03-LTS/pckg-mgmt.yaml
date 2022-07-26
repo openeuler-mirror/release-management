@@ -1,6 +1,27 @@
 packages:
   everything:
     baseos:
+    - name: LZMA-SDK
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1532
+      date: 2022-07-26-11-20-23
+    - name: yaffs2
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1532
+      date: 2022-07-26-11-20-23
+    - name: mtd-utils
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1532
+      date: 2022-07-26-11-20-23
     - name: libxcvt
       branch_from: openEuler-22.03-LTS-Next
       branch_to: openEuler-22.03-LTS
