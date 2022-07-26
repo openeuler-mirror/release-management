@@ -1,0 +1,9 @@
+packages:
+- name: ocaml-csexp
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Ocaml
+  date: '2022-07-26'
+- name: ocaml-csv
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Ocaml
+  date: '2022-07-26'
