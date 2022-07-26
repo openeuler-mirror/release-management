@@ -1,0 +1,17 @@
+packages:
+- name: containernetworking-plugins
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Golang
+  date: '2022-07-26'
+- name: coredns
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Golang
+  date: '2022-07-26'
+- name: node_exporter
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Golang
+  date: '2022-07-26'
+- name: nvwa
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Golang
+  date: '2022-07-26'
