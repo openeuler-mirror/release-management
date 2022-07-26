@@ -37040,5 +37040,26 @@ packages:
     obs_to: openEuler:22.09:Epol
     change_pr: ''
     date: 2022-07-25-16-48-35
+  - name: eom
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-26-11-08-34
+  - name: caja-extensions
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-26-11-08-35
+  - name: mate-utils
+    branch_from: master
+    branch_to: openEuler-22.09
+    obs_from: openEuler:Epol
+    obs_to: openEuler:22.09:Epol
+    change_pr: ''
+    date: 2022-07-26-11-08-36
   recycle: []
   delete: []
