@@ -13063,10 +13063,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: xclip
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: NetworkManager-pptp
   obs_from: ''
   obs_to: openEuler:Factory
