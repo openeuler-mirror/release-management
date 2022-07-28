@@ -4947,3 +4947,39 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: imageTailor
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: install-scripts
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: latexmk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: python-progressbar2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: python-sphinxcontrib-log-cabinet
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: python-utils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: openstack-releases
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: postgresql-odbc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
+- name: glog
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-28'
