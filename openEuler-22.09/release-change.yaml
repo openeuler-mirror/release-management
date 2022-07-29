@@ -4,3 +4,8 @@ release-change:
   changed_packages: python-watchdog python-feedparser python-flaky python-repoze.who
     python-pyfakefs python-sphinx-argparse
   date: 2022-07-29-14-12-48
+- pr: https://gitee.com/openeuler/release-management/pulls/496
+  description: "db25a44 !496 \u79FB\u52A8python-libconf\u5230epol\u548C22.09 epol\
+    \ obs\u5DE5\u7A0B"
+  changed_packages: python-libconf
+  date: 2022-07-29-15-08-54
