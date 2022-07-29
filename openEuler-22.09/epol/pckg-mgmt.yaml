@@ -6341,3 +6341,39 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-27'
+- name: python-watchdog
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-28'
+- name: python-feedparser
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-28'
+- name: python-flaky
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-28'
+- name: python-repoze.who
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-28'
+- name: python-pyfakefs 
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-28'
+- name: python-sphinx-argparse
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-28'
