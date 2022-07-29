@@ -1,1 +1,16 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/491
+  description: 0968d6b !491 multi add pkgs to factory epol mainline and 2209 epol
+  changed_packages: python-CouchDB python-django-babel python-Cython python-fastavro
+    python-flup python-scandir python-unicodecsv python-FormEncode python-aenum python-aiodns
+    python-cloud_sptheme python-fastnumbers python-testpath openstack-aodh openstack-ceilometer
+    openstack-cyborg openstack-heat openstack-panko python-congressclient python-discover
+    python-elasticsearch2 python-karborclient python-mox3 python-searchlightclient
+    python-tempest-lib python-trove-dashboard python-zVMCloudConnector ansible-lint
+    python-requests-aws python-pytest-asyncio
+  date: 2022-07-29-14-12-42
+- pr: https://gitee.com/openeuler/release-management/pulls/491
+  description: 0968d6b !491 multi add pkgs to factory epol mainline and 2209 epol
+  changed_packages: imageTailor install-scripts latexmk python-progressbar2 python-sphinxcontrib-log-cabinet
+    python-utils openstack-releases postgresql-odbc glog
+  date: 2022-07-29-14-12-47

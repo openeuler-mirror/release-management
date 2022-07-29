@@ -1,1 +1,6 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/491
+  description: 0968d6b !491 multi add pkgs to factory epol mainline and 2209 epol
+  changed_packages: python-watchdog python-feedparser python-flaky python-repoze.who
+    python-pyfakefs python-sphinx-argparse
+  date: 2022-07-29-14-12-48
