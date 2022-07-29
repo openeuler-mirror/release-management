@@ -11927,10 +11927,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: skylark
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: slam_gmapping
       obs_from: ""
       obs_to: openEuler:Factory
