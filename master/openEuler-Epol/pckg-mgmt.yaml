@@ -4615,3 +4615,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-28'
+- name: python-libconf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-07-29'
