@@ -4619,3 +4619,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-29'
+- name: cryfs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-07-29'
+- name: cryptopp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-07-29'
