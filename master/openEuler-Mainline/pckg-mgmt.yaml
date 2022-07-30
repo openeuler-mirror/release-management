@@ -4987,3 +4987,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-07-30'
+- name: kunpengsecl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-30'
