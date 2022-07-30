@@ -683,10 +683,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: cryptopp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: csmith
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13475,10 +13471,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: cryfs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-28"
     - name: pyArango
       obs_from: ""
       obs_to: openEuler:Factory
