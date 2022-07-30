@@ -13,3 +13,7 @@ release-change:
   description: a51e3b8 !498 move cryfs cryptopp to openEuler:Epol and openEuler:22.09:Epol
   changed_packages: cryfs cryptopp
   date: 2022-07-30-09-26-13
+- pr: https://gitee.com/openeuler/release-management/pulls/485
+  description: 141eed9 !485 add cadvisor to obs 20.03SP1,20.03SP3,22.03,22.09
+  changed_packages: cadvisor
+  date: 2022-07-30-10-06-30
