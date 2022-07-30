@@ -4983,3 +4983,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-07-28'
+- name: skylark
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-07-30'
