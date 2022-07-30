@@ -4627,3 +4627,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-29'
+- name: arangodb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-07-30'
+- name: pyArango
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-07-30'
