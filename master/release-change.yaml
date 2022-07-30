@@ -19,3 +19,7 @@ release-change:
     \ obs\u5DE5\u7A0B"
   changed_packages: python-libconf
   date: 2022-07-29-15-08-48
+- pr: https://gitee.com/openeuler/release-management/pulls/498
+  description: a51e3b8 !498 move cryfs cryptopp to openEuler:Epol and openEuler:22.09:Epol
+  changed_packages: cryfs cryptopp
+  date: 2022-07-30-09-26-07
