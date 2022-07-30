@@ -1,26 +1,27 @@
 各位openeuler社区的maintainer、committer和contributor好，
 openEuler社区master分层构建&版本基线管控优化即将上线，里程碑如下：
+
 1. master分支纳入release-management管控&分层构建——7/27
 2. openEuler-22.09基线管控优化——7/27
-3. multi-version分支、Next开发分支纳入release-management管控——7/30
+3. multi-version分支、Next开发分支纳入release-management管控——8/30
 
 上线须知：
 
     1．	开发者提交PR变更软件包指导：本文第2章
-
+    
     2．	社区对master分支工程做的分层project，如无特别需求，由CICD sig组主导软件包分层，开发者如往常提交PR至openEuler:Mainlien/openEuler:Epol即可。若开发者对于具体软件包的分层有新的建议，欢迎提交issue或者邮件交流！
-
+    
     3．2022/7/27之后，master及openEuler-22.09版本分支对应project的软件包变更入口，统一收归到release-management，即开发者不必再前往obs_meta提交PR！
-
-    4．2022/7/27~2022/7/30，下列分支对应project的软件包变更遵循原有流程：https://gitee.com/openeuler/release-management/issues/I4U2VN?from=project-issue
+    
+    4．2022/7/27~2022/8/30，下列分支对应project的软件包变更遵循原有流程：https://gitee.com/openeuler/release-management/issues/I4U2VN?from=project-issue
     分支：
     openEuler-20.03-LTS-SP1
     openEuler-20.03-LTS-SP3
     openEuler-22.03-LTS 
     openEuler-22.03-LTS-Next
-
-    5．2022/730之后，除已停维版本分支，所有开发及版本分支对应project的软件包变更入口，统一收归到release-management，即开发者不必再前往obs_meta提交PR！
-
+    
+    5．2022/8/30之后，除已停维版本分支，所有开发及版本分支对应project的软件包变更入口，统一收归到release-management，即开发者不必再前往obs_meta提交PR！
+    
     6．已停维版本分支原则上不再接受软件包变更PR：openEuler-20.03-LTS/ openEuler-20.03-LTS-Next/openEuler-20.03-LTS-SP2/openEuler-20.09/openEuler-21.03/openEuler-21.09/
 
 以上，如果各位有更好的意见和想法，欢迎在CICD sig提交issue或者邮件交流！
