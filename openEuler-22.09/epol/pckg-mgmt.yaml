@@ -6413,3 +6413,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-30'
+- name: ukui-kwin
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-07-30'
