@@ -35,3 +35,7 @@ release-change:
   description: 38e9a6f !493 skylark moved to master:Mainline and added to 2209:baseos
   changed_packages: skylark
   date: 2022-07-30-16-54-12
+- pr: https://gitee.com/openeuler/release-management/pulls/506
+  description: 21310ea !506 add kunpengsecl for branch mainline and 22.09
+  changed_packages: kunpengsecl
+  date: 2022-07-30-19-59-30
