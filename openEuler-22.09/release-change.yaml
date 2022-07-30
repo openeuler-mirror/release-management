@@ -17,3 +17,7 @@ release-change:
   description: 141eed9 !485 add cadvisor to obs 20.03SP1,20.03SP3,22.03,22.09
   changed_packages: cadvisor
   date: 2022-07-30-10-06-30
+- pr: https://gitee.com/openeuler/release-management/pulls/497
+  description: 299c7a1 !497 add arangodb,pyArango to 22.09 epol
+  changed_packages: arangodb pyArango
+  date: 2022-07-30-14-16-25

@@ -23,3 +23,11 @@ release-change:
   description: a51e3b8 !498 move cryfs cryptopp to openEuler:Epol and openEuler:22.09:Epol
   changed_packages: cryfs cryptopp
   date: 2022-07-30-09-26-07
+- pr: https://gitee.com/openeuler/release-management/pulls/497
+  description: 299c7a1 !497 add arangodb,pyArango to 22.09 epol
+  changed_packages: arangodb pyArango
+  date: 2022-07-30-14-16-19
+- pr: https://gitee.com/openeuler/release-management/pulls/497
+  description: 299c7a1 !497 add arangodb,pyArango to 22.09 epol
+  changed_packages: k3s-selinux k3s-containerd
+  date: 2022-07-30-14-16-23
