@@ -29,3 +29,7 @@ release-change:
   description: 21310ea !506 add kunpengsecl for branch mainline and 22.09
   changed_packages: kunpengsecl
   date: 2022-07-30-19-59-32
+- pr: https://gitee.com/openeuler/release-management/pulls/505
+  description: 979ef08 !505 add ukui-kwin to 22.09
+  changed_packages: ukui-kwin
+  date: 2022-08-01-09-15-19
