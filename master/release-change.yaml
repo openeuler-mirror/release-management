@@ -59,3 +59,7 @@ release-change:
     and 22.09
   changed_packages: k3s-selinux k3s-containerd
   date: 2022-08-01-14-22-51
+- pr: https://gitee.com/openeuler/release-management/pulls/517
+  description: 3494cf3 !517 Move python-pytest-subtests from factory to epol
+  changed_packages: python-pytest-subtests
+  date: 2022-08-01-20-18-44
