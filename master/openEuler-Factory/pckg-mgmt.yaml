@@ -13471,14 +13471,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-30"
-    - name: k3s-selinux
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-30"
-    - name: k3s-containerd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-30"
     - name: hsak
       obs_from: ""
       obs_to: openEuler:Factory
