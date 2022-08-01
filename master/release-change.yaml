@@ -54,3 +54,8 @@ release-change:
     22.09
   changed_packages: python-cryptography
   date: 2022-08-01-14-14-57
+- pr: https://gitee.com/openeuler/release-management/pulls/509
+  description: 66e7ff4 !509 add k3s-selinux and k3s-containerd for branch mainline
+    and 22.09
+  changed_packages: k3s-selinux k3s-containerd
+  date: 2022-08-01-14-22-51
