@@ -5000,6 +5000,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-08-01'
+- name: k3s
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-08-01'
 - name: WasmEngine
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
