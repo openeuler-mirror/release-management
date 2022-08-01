@@ -10231,10 +10231,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-pytest-subtests
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-pytest-sugar
       obs_from: ""
       obs_to: openEuler:Factory
