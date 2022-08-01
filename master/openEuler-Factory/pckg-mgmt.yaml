@@ -459,10 +459,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: byzanz
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: c-STAR
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13459,14 +13455,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: NetworkManager-l2tp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-30"
-    - name: restic
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-30"
     - name: k3s
       obs_from: ""
       obs_to: openEuler:Factory
