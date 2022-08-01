@@ -4647,3 +4647,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-01'
+- name: python-cryptography
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:Epol
+  date: '2022-08-1'
