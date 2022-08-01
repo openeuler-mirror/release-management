@@ -351,10 +351,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
-- name: python-cryptography
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: '2022-07-26'
 - name: python-lxml
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
