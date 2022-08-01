@@ -4635,3 +4635,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-30'
+- name: NetworkManager-l2tp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-01'
+- name: restic
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-01'
+- name: byzanz
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-01'
