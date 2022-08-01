@@ -33,3 +33,8 @@ release-change:
   description: 979ef08 !505 add ukui-kwin to 22.09
   changed_packages: ukui-kwin
   date: 2022-08-01-09-15-19
+- pr: https://gitee.com/openeuler/release-management/pulls/499
+  description: "51dcc5d !499 WasmEngine \u79FB\u5230 openEuler:22.09:Mainline OBS\u5DE5\
+    \u7A0B"
+  changed_packages: WasmEngine
+  date: 2022-08-01-09-45-12
