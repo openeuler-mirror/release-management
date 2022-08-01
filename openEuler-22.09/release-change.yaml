@@ -53,3 +53,7 @@ release-change:
     and 22.09
   changed_packages: k3s-selinux k3s-containerd
   date: 2022-08-01-14-23-04
+- pr: https://gitee.com/openeuler/release-management/pulls/518
+  description: 17e482c !518 add python-pkginfo, python-websockets into openEuler:22.09
+  changed_packages: python-pkginfo python-websockets
+  date: 2022-08-01-21-18-50

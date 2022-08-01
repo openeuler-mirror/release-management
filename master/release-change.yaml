@@ -63,3 +63,7 @@ release-change:
   description: 3494cf3 !517 Move python-pytest-subtests from factory to epol
   changed_packages: python-pytest-subtests
   date: 2022-08-01-20-18-44
+- pr: https://gitee.com/openeuler/release-management/pulls/518
+  description: 17e482c !518 add python-pkginfo, python-websockets into openEuler:22.09
+  changed_packages: python-websockets
+  date: 2022-08-01-21-18-44
