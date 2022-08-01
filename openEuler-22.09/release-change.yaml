@@ -43,3 +43,8 @@ release-change:
     \u652F"
   changed_packages: NetworkManager-l2tp restic byzanz
   date: 2022-08-01-12-37-31
+- pr: https://gitee.com/openeuler/release-management/pulls/508
+  description: e9b33be !508 Move python-cryptography to openEuler Epol and openEuler
+    22.09
+  changed_packages: python-cryptography
+  date: 2022-08-01-14-15-01
