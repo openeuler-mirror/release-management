@@ -4991,3 +4991,8 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-07-30'
+  date: '2022-07-28'
+- name: WasmEngine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-08-01'

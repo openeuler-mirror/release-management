@@ -12643,10 +12643,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: WasmEngine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Parse-RecDescent
       obs_from: ""
       obs_to: openEuler:Factory
