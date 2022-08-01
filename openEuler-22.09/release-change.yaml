@@ -38,3 +38,8 @@ release-change:
     \u7A0B"
   changed_packages: WasmEngine
   date: 2022-08-01-09-45-12
+- pr: https://gitee.com/openeuler/release-management/pulls/510
+  description: "73282c0 !510 \u79FB\u52A8\u8F6F\u4EF6\u5305\u5230epol\u548C22.09\u5206\
+    \u652F"
+  changed_packages: NetworkManager-l2tp restic byzanz
+  date: 2022-08-01-12-37-31
