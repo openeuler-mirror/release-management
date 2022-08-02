@@ -77,3 +77,8 @@ release-change:
   description: 34bdc03 !522 add latexmk,python-progressbar2 to openEuler-22.09
   changed_packages: latexmk python-progressbar2
   date: 2022-08-02-11-22-03
+- pr: https://gitee.com/openeuler/release-management/pulls/521
+  description: "f4b89f7 !521 python-typing python-xlib\u632A\u5165openEuler:22.09:Epol\
+    \ obs\u5DE5\u7A0B"
+  changed_packages: python-typing python-xlib
+  date: 2022-08-02-14-08-48
