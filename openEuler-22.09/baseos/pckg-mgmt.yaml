@@ -7481,3 +7481,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-07-30'
+- name: glog
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.09
+  date: '2022-08-02'

@@ -6437,3 +6437,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-08-1'
+- name: python-blurb
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-08-02'
+- name: python-dotenv
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-08-02'

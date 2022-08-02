@@ -4655,3 +4655,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-01'
+- name: python-blurb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
+- name: python-dotenv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
