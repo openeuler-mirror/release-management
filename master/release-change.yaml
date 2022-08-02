@@ -71,3 +71,7 @@ release-change:
   description: 064bdf5 !514 add package k3s to branch mainline, 22.03-lts and 22.09
   changed_packages: k3s
   date: 2022-08-02-10-18-20
+- pr: https://gitee.com/openeuler/release-management/pulls/520
+  description: 9eee9d7 !520 add glog,python-blurb,python-dotenv to 22.09
+  changed_packages: python-blurb python-dotenv
+  date: 2022-08-02-10-58-01
