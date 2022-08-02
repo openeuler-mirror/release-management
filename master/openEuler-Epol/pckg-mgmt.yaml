@@ -4495,6 +4495,14 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-27'
+- name: python-typing
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
+- name: python-xlib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
 - name: python-CouchDB
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
