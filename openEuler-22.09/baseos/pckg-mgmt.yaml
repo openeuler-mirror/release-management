@@ -7487,3 +7487,15 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-08-02'
+- name: latexmk
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.09
+  date: '2022-08-02'
+- name: python-progressbar2
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.09
+  date: '2022-08-02'
