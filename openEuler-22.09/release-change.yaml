@@ -73,3 +73,7 @@ release-change:
   description: 9eee9d7 !520 add glog,python-blurb,python-dotenv to 22.09
   changed_packages: python-blurb python-dotenv
   date: 2022-08-02-10-58-08
+- pr: https://gitee.com/openeuler/release-management/pulls/522
+  description: 34bdc03 !522 add latexmk,python-progressbar2 to openEuler-22.09
+  changed_packages: latexmk python-progressbar2
+  date: 2022-08-02-11-22-03
