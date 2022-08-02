@@ -80,3 +80,7 @@ release-change:
     \ obs\u5DE5\u7A0B"
   changed_packages: python-typing python-xlib
   date: 2022-08-02-14-08-42
+- pr: https://gitee.com/openeuler/release-management/pulls/513
+  description: 0d7185f !513 Introduce hsak into openEuler 22.09
+  changed_packages: hsak
+  date: 2022-08-02-14-10-59
