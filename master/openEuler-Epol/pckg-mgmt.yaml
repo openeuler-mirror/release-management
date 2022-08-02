@@ -4495,6 +4495,14 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-27'
+- name: python-typing
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
+- name: python-xlib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
 - name: python-CouchDB
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4650,4 +4658,16 @@ packages:
 - name: python-cryptography
   obs_from: openEuler:MultiLanguage
   obs_to: openEuler:Epol
-  date: '2022-08-1'
+  date: '2022-08-01'
+- name: python-pytest-subtests
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-01'
+- name: python-blurb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'
+- name: python-dotenv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-02'

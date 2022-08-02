@@ -8119,10 +8119,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-blurb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-bobo
       obs_from: ""
       obs_to: openEuler:Factory
@@ -8636,10 +8632,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-doit
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-dotenv
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -10231,10 +10223,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-pytest-subtests
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-pytest-sugar
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10807,10 +10795,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-typing
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-ucam-webauth
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10931,10 +10915,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-websockets
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-webthing-ws
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10992,10 +10972,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-xarray
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-xlib
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -13455,11 +13431,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: k3s
+    - name: gcc-12
       obs_from: ""
       obs_to: openEuler:Factory
-      date: "2022-07-30"
-    - name: hsak
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-30"
+      date: "2022-08-01"

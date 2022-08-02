@@ -53,3 +53,36 @@ release-change:
     and 22.09
   changed_packages: k3s-selinux k3s-containerd
   date: 2022-08-01-14-23-04
+- pr: https://gitee.com/openeuler/release-management/pulls/518
+  description: 17e482c !518 add python-pkginfo, python-websockets into openEuler:22.09
+  changed_packages: python-pkginfo python-websockets
+  date: 2022-08-01-21-18-50
+- pr: https://gitee.com/openeuler/release-management/pulls/514
+  description: 064bdf5 !514 add package k3s to branch mainline, 22.03-lts and 22.09
+  changed_packages: k3s
+  date: 2022-08-02-10-18-32
+- pr: https://gitee.com/openeuler/release-management/pulls/519
+  description: f6aaf5c !519 Add openEuler-22.09 for python-utils
+  changed_packages: python-utils
+  date: 2022-08-02-10-51-49
+- pr: https://gitee.com/openeuler/release-management/pulls/520
+  description: 9eee9d7 !520 add glog,python-blurb,python-dotenv to 22.09
+  changed_packages: glog
+  date: 2022-08-02-10-58-06
+- pr: https://gitee.com/openeuler/release-management/pulls/520
+  description: 9eee9d7 !520 add glog,python-blurb,python-dotenv to 22.09
+  changed_packages: python-blurb python-dotenv
+  date: 2022-08-02-10-58-08
+- pr: https://gitee.com/openeuler/release-management/pulls/522
+  description: 34bdc03 !522 add latexmk,python-progressbar2 to openEuler-22.09
+  changed_packages: latexmk python-progressbar2
+  date: 2022-08-02-11-22-03
+- pr: https://gitee.com/openeuler/release-management/pulls/521
+  description: "f4b89f7 !521 python-typing python-xlib\u632A\u5165openEuler:22.09:Epol\
+    \ obs\u5DE5\u7A0B"
+  changed_packages: python-typing python-xlib
+  date: 2022-08-02-14-08-48
+- pr: https://gitee.com/openeuler/release-management/pulls/513
+  description: 0d7185f !513 Introduce hsak into openEuler 22.09
+  changed_packages: hsak
+  date: 2022-08-02-14-11-07

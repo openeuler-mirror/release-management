@@ -62,6 +62,7 @@ openEuler 22.09 是基于5.10内核的创新版本（参见[版本生命周期](
 |[I5H6DI](https://gitee.com/openeuler/release-management/issues/I5H6DI)|增强embedded版本分布式软总线及混合部署能力|Discussion|sig-yocto|[@linzichang](https://gitee.com/linzichang) [@beiling.xie](https://gitee.com/beilingxie) [@zhengjunling](https://gitee.com/junling_zheng) [@ilisimin](https://gitee.com/open_euler/dashboard/members/ilisimin) [@任慰](https://gitee.com/open_euler/dashboard/members/vonhust)|embedded|yocto-meta-openeuler,dsoftbus_standard, yocto-embedded-tools, OpenAMP|
 |[I5JQQR](https://gitee.com/openeuler/release-management/issues/I5JQQR)|【openEuler 22.09】提供多样算力平台的远程证明方案|Developing|sig-security-facility|[@gwei3](https://gitee.com/gwei3) [@wucaijun2001](https://gitee.com/wucaijun2001)|     |kunpengsecl|
 |[I5BU1X](https://gitee.com/openeuler/release-management/issues/I5BU1X?from=project-issue)|secGear新增switchless特性|Discussion|sig-confidential-computing|[@houmingyong](https://gitee.com/houmingyong)||secGear,secGear-devel|
+|[I5JQGG](https://gitee.com/openeuler/release-management/issues/I5JQGG)|【openEuler 22.09】HybridSched虚拟机高低优先级混部|Developing|SIG-Virt|[@kevinzhu1](https://gitee.com/open_euler/dashboard/members/kevinzhu1) [@yezengruan](https://gitee.com/open_euler/dashboard/members/yezengruan)|iso|skylark|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>

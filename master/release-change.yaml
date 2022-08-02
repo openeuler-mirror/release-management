@@ -59,3 +59,28 @@ release-change:
     and 22.09
   changed_packages: k3s-selinux k3s-containerd
   date: 2022-08-01-14-22-51
+- pr: https://gitee.com/openeuler/release-management/pulls/517
+  description: 3494cf3 !517 Move python-pytest-subtests from factory to epol
+  changed_packages: python-pytest-subtests
+  date: 2022-08-01-20-18-44
+- pr: https://gitee.com/openeuler/release-management/pulls/518
+  description: 17e482c !518 add python-pkginfo, python-websockets into openEuler:22.09
+  changed_packages: python-websockets
+  date: 2022-08-01-21-18-44
+- pr: https://gitee.com/openeuler/release-management/pulls/514
+  description: 064bdf5 !514 add package k3s to branch mainline, 22.03-lts and 22.09
+  changed_packages: k3s
+  date: 2022-08-02-10-18-20
+- pr: https://gitee.com/openeuler/release-management/pulls/520
+  description: 9eee9d7 !520 add glog,python-blurb,python-dotenv to 22.09
+  changed_packages: python-blurb python-dotenv
+  date: 2022-08-02-10-58-01
+- pr: https://gitee.com/openeuler/release-management/pulls/521
+  description: "f4b89f7 !521 python-typing python-xlib\u632A\u5165openEuler:22.09:Epol\
+    \ obs\u5DE5\u7A0B"
+  changed_packages: python-typing python-xlib
+  date: 2022-08-02-14-08-42
+- pr: https://gitee.com/openeuler/release-management/pulls/513
+  description: 0d7185f !513 Introduce hsak into openEuler 22.09
+  changed_packages: hsak
+  date: 2022-08-02-14-10-59

@@ -18023,3 +18023,21 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-08-01'
+- name: python-pkginfo
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09
+  date: '2022-08-01'
+- name: python-websockets
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.09
+  date: "2022-08-01"
+- name: hsak
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:C
+  obs_to: openEuler:22.09
+  date: '2022-08-02'
