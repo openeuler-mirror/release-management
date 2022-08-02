@@ -10795,10 +10795,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-typing
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-ucam-webauth
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10976,10 +10972,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-xarray
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-xlib
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
