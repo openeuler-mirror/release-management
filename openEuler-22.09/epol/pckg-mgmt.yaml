@@ -6347,6 +6347,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-08-02'
+- name: python-yarg
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-08-03'
 - name: python-watchdog
   source_dir: master
   destination_dir: openEuler-22.09

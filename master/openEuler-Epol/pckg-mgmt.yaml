@@ -4503,6 +4503,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-02'
+- name: python-yarg
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-03'
 - name: python-CouchDB
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
