@@ -90,3 +90,11 @@ release-change:
   description: 54a2416 !529 add A-Tune-BPF-Collection into openEuler:22.09
   changed_packages: A-Tune-BPF-Collection
   date: 2022-08-03-14-35-44
+- pr: https://gitee.com/openeuler/release-management/pulls/531
+  description: 25eb8da !531 Move cryptography and its require pytest-subtests to openEuler:22.09
+  changed_packages: python-cryptography
+  date: 2022-08-03-15-13-09
+- pr: https://gitee.com/openeuler/release-management/pulls/531
+  description: 25eb8da !531 Move cryptography and its require pytest-subtests to openEuler:22.09
+  changed_packages: python-pytest-subtests
+  date: 2022-08-03-15-13-16
