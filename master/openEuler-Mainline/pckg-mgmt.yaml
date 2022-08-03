@@ -5012,3 +5012,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-01"
+- name: A-Tune-BPF-Collection
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-03"

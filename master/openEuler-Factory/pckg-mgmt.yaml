@@ -13435,7 +13435,3 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-01"
-    - name: A-Tune-BPF-Collection
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-03"
