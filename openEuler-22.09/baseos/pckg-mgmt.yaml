@@ -7499,3 +7499,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-08-02'
+- name: python-cryptography
+  source_dir: openEuler-22.09
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:22.09:Epol
+  obs_to: openEuler:22.09
+  date: '2022-08-03'
