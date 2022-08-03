@@ -4663,3 +4663,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-02'
+- name: python-psycopg2-binary
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-03'
