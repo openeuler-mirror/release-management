@@ -86,3 +86,7 @@ release-change:
   description: edccddd !526 Put python-pytest-subtests into openEuler:22.09:Epol
   changed_packages: python-pytest-subtests
   date: 2022-08-03-10-49-32
+- pr: https://gitee.com/openeuler/release-management/pulls/529
+  description: 54a2416 !529 add A-Tune-BPF-Collection into openEuler:22.09
+  changed_packages: A-Tune-BPF-Collection
+  date: 2022-08-03-14-35-44

@@ -15,8 +15,7 @@ release-change:
     python-utils openstack-releases postgresql-odbc glog
   date: 2022-07-29-14-12-47
 - pr: https://gitee.com/openeuler/release-management/pulls/496
-  description: "db25a44 !496 \u79FB\u52A8python-libconf\u5230epol\u548C22.09 epol\
-    \ obs\u5DE5\u7A0B"
+  description: db25a44 !496 移动python-libconf到epol和22.09 epol obs工程
   changed_packages: python-libconf
   date: 2022-07-29-15-08-48
 - pr: https://gitee.com/openeuler/release-management/pulls/498
@@ -40,13 +39,11 @@ release-change:
   changed_packages: kunpengsecl
   date: 2022-07-30-19-59-30
 - pr: https://gitee.com/openeuler/release-management/pulls/499
-  description: "51dcc5d !499 WasmEngine \u79FB\u5230 openEuler:22.09:Mainline OBS\u5DE5\
-    \u7A0B"
+  description: 51dcc5d !499 WasmEngine 移到 openEuler:22.09:Mainline OBS工程
   changed_packages: WasmEngine
   date: 2022-08-01-09-45-08
 - pr: https://gitee.com/openeuler/release-management/pulls/510
-  description: "73282c0 !510 \u79FB\u52A8\u8F6F\u4EF6\u5305\u5230epol\u548C22.09\u5206\
-    \u652F"
+  description: 73282c0 !510 移动软件包到epol和22.09分支
   changed_packages: NetworkManager-l2tp restic byzanz
   date: 2022-08-01-12-37-26
 - pr: https://gitee.com/openeuler/release-management/pulls/508
@@ -76,11 +73,14 @@ release-change:
   changed_packages: python-blurb python-dotenv
   date: 2022-08-02-10-58-01
 - pr: https://gitee.com/openeuler/release-management/pulls/521
-  description: "f4b89f7 !521 python-typing python-xlib\u632A\u5165openEuler:22.09:Epol\
-    \ obs\u5DE5\u7A0B"
+  description: f4b89f7 !521 python-typing python-xlib挪入openEuler:22.09:Epol obs工程
   changed_packages: python-typing python-xlib
   date: 2022-08-02-14-08-42
 - pr: https://gitee.com/openeuler/release-management/pulls/513
   description: 0d7185f !513 Introduce hsak into openEuler 22.09
   changed_packages: hsak
   date: 2022-08-02-14-10-59
+- pr: https://gitee.com/openeuler/release-management/pulls/529
+  description: 54a2416 !529 add A-Tune-BPF-Collection into openEuler:22.09
+  changed_packages: A-Tune-BPF-Collection
+  date: 2022-08-03-14-35-40
