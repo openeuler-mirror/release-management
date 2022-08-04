@@ -7679,10 +7679,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-Flask-Cors
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-Flask-Mail
       obs_from: ""
       obs_to: openEuler:Factory
@@ -8000,10 +7996,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-astroquery
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-async_generator
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -8792,10 +8784,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-flatpak-module-tools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-flexmock
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -9787,10 +9775,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-phonenumbers
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-phpserialize
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10223,10 +10207,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-pytest-sugar
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-pytest-testmon
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10591,15 +10571,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-sphinxcontrib-issuetracker
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-sphinxtesters
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-sphobjinv
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -10716,10 +10688,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-test-server
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-texext
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12503,10 +12471,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-sphinx-autodoc-typehints
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: R-prettyunits
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13320,10 +13284,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-fail2ban
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-sybil
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"

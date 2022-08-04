@@ -4671,3 +4671,47 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-03'
+- name: python-Flask-Cors
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-pyhcl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-sphobjinv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-sphinx-autodoc-typehints
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-async_generator
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-texext
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-phonenumbers
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-flexmock
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-pytest-sugar
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-sphinxcontrib-issuetracker
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
+- name: python-sybil
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-04'
