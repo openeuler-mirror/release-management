@@ -92,3 +92,8 @@ release-change:
   description: d83aee6 !530 Add python-yarg into openEuler:22.09:Epol
   changed_packages: python-yarg
   date: 2022-08-03-16-54-47
+- pr: https://gitee.com/openeuler/release-management/pulls/533
+  description: b3f2193 !533 Move python-psycopg2-binary to openEuler Epol and openEuler
+    22.09
+  changed_packages: python-psycopg2-binary
+  date: 2022-08-04-09-59-38
