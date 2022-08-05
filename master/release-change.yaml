@@ -97,3 +97,13 @@ release-change:
     22.09
   changed_packages: python-psycopg2-binary
   date: 2022-08-04-09-59-38
+- pr: https://gitee.com/openeuler/release-management/pulls/535
+  description: 62a96e4 !535 [WIP]Put packages into 22.09 Epol
+  changed_packages: python-psycopg2-binary python-Flask-Cors python-pyhcl python-sphobjinv
+    python-sphinx-autodoc-typehints python-async_generator python-texext python-phonenumbers
+    python-flexmock python-pytest-sugar python-sphinxcontrib-issuetracker python-sybil
+  date: 2022-08-05-10-03-26
+- pr: https://gitee.com/openeuler/release-management/pulls/535
+  description: 62a96e4 !535 [WIP]Put packages into 22.09 Epol
+  changed_packages: python-pyhcl
+  date: 2022-08-05-10-03-30
