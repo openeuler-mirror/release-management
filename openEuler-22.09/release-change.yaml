@@ -121,3 +121,8 @@ release-change:
   description: 8e929d0 !536 move python-nni to openEuler:Factory
   changed_packages: python-nni
   date: 2022-08-05-10-49-35
+- pr: https://gitee.com/openeuler/release-management/pulls/537
+  description: c0fac0c !537 Put packages into 22.09 Epol
+  changed_packages: openstack-cyborg openstack-aodh openstack-ceilometer openstack-heat
+    python-trove-dashboard
+  date: 2022-08-05-15-37-21
