@@ -4715,3 +4715,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-04'
+- name: python-vitrageclient
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-08-05'
