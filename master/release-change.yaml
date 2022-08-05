@@ -107,3 +107,7 @@ release-change:
   description: 62a96e4 !535 [WIP]Put packages into 22.09 Epol
   changed_packages: python-pyhcl
   date: 2022-08-05-10-03-30
+- pr: https://gitee.com/openeuler/release-management/pulls/536
+  description: 8e929d0 !536 move python-nni to openEuler:Factory
+  changed_packages: python-nni
+  date: 2022-08-05-10-49-34

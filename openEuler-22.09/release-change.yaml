@@ -117,3 +117,7 @@ release-change:
     python-sphobjinv python-outcome python-aenum python-flup python-Flask-Cors python-fastavro
     python-pyhcl
   date: 2022-08-05-10-03-32
+- pr: https://gitee.com/openeuler/release-management/pulls/536
+  description: 8e929d0 !536 move python-nni to openEuler:Factory
+  changed_packages: python-nni
+  date: 2022-08-05-10-49-35
