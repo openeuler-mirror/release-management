@@ -13395,3 +13395,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-05"
+    - name: vagrant-lxc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-05"
