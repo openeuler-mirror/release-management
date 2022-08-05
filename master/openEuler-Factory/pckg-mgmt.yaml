@@ -13387,3 +13387,7 @@ packages:
       obs_from: openEuler:Mainline
       obs_to: openEuler:Factory
       date: "2022-08-05"
+    - name: vagrant-hostmanager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-05"
