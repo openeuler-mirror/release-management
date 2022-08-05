@@ -13399,3 +13399,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-05"
+    - name: vagrant
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-05"
