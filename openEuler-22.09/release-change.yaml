@@ -130,3 +130,7 @@ release-change:
   description: d8bcf9c !539 Put vitrageclient into epol
   changed_packages: python-vitrageclient
   date: 2022-08-06-09-50-53
+- pr: https://gitee.com/openeuler/release-management/pulls/541
+  description: ef8efe1 !541 add install-scripts to openEuler-22.09
+  changed_packages: install-scripts imageTailor
+  date: 2022-08-06-09-58-17
