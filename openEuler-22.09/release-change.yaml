@@ -126,3 +126,7 @@ release-change:
   changed_packages: openstack-cyborg openstack-aodh openstack-ceilometer openstack-heat
     python-trove-dashboard
   date: 2022-08-05-15-37-21
+- pr: https://gitee.com/openeuler/release-management/pulls/539
+  description: d8bcf9c !539 Put vitrageclient into epol
+  changed_packages: python-vitrageclient
+  date: 2022-08-06-09-50-53

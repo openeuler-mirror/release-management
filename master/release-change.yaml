@@ -111,3 +111,7 @@ release-change:
   description: 8e929d0 !536 move python-nni to openEuler:Factory
   changed_packages: python-nni
   date: 2022-08-05-10-49-34
+- pr: https://gitee.com/openeuler/release-management/pulls/539
+  description: d8bcf9c !539 Put vitrageclient into epol
+  changed_packages: python-vitrageclient
+  date: 2022-08-06-09-50-47
