@@ -4719,3 +4719,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-05'
+- name: ukui-clock
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-08-08"
