@@ -115,3 +115,7 @@ release-change:
   description: d8bcf9c !539 Put vitrageclient into epol
   changed_packages: python-vitrageclient
   date: 2022-08-06-09-50-47
+- pr: https://gitee.com/openeuler/release-management/pulls/542
+  description: 79af8c6 !542 Move ukui-clock to openEuler Epol and openEuler 22.09
+  changed_packages: ukui-clock
+  date: 2022-08-08-14-17-36
