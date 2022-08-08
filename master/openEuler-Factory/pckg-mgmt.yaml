@@ -13407,3 +13407,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-08"
+    - name: openstack-helm-images
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-08"
