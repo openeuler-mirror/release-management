@@ -138,3 +138,7 @@ release-change:
   description: 79af8c6 !542 Move ukui-clock to openEuler Epol and openEuler 22.09
   changed_packages: ukui-clock
   date: 2022-08-08-14-17-42
+- pr: https://gitee.com/openeuler/release-management/pulls/543
+  description: d365eea !543 move setroubleshoot-plugins from 2209 to 2209:Epol
+  changed_packages: setroubleshoot-plugins
+  date: 2022-08-09-16-24-34
