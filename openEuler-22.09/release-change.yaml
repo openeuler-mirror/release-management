@@ -150,3 +150,7 @@ release-change:
   description: 0547398 !546 【Compiler SIG】gcc-12 多版本GCC仓引入openEuler 22.09
   changed_packages: gcc-12
   date: 2022-08-10-15-08-08
+- pr: https://gitee.com/openeuler/release-management/pulls/548
+  description: 9f6b621 !548 add  libslirp to openEuler 22.09 Epol
+  changed_packages: libslirp
+  date: 2022-08-10-15-34-41
