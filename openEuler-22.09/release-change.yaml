@@ -146,3 +146,7 @@ release-change:
   description: a862ae3 !547 添加gajim,python-cssutils,python-precis_i18n到openEuler-22.09
   changed_packages: gajim python-cssutils python-precis_i18n
   date: 2022-08-10-11-48-33
+- pr: https://gitee.com/openeuler/release-management/pulls/546
+  description: 0547398 !546 【Compiler SIG】gcc-12 多版本GCC仓引入openEuler 22.09
+  changed_packages: gcc-12
+  date: 2022-08-10-15-08-08

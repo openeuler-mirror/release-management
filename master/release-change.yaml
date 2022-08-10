@@ -119,3 +119,7 @@ release-change:
   description: 79af8c6 !542 Move ukui-clock to openEuler Epol and openEuler 22.09
   changed_packages: ukui-clock
   date: 2022-08-08-14-17-36
+- pr: https://gitee.com/openeuler/release-management/pulls/546
+  description: 0547398 !546 【Compiler SIG】gcc-12 多版本GCC仓引入openEuler 22.09
+  changed_packages: gcc-12
+  date: 2022-08-10-15-08-02
