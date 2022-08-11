@@ -509,12 +509,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
-- name: python-requirementslib
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
 - name: python-m2r
   source_dir: master
   destination_dir: openEuler-22.09
@@ -5465,12 +5459,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
-- name: python-suds-community
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
 - name: kf5-kidletime
   source_dir: master
   destination_dir: openEuler-22.09
@@ -5628,12 +5616,6 @@ packages:
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
 - name: deepin-menu
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
-- name: python-rtslib-fb
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
@@ -6317,7 +6299,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
-- name: rdiff-backup 
+- name: rdiff-backup
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
@@ -6377,7 +6359,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-28'
-- name: python-pyfakefs 
+- name: python-pyfakefs
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
@@ -6569,7 +6551,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-08-04'
-- name: python-pydotplus 
+- name: python-pydotplus
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
@@ -6664,7 +6646,7 @@ packages:
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
-  date: "2022-08-08"
+  date: '2022-08-08'
 - name: setroubleshoot-plugins
   source_dir: openEuler-22.09
   destination_dir: openEuler-22.09
@@ -6694,4 +6676,4 @@ packages:
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
-  date: "2022-08-10"
+  date: '2022-08-10'
