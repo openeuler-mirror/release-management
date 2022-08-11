@@ -1,2 +1,5 @@
 packages:
 - name: python-nni
+- name: python-suds-community
+- name: python-requirementslib
+- name: python-rtslib-fb
