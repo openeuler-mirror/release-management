@@ -131,3 +131,7 @@ release-change:
   description: 5d62454 !552 将k3s, k3s-containerd, k3s-linux 移仓至epol
   changed_packages: k3s-selinux k3s-containerd k3s
   date: 2022-08-12-11-20-41
+- pr: https://gitee.com/openeuler/release-management/pulls/554
+  description: cb507df !554 Put packages into 22.09 Epol
+  changed_packages: python-sphinxtesters python-sympy python-mpmath
+  date: 2022-08-12-15-09-29
