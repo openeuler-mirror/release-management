@@ -3,3 +3,4 @@ packages:
 - name: python-suds-community
 - name: python-requirementslib
 - name: python-rtslib-fb
+- name: ovirt-provider-ovn
