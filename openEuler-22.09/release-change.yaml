@@ -162,3 +162,7 @@ release-change:
   description: 951fefb !551 move xl2tpd from factory to master:epol and 22.09:epol
   changed_packages: xl2tpd
   date: 2022-08-12-10-39-25
+- pr: https://gitee.com/openeuler/release-management/pulls/552
+  description: 5d62454 !552 将k3s, k3s-containerd, k3s-linux 移仓至epol
+  changed_packages: k3s-selinux k3s-containerd k3s
+  date: 2022-08-12-11-20-57
