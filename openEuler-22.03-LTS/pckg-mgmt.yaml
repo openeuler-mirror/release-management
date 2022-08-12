@@ -1,27 +1,6 @@
 packages:
   everything:
     baseos:
-    - name: k3s
-      branch_from: openEuler-22.03-LTS-Next
-      branch_to: openEuler-22.03-LTS
-      obs_from: openEuler:22.03:LTS:Next
-      obs_to: openEuler:22.03:LTS
-      change_pr: init openEuler-22.03-LTS
-      date: 2022-08-01-17-12-30
-    - name: k3s-selinux
-      branch_from: openEuler-22.03-LTS-Next
-      branch_to: openEuler-22.03-LTS
-      obs_from: openEuler:22.03:LTS:Next
-      obs_to: openEuler:22.03:LTS
-      change_pr: init openEuler-22.03-LTS
-      date: 2022-08-01-11-12-23
-    - name: k3s-containerd
-      branch_from: openEuler-22.03-LTS-Next
-      branch_to: openEuler-22.03-LTS
-      obs_from: openEuler:22.03:LTS:Next
-      obs_to: openEuler:22.03:LTS
-      change_pr: init openEuler-22.03-LTS
-      date: 2022-08-01-11-12-30
     - name: LZMA-SDK
       branch_from: openEuler-22.03-LTS-Next
       branch_to: openEuler-22.03-LTS
@@ -29585,6 +29564,27 @@ packages:
       change_pr: init openEuler-22.03-LTS
       date: 2022-06-24-11-26-22
   epol:
+  - name: k3s
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-08-12-10-12-30
+  - name: k3s-selinux
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-08-12-10-12-23
+  - name: k3s-containerd
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: init openEuler-22.03-LTS
+    date: 2022-08-12-10-12-20
   - name: python-cliff
     branch_from: openEuler-22.03-LTS-Next
     branch_to: openEuler-22.03-LTS

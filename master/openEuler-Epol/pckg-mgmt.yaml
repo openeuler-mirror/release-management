@@ -4727,3 +4727,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-08-12"
+- name: k3s-selinux
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2022-08-12'
+- name: k3s-containerd
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2022-08-12'
+- name: k3s
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2022-08-12'
