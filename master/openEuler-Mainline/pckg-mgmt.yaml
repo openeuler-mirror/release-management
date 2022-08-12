@@ -4988,18 +4988,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-30'
   date: '2022-07-28'
-- name: k3s-selinux
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2022-08-01'
-- name: k3s-containerd
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2022-08-01'
-- name: k3s
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2022-08-01'
 - name: WasmEngine
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
