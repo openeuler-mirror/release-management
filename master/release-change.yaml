@@ -123,3 +123,7 @@ release-change:
   description: 0547398 !546 【Compiler SIG】gcc-12 多版本GCC仓引入openEuler 22.09
   changed_packages: gcc-12
   date: 2022-08-10-15-08-02
+- pr: https://gitee.com/openeuler/release-management/pulls/551
+  description: 951fefb !551 move xl2tpd from factory to master:epol and 22.09:epol
+  changed_packages: xl2tpd
+  date: 2022-08-12-10-39-19
