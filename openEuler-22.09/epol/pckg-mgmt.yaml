@@ -6701,3 +6701,21 @@ packages:
   obs_from: openEuler:22.09
   obs_to: openEuler:22.09:Epol
   date: '2022-08-12'
+- name: python-sphinxtesters
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-08-12'
+- name: python-sympy
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-08-12'
+- name: python-mpmath
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-08-12'
