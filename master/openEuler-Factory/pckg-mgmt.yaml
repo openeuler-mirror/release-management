@@ -13419,3 +13419,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-09"
+    - name: dpu-utilities
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-12"
