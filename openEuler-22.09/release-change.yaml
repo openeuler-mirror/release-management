@@ -170,3 +170,7 @@ release-change:
   description: cb507df !554 Put packages into 22.09 Epol
   changed_packages: python-sphinxtesters python-sympy python-mpmath
   date: 2022-08-12-15-09-35
+- pr: https://gitee.com/openeuler/release-management/pulls/555
+  description: 91cab1b !555 Add openEuler-22.09 for python-sphinxcontrib-log-cabinet
+  changed_packages: python-sphinxcontrib-log-cabinet
+  date: 2022-08-15-10-02-31
