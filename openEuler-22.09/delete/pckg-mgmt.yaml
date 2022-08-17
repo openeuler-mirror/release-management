@@ -4,3 +4,6 @@ packages:
 - name: python-requirementslib
 - name: python-rtslib-fb
 - name: ovirt-provider-ovn
+- name: LZMA-SDK
+- name: mtd-utils
+- name: yaffs2
