@@ -312,6 +312,36 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS:SP3
     date: 2022-06-13-15-13-11
+  - name: python-seqdiag
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2022-08-17-08-28-40
+  - name: python-actdiag
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2022-08-17-08-28-40
+  - name: python-pkginfo
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2022-08-17-08-28-40
+  - name: python-readme-renderer
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2022-08-17-08-28-40
+  - name: python-bleach
+    branch_from: openEuler-20.03-LTS-Next
+    branch_to: openEuler-20.03-LTS-SP3
+    obs_from: openEuler:20.03:LTS:Next:Epol
+    obs_to: openEuler:20.03:LTS:SP3:Epol
+    date: 2022-08-17-08-28-40
   - name: java-oauth
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS-SP3
