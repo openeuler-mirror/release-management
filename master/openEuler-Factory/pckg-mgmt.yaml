@@ -13455,3 +13455,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-17"
+    - name: gz-transport
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-17"
