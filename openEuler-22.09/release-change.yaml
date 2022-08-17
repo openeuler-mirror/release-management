@@ -174,3 +174,7 @@ release-change:
   description: 91cab1b !555 Add openEuler-22.09 for python-sphinxcontrib-log-cabinet
   changed_packages: python-sphinxcontrib-log-cabinet
   date: 2022-08-15-10-02-31
+- pr: https://gitee.com/openeuler/release-management/pulls/553
+  description: 520450d !553 【轻量级 PR】：Remove ovirt-provider-ovn from openEuler-22.09
+  changed_packages: ovirt-provider-ovn
+  date: 2022-08-17-11-32-36
