@@ -182,3 +182,7 @@ release-change:
   description: dbc83d0 !560 delete yaffs2 mtd-utils LZMA-SDK from 2209
   changed_packages: LZMA-SDK mtd-utils yaffs2
   date: 2022-08-18-09-37-10
+- pr: https://gitee.com/openeuler/release-management/pulls/561
+  description: 879ee4b !561 remove jupyter from openEuler 22.09
+  changed_packages: jupyter
+  date: 2022-08-18-15-28-17
