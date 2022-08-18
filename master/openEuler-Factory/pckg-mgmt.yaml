@@ -13475,3 +13475,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-19"
+    - name: jupyter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-22"
