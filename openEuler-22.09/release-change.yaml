@@ -178,3 +178,7 @@ release-change:
   description: 520450d !553 【轻量级 PR】：Remove ovirt-provider-ovn from openEuler-22.09
   changed_packages: ovirt-provider-ovn
   date: 2022-08-17-11-32-36
+- pr: https://gitee.com/openeuler/release-management/pulls/560
+  description: dbc83d0 !560 delete yaffs2 mtd-utils LZMA-SDK from 2209
+  changed_packages: LZMA-SDK mtd-utils yaffs2
+  date: 2022-08-18-09-37-10

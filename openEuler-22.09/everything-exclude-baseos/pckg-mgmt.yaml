@@ -407,12 +407,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-07-26'
-- name: LZMA-SDK
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:22.09
-  date: '2022-07-26'
 - name: libffado
   source_dir: master
   destination_dir: openEuler-22.09
@@ -1794,12 +1788,6 @@ packages:
   obs_to: openEuler:22.09
   date: '2022-07-26'
 - name: sonatype-oss-parent
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:22.09
-  date: '2022-07-26'
-- name: mtd-utils
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Mainline
@@ -5982,12 +5970,6 @@ packages:
   obs_to: openEuler:22.09
   date: '2022-07-26'
 - name: nodejs-nomnom
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:22.09
-  date: '2022-07-26'
-- name: yaffs2
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Mainline
