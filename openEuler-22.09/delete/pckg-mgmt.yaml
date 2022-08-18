@@ -7,3 +7,4 @@ packages:
 - name: LZMA-SDK
 - name: mtd-utils
 - name: yaffs2
+- name: jupyter
