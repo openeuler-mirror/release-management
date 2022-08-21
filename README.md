@@ -41,7 +41,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 **Commiter:**
 |团队| 姓名| GiteeID           | 邮件地址  |
 | :-------------: | :-------------: |:--------:| :-----|
-|华为-openEuler|王博|    |    |
+|华为-openEuler|王博| [@Forestrunner](https://gitee.com/forestrunner)|scaol@foxmail.com|
 |华为-openEuler|明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
 |华为-openEuler|车明道| [@gitee-cmd](https://gitee.com/gitee-cmd) | chemingdao@huawei.com|
 |麒麟|沈永康|	|	|
