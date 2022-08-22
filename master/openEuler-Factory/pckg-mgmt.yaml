@@ -13403,10 +13403,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-09"
-    - name: process1
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-17"
     - name: gz-fuel-tools
       obs_from: ""
       obs_to: openEuler:Factory
