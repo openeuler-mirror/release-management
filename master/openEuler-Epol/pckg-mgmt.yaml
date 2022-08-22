@@ -4759,3 +4759,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-08-16"
+- name: openstack-plugin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-08-22"
