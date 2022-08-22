@@ -194,3 +194,7 @@ release-change:
   description: fd87e8a !565 move openstack-plugin into openEuler-22.09 Epol
   changed_packages: openstack-plugin
   date: 2022-08-22-17-24-25
+- pr: https://gitee.com/openeuler/release-management/pulls/568
+  description: 4a2eaa8 !568 add kafka to openEuler 22.09
+  changed_packages: kafka
+  date: 2022-08-22-21-47-21
