@@ -143,3 +143,7 @@ release-change:
   description: bd5f2ae !567 add process1 to master and openEuler:22.09
   changed_packages: process1
   date: 2022-08-22-17-17-11
+- pr: https://gitee.com/openeuler/release-management/pulls/565
+  description: fd87e8a !565 move openstack-plugin into openEuler-22.09 Epol
+  changed_packages: openstack-plugin
+  date: 2022-08-22-17-24-19
