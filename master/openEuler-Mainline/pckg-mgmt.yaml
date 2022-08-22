@@ -5000,3 +5000,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-03"
+- name: kafka
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-22"
