@@ -135,3 +135,7 @@ release-change:
   description: cb507df !554 Put packages into 22.09 Epol
   changed_packages: python-sphinxtesters python-sympy python-mpmath
   date: 2022-08-12-15-09-29
+- pr: https://gitee.com/openeuler/release-management/pulls/562
+  description: 310021b !562 move jupyter from openEuler-Python to openEuler-Factory
+  changed_packages: jupyter
+  date: 2022-08-22-17-15-29
