@@ -2567,10 +2567,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: openstack-plugin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: openstack-rally
       obs_from: ""
       obs_to: openEuler:Factory
