@@ -186,3 +186,7 @@ release-change:
   description: 879ee4b !561 remove jupyter from openEuler 22.09
   changed_packages: jupyter
   date: 2022-08-18-15-28-17
+- pr: https://gitee.com/openeuler/release-management/pulls/567
+  description: bd5f2ae !567 add process1 to master and openEuler:22.09
+  changed_packages: process1
+  date: 2022-08-22-17-17-16

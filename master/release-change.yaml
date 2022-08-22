@@ -139,3 +139,7 @@ release-change:
   description: 310021b !562 move jupyter from openEuler-Python to openEuler-Factory
   changed_packages: jupyter
   date: 2022-08-22-17-15-29
+- pr: https://gitee.com/openeuler/release-management/pulls/567
+  description: bd5f2ae !567 add process1 to master and openEuler:22.09
+  changed_packages: process1
+  date: 2022-08-22-17-17-11
