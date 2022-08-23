@@ -4763,3 +4763,8 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-08-22"
+- name: flamegraph
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-08-23"
+

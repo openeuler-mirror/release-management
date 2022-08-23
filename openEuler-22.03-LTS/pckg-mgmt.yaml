@@ -34688,6 +34688,13 @@ packages:
     obs_to: openEuler:22.03:LTS:Epol
     change_pr: obs_meta-1557
     date: 2022-07-30-06-59-17
+  - name: flamegraph
+    branch_from: openEuler-22.03-LTS-Next
+    branch_to: openEuler-22.03-LTS
+    obs_from: openEuler:22.03:LTS:Next:Epol
+    obs_to: openEuler:22.03:LTS:Epol
+    change_pr: obs_meta-1582
+    date: 2022-08-23-16-43-17
   recycle: []
   delete:
   - name: openstack-nova
