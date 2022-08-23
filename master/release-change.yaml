@@ -155,3 +155,7 @@ release-change:
   description: a204a5d !566 Add kmod-drbd90 to openEuler-22.09
   changed_packages: kmod-drbd90
   date: 2022-08-23-14-43-40
+- pr: https://gitee.com/openeuler/release-management/pulls/571
+  description: 4f8efdd !571 引入flamegraph软件包
+  changed_packages: flamegraph
+  date: 2022-08-23-16-54-32
