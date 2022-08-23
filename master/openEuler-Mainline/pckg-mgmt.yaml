@@ -5004,3 +5004,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-22"
+- name: kmod-drbd90
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-23"
