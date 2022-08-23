@@ -151,3 +151,7 @@ release-change:
   description: 4a2eaa8 !568 add kafka to openEuler 22.09
   changed_packages: kafka
   date: 2022-08-22-21-47-19
+- pr: https://gitee.com/openeuler/release-management/pulls/566
+  description: a204a5d !566 Add kmod-drbd90 to openEuler-22.09
+  changed_packages: kmod-drbd90
+  date: 2022-08-23-14-43-40
