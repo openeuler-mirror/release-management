@@ -13459,14 +13459,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-22"
-    - name: pin-server
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-25"
-    - name: pin-gcc-client
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-25"
     - name: yocto-poky
       obs_from: ""
       obs_to: openEuler:Factory

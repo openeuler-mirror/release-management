@@ -5008,3 +5008,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-23"
+- name: pin-server
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-25"
+- name: pin-gcc-client
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-25"
