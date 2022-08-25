@@ -13467,3 +13467,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-25"
+    - name: yocto-poky
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-25"
