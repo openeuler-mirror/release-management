@@ -8,3 +8,7 @@ packages:
 - name: mtd-utils
 - name: yaffs2
 - name: jupyter
+- name: execstack
+- name: booth
+- name: python-clufter
+- name: nagios-plugins
