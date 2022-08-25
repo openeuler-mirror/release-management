@@ -2171,12 +2171,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
-- name: python-clufter
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
 - name: gnustep-make
   source_dir: master
   destination_dir: openEuler-22.09
@@ -2879,12 +2873,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
-- name: execstack
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
 - name: xfce4-time-out-plugin
   source_dir: master
   destination_dir: openEuler-22.09
@@ -3030,12 +3018,6 @@ packages:
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
 - name: rubygem-dig_rb
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
-- name: nagios-plugins
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
@@ -6054,12 +6036,6 @@ packages:
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
 - name: xfce4-terminal
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
-- name: booth
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Epol
