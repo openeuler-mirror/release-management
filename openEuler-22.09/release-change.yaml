@@ -211,3 +211,8 @@ release-change:
     openEuler-22.09
   changed_packages: nagios-plugins execstack booth python-clufter
   date: 2022-08-26-00-49-27
+- pr: https://gitee.com/openeuler/release-management/pulls/577
+  description: e097d42 !577 Move Pin (Plug-IN framework) from openEuelr-Factory to
+    openEuler-22.09
+  changed_packages: pin-server pin-gcc-client
+  date: 2022-08-26-00-53-14

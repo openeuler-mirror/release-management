@@ -159,3 +159,8 @@ release-change:
   description: 4f8efdd !571 引入flamegraph软件包
   changed_packages: flamegraph
   date: 2022-08-23-16-54-32
+- pr: https://gitee.com/openeuler/release-management/pulls/577
+  description: e097d42 !577 Move Pin (Plug-IN framework) from openEuelr-Factory to
+    openEuler-22.09
+  changed_packages: NetworkManager-pptp
+  date: 2022-08-26-00-53-07
