@@ -2739,10 +2739,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: patchelf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: pcl_conversion
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12375,14 +12371,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: yocto-opkg-utils
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: yocto-pseudo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: zabbix
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13459,10 +13447,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-22"
-    - name: yocto-poky
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-25"
     - name: rubygem-log4r
       obs_from: ""
       obs_to: openEuler:Factory

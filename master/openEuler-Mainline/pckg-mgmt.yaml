@@ -5016,3 +5016,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-25"
+- name: patchelf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-27"
+- name: yocto-poky
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-27"
+- name: yocto-opkg-utils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-27"
+- name: yocto-pseudo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-27"
