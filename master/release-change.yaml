@@ -164,3 +164,8 @@ release-change:
     openEuler-22.09
   changed_packages: NetworkManager-pptp
   date: 2022-08-26-00-53-07
+- pr: https://gitee.com/openeuler/release-management/pulls/581
+  description: 0b81da4 !581 move patchelf, yocto-poky, yocto-opkg-utils, yocto-pseudo
+    from openEuelr-Factory to openEuler-22.03:Mainline
+  changed_packages: patchelf yocto-poky yocto-opkg-utils yocto-pseudo
+  date: 2022-08-27-17-10-20
