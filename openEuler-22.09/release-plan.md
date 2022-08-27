@@ -65,6 +65,7 @@ openEuler 22.09 是基于5.10内核的创新版本（参见[版本生命周期](
 |[I5JQGG](https://gitee.com/openeuler/release-management/issues/I5JQGG)|【openEuler 22.09】HybridSched虚拟机高低优先级混部|Developing|SIG-Virt|[@kevinzhu1](https://gitee.com/open_euler/dashboard/members/kevinzhu1) [@yezengruan](https://gitee.com/open_euler/dashboard/members/yezengruan)|iso|skylark|
 |[I5CBYL]([https://gitee.com/openeuler/release-management/issues/I5CBYL)|基于OpenStack Yoga版本支持虚拟机高低优先级特性|Developing|SIG-OpenStack|[@joec88](https://gitee.com/joec88) [@huangtianhua](https://gitee.com/huangtianhua) [@xiyuanwang](@https://gitee.com/xiyuanwang)  [@zh-f](https://gitee.com/zh-f)  [@liksh](https://gitee.com/liksh) [@zhangy1317](https://gitee.com/zhangy1317)|     |     |
 |[I5B4CA](https://gitee.com/openeuler/release-management/issues/I5B4CA)|【openEuler 22.09】 新增云底座操作系统NestOS支持|Developing|sig-k8sdistro sig-cloudnative|[@duyiwei7w](https://gitee.com/duyiwei7w) [@fu-shanqing](https://gitee.com/fu-shanqing)|iso||
+|[I5N8S7](https://gitee.com/openeuler/release-management/issues/I5N8S7)|openEuler 22.09版本支持DPU场景化底座|Developing|SIG-DPU|[@fangchuang](https://gitee.com/fangchuang) [@minknov](https://gitee.com/minknov) [@fary86](https://gitee.com/fary86)|     |     |
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
