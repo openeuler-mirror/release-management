@@ -4767,4 +4767,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-08-23"
-
+- name: astream
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-08-29"
