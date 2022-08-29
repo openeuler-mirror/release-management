@@ -99,3 +99,18 @@ release:
   - zhengshaoyu
   - zengwefeng
   - imxcc
+
+- branch: openEuler-22.09
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - Lostwayzxc
+  - disnight
+  - licihua
+  - zhengshaoyu
+  - zengwefeng
+  - imxcc
+  - paul-huang
