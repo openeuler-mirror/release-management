@@ -226,3 +226,7 @@ release-change:
   description: 8d9e692 !585 add NestOS related packages to openEuler 22.09
   changed_packages: catatonit
   date: 2022-08-29-22-30-32
+- pr: https://gitee.com/openeuler/release-management/pulls/586
+  description: 8d76736 !586 新增社区孵化软件 astream，同时移动至22.09-Epol
+  changed_packages: astream
+  date: 2022-08-30-00-09-23
