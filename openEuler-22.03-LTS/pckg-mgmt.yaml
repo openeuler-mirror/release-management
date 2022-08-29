@@ -1,6 +1,34 @@
 packages:
   everything:
     baseos:
+    - name: patchelf
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1588
+      date: 2022-08-29-14-28-23
+    - name: yocto-poky
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1588
+      date: 2022-08-29-14-28-23
+    - name: yocto-opkg-utils
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1588
+      date: 2022-08-29-14-28-23
+    - name: yocto-pseudo
+      branch_from: openEuler-22.03-LTS-Next
+      branch_to: openEuler-22.03-LTS
+      obs_from: openEuler:22.03:LTS:Next
+      obs_to: openEuler:22.03:LTS
+      change_pr: obs_meta-1588
+      date: 2022-08-29-14-28-23
     - name: LZMA-SDK
       branch_from: openEuler-22.03-LTS-Next
       branch_to: openEuler-22.03-LTS
