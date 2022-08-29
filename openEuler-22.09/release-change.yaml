@@ -222,3 +222,7 @@ release-change:
     cri-tools fuse-overlayfs fuse-sshfs ignition libvarlink nestos-installer slirp4netns
     ssh-key-dir stalld toolbox wireguard-tools zchunk zincati zram-generator NetworkManager-pptp
   date: 2022-08-26-14-46-11
+- pr: https://gitee.com/openeuler/release-management/pulls/585
+  description: 8d9e692 !585 add NestOS related packages to openEuler 22.09
+  changed_packages: catatonit
+  date: 2022-08-29-22-30-32
