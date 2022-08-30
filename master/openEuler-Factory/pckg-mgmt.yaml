@@ -13479,3 +13479,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-30"
+    - name: rubygem-ruby-libvirt
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-30"
