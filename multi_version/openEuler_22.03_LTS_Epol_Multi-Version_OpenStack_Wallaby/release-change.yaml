@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/588
+  description: 49ad4dd !588 init sp1 sp3 2203-lts 2203-lts-next base yaml
+  changed_packages: openstack-macros python-s3transfer
+  date: 2022-08-30-20-48-39
