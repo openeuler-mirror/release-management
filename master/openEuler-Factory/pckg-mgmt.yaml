@@ -13475,3 +13475,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-30"
+    - name: rubygem-fog-xml
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-08-30"
