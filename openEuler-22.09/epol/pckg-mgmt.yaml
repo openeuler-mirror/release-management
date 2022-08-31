@@ -3569,12 +3569,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-07-26'
-- name: octave
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.09:Epol
-  date: '2022-07-26'
 - name: python-sphinxcontrib-blockdiag
   source_dir: master
   destination_dir: openEuler-22.09

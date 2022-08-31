@@ -234,3 +234,7 @@ release-change:
   description: f98a485 !590 add openEuler-22.09 for qscintilla
   changed_packages: qscintilla
   date: 2022-08-31-12-11-59
+- pr: https://gitee.com/openeuler/release-management/pulls/592
+  description: 3319887 !592 从openeuler-22.09版本基线中剔除持续unresolvable（octave）以及高概率构建失败的软件包（mysql）
+  changed_packages: mysql5 octave
+  date: 2022-08-31-15-32-29
