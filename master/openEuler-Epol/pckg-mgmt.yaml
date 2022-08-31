@@ -4775,3 +4775,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-09-05"
+- name: python-isula
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-09-06"
+- name: openstack-helm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-09-06"
+- name: openstack-helm-images
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-09-06"
+- name: openstack-helm-infra
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-09-06"
+- name: loci
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-09-06"

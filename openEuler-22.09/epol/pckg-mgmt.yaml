@@ -6851,3 +6851,33 @@ packages:
   obs_from: openEuler:22.09
   obs_to: openEuler:22.09:Epol
   date: '2022-09-01'
+- name: python-isula
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-09-06'
+- name: openstack-helm
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-09-06'
+- name: openstack-helm-images
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-09-06'
+- name: openstack-helm-infra
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-09-06'
+- name: loci
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09:Epol
+  date: '2022-09-06'

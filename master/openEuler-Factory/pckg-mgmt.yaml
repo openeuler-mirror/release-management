@@ -13351,22 +13351,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-05"
-    - name: openstack-helm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-08"
-    - name: loci
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-08"
-    - name: openstack-helm-images
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-08"
-    - name: openstack-helm-infra
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-08"
     - name: botan2
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13452,10 +13436,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-08-29"
     - name: tinyproxy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-30"
-    - name: python-isula
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-30"
