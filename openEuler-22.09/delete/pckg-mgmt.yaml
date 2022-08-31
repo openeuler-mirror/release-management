@@ -13,4 +13,3 @@ packages:
 - name: python-clufter
 - name: nagios-plugins
 - name: mysql5
-- name: octave
