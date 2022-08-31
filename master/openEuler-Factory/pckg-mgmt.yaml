@@ -13451,10 +13451,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-25"
-    - name: optimized-routines
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-29"
     - name: mandoc
       obs_from: ""
       obs_to: openEuler:Factory
