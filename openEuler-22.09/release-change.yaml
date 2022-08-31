@@ -238,3 +238,7 @@ release-change:
   description: 3319887 !592 从openeuler-22.09版本基线中剔除持续unresolvable（octave）以及高概率构建失败的软件包（mysql）
   changed_packages: mysql5 octave
   date: 2022-08-31-15-32-29
+- pr: https://gitee.com/openeuler/release-management/pulls/595
+  description: 86de35b !595 add octave to openEuler-22.09 Epol
+  changed_packages: octave
+  date: 2022-08-31-19-01-41
