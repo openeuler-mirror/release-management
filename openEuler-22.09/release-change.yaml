@@ -230,3 +230,7 @@ release-change:
   description: 8d76736 !586 新增社区孵化软件 astream，同时移动至22.09-Epol
   changed_packages: astream
   date: 2022-08-30-00-09-23
+- pr: https://gitee.com/openeuler/release-management/pulls/590
+  description: f98a485 !590 add openEuler-22.09 for qscintilla
+  changed_packages: qscintilla
+  date: 2022-08-31-12-11-59
