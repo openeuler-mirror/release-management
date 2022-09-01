@@ -242,3 +242,7 @@ release-change:
   description: 86de35b !595 add octave to openEuler-22.09 Epol
   changed_packages: octave
   date: 2022-08-31-19-01-41
+- pr: https://gitee.com/openeuler/release-management/pulls/597
+  description: 42397be !597 [Compiler SIG] gcc-12 多版本GCC仓从BaseOS移动到EPOL
+  changed_packages: gcc-12
+  date: 2022-09-01-21-18-32
