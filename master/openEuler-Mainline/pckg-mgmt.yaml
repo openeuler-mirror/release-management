@@ -5032,3 +5032,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-27"
+- name: optimized-routines
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-08-31"
