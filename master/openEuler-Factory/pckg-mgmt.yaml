@@ -13795,3 +13795,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
+    - name: plasma-discover
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-02"
