@@ -13511,3 +13511,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
+    - name: maliit-keyboard
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-02"
