@@ -13571,3 +13571,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
+    - name: kf5-grantleetheme
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-02"
