@@ -13611,3 +13611,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
+    - name: plasma-desktop
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-02"
