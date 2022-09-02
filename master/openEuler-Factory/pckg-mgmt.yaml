@@ -13675,3 +13675,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
+    - name: qqc2-desktop-style
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-02"
