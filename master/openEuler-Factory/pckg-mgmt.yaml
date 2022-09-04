@@ -13819,3 +13819,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
+    - name: python-tomli-w
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-04"
