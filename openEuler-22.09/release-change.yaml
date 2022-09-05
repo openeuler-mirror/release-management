@@ -250,3 +250,7 @@ release-change:
   description: ac9d2b1 !596 Move optimized-routines from openEuler-Factory to openEuler-22.09.
   changed_packages: optimized-routines
   date: 2022-09-02-01-10-11
+- pr: https://gitee.com/openeuler/release-management/pulls/605
+  description: 'b9c0f91 !605 I5PRE4: Openjdk-17 moved to 22.09-epol and 22.03-lts-sp1-epol'
+  changed_packages: openjdk-17
+  date: 2022-09-05-19-33-52
