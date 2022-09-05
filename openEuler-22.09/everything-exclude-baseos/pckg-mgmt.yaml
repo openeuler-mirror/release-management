@@ -18053,3 +18053,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-09-01'
+- name: openjdk-17
+  source_dir: master
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.09
+  date: '2022-09-05'
