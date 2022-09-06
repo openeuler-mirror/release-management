@@ -13823,3 +13823,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-04"
+    - name: i3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-06"
