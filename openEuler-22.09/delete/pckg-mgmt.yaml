@@ -11,5 +11,4 @@ packages:
 - name: execstack
 - name: booth
 - name: python-clufter
-- name: nagios-plugins
 - name: mysql5
