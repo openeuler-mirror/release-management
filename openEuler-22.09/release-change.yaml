@@ -264,3 +264,7 @@ release-change:
   description: 34773cb !606 openEuler-22.09引入软件包nagios-plugins
   changed_packages: nagios-plugins freeradius-client
   date: 2022-09-06-10-48-15
+- pr: https://gitee.com/openeuler/release-management/pulls/607
+  description: 3510be0 !607 Remove python-feedparser from openEuler-22.09
+  changed_packages: python-feedparser
+  date: 2022-09-06-16-10-42
