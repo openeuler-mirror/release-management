@@ -12,3 +12,4 @@ packages:
 - name: booth
 - name: python-clufter
 - name: mysql5
+- name: python-feedparser
