@@ -491,10 +491,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: freeradius-client
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: fstrm
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -1212,10 +1208,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: mxml
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: nagios-plugins
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
