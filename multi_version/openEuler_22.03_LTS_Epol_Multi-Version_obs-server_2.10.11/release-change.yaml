@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/608
+  description: 0667995 !608 add multi version branch for obs-server
+  changed_packages: autoconf obs-bundled-gems obs-server passenger ruby rubygem-bundler
+  date: 2022-09-07-15-10-32
