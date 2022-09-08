@@ -11003,10 +11003,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: qca
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: qfs
       obs_from: ""
       obs_to: openEuler:Factory
