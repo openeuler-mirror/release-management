@@ -187,3 +187,7 @@ release-change:
   changed_packages: python-isula openstack-helm openstack-helm-images openstack-helm-infra
     loci
   date: 2022-09-06-09-41-34
+- pr: https://gitee.com/openeuler/release-management/pulls/610
+  description: 0d46eca !610 移动qca到openEuler:epol分支，用以支持kf5-kwallet的编译
+  changed_packages: qca
+  date: 2022-09-13-15-46-18
