@@ -13815,3 +13815,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-09"
+    - name: perl-AnyEvent-I3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-14"
