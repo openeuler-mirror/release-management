@@ -13819,3 +13819,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-14"
+    - name: xcb-util-xrm
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-15"
