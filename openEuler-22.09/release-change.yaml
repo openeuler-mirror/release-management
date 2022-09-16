@@ -268,3 +268,7 @@ release-change:
   description: 3510be0 !607 Remove python-feedparser from openEuler-22.09
   changed_packages: python-feedparser
   date: 2022-09-06-16-10-42
+- pr: https://gitee.com/openeuler/release-management/pulls/617
+  description: 25169c0 !617 【轻量级 PR】：Remove drbd、kmod-drbd90 from openEuler-22.09
+  changed_packages: kmod-drbd90 drbd
+  date: 2022-09-16-16-09-48
