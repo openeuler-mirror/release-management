@@ -207,3 +207,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Common_Languages_Dependent_Tools
   date: '2022-07-26'
+- name: openjdk-17
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Common_Languages_Dependent_Tools
+  date: '2022-09-16'
