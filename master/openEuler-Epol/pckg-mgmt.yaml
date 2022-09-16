@@ -4771,10 +4771,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-08-29"
-- name: openjdk-17
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: "2022-09-05"
 - name: python-isula
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
