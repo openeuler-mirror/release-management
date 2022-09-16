@@ -191,3 +191,8 @@ release-change:
   description: 0d46eca !610 移动qca到openEuler:epol分支，用以支持kf5-kwallet的编译
   changed_packages: qca
   date: 2022-09-13-15-46-18
+- pr: https://gitee.com/openeuler/release-management/pulls/616
+  description: 'e43eb22 !616 I5RDRN: move jdk17 master build from openEuler-Epol to
+    openEuler-Common_Languages_Dependent_Tools/pckg-mgmt.'
+  changed_packages: openjdk-17
+  date: 2022-09-16-15-21-30
