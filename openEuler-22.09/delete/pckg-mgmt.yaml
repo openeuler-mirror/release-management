@@ -13,3 +13,5 @@ packages:
 - name: python-clufter
 - name: mysql5
 - name: python-feedparser
+- name: drbd
+- name: kmod-drbd90
