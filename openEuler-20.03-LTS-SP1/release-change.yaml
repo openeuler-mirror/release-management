@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/613
+  description: dc2e318 !613 add python-libconf to 20.03 22.03
+  changed_packages: python-libconf
+  date: 2022-09-19-20-13-12

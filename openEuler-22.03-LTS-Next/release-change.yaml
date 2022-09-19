@@ -3,3 +3,7 @@ release-change:
   description: 'b9c0f91 !605 I5PRE4: Openjdk-17 moved to 22.09-epol and 22.03-lts-sp1-epol'
   changed_packages: openjdk-17
   date: 2022-09-05-19-33-52
+- pr: https://gitee.com/openeuler/release-management/pulls/613
+  description: dc2e318 !613 add python-libconf to 20.03 22.03
+  changed_packages: python-libconf
+  date: 2022-09-19-20-13-12
