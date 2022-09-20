@@ -13347,10 +13347,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-05"
-    - name: botan2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-08-09"
     - name: gz-fuel-tools
       obs_from: ""
       obs_to: openEuler:Factory

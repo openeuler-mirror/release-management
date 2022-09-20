@@ -4795,3 +4795,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-09-08"
+- name: botan2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-09-20"
