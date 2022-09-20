@@ -272,3 +272,7 @@ release-change:
   description: 25169c0 !617 【轻量级 PR】：Remove drbd、kmod-drbd90 from openEuler-22.09
   changed_packages: kmod-drbd90 drbd
   date: 2022-09-16-16-09-48
+- pr: https://gitee.com/openeuler/release-management/pulls/623
+  description: 16c5051 !623 rename process1 to sysmaster
+  changed_packages: process1 sysmaster
+  date: 2022-09-20-14-56-04
