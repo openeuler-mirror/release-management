@@ -200,3 +200,7 @@ release-change:
   description: 16c5051 !623 rename process1 to sysmaster
   changed_packages: process1 sysmaster
   date: 2022-09-20-14-56-04
+- pr: https://gitee.com/openeuler/release-management/pulls/624
+  description: cd80777 !624 move botan2 from factory to master:epol
+  changed_packages: botan2
+  date: 2022-09-20-17-22-45
