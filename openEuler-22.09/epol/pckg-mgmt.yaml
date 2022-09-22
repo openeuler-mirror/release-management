@@ -6869,3 +6869,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.09:Epol
   date: '2022-09-06'
+- name: kubernetes
+  source_dir: openEuler-22.09
+  destination_dir: openEuler-22.09
+  obs_from: openEuler:22.09
+  obs_to: openEuler:22.09:Epol
+  date: '2022-09-21'

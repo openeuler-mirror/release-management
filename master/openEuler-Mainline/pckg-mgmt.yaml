@@ -1515,10 +1515,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: kubernetes
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: kurdit-unikurd-web-fonts
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline

@@ -17351,12 +17351,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-07-26'
-- name: kubernetes
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:22.09
-  date: '2022-07-26'
 - name: container-exception-logger
   source_dir: master
   destination_dir: openEuler-22.09
