@@ -276,3 +276,7 @@ release-change:
   description: 16c5051 !623 rename process1 to sysmaster
   changed_packages: process1 sysmaster
   date: 2022-09-20-14-56-04
+- pr: https://gitee.com/openeuler/release-management/pulls/622
+  description: db05930 !622 move kubernetes to epol
+  changed_packages: kubernetes
+  date: 2022-09-22-10-50-42

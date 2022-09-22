@@ -204,3 +204,7 @@ release-change:
   description: cd80777 !624 move botan2 from factory to master:epol
   changed_packages: botan2
   date: 2022-09-20-17-22-45
+- pr: https://gitee.com/openeuler/release-management/pulls/622
+  description: db05930 !622 move kubernetes to epol
+  changed_packages: kubernetes
+  date: 2022-09-22-10-50-42
