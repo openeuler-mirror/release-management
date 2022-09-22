@@ -25,5 +25,6 @@ branch:
   - Multi-Version_obs-server-2.10.11_openEuler-22.03-LTS
   openEuler-20.03-LTS-SP1:
   - Multi-Version_obs-server-2.10.11_openEuler-22.03-LTS
+  - Multi-version_obs-server-2.10.11_openEuler-22.09
   openEuler-22.09:
   - Multi-version_obs-server-2.10.11_openEuler-22.09
