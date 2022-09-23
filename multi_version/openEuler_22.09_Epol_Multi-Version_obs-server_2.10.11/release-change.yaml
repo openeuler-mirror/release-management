@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/632
+  description: 6a990c4 !632 为obs-server 添加22.09多版本分支
+  changed_packages: autoconf obs-bundled-gems obs-server passenger ruby
+  date: 2022-09-23-16-33-13
