@@ -13851,3 +13851,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-24"
+    - name: aops-vulcanus
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-24"
