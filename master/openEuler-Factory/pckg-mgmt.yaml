@@ -13847,3 +13847,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-24"
+    - name: aops-hermes
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-24"
