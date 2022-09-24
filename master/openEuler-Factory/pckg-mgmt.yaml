@@ -13859,3 +13859,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-24"
+    - name: aops-ceres
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-09-24"
