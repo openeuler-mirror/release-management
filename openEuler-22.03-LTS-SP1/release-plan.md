@@ -19,7 +19,7 @@ openEuler 22.03 LTS SP1 是基于5.10内核的创新版本（参见[版本生命
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|     |    |    |   |     |     |     |
+|[I5T3MB](https://gitee.com/openeuler/release-management/issues/I5T3MB)|新增ROS基础版和ROS2基础版|Discussion|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu) [@xiao_yun_wang](https://gitee.com/xiao_yun_wang) [@wuwei_plct](https://gitee.com/wuwei_plct)|EPOL|ros_comm ros_base|
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
