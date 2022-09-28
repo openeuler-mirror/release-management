@@ -11,3 +11,8 @@ release-change:
   description: db05930 !622 move kubernetes to epol
   changed_packages: kubernetes
   date: 2022-09-22-10-50-42
+- pr: https://gitee.com/openeuler/release-management/pulls/602
+  description: a2d63ef !602 add arangodb,pyArango to 22.03-LTS-Next:epol, pyArango
+    to 20.03-LTS-{SP1,SP3}:epol
+  changed_packages: arangodb pyArango
+  date: 2022-09-28-17-07-32
