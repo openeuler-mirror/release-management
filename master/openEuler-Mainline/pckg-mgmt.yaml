@@ -2079,6 +2079,14 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: nagios-plugins
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2022-09-07'
+- name: freeradius-client
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2022-09-07'
 - name: native-platform
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
