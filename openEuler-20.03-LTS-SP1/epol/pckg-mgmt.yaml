@@ -1,4 +1,10 @@
 packages:
+- name: pyArango
+  source_dir: openEuler-20.03-LTS-Next
+  destination_dir: openEuler-20.03-LTS-SP1
+  obs_from: openEuler:20.03:LTS:Next:Epol
+  obs_to: openEuler:20.03:LTS:SP1:Epol
+  date: '2022-09-13'
 - name: htslib
   source_dir: openEuler-20.03-LTS-Next
   destination_dir: openEuler-20.03-LTS-SP1
