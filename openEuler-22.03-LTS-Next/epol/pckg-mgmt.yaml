@@ -4589,3 +4589,15 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-09-21'
+- name:  opencl-clhpp
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-09-30'
+- name:  sentencepiece
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:C
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-09-30'
