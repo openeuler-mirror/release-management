@@ -19,9 +19,11 @@ openEuler 22.03 LTS SP1 是基于5.10内核的创新版本（参见[版本生命
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-| [I5RDEG](https://gitee.com/openeuler/release-management/issues/I5RDEG) | DDE组件更新支持服务器场景优化 | Discussion | sig-DDE | [@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo) | EPOL |     |
+|[I5RDEG](https://gitee.com/openeuler/release-management/issues/I5RDEG) | DDE组件更新支持服务器场景优化 | Discussion | sig-DDE | [@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo) | EPOL |     |
 |[I5RDGW](https://gitee.com/openeuler/release-management/issues/I5RDGW)|新增软件更新工具支持|Discussion|sig-DDE|[@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo)|EPOL|deepin-upgrade-tool|
 |[I5RDJS](https://gitee.com/openeuler/release-management/issues/I5RDJS)|新增备份还原功能支持|Discussion|sig-Migration|[@blueblue](https://gitee.com/blublue)|EPOL|ubackup|
+|[I5T3MB](https://gitee.com/openeuler/release-management/issues/I5T3MB)|新增ROS基础版和ROS2基础版|Discussion|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu) [@xiao_yun_wang](https://gitee.com/xiao_yun_wang) [@wuwei_plct](https://gitee.com/wuwei_plct)|EPOL|ros_comm ros_base|
+
 |现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>|||||||
 |<br>|||||||
 
