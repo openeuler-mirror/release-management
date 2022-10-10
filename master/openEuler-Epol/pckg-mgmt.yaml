@@ -4795,3 +4795,23 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2022-09-21'
+- name: mecab-jumandic
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-10-10'
+- name: ruby-mecab
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-10-10'
+- name: mecab-ipadic
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-10-10'
+- name: bsfilter
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-10-10'
+- name: bogofilter
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-10-10'

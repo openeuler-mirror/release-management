@@ -4601,3 +4601,33 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-09-30'
+- name: mecab-jumandic
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-10-10'
+- name: ruby-mecab
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-10-10'
+- name: mecab-ipadic
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-10-10'
+- name: bsfilter
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-10-10'
+- name: bogofilter
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-10-10'
