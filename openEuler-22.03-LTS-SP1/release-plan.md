@@ -42,6 +42,7 @@ openEuler 22.03 LTS SP1 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I5RDJS](https://gitee.com/openeuler/release-management/issues/I5RDJS)|新增备份还原功能支持|Discussion|sig-Migration|[@blueblue](https://gitee.com/blublue)|EPOL|ubackup|
 |[I5T3MB](https://gitee.com/openeuler/release-management/issues/I5T3MB)|新增ROS基础版和ROS2基础版|Discussion|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu) [@xiao_yun_wang](https://gitee.com/xiao_yun_wang) [@wuwei_plct](https://gitee.com/wuwei_plct)|EPOL|ros_comm ros_base|
 |[I5TT8E](https://gitee.com/openeuler/release-management/issues/I5TT8E)|发布kiran-desktop 2.4版本|Discussion|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02)|EPOL|kiran-control-panel,kiran-cc-daemon,kiran-qt5-integration,kiran-session-manager,kiran-log|
+|[I5U6JV](https://gitee.com/openeuler/release-management/issues/I5U6JV)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
