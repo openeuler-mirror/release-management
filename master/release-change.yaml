@@ -212,3 +212,7 @@ release-change:
   description: 08722bb !609 nagios-plugins and freeradius-client从openEuler-Epol移仓到openEuler-Mainline
   changed_packages: nagios-plugins freeradius-client
   date: 2022-09-28-17-08-22
+- pr: https://gitee.com/openeuler/release-management/pulls/641
+  description: 850cf21 !641 add bogofilter bsfilter mecab-ipadic mecab-jumandic ruby-mecab
+  changed_packages: mecab-jumandic ruby-mecab mecab-ipadic bsfilter bogofilter
+  date: 2022-10-12-17-07-47
