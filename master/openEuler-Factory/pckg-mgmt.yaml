@@ -13767,26 +13767,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: mecab-jumandic
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: ruby-mecab
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: mecab-ipadic
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: bsfilter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: bogofilter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: python-tomli-w
       obs_from: ""
       obs_to: openEuler:Factory
