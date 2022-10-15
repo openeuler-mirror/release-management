@@ -5040,3 +5040,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-08-31"
+- name: hikptool
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-10-15"
