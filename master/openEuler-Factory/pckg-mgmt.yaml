@@ -13867,7 +13867,3 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-08"
-    - name: hikptool
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-12"
