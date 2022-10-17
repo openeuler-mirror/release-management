@@ -13871,3 +13871,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-17"
+    - name: exim
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-10-17"
