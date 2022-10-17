@@ -1,1 +1,4 @@
-packages: []
+packages:
+- name: tesla-polyglot
+- name: libpsm2
+- name: jdeparser
