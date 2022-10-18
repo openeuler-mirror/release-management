@@ -220,3 +220,7 @@ release-change:
   description: 00aec5b !646 申请hikptool从openEuler-Factory移到openEuler-Mainline和openEuler-22.03-LTS-Next
   changed_packages: hikptool
   date: 2022-10-17-10-37-50
+- pr: https://gitee.com/openeuler/release-management/pulls/649
+  description: e5e9222 !649 move libslirp from epol to mainline
+  changed_packages: libslirp
+  date: 2022-10-18-15-16-47
