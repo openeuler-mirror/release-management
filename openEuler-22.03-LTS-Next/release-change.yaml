@@ -33,3 +33,7 @@ release-change:
   changed_packages: htmlcxx lucenepp mimetic NetworkManager-l2tp xl2tpd cryfs deepin-upgrade-tool
     restic ubackup cryptopp
   date: 2022-10-18-15-14-17
+- pr: https://gitee.com/openeuler/release-management/pulls/652
+  description: e69baf3 !652 skylark added to 22.03-LTS-Next:baseos
+  changed_packages: skylark
+  date: 2022-10-19-15-14-44
