@@ -13887,3 +13887,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-21"
+    - name: okular
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-10-21"
