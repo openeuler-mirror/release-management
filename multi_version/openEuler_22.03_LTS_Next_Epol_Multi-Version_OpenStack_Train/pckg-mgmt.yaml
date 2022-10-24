@@ -11,12 +11,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-rfc3986
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-oslotest
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -41,46 +35,16 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-dulwich
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pytest-sugar
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-qthelp
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-osc-lib
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-passlib
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-glanceclient
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-itsdangerous
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-aodhclient
@@ -95,22 +59,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-bashate
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-markupsafe
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-argon2-cffi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-sphinx-feature-classification
@@ -123,12 +75,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-prometheus_client
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-textfsm
@@ -150,24 +96,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-os-win
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pytest-mock
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pint
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-cmd2
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -197,31 +125,13 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-sphinxcontrib-jsmath
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-oslo.rootwrap
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-vine
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-django
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-gitdb
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -245,12 +155,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-betamax
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-ptyprocess
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -269,12 +173,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pysmi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-sphinxcontrib-serializinghtml
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -287,40 +185,16 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-twisted
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-websockify
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-werkzeug
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-flask
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-rsa
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-nosehtmloutput
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-swiftclient
@@ -347,22 +221,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pycryptodomex
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-XStatic-jquery-ui
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: hiredis
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-cinderclient
@@ -395,43 +257,13 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-twine
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-svg2pdfconverter
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-pytest-runner
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-flake8-import-order
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-scrypt
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-flake8-logging-format
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-jeepney
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -443,25 +275,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pretend
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyngus
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-trove-tempest-plugin
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-typed-ast
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -474,24 +288,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-automaton
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-voluptuous
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-contextlib2
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-retrying
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -545,12 +341,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pyroute2
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-blazarclient
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -575,12 +365,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-GitPython
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-semantic_version
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -593,25 +377,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: pyScss
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-XStatic-JSEncrypt
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-lazy-object-proxy
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pathlib2
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -653,12 +419,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-django-compressor
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: openstack-cinder
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -695,19 +455,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-testresources
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-certifi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-aiohttp
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -725,12 +473,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-smmap
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-setuptools
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -738,18 +480,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-sphinx
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-cloud_sptheme
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-xmltodict
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -768,18 +498,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-os-brick
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-apidoc
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-rjsmin
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -815,18 +533,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-netifaces
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-ipaddress
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-idna
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -845,12 +551,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-subunit2sql
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-colorama
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -858,24 +558,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-XStatic-Angular-FileUpload
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyserial
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyasn1
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-typing
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -894,18 +576,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-requestsexceptions
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-amqp
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-wrapt
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -959,18 +629,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-SQLAlchemy-Utils
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-testrepository
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: pytest
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -990,12 +648,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-oslo.concurrency
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-strict-rfc3339
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1067,25 +719,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-sphinxcontrib-devhelp
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-scandir
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-dotenv
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pysnmp
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1101,12 +735,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: protobuf
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: openstack-placement
@@ -1149,12 +777,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-munch
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: openstack-aodh
@@ -1217,12 +839,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-kombu
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-ldappool
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -1265,18 +881,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-django-appconf
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyquery
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-tornado
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -1296,30 +900,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-pifpaf
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-XStatic
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-ply
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-infinisdk
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-persist-queue
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1359,12 +939,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-seqdiag
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-confget
@@ -1415,19 +989,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-soupsieve
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-rst.linker
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-webcolors
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1457,31 +1019,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-confluent-kafka
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-wheel
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-pycurl
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-paste-deploy
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pysocks
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -1529,28 +1067,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-memcached
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-statsd
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-oslo.reports
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-oauth2client
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-ironic-lib
@@ -1583,12 +1103,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-cssselect
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-sqlalchemy
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -1596,12 +1110,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-sqlalchemy-migrate
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pysendfile
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1649,12 +1157,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-jsonpath-rw
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-pyeclib
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -1673,37 +1175,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-flake8
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: liberasurecode
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pycryptodome
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: pylint
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-attrs
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-daiquiri
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1722,12 +1194,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-pluggy
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-jsonschema
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -1769,43 +1235,13 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-defusedxml
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-doc8
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pymemcache
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-gssapi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-pep8
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-bcrypt
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-cachez
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1829,25 +1265,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pyrsistent
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pandas
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-dracclient
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pylons-sphinx-themes
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1863,12 +1281,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: pytz
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-cursive
@@ -1889,22 +1301,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-tempita
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-searchlightclient
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-monotonic
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-simplejson
@@ -1925,30 +1325,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pep8-naming
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyasn1-modules
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-httpdomain
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-tinyrpc
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-congressclient
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -1961,34 +1337,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-ddt
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-flup
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-html5lib
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-ecdsa
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-log-cabinet
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-construct
@@ -2033,48 +1385,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-django-debreach
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-boto
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-WSGIProxy2
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-uritemplate
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pexpect
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-cryptography
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-extras
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-XStatic-JQuery.TableSorter
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2087,19 +1397,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-termcolor
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-XStatic-Bootstrap-SCSS
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-warlock
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2111,37 +1409,13 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: future
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-CouchDB
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-sphinx-theme-alabaster
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-mistralclient
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-openstack.nose_plugin
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-requests-oauthlib
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2153,28 +1427,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-testscenarios
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-networkx
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: networking-generic-switch
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-simplegeneric
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-ujson
@@ -2189,37 +1445,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: subunit
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-ironic-ui
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-mox
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: pyOpenSSL
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-google-auth
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-isort
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -2255,19 +1481,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-Pympler
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-more-itertools
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-zope-interface
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -2291,18 +1505,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-rcssmin
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pure-sasl
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-typing-extensions
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2315,28 +1517,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-bitmath
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-pecanwsme
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: networking-baremetal
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-hypothesis
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-pipreqs
@@ -2357,34 +1541,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-tenacity
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-ironic-prometheus-exporter
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: ansible
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pydot
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-matplotlib
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-pydotplus
@@ -2394,18 +1554,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-sphinxcontrib-autoprogram
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-graphviz
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pytimeparse
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2423,18 +1571,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-mypy
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyudev
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-sphinx_rtd_theme
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2447,25 +1583,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-gabbi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-os-ken
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-toml
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-stevedore
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2481,18 +1599,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-yappi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-blinker
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-feedparser
@@ -2513,37 +1619,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-argcomplete
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-py
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-dogpile.cache
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: librabbitmq
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-click
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-fixtures
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -2573,12 +1649,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-sphinxcontrib-blockdiag
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: crudini
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2595,18 +1665,6 @@ packages:
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-enum34
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-PyMySQL
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-XStatic-roboto-fontface
@@ -2628,12 +1686,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-pycadf
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-xvfbwrapper
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2675,18 +1727,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-watchdog
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-yaql
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-XStatic-mdi
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2694,18 +1734,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: openstack-glance
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-applehelp
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinxcontrib-actdiag
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2723,34 +1751,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-msgpack
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-zunclient
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-unittest2
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-wsgi-intercept
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: uwsgi
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: diskimage-builder
@@ -2789,12 +1793,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-blurb
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-prettytable
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2807,46 +1805,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-requirementslib
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-setproctitle
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-mypy-extensions
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-mccabe
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: openstack-ceilometer
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-nosexcover
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-sphinx-issues
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-sqlparse
@@ -2873,24 +1835,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-sphinxcontrib-issuetracker
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-retryz
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-scp
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: openstack-neutron
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2898,12 +1842,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-scciclient
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-bandit
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2921,19 +1859,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pallets-sphinx-themes
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-jsonpatch
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-repoze-lru
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3
@@ -2969,12 +1895,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-pynacl
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-lefthandclient
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -2994,24 +1914,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-jaraco.packaging
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-requests-kerberos
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pytest-virtualenv
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-django-pyscss
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -3047,12 +1949,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-isodate
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-flake8-docstrings
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
@@ -3065,22 +1961,10 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-wcwidth
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: openstack-kolla-ansible
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pecan
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-zVMCloudConnector
@@ -3101,31 +1985,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-xmlschema
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-inotify
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-fasteners
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-eventlet
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-jsonpath-rw-ext
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   obs_from: openEuler:20.03:LTS:SP3:Epol
