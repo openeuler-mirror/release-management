@@ -13,3 +13,7 @@ release-change:
     openEuler-20.03-LTS-SP1
   changed_packages: jdeparser tesla-polyglot libpsm2
   date: 2022-10-18-15-15-58
+- pr: https://gitee.com/openeuler/release-management/pulls/653
+  description: 5ba52d0 !653 add llvm-bolt to openEuler 20.03-LTS-SP1/SP3 epol
+  changed_packages: llvm-bolt
+  date: 2022-10-24-11-05-08
