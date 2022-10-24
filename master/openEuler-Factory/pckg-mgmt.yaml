@@ -13875,10 +13875,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-17"
-    - name: k3s-plugins
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-20"
     - name: mold
       obs_from: ""
       obs_to: openEuler:Factory
