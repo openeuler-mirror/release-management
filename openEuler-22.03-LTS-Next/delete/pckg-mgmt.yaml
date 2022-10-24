@@ -1,1 +1,4 @@
-packages: []
+packages:
+- name: gstreamer
+- name: gstreamer-plugins-base
+- name: gstreamer-plugins-good
