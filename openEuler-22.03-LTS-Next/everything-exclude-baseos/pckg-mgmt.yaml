@@ -6407,12 +6407,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: k3s-selinux
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
 - name: game-music-emu
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -9252,12 +9246,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
 - name: perl-Class-Accessor
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
-- name: k3s-containerd
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09
@@ -14501,12 +14489,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: k3s
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
 - name: nodejs-jsonselect
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -18077,9 +18059,3 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-10-15'
-- name: k3s-plugins
-  source_dir: master
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-10-21'
