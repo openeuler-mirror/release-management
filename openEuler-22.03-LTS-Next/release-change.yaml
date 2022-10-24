@@ -42,3 +42,8 @@ release-change:
     22.03-LTS
   changed_packages: k3s-plugins
   date: 2022-10-24-09-36-50
+- pr: https://gitee.com/openeuler/release-management/pulls/660
+  description: fa718bc !660 remove gstreamer gstreamer-plugins-base gstreamer-plugins-good
+    from 22.03-LTS-Next
+  changed_packages: gstreamer gstreamer-plugins-good gstreamer-plugins-base
+  date: 2022-10-24-20-14-29
