@@ -224,3 +224,8 @@ release-change:
   description: e5e9222 !649 move libslirp from epol to mainline
   changed_packages: libslirp
   date: 2022-10-18-15-16-47
+- pr: https://gitee.com/openeuler/release-management/pulls/654
+  description: 59db8ee !654 add k3s-plugins to branch mainline, 22.03-LTS-Next and
+    22.03-LTS
+  changed_packages: k3s-plugins
+  date: 2022-10-24-09-36-50

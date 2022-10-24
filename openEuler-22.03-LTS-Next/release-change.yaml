@@ -37,3 +37,8 @@ release-change:
   description: e69baf3 !652 skylark added to 22.03-LTS-Next:baseos
   changed_packages: skylark
   date: 2022-10-19-15-14-44
+- pr: https://gitee.com/openeuler/release-management/pulls/654
+  description: 59db8ee !654 add k3s-plugins to branch mainline, 22.03-LTS-Next and
+    22.03-LTS
+  changed_packages: k3s-plugins
+  date: 2022-10-24-09-36-50
