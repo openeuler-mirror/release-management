@@ -4691,3 +4691,27 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-10-17'
+- name: k3s-selinux
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  data: '2022-10-24'
+- name: k3s-containerd
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  data: '2022-10-24'
+- name: k3s
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  data: '2022-10-24'
+- name: k3s-plugins
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  data: '2022-10-24'
