@@ -47,3 +47,8 @@ release-change:
     from 22.03-LTS-Next
   changed_packages: gstreamer gstreamer-plugins-good gstreamer-plugins-base
   date: 2022-10-24-20-14-29
+- pr: https://gitee.com/openeuler/release-management/pulls/659
+  description: e40ec9b !659 Add 2203-lts branch for package k3s-plugins and move k3s
+    k3s-selinux k3s-containerd from 2203-lts-next to epol
+  changed_packages: k3s-selinux k3s-containerd k3s k3s-plugins
+  date: 2022-10-25-09-27-54
