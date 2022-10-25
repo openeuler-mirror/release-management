@@ -52,3 +52,8 @@ release-change:
     k3s-selinux k3s-containerd from 2203-lts-next to epol
   changed_packages: k3s-selinux k3s-containerd k3s k3s-plugins
   date: 2022-10-25-09-27-54
+- pr: https://gitee.com/openeuler/release-management/pulls/662
+  description: 4d8ddf1 !662 Add google-api-core google-auth-httplib2 googleapis-common-protos
+    to openEuler-22.03-LTS-Next
+  changed_packages: google-api-core google-auth-httplib2 googleapis-common-protos
+  date: 2022-10-25-15-50-15
