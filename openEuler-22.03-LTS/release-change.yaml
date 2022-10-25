@@ -7,3 +7,7 @@ release-change:
   description: a693a31 !638 add opencl sentencepiece to 22.03-LTS
   changed_packages: opencl-clhpp sentencepiece
   date: 2022-09-30-15-46-04
+- pr: https://gitee.com/openeuler/release-management/pulls/663
+  description: 54240a4 !663 add k3-plugins package to branch openEuler-22.03-LTS
+  changed_packages: k3s-plugins
+  date: 2022-10-25-16-06-44
