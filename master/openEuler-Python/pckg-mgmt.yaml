@@ -1663,3 +1663,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2022-08-03'
+- name: python-pep8
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2022-10-25'  
