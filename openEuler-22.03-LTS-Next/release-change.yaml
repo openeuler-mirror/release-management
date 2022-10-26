@@ -61,3 +61,7 @@ release-change:
   description: 7d15cf8 !665 add metis package to branch openEuler-22.03-LTS-Next
   changed_packages: metis
   date: 2022-10-25-17-44-16
+- pr: https://gitee.com/openeuler/release-management/pulls/664
+  description: ebd558b !664 add libslirp to 22.03-LTS-Next:Epol
+  changed_packages: libslirp
+  date: 2022-10-26-16-45-32
