@@ -13895,3 +13895,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-21"
+    - name: mock-core-configs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-10-26"
