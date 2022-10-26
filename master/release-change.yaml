@@ -229,3 +229,7 @@ release-change:
     22.03-LTS
   changed_packages: k3s-plugins
   date: 2022-10-24-09-36-50
+- pr: https://gitee.com/openeuler/release-management/pulls/661
+  description: '75ef6a0 !661 Move python pep8 to openEuler: Python project'
+  changed_packages: python-pep8
+  date: 2022-10-26-16-46-34
