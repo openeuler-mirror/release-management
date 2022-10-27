@@ -13899,3 +13899,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-26"
+    - name: opendmarc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-10-27"
