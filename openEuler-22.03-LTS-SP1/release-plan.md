@@ -44,6 +44,14 @@ openEuler 22.03 LTS SP1 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I5TT8E](https://gitee.com/openeuler/release-management/issues/I5TT8E)|发布kiran-desktop 2.4版本|Discussion|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02)|EPOL|kiran-control-panel,kiran-cc-daemon,kiran-qt5-integration,kiran-session-manager,kiran-log|
 |[I5U6JV](https://gitee.com/openeuler/release-management/issues/I5U6JV)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
 |[I5Y11K](https://gitee.com/openeuler/release-management/issues/I5Y11K)|openEuler 22.03 LTS SP 南向兼容：支持intel SPR|Discussion|||ISO|kernel,gcc|
+|[I5Y16U](https://gitee.com/openeuler/release-management/issues/I5Y16U)|兼容HG2号和3号|Discussion|sig-Compatibility-Infra||ISO||
+|[I5Y18K](https://gitee.com/openeuler/release-management/issues/I5Y18K)|支持openstack Train版本|Discussion|sig-openstack||EPOL||
+|[I5Y1CR](https://gitee.com/openeuler/release-management/issues/I5Y1CR)|KubeOS支持一体机|Discussion|Kernel||EPOL||
+|[I5Y1DS](https://gitee.com/openeuler/release-management/issues/I5Y1DS)|基于A-ops现有CVE管理能力扩展|Discussion|sig-ops||EPOL||
+|[I5Y1HK](https://gitee.com/openeuler/release-management/issues/I5Y1HK)|降低secGear在空载下的CPU占用率|Discussion|Kernel||ISO||
+|[I5Y1I8](https://gitee.com/openeuler/release-management/issues/I5Y1I8)|HybridSched虚拟机在离线混部|Discussion|Virt||EPOL||
+|[I5Y1J1](https://gitee.com/openeuler/release-management/issues/I5Y1J1)|实时非实时系统混合部署支持树莓派|Discussion|sig-embedded||embedded||
+|[I5Y1K3](https://gitee.com/openeuler/release-management/issues/I5Y1K3)|分布式软总线生态互通互联|Discussion|sig-Edge||EPOL||
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
