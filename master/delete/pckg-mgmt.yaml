@@ -1,2 +1,10 @@
 packages:
   - name: process1
+  - name: kiran-cpanel-account
+  - name: kiran-cpanel-keyboard
+  - name: kiran-cpanel-display
+  - name: kiran-cpanel-timedate
+  - name: kiran-cpanel-mouse
+  - name: kiran-cpanel-appearance
+  - name: kiran-cpanel-power
+  - name: kiran-cpanel-keybinding
