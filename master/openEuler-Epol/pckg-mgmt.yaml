@@ -4851,3 +4851,15 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Epol
   date: "2022-11-17"
+- name: gflags
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: '2022-11-21'
+- name: glog
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2022-11-21'
+- name: rocksdb
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2022-11-21'

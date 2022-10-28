@@ -4103,10 +4103,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: rocksdb
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: rootfiles
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -4976,10 +4972,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-28'
 - name: postgresql-odbc
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2022-07-28'
-- name: glog
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-07-28'

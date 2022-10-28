@@ -2921,12 +2921,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: rocksdb
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
 - name: install-scripts
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -10812,12 +10806,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
 - name: glassfish-jsp-api
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
-- name: glog
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09
