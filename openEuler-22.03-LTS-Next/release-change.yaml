@@ -78,3 +78,7 @@ release-change:
   description: 0947568 !671 Move gtk4 from openEuler:22.03:LTS:Next:Epol to openEuler-22.03-LTS-Next
   changed_packages: gtk4
   date: 2022-10-28-15-44-59
+- pr: https://gitee.com/openeuler/release-management/pulls/673
+  description: c73d020 !673 add jakarta-mail package to branch openEuler-22.03-LTS-Next
+  changed_packages: jakarta-mail
+  date: 2022-10-28-16-28-00
