@@ -3687,10 +3687,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: kiran-cpanel-account
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-pyforge
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -3724,10 +3720,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: gnome-terminal
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-cpanel-keyboard
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -3815,10 +3807,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: kiran-cpanel-display
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: setroubleshoot
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -3852,10 +3840,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: mate-session-manager
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-cpanel-timedate
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -3928,14 +3912,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: ignition
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-cpanel-mouse
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-cpanel-appearance
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4080,10 +4056,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: calls
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-cpanel-power
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4304,10 +4276,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-pytzdata
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-cpanel-keybinding
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4710,11 +4678,11 @@ packages:
 - name: ukui-clock
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-08-08"
+  date: '2022-08-08'
 - name: xl2tpd
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-08-12"
+  date: '2022-08-12'
 - name: k3s-selinux
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
@@ -4742,47 +4710,47 @@ packages:
 - name: dpu-utilities
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-08-16"
+  date: '2022-08-16'
 - name: openstack-plugin
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-08-22"
+  date: '2022-08-22'
 - name: flamegraph
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-08-23"
+  date: '2022-08-23'
 - name: astream
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-08-29"
+  date: '2022-08-29'
 - name: python-isula
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-06"
+  date: '2022-09-06'
 - name: openstack-helm
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-06"
+  date: '2022-09-06'
 - name: openstack-helm-images
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-06"
+  date: '2022-09-06'
 - name: openstack-helm-infra
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-06"
+  date: '2022-09-06'
 - name: loci
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-06"
+  date: '2022-09-06'
 - name: qca
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-08"
+  date: '2022-09-08'
 - name: botan2
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-09-20"
+  date: '2022-09-20'
 - name: kubernetes
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol

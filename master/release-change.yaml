@@ -233,3 +233,9 @@ release-change:
   description: '75ef6a0 !661 Move python pep8 to openEuler: Python project'
   changed_packages: python-pep8
   date: 2022-10-26-16-46-34
+- pr: https://gitee.com/openeuler/release-management/pulls/644
+  description: 46dd626 !644 从master中删除kiran-cpanel-account、kiran-cpanel-keyboard、kiran-cpanel-display、kiran-cpanel-timedate、kiran-cpanel-mouse、kiran-cpanel-appearance、kiran-cpanel-power、kiran-cpanel-keybinding
+  changed_packages: kiran-cpanel-appearance kiran-cpanel-timedate kiran-cpanel-mouse
+    kiran-cpanel-keybinding kiran-cpanel-account kiran-cpanel-keyboard kiran-cpanel-display
+    kiran-cpanel-power
+  date: 2022-10-28-14-41-55
