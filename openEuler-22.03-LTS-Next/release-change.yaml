@@ -69,3 +69,8 @@ release-change:
   description: 4628890 !668 add kiran-qt5-integration to 22.03-LTS-Next:Epol
   changed_packages: kiran-qt5-integration
   date: 2022-10-27-09-25-04
+- pr: https://gitee.com/openeuler/release-management/pulls/655
+  description: 004792f !655 Remove execstack booth python-clufter ovirt-provider-ovn
+    from openEuler-22.03-LTS-Next
+  changed_packages: booth python-clufter execstack ovirt-provider-ovn
+  date: 2022-10-28-14-42-49

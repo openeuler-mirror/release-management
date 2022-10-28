@@ -4019,12 +4019,6 @@ packages:
   obs_from: openEuler:21.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-08-30'
-- name: ovirt-provider-ovn
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2022-08-30'
 - name: xfce4-cpugraph-plugin
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -4589,13 +4583,13 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-09-21'
-- name:  opencl-clhpp
+- name: opencl-clhpp
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-09-30'
-- name:  sentencepiece
+- name: sentencepiece
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:C

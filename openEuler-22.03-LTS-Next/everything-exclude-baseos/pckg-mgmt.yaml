@@ -11633,12 +11633,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: execstack
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
 - name: hdf
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -16637,12 +16631,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: booth
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
 - name: nodejs-jade
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -17322,12 +17310,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
 - name: libvoikko
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
-- name: python-clufter
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09
