@@ -82,3 +82,9 @@ release-change:
   description: c73d020 !673 add jakarta-mail package to branch openEuler-22.03-LTS-Next
   changed_packages: jakarta-mail
   date: 2022-10-28-16-28-00
+- pr: https://gitee.com/openeuler/release-management/pulls/675
+  description: a0ce76f !675 Add gi-docgen，libadwaita，libjcat，python-cppy，python-deprecated，appstream，python-typogrify，python-smartypants
+    to openEuler:22.03:LTS:Next
+  changed_packages: appstream gi-docgen libjcat libadwaita python-deprecated python-cppy
+    python-typogrify python-smartypants
+  date: 2022-10-29-11-11-06
