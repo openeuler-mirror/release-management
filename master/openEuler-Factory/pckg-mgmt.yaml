@@ -13907,3 +13907,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-27"
+    - name: hyfetch
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-10-30"
