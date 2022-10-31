@@ -92,3 +92,7 @@ release-change:
   description: 39b707a !676 【轻量级 PR】：22.03-LTS-Next增加deepin-pw-check
   changed_packages: deepin-pw-check
   date: 2022-10-31-09-28-25
+- pr: https://gitee.com/openeuler/release-management/pulls/677
+  description: 96833db !677 openEuler-22.03-LTS-Next分支引入软件包perl-Mail-AuthenticationResults
+  changed_packages: perl-Mail-AuthenticationResults
+  date: 2022-10-31-09-51-09
