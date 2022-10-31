@@ -96,3 +96,7 @@ release-change:
   description: 96833db !677 openEuler-22.03-LTS-Next分支引入软件包perl-Mail-AuthenticationResults
   changed_packages: perl-Mail-AuthenticationResults
   date: 2022-10-31-09-51-09
+- pr: https://gitee.com/openeuler/release-management/pulls/679
+  description: 09bd7a9 !679 为python-pytest-xprocess 和 rubygem-sd_notify创建22.03-LTS-Next分支
+  changed_packages: python-pytest-xprocess rubygem-sd_notify
+  date: 2022-10-31-15-05-43
