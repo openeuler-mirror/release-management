@@ -13911,3 +13911,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-30"
+    - name: scim
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-10-31"
