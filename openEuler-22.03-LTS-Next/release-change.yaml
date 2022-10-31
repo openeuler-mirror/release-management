@@ -100,3 +100,8 @@ release-change:
   description: 09bd7a9 !679 为python-pytest-xprocess 和 rubygem-sd_notify创建22.03-LTS-Next分支
   changed_packages: python-pytest-xprocess rubygem-sd_notify
   date: 2022-10-31-15-05-43
+- pr: https://gitee.com/openeuler/release-management/pulls/680
+  description: d1a3ea2 !680 add package python-platformdirs, python-requests-gssapi
+    and python-pytest-subtests into branch openEuler-22.03-LTS-Next
+  changed_packages: python-platformdirs python-requests-gssapi python-pytest-subtests
+  date: 2022-10-31-15-48-47
