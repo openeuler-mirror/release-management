@@ -18119,3 +18119,21 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-10-31'
+- name: python-platformdirs
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Python
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2022-10-31'
+- name: python-requests-gssapi
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2022-10-31'
+- name: python-pytest-subtests
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Python
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2022-10-31'
