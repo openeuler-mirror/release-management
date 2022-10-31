@@ -18137,3 +18137,10 @@ packages:
   obs_from: openEuler:Python
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-10-31'
+- name: libsoup3
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2022-10-31'
+
