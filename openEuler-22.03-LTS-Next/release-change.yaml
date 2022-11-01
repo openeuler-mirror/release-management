@@ -105,3 +105,7 @@ release-change:
     and python-pytest-subtests into branch openEuler-22.03-LTS-Next
   changed_packages: python-platformdirs python-requests-gssapi python-pytest-subtests
   date: 2022-10-31-15-48-47
+- pr: https://gitee.com/openeuler/release-management/pulls/681
+  description: 6131157 !681 为libsoup3创建22.03-LTS-Next分支
+  changed_packages: libsoup3
+  date: 2022-11-01-09-22-34
