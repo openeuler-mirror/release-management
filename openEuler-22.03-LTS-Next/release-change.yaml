@@ -109,3 +109,7 @@ release-change:
   description: 6131157 !681 为libsoup3创建22.03-LTS-Next分支
   changed_packages: libsoup3
   date: 2022-11-01-09-22-34
+- pr: https://gitee.com/openeuler/release-management/pulls/683
+  description: a3da797 !683 Move appstream from openEuler:22.03:LTS:Next:Epol to openEuler-22.03-LTS-Next
+  changed_packages: appstream
+  date: 2022-11-01-19-19-34
