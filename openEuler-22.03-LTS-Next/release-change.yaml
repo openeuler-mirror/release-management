@@ -113,3 +113,7 @@ release-change:
   description: a3da797 !683 Move appstream from openEuler:22.03:LTS:Next:Epol to openEuler-22.03-LTS-Next
   changed_packages: appstream
   date: 2022-11-01-19-19-34
+- pr: https://gitee.com/openeuler/release-management/pulls/686
+  description: a312670 !686 add mandoc to 22.03-LTS-Next
+  changed_packages: mandoc
+  date: 2022-11-02-15-45-13
