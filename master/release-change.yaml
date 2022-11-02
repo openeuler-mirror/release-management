@@ -239,3 +239,7 @@ release-change:
     kiran-cpanel-keybinding kiran-cpanel-account kiran-cpanel-keyboard kiran-cpanel-display
     kiran-cpanel-power
   date: 2022-10-28-14-41-55
+- pr: https://gitee.com/openeuler/release-management/pulls/689
+  description: c325f4a !689 move mandoc from opeEeuler-Factory to opeEeuler-C
+  changed_packages: mandoc
+  date: 2022-11-02-20-54-05
