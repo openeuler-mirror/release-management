@@ -4079,3 +4079,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2022-08-02'
+- name: mandoc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2022-11-02'
