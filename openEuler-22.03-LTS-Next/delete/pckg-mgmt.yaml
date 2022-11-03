@@ -6,3 +6,4 @@ packages:
 - name: booth
 - name: python-clufter
 - name: ovirt-provider-ovn
+- name: python-Flask-Script
