@@ -17,3 +17,7 @@ release-change:
   description: 5ba52d0 !653 add llvm-bolt to openEuler 20.03-LTS-SP1/SP3 epol
   changed_packages: llvm-bolt
   date: 2022-10-24-11-05-08
+- pr: https://gitee.com/openeuler/release-management/pulls/692
+  description: ecac36b !692 delete python-httpie from openEuler:20.03:LTS:SP1:Epol
+  changed_packages: python-httpie
+  date: 2022-11-03-17-37-12
