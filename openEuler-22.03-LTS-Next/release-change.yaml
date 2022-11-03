@@ -117,3 +117,7 @@ release-change:
   description: a312670 !686 add mandoc to 22.03-LTS-Next
   changed_packages: mandoc
   date: 2022-11-02-15-45-13
+- pr: https://gitee.com/openeuler/release-management/pulls/690
+  description: fe23cfc !690 Remove python-Flask-Script from branch openEuler-22.03-LTS-Next
+  changed_packages: python-Flask-Script
+  date: 2022-11-03-14-47-51
