@@ -125,3 +125,7 @@ release-change:
   description: d6129d9 !691 add branch openEuler-22.03-LTS-Next for oncn-bwm
   changed_packages: oncn-bwm
   date: 2022-11-04-10-13-29
+- pr: https://gitee.com/openeuler/release-management/pulls/674
+  description: cf276b9 !674 Remove python-feedparser from openEuler-22.03-LTS-Next
+  changed_packages: python-feedparser
+  date: 2022-11-04-11-19-40
