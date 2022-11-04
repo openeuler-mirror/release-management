@@ -121,3 +121,7 @@ release-change:
   description: fe23cfc !690 Remove python-Flask-Script from branch openEuler-22.03-LTS-Next
   changed_packages: python-Flask-Script
   date: 2022-11-03-14-47-51
+- pr: https://gitee.com/openeuler/release-management/pulls/691
+  description: d6129d9 !691 add branch openEuler-22.03-LTS-Next for oncn-bwm
+  changed_packages: oncn-bwm
+  date: 2022-11-04-10-13-29
