@@ -7,3 +7,4 @@ packages:
 - name: python-clufter
 - name: ovirt-provider-ovn
 - name: python-Flask-Script
+- name: python-feedparser
