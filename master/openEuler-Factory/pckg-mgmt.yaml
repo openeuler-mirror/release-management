@@ -13923,3 +13923,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-31"
+    - name: signon-plugin-oauth2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-11-07"
