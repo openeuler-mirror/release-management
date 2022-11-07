@@ -133,3 +133,7 @@ release-change:
   description: f8ebffa !694 Move libslirp from openEuler:22.03:LTS:Next:Epol to openEuler-22.03-LTS-Next
   changed_packages: libslirp
   date: 2022-11-07-09-20-23
+- pr: https://gitee.com/openeuler/release-management/pulls/693
+  description: b9942f2 !693 add GCC-12 to openEuler 22.03-LTS-NEXT epol
+  changed_packages: gcc-12
+  date: 2022-11-07-09-56-12
