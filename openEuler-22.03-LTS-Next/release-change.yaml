@@ -129,3 +129,7 @@ release-change:
   description: cf276b9 !674 Remove python-feedparser from openEuler-22.03-LTS-Next
   changed_packages: python-feedparser
   date: 2022-11-04-11-19-40
+- pr: https://gitee.com/openeuler/release-management/pulls/694
+  description: f8ebffa !694 Move libslirp from openEuler:22.03:LTS:Next:Epol to openEuler-22.03-LTS-Next
+  changed_packages: libslirp
+  date: 2022-11-07-09-20-23
