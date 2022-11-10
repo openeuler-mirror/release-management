@@ -4779,3 +4779,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-10-21'
+- name: fapolicyd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-10'
