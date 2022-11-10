@@ -143,3 +143,7 @@ release-change:
     cri-tools containers-common fuse-overlayfs fuse-sshfs ignition libvarlink nestos-installer
     slirp4netns ssh-key-dir stalld toolbox wireguard-tools zchunk zincati zram-generator
   date: 2022-11-08-11-38-55
+- pr: https://gitee.com/openeuler/release-management/pulls/699
+  description: 7e91609 !699 add branch openEuler-22.03-LTS-Next for libldac
+  changed_packages: libldac
+  date: 2022-11-10-09-34-21
