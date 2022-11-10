@@ -3,3 +3,8 @@ release-change:
   description: a9d15eb !700 刷新OpenStack 软件包
   changed_packages: python-flask python-chardet python-cryptography-vectors openstack-ironic-python-agent-builder
   date: 2022-11-10-09-47-29
+- pr: https://gitee.com/openeuler/release-management/pulls/703
+  description: 46cde77 !703 openEuler 22.03 LTS Next OpenStack Wallaby软件包刷新
+  changed_packages: python-blockdiag python-pillow python-jsonschema python-networkx
+    python-itsdangerous
+  date: 2022-11-10-16-33-47
