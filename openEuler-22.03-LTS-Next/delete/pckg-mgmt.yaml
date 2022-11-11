@@ -8,3 +8,5 @@ packages:
 - name: ovirt-provider-ovn
 - name: python-Flask-Script
 - name: python-feedparser
+- name: xdp-tools
+- name: go-bindata
