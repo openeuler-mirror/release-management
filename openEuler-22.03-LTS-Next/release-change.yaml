@@ -152,3 +152,7 @@ release-change:
     for it
   changed_packages: fapolicyd
   date: 2022-11-11-09-14-36
+- pr: https://gitee.com/openeuler/release-management/pulls/708
+  description: e26bbe2 !708 在22.03-LTS-Next分支中添加dpu-utilities包
+  changed_packages: dpu-utilities
+  date: 2022-11-11-10-11-11
