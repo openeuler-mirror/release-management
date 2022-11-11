@@ -147,3 +147,8 @@ release-change:
   description: 7e91609 !699 add branch openEuler-22.03-LTS-Next for libldac
   changed_packages: libldac
   date: 2022-11-10-09-34-21
+- pr: https://gitee.com/openeuler/release-management/pulls/706
+  description: 9d6ea42 !706 Move fapolicyd from factory to epol , and add openeuler-22.03-LTS-Next
+    for it
+  changed_packages: fapolicyd
+  date: 2022-11-11-09-14-36
