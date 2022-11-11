@@ -13931,10 +13931,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-07"
-    - name: fapolicyd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-09"
     - name: python-rich
       obs_from: ""
       obs_to: openEuler:Factory
