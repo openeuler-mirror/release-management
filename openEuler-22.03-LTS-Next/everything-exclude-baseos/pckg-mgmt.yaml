@@ -18167,3 +18167,9 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-11-7'
+- name: dpu-utilities
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2022-11-11'
