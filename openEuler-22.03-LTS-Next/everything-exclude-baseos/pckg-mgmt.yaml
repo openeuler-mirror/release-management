@@ -5627,12 +5627,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: xdp-tools
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
 - name: python-sphinx-notfound-page
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -7062,12 +7056,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
 - name: jetty-test-policy
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2022-08-30'
-- name: go-bindata
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09
@@ -18166,7 +18154,7 @@ packages:
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:Next
-  date: '2022-11-7'
+  date: 2022-11-7
 - name: dpu-utilities
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
