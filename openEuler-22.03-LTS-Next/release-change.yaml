@@ -160,3 +160,8 @@ release-change:
   description: b1036db !707 删除go-bindata和xdp-tools软件包
   changed_packages: xdp-tools go-bindata
   date: 2022-11-11-15-11-52
+- pr: https://gitee.com/openeuler/release-management/pulls/712
+  description: 30a9891 !712 Move ros_comm && ros2_base from factory to epol , and
+    add openeuler-22.03-LTS-Next for it
+  changed_packages: ros_comm ros2_base
+  date: 2022-11-14-11-02-43
