@@ -4783,3 +4783,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-10'
+- name: ros_comm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-14'
+- name: ros2_base
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-14'
