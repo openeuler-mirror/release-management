@@ -165,3 +165,7 @@ release-change:
     add openeuler-22.03-LTS-Next for it
   changed_packages: ros_comm ros2_base
   date: 2022-11-14-11-02-43
+- pr: https://gitee.com/openeuler/release-management/pulls/715
+  description: 940fecc !715 Move gala-* from Factory to Epol and add them to openEuler-22.03-LTS-Next
+  changed_packages: gala-gopher gala-spider gala-anteater
+  date: 2022-11-14-19-20-36
