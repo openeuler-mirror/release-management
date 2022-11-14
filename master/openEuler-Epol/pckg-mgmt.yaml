@@ -4791,3 +4791,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-14'
+- name: gala-gopher
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-14'
+- name: gala-spider
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-14'
+- name: gala-anteater
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-14'
