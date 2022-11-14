@@ -13935,3 +13935,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-10"
+    - name: syscare
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-11-14"
