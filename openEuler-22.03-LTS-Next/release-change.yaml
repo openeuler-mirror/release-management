@@ -173,3 +173,7 @@ release-change:
   description: 15bf515 !709 add xorg-x11-drv-amdgpu to openEuler:Epol and 22.03-LTS-Next:Epol
   changed_packages: xorg-x11-drv-amdgpu
   date: 2022-11-15-14-21-12
+- pr: https://gitee.com/openeuler/release-management/pulls/722
+  description: f9ecdf7 !722 Move qla2xxx from factory to epol , and add it to openeuler-22.03-LTS-Next
+  changed_packages: qla2xxx
+  date: 2022-11-15-22-24-09
