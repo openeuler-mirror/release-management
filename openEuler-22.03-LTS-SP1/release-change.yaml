@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/716
+  description: 6598f58 !716 Add gala-* to openEuler-22.03-LTS and openEuler-22.03-LTS-SP1
+  changed_packages: gala-anteater gala-gopher gala-spider
+  date: 2022-11-15-22-25-44
