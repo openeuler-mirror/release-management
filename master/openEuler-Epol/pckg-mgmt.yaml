@@ -4807,3 +4807,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-11-15"
+- name: qla2xxx
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-15'

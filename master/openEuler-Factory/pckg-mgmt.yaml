@@ -13851,10 +13851,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-08"
-    - name: qla2xxx
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-08"
     - name: teleport
       obs_from: ""
       obs_to: openEuler:Factory
