@@ -169,3 +169,7 @@ release-change:
   description: 940fecc !715 Move gala-* from Factory to Epol and add them to openEuler-22.03-LTS-Next
   changed_packages: gala-gopher gala-spider gala-anteater
   date: 2022-11-14-19-20-36
+- pr: https://gitee.com/openeuler/release-management/pulls/709
+  description: 15bf515 !709 add xorg-x11-drv-amdgpu to openEuler:Epol and 22.03-LTS-Next:Epol
+  changed_packages: xorg-x11-drv-amdgpu
+  date: 2022-11-15-14-21-12
