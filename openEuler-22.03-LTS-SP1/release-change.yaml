@@ -3,3 +3,7 @@ release-change:
   description: 6598f58 !716 Add gala-* to openEuler-22.03-LTS and openEuler-22.03-LTS-SP1
   changed_packages: gala-anteater gala-gopher gala-spider
   date: 2022-11-15-22-25-44
+- pr: https://gitee.com/openeuler/release-management/pulls/727
+  description: 0b6a1dd !727 将ceph加入到openEuler22.03-LTS-SP1 release
+  changed_packages: ceph
+  date: 2022-11-16-11-56-28
