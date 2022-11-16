@@ -16,3 +16,7 @@ release-change:
   description: e4146a4 !688 Move python-concurrent-log-handler from epol to everything
   changed_packages: python-concurrent-log-handler
   date: 2022-11-02-16-56-15
+- pr: https://gitee.com/openeuler/release-management/pulls/724
+  description: 0117969 !724 add qla2xxx to 22.03-LTS and 20.03-LTS-SP3
+  changed_packages: qla2xxx
+  date: 2022-11-16-09-17-06
