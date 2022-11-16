@@ -4883,3 +4883,27 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-11-15'
+- name: libkysdk-applications
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-16'
+- name: libkysdk-system
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-16'
+- name: libkysdk-base
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-16'
+- name: libkylin-chkname
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-16'
