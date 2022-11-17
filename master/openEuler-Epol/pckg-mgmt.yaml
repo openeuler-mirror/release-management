@@ -4811,3 +4811,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-15'
+- name: libkysdk-applications
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-16'
+- name: libkysdk-system
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-16'
+- name: libkysdk-base
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-16'
+- name: libkylin-chkname
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-16'
