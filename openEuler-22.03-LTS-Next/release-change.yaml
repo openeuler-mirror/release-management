@@ -181,3 +181,8 @@ release-change:
   description: 0a13f18 !729 【轻量级 PR】：delete libsoup3 from 2203-lts-nex
   changed_packages: libsoup3
   date: 2022-11-17-14-19-43
+- pr: https://gitee.com/openeuler/release-management/pulls/728
+  description: fab37ae !728 mv libkylin-chkname libkysdk-base libkysdk-applications
+    libkysdk-system from Factory to Epol
+  changed_packages: libkysdk-applications libkysdk-system libkysdk-base libkylin-chkname
+  date: 2022-11-17-14-20-39
