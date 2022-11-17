@@ -56,6 +56,8 @@ openEuler 22.03 LTS SP1 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I605QY](https://gitee.com/openeuler/release-management/issues/I605QY)|支持generic vDPA Device|Discussion|sig-Kernel,sig-Virt||ISO|kernel,qemu|
 |[I609I2](https://gitee.com/openeuler/release-management/issues/I609I2)|Tensorflow中Intel AMX支持|Discussion|ai|[@Jincheng](https://gitee.com/wisespreading) [@yefeng](https://gitee.com/YeFeng_24) [@Sinever](https://gitee.com/Sinever)|EPOL|python3-tensorflow,python3-absl-py,flatbuffers,python3-flatbuffers,python3-keras, libclang, python3-tensorflow-estimator, python3-tensorboard|
 |[I61CMT](https://gitee.com/openeuler/release-management/issues/I61CMT)|openEuler WSL package支持|Discussion|sig-Infrastructure|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|Microsoft Store appx bundle||
+|[I61DRR](https://gitee.com/openeuler/release-management/issues/I61DRR)|Gazelle支持ceph client和rpc框架|Developing|sig-high-performance-network|[@wu-changsheng](https://gitee.com/wu-changsheng)|oepkgs|Gazelle,dpdk,lwip| 
+
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
 
