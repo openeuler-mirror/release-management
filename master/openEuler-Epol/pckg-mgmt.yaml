@@ -4827,3 +4827,27 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-16'
+- name: aops-apollo
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: "2022-11-17"
+- name: aops-hermes
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: "2022-11-17"
+- name: aops-vulcanus
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: "2022-11-17"
+- name: aops-diana
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: "2022-11-17"
+- name: aops-ceres
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: "2022-11-17"
+- name: aops-zeus
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: "2022-11-17"
