@@ -10,3 +10,4 @@ packages:
 - name: python-feedparser
 - name: xdp-tools
 - name: go-bindata
+- name: libsoup3
