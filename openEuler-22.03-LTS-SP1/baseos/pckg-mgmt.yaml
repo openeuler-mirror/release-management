@@ -7451,3 +7451,27 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP1
   date: '2022-11-14'
+- name: dbxtool
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP1
+  date: '2022-11-19'
+- name: pixman
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP1
+  date: '2022-11-19'
+- name: util-linux
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP1
+  date: '2022-11-19'
+- name: vim
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP1
+  date: '2022-11-19'
