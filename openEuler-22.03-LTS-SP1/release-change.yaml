@@ -12,3 +12,7 @@ release-change:
   changed_packages: dbxtool pixman util-linux vim containers-common cri-o cri-tools
     jersey libnice nodelet_core oncn-bwm php rubygem-wikicloth
   date: 2022-11-19-10-08-20
+- pr: https://gitee.com/openeuler/release-management/pulls/737
+  description: bf8cc32 !737 Add pyArango/arangodb to openEuler-22.03-LTS-SP1
+  changed_packages: pyArango arangodb
+  date: 2022-11-19-15-37-13
