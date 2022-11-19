@@ -13811,30 +13811,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-22"
-    - name: aops-apollo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-24"
-    - name: aops-hermes
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-24"
-    - name: aops-vulcanus
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-24"
-    - name: aops-diana
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-24"
-    - name: aops-ceres
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-24"
-    - name: aops-zeus
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-24"
     - name: daos
       obs_from: ""
       obs_to: openEuler:Factory
