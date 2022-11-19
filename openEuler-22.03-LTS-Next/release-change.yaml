@@ -186,3 +186,7 @@ release-change:
     libkysdk-system from Factory to Epol
   changed_packages: libkysdk-applications libkysdk-system libkysdk-base libkylin-chkname
   date: 2022-11-17-14-20-39
+- pr: https://gitee.com/openeuler/release-management/pulls/730
+  description: a65237e !730 添加智能运维（aops-*）到22.03-LTS-NEXT
+  changed_packages: aops-apollo aops-hermes aops-vulcanus aops-diana aops-ceres aops-zeus
+  date: 2022-11-19-12-00-39
