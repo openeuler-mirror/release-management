@@ -8,3 +8,7 @@ release-change:
   changed_packages: python-blockdiag python-pillow python-jsonschema python-networkx
     python-itsdangerous
   date: 2022-11-10-16-33-47
+- pr: https://gitee.com/openeuler/release-management/pulls/732
+  description: 8b7b9be !732 刷新22.03 OpenStack Wallaby软件包
+  changed_packages: python-actdiag
+  date: 2022-11-19-15-36-27
