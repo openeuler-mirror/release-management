@@ -190,3 +190,7 @@ release-change:
   description: a65237e !730 添加智能运维（aops-*）到22.03-LTS-NEXT
   changed_packages: aops-apollo aops-hermes aops-vulcanus aops-diana aops-ceres aops-zeus
   date: 2022-11-19-12-00-39
+- pr: https://gitee.com/openeuler/release-management/pulls/717
+  description: e82cbce !717 Add openEuler-22.03-LTS-Next for pin-server and pin-gcc-client.
+  changed_packages: pin-server pin-gcc-client
+  date: 2022-11-19-15-35-45
