@@ -7,3 +7,8 @@ release-change:
   description: 0b6a1dd !727 将ceph加入到openEuler22.03-LTS-SP1 release
   changed_packages: ceph
   date: 2022-11-16-11-56-28
+- pr: https://gitee.com/openeuler/release-management/pulls/736
+  description: f3ba5c3 !736 add build success packages from 22.03-LTS-Next
+  changed_packages: dbxtool pixman util-linux vim containers-common cri-o cri-tools
+    jersey libnice nodelet_core oncn-bwm php rubygem-wikicloth
+  date: 2022-11-19-10-08-20
