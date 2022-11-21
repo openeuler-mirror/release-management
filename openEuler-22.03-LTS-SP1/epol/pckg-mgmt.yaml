@@ -5,6 +5,42 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
   date: '2022-11-14'
+- name: aops-apollo
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: '2022-11-21'
+- name: aops-hermes
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: '2022-11-21'
+- name: aops-vulcanus
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: '2022-11-21'
+- name: aops-diana
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: '2022-11-21'
+- name: aops-ceres
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: '2022-11-21'
+- name: aops-zeus
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: '2022-11-21'
 - name: A-FOT
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
