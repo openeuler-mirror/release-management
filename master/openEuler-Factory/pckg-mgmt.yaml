@@ -13951,3 +13951,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-21"
+    - name: python-flatbuffers
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-11-21"
