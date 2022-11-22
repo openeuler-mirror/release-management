@@ -1277,12 +1277,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP1
   date: '2022-11-14'
-- name: gflags
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next
-  obs_to: openEuler:22.03:LTS:SP1
-  date: '2022-11-14'
 - name: gfs2-utils
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1

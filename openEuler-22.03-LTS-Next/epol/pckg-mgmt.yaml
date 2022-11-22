@@ -4943,3 +4943,21 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-11-17'
+- name: gflags
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-21'
+- name: glog
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-21'
+- name: rocksdb
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-11-21'
