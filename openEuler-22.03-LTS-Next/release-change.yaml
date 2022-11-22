@@ -194,3 +194,7 @@ release-change:
   description: e82cbce !717 Add openEuler-22.03-LTS-Next for pin-server and pin-gcc-client.
   changed_packages: pin-server pin-gcc-client
   date: 2022-11-19-15-35-45
+- pr: https://gitee.com/openeuler/release-management/pulls/672
+  description: 9fcf12d !672 move gflags glog and rocksdb to epol
+  changed_packages: gflags glog rocksdb
+  date: 2022-11-22-09-13-32
