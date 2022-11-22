@@ -5040,3 +5040,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2022-10-17'
+- name: llvm-mlir
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-11-22'
