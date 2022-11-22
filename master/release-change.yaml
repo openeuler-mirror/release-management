@@ -278,3 +278,7 @@ release-change:
   description: 9fcf12d !672 move gflags glog and rocksdb to epol
   changed_packages: gflags glog rocksdb
   date: 2022-11-22-09-13-32
+- pr: https://gitee.com/openeuler/release-management/pulls/743
+  description: af9d2c2 !743 Move llvm-mlir to Mainline, add llvm-mlir to openEuler-22.03-LTS-Next
+  changed_packages: llvm-mlir
+  date: 2022-11-22-12-02-31
