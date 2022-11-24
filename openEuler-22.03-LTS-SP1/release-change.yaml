@@ -40,3 +40,7 @@ release-change:
   description: fcc74cf !744 Add llvm-mlir to openEuler-22.03-LTS-SP1
   changed_packages: llvm-mlir
   date: 2022-11-22-15-25-18
+- pr: https://gitee.com/openeuler/release-management/pulls/746
+  description: 225cde8 !746 Add qla2xxx to openEuler 22.03 LTS SP1
+  changed_packages: qla2xxx
+  date: 2022-11-24-15-03-00
