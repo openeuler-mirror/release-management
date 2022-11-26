@@ -286,3 +286,7 @@ release-change:
   description: 58212a0 !738 新增deepin-image-editor支持deepin-screen-recorder的编译
   changed_packages: deepin-image-editor
   date: 2022-11-22-15-24-27
+- pr: https://gitee.com/openeuler/release-management/pulls/745
+  description: 'fa1485a !745 embedded: add libmetal and OpenAMP to 2203-next'
+  changed_packages: OpenAMP libmetal
+  date: 2022-11-26-09-19-47
