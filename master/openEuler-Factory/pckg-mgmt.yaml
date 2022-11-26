@@ -71,10 +71,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: OpenAMP
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: PackageKit-Qt
       obs_from: ""
       obs_to: openEuler:Factory
@@ -1856,10 +1852,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: libmaus2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: libmetal
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
