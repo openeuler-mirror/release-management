@@ -210,3 +210,7 @@ release-change:
   description: 'fa1485a !745 embedded: add libmetal and OpenAMP to 2203-next'
   changed_packages: OpenAMP libmetal
   date: 2022-11-26-09-19-47
+- pr: https://gitee.com/openeuler/release-management/pulls/753
+  description: b5c2b38 !753 将syscare加入22.03 Next和SP1的OBS和repo中
+  changed_packages: syscare
+  date: 2022-11-28-17-06-17

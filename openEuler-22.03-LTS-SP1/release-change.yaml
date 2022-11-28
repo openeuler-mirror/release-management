@@ -48,3 +48,7 @@ release-change:
   description: a5f279a !748 新增deepin-image-editor支持deepin-screen-recorder的编译
   changed_packages: deepin-image-editor
   date: 2022-11-24-15-17-51
+- pr: https://gitee.com/openeuler/release-management/pulls/753
+  description: b5c2b38 !753 将syscare加入22.03 Next和SP1的OBS和repo中
+  changed_packages: syscare
+  date: 2022-11-28-17-06-17
