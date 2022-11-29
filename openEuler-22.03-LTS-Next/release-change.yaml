@@ -214,3 +214,7 @@ release-change:
   description: b5c2b38 !753 将syscare加入22.03 Next和SP1的OBS和repo中
   changed_packages: syscare
   date: 2022-11-28-17-06-17
+- pr: https://gitee.com/openeuler/release-management/pulls/755
+  description: ae8f3ba !755 【轻量级 PR】：add NestOS related packages to openEuler 22.03-LTS-Next
+  changed_packages: catatonit
+  date: 2022-11-29-14-38-12
