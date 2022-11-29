@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/754
+  description: 7dc3f3f !754 Update OpenStack package
+  changed_packages: gnocchi openstack-placement python-FormEncode python-actdiag
+  date: 2022-11-29-10-12-42

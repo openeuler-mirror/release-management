@@ -1,1 +1,8 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/754
+  description: 7dc3f3f !754 Update OpenStack package
+  changed_packages: babel gnocchi openstack-tempest pytest python-cotyledon python-dateutil
+    python-freezegun python-importlib-metadata python-jaraco.packaging python-jsonschema
+    python-keyring python-lz4 python-pluggy python-py python-pytest-runner python-pytest-xdist
+    python-rst.linker python-sqlalchemy python-ujson python-zipp
+  date: 2022-11-29-10-12-42

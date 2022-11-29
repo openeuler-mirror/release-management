@@ -3,3 +3,7 @@ release-change:
   description: a9d15eb !700 刷新OpenStack 软件包
   changed_packages: python-jsonschema python-uritemplate python-flask openstack-ironic-python-agent-builder
   date: 2022-11-10-09-47-29
+- pr: https://gitee.com/openeuler/release-management/pulls/754
+  description: 7dc3f3f !754 Update OpenStack package
+  changed_packages: python-unicodecsv python-CouchDB python-django-babel
+  date: 2022-11-29-10-12-42
