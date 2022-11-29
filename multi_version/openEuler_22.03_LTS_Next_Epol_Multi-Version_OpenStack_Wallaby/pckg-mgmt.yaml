@@ -1307,12 +1307,6 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-08-30'
-- name: python-CouchDB
-  source_dir: openEuler-21.09
-  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2022-08-30'
 - name: python-mistralclient
   source_dir: openEuler-21.09
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
