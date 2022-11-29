@@ -52,3 +52,7 @@ release-change:
   description: b5c2b38 !753 将syscare加入22.03 Next和SP1的OBS和repo中
   changed_packages: syscare
   date: 2022-11-28-17-06-17
+- pr: https://gitee.com/openeuler/release-management/pulls/751
+  description: '0fa0d09 !751 embedded: add openAMP and libmetal to 22.03 SP1'
+  changed_packages: OpenAMP libmetal
+  date: 2022-11-29-16-45-00
