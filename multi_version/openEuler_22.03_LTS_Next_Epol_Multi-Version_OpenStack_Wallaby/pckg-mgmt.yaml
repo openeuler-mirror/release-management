@@ -1991,3 +1991,9 @@ packages:
   obs_from: openEuler:22.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-11-18'
+- name: ovn
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2022-11-30'

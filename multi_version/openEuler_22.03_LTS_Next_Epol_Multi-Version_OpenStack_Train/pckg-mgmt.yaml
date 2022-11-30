@@ -2003,3 +2003,16 @@ packages:
   obs_from: openEuler:22.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   date: '2022-11-09'
+- name: ovn
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
+  date: '2022-11-30'
+- name: python-networking-ovn
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
+  date: '2022-11-30'
+  
