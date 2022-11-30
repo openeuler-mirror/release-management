@@ -13923,10 +13923,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-17"
-    - name: ovn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-18"
     - name: python-networking-ovn
       obs_from: ""
       obs_to: openEuler:Factory

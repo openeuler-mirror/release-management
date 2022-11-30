@@ -1467,6 +1467,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: ovn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-30'
 - name: pangox-compat
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
