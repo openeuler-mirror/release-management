@@ -290,3 +290,8 @@ release-change:
   description: 'fa1485a !745 embedded: add libmetal and OpenAMP to 2203-next'
   changed_packages: OpenAMP libmetal
   date: 2022-11-26-09-19-47
+- pr: https://gitee.com/openeuler/release-management/pulls/757
+  description: 71c9b01 !757 Move gn from factory to epol , and add openeuler-22.03-LTS-Next
+    for it
+  changed_packages: gn
+  date: 2022-11-30-15-34-05

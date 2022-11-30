@@ -218,3 +218,8 @@ release-change:
   description: ae8f3ba !755 【轻量级 PR】：add NestOS related packages to openEuler 22.03-LTS-Next
   changed_packages: catatonit
   date: 2022-11-29-14-38-12
+- pr: https://gitee.com/openeuler/release-management/pulls/757
+  description: 71c9b01 !757 Move gn from factory to epol , and add openeuler-22.03-LTS-Next
+    for it
+  changed_packages: gn
+  date: 2022-11-30-15-34-05
