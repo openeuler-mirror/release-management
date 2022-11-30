@@ -14047,3 +14047,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-29"
+    - name: python-adtk
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-11-30"
