@@ -299,3 +299,7 @@ release-change:
   description: 06d5bb9 !761 Move dsoftbus from factory to openeuler-22.03-LTS-Next:Epol
   changed_packages: dsoftbus
   date: 2022-11-30-20-09-39
+- pr: https://gitee.com/openeuler/release-management/pulls/756
+  description: d2cb8f3 !756  Move ovn  releated packages for OpenStack
+  changed_packages: ovn
+  date: 2022-11-30-20-58-55
