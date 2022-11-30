@@ -4867,3 +4867,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-22'
+- name: gn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-11-30'
