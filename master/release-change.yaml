@@ -295,3 +295,7 @@ release-change:
     for it
   changed_packages: gn
   date: 2022-11-30-15-34-05
+- pr: https://gitee.com/openeuler/release-management/pulls/761
+  description: 06d5bb9 !761 Move dsoftbus from factory to openeuler-22.03-LTS-Next:Epol
+  changed_packages: dsoftbus
+  date: 2022-11-30-20-09-39
