@@ -56,3 +56,7 @@ release-change:
   description: '0fa0d09 !751 embedded: add openAMP and libmetal to 22.03 SP1'
   changed_packages: OpenAMP libmetal
   date: 2022-11-29-16-45-00
+- pr: https://gitee.com/openeuler/release-management/pulls/760
+  description: c8dc707 !760 Move gn from openeuler-22.03-LTS-Next:Epol to openeuler-22.03-LTS-SP1:Epol
+  changed_packages: gn
+  date: 2022-11-30-17-52-54
