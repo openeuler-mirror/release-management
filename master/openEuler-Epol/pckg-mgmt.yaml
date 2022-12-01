@@ -4879,3 +4879,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-30'
+- name: python-rich
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-12-01"
