@@ -9695,10 +9695,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-patsy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-pdc-client
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10548,10 +10544,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-statistics
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-statsmodels
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14031,7 +14023,3 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-29"
-    - name: python-adtk
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-30"
