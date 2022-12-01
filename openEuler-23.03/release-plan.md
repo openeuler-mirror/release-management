@@ -6,7 +6,7 @@ openEuler 23.03 是基于5.10内核的创新版本（参见[版本生命周期](
 
 | Stage  name          | Begin time | End time   | Days | Note                                      |
 | -------------------- | ---------- | ---------- | ---- | ----------------------------------------- |
-| Collect key features | 2022/12/01  | 2022/12/30 | 30   | 收集23.03版本关键特性（各SIG自行录入release-plan）   |
+| Collect key features | 2022/12/01  | 2023/1/15 | 46   | 收集23.03版本关键特性（各SIG自行录入release-plan）   |
 
 
 # 代码合入说明
