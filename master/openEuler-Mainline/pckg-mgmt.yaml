@@ -5052,3 +5052,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-11-22'
+- name: Bear
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-12-01'
