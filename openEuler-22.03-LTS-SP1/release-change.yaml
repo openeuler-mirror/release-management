@@ -68,3 +68,7 @@ release-change:
   description: 457db1e !764 Add openEuler-22.03-LTS-SP1 for Bear
   changed_packages: Bear
   date: 2022-12-01-10-50-13
+- pr: https://gitee.com/openeuler/release-management/pulls/750
+  description: 5d5f9d4 !750 Add openEuler-22.03-LTS-SP1 for xorg-x11-drv-amdgpu
+  changed_packages: xorg-x11-drv-amdgpu
+  date: 2022-12-01-14-59-38
