@@ -307,3 +307,7 @@ release-change:
   description: 11c6366 !763 Add openEuler-22.03-LTS-Next for bear
   changed_packages: Bear
   date: 2022-12-01-10-35-53
+- pr: https://gitee.com/openeuler/release-management/pulls/711
+  description: ad0d2ce !711 变更软件包python-rich请求
+  changed_packages: python-rich
+  date: 2022-12-01-10-53-34
