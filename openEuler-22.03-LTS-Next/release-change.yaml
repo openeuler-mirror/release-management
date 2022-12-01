@@ -231,3 +231,7 @@ release-change:
   description: 11c6366 !763 Add openEuler-22.03-LTS-Next for bear
   changed_packages: Bear
   date: 2022-12-01-10-35-53
+- pr: https://gitee.com/openeuler/release-management/pulls/765
+  description: 753cbee !765 OBS openEuler:22.03:LTS:Next添加python-adtk/python-patsy/python-statsmodels
+  changed_packages: python-adtk python-statsmodels python-patsy
+  date: 2022-12-01-14-51-42
