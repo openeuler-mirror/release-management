@@ -303,3 +303,7 @@ release-change:
   description: d2cb8f3 !756  Move ovn  releated packages for OpenStack
   changed_packages: ovn
   date: 2022-11-30-20-58-55
+- pr: https://gitee.com/openeuler/release-management/pulls/763
+  description: 11c6366 !763 Add openEuler-22.03-LTS-Next for bear
+  changed_packages: Bear
+  date: 2022-12-01-10-35-53
