@@ -64,3 +64,7 @@ release-change:
   description: bb90299 !762 Move dsoftbus from openeuler-22.03-LTS-Next:Epol to openeuler-22.03-LTS-SP1:Epol
   changed_packages: dsoftbus
   date: 2022-11-30-20-41-34
+- pr: https://gitee.com/openeuler/release-management/pulls/764
+  description: 457db1e !764 Add openEuler-22.03-LTS-SP1 for Bear
+  changed_packages: Bear
+  date: 2022-12-01-10-50-13
