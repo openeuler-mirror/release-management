@@ -76,3 +76,7 @@ release-change:
   description: 10234b2 !766 OBS openEuler:22.03:LTS:SP1添加python-adtk/python-patsy/python-statsmodels
   changed_packages: python-adtk python-statsmodels python-patsy
   date: 2022-12-01-15-07-47
+- pr: https://gitee.com/openeuler/release-management/pulls/767
+  description: 66c7e2b !767 Remove drbd kmod-drbd90 from openEuler-22.03-SP1
+  changed_packages: drbd kmod-drbd90
+  date: 2022-12-01-15-09-31
