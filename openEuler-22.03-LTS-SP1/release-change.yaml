@@ -72,3 +72,7 @@ release-change:
   description: 5d5f9d4 !750 Add openEuler-22.03-LTS-SP1 for xorg-x11-drv-amdgpu
   changed_packages: xorg-x11-drv-amdgpu
   date: 2022-12-01-14-59-38
+- pr: https://gitee.com/openeuler/release-management/pulls/766
+  description: 10234b2 !766 OBS openEuler:22.03:LTS:SP1添加python-adtk/python-patsy/python-statsmodels
+  changed_packages: python-adtk python-statsmodels python-patsy
+  date: 2022-12-01-15-07-47
