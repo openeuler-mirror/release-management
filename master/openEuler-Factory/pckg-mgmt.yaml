@@ -1731,10 +1731,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: libbsd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: libcaca
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13815,10 +13811,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-17"
-    - name: exim
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-17"
     - name: mold
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13843,14 +13835,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-26"
-    - name: opendmarc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-27"
-    - name: libspf2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-27"
     - name: hyfetch
       obs_from: ""
       obs_to: openEuler:Factory

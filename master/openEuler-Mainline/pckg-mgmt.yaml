@@ -5060,3 +5060,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-12-02'
+- name: exim
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-12-05"
+- name: libbsd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-12-05"
+- name: opendmarc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-12-05"
+- name: libspf2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-12-05"
