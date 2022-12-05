@@ -315,3 +315,8 @@ release-change:
   description: ab5612c !770 python-adtk/python-statsmodels/python-patsy从openEuler:Factory移动到openEuler:Epol
   changed_packages: python-adtk python-statsmodels python-patsy
   date: 2022-12-01-17-38-59
+- pr: https://gitee.com/openeuler/release-management/pulls/758
+  description: 8748aa2 !758 Move accel-config to Mainline and add accel-config to
+    openEuler-22.03-LTS-Next
+  changed_packages: accel-config
+  date: 2022-12-05-10-24-00
