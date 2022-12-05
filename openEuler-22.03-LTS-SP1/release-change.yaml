@@ -80,3 +80,7 @@ release-change:
   description: 66c7e2b !767 Remove drbd kmod-drbd90 from openEuler-22.03-SP1
   changed_packages: drbd kmod-drbd90
   date: 2022-12-01-15-09-31
+- pr: https://gitee.com/openeuler/release-management/pulls/771
+  description: 68ae043 !771 add NestOS related packages to openEuler-22.03-LTS-SP1
+  changed_packages: zram-generator catatonit podman
+  date: 2022-12-05-10-23-03
