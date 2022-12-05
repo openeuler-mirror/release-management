@@ -5056,3 +5056,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-12-01'
+- name: accel-config
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-12-02'
