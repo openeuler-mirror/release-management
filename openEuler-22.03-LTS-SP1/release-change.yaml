@@ -84,3 +84,8 @@ release-change:
   description: 68ae043 !771 add NestOS related packages to openEuler-22.03-LTS-SP1
   changed_packages: zram-generator catatonit podman
   date: 2022-12-05-10-23-03
+- pr: https://gitee.com/openeuler/release-management/pulls/779
+  description: 4fc574d !779 【轻量级 PR】：delete yocto-poky, yocto-opkg-utils, yocto-pseudo
+    from 22-03-LTS-SP1
+  changed_packages: yocto-pseudo yocto-poky yocto-opkg-utils
+  date: 2022-12-06-20-05-16

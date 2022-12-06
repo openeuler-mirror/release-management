@@ -17993,24 +17993,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP1
   date: '2022-11-14'
-- name: yocto-opkg-utils
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next
-  obs_to: openEuler:22.03:LTS:SP1
-  date: '2022-11-14'
-- name: yocto-poky
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next
-  obs_to: openEuler:22.03:LTS:SP1
-  date: '2022-11-14'
-- name: yocto-pseudo
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next
-  obs_to: openEuler:22.03:LTS:SP1
-  date: '2022-11-14'
 - name: zbar
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
@@ -18155,4 +18137,3 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP1
   date: '2022-12-02'
-
