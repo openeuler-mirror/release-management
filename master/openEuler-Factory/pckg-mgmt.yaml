@@ -14031,3 +14031,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-05"
+    - name: jieba
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-12-06"
