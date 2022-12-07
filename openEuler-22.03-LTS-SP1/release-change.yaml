@@ -93,3 +93,8 @@ release-change:
   description: eaaa650 !781 【轻量级 PR】：delete mysql5 from SP1
   changed_packages: mysql5
   date: 2022-12-07-15-11-02
+- pr: https://gitee.com/openeuler/release-management/pulls/783
+  description: 3c2ee7b !783 Move X-diagnosis from openEuler-22.03-LTS-Next:Epol to
+    openEuler-22.03-LTS-SP1:Epol
+  changed_packages: X-diagnosis
+  date: 2022-12-07-15-43-51
