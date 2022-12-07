@@ -4895,3 +4895,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2022-12-01"
+- name: X-diagnosis
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-12-07"
