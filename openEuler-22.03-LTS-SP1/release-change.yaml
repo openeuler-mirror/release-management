@@ -98,3 +98,7 @@ release-change:
     openEuler-22.03-LTS-SP1:Epol
   changed_packages: X-diagnosis
   date: 2022-12-07-15-43-51
+- pr: https://gitee.com/openeuler/release-management/pulls/784
+  description: 0174e41 !784 将ROS新特性仓库加入到sp1源中
+  changed_packages: ros_comm ros2_base
+  date: 2022-12-07-17-53-58
