@@ -240,3 +240,7 @@ release-change:
     openEuler-22.03-LTS-Next
   changed_packages: accel-config
   date: 2022-12-05-10-24-00
+- pr: https://gitee.com/openeuler/release-management/pulls/782
+  description: 0fb0af4 !782 Move X-diagnosis from factory to epol and add openeuler-22.03-LTS-Next
+  changed_packages: X-diagnosis
+  date: 2022-12-07-15-33-48
