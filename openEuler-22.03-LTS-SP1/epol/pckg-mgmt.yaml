@@ -4907,4 +4907,15 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
   date: "2022-12-07"
-
+- name: ros_comm
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: "2022-12-07"
+- name: ros2_base
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP1:Epol
+  date: "2022-12-07"
