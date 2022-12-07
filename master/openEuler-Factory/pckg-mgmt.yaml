@@ -107,10 +107,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: X-diagnosis
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: a52dec
       obs_from: ""
       obs_to: openEuler:Factory
