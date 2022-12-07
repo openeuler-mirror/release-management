@@ -14039,3 +14039,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-07"
+    - name: kiran-tests
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-12-07"
