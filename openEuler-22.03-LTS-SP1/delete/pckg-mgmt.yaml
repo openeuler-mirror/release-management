@@ -4,3 +4,4 @@ packages:
 - name: yocto-poky
 - name: yocto-opkg-utils
 - name: yocto-pseudo
+- name: mysql5
