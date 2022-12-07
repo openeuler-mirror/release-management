@@ -89,3 +89,7 @@ release-change:
     from 22-03-LTS-SP1
   changed_packages: yocto-pseudo yocto-poky yocto-opkg-utils
   date: 2022-12-06-20-05-16
+- pr: https://gitee.com/openeuler/release-management/pulls/781
+  description: eaaa650 !781 【轻量级 PR】：delete mysql5 from SP1
+  changed_packages: mysql5
+  date: 2022-12-07-15-11-02
