@@ -14035,3 +14035,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-08"
+    - name: deja-dup
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-12-08"
