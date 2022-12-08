@@ -102,3 +102,7 @@ release-change:
   description: 0174e41 !784 将ROS新特性仓库加入到sp1源中
   changed_packages: ros_comm ros2_base
   date: 2022-12-07-17-53-58
+- pr: https://gitee.com/openeuler/release-management/pulls/787
+  description: 8d05e5f !787 move openamp and libmetal to epol
+  changed_packages: OpenAMP libmetal
+  date: 2022-12-08-22-16-39

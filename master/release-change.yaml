@@ -324,3 +324,7 @@ release-change:
   description: 0fb0af4 !782 Move X-diagnosis from factory to epol and add openeuler-22.03-LTS-Next
   changed_packages: X-diagnosis
   date: 2022-12-07-15-33-48
+- pr: https://gitee.com/openeuler/release-management/pulls/787
+  description: 8d05e5f !787 move openamp and libmetal to epol
+  changed_packages: OpenAMP libmetal
+  date: 2022-12-08-22-16-39
