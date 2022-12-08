@@ -5015,3 +5015,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-12-07'
+- name: OpenAMP
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-12-08'
+- name: libmetal
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2022-12-08'
