@@ -106,3 +106,7 @@ release-change:
   description: 8d05e5f !787 move openamp and libmetal to epol
   changed_packages: OpenAMP libmetal
   date: 2022-12-08-22-16-39
+- pr: https://gitee.com/openeuler/release-management/pulls/777
+  description: 12885d8 !777 Add accel-config to openEuler-22.03-LTS-SP1
+  changed_packages: accel-config
+  date: 2022-12-08-22-49-29
