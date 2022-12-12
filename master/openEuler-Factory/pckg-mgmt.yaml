@@ -13999,10 +13999,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-29"
-    - name: lustre-e2fsprogs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-12-01"
     - name: qtav
       obs_from: ""
       obs_to: openEuler:Factory

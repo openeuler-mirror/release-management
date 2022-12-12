@@ -5068,3 +5068,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-12-05"
+- name: lustre-e2fsprogs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-12-09"
