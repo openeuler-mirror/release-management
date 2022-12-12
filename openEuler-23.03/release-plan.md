@@ -20,10 +20,10 @@ openEuler 23.03 是基于5.10内核的创新版本（参见[版本生命周期](
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-||||||||
-<br>
-现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
-<br>
+|1|[【openEuler 23.03】新增高性能服务网格数据面Kmesh](https://gitee.com/openeuler/release-management/issues/I65S7M?from=project-issue)|Testing|sig-high-performance-network|@MrRlu|extras|kmesh|
+|      |                                                              |         |                              |        |          |                |
+|      |                                                              |         |                              |        |          |                |
+|      |||||||
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入23.03的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
