@@ -6,3 +6,7 @@ release-change:
     python-keyring python-lz4 python-pluggy python-py python-pytest-runner python-pytest-xdist
     python-rst.linker python-sqlalchemy python-ujson python-zipp
   date: 2022-11-29-10-12-42
+- pr: https://gitee.com/openeuler/release-management/pulls/789
+  description: bff8526 !789 为itsdangerous创建22.03 OpenStack Train分支
+  changed_packages: python-itsdangerous
+  date: 2022-12-12-11-43-23
