@@ -252,3 +252,7 @@ release-change:
   description: 13a988c !774 申请exim及其编译依赖跟随openEuler-2203-LTS版本发布
   changed_packages: exim libbsd opendmarc libspf2
   date: 2022-12-08-22-17-32
+- pr: https://gitee.com/openeuler/release-management/pulls/791
+  description: c7006f1 !791 openEuler 22.03-LTS-Next申请新增jieba
+  changed_packages: jieba
+  date: 2022-12-12-19-00-43

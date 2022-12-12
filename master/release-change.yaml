@@ -336,3 +336,7 @@ release-change:
   description: ebf7d22 !785 Move lustre-e2fsprogs to mainline
   changed_packages: lustre-e2fsprogs
   date: 2022-12-12-11-35-09
+- pr: https://gitee.com/openeuler/release-management/pulls/791
+  description: c7006f1 !791 openEuler 22.03-LTS-Next申请新增jieba
+  changed_packages: jieba
+  date: 2022-12-12-19-00-43
