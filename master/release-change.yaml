@@ -332,3 +332,7 @@ release-change:
   description: 13a988c !774 申请exim及其编译依赖跟随openEuler-2203-LTS版本发布
   changed_packages: exim libbsd opendmarc libspf2
   date: 2022-12-08-22-17-32
+- pr: https://gitee.com/openeuler/release-management/pulls/785
+  description: ebf7d22 !785 Move lustre-e2fsprogs to mainline
+  changed_packages: lustre-e2fsprogs
+  date: 2022-12-12-11-35-09
