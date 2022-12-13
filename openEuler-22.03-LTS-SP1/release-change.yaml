@@ -110,3 +110,7 @@ release-change:
   description: 12885d8 !777 Add accel-config to openEuler-22.03-LTS-SP1
   changed_packages: accel-config
   date: 2022-12-08-22-49-29
+- pr: https://gitee.com/openeuler/release-management/pulls/792
+  description: 7c0d754 !792 openEuler 22.03-LTS-SP1版本申请新增jieba
+  changed_packages: jieba
+  date: 2022-12-13-10-13-42
