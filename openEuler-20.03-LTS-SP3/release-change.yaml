@@ -20,3 +20,7 @@ release-change:
   description: 0117969 !724 add qla2xxx to 22.03-LTS and 20.03-LTS-SP3
   changed_packages: qla2xxx
   date: 2022-11-16-09-17-06
+- pr: https://gitee.com/openeuler/release-management/pulls/775
+  description: '535e880 !775 I64LDD: Add jdk-17 to openEuler-20.03-LTS-SP3'
+  changed_packages: openjdk-17
+  date: 2022-12-13-16-18-21
