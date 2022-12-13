@@ -114,3 +114,18 @@ release:
   - zengwefeng
   - imxcc
   - paul-huang
+
+- branch: openEuler-22.03-LTS-SP1
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - Lostwayzxc
+  - disnight
+  - licihua
+  - zhengshaoyu
+  - zengwefeng
+  - imxcc
+  - paul-huang
