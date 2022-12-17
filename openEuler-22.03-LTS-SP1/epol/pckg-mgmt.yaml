@@ -749,12 +749,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
   date: '2022-11-14'
-- name: fcitx-libpinyin
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: '2022-11-14'
 - name: fcitx-qt5
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
@@ -4852,73 +4846,73 @@ packages:
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-11-28"
+  date: '2022-11-28'
 - name: python-adtk
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-1"
+  date: 2022-12-1
 - name: python-statsmodels
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-1"
+  date: 2022-12-1
 - name: python-patsy
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-1"
+  date: 2022-12-1
 - name: gn
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-11-30"
+  date: '2022-11-30'
 - name: dsoftbus
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-11-30"
+  date: '2022-11-30'
 - name: xorg-x11-drv-amdgpu
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-01"
-- name: zram-generator 
+  date: '2022-12-01'
+- name: zram-generator
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-02"
+  date: '2022-12-02'
 - name: catatonit
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-02"
+  date: '2022-12-02'
 - name: X-diagnosis
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-07"
+  date: '2022-12-07'
 - name: ros_comm
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-07"
+  date: '2022-12-07'
 - name: ros2_base
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP1:Epol
-  date: "2022-12-07"
+  date: '2022-12-07'
 - name: OpenAMP
   source_dir: openEuler-22.03-LTS-SP1
   destination_dir: openEuler-22.03-LTS-SP1

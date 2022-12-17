@@ -114,3 +114,8 @@ release-change:
   description: 7c0d754 !792 openEuler 22.03-LTS-SP1版本申请新增jieba
   changed_packages: jieba
   date: 2022-12-13-10-13-42
+- pr: https://gitee.com/openeuler/release-management/pulls/798
+  description: 183dccd !798 delete fcitx-libpinyin from openEuler-22.03-LTS-Next-Epol
+    and openEuler-22.03-LTS-SP1-Epol
+  changed_packages: fcitx-libpinyin
+  date: 2022-12-17-14-48-20
