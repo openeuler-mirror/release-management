@@ -5,3 +5,4 @@ packages:
 - name: yocto-opkg-utils
 - name: yocto-pseudo
 - name: mysql5
+- name: fcitx-libpinyin
