@@ -37,25 +37,25 @@ openEuler 22.03 LTS SP1 是22.03-LTS版本增强扩展版本（参见[版本生�
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|[I5RDEG](https://gitee.com/openeuler/release-management/issues/I5RDEG) | DDE组件更新支持服务器场景优化 | Discussion | sig-DDE | [@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo) | EPOL |     |
-|[I5RDGW](https://gitee.com/openeuler/release-management/issues/I5RDGW)|新增软件更新工具支持|Discussion|sig-DDE|[@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo)|EPOL|deepin-upgrade-tool|
-|[I5RDJS](https://gitee.com/openeuler/release-management/issues/I5RDJS)|新增备份还原功能支持|Discussion|sig-Migration|[@blueblue](https://gitee.com/blublue)|EPOL|ubackup|
-|[I5T3MB](https://gitee.com/openeuler/release-management/issues/I5T3MB)|新增ROS基础版和ROS2基础版|Discussion|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu) [@xiao_yun_wang](https://gitee.com/xiao_yun_wang) [@wuwei_plct](https://gitee.com/wuwei_plct)|EPOL|[ros_comm](https://gitee.com/src-openeuler/ros_comm) [ros2_base](https://gitee.com/src-openeuler/ros2_base)|
-|[I5TT8E](https://gitee.com/openeuler/release-management/issues/I5TT8E)|发布kiran-desktop 2.4版本|Discussion|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02)|EPOL|kiran-control-panel,kiran-cc-daemon,kiran-qt5-integration,kiran-session-manager,kiran-log|
-|[I5U6JV](https://gitee.com/openeuler/release-management/issues/I5U6JV)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
-|[I5Y11K](https://gitee.com/openeuler/release-management/issues/I5Y11K)|openEuler 22.03 LTS SP 南向兼容：支持intel SPR|Discussion|||ISO|kernel,gcc|
-|[I5Y16U](https://gitee.com/openeuler/release-management/issues/I5Y16U)|兼容HG2号和3号|Discussion|sig-Compatibility-Infra||ISO||
-|[I5Y18K](https://gitee.com/openeuler/release-management/issues/I5Y18K)|支持openstack Train版本|Discussion|sig-openstack||EPOL||
-|[I5Y1CR](https://gitee.com/openeuler/release-management/issues/I5Y1CR)|KubeOS支持一体机|Discussion|Kernel||EPOL||
-|[I5Y1DS](https://gitee.com/openeuler/release-management/issues/I5Y1DS)|基于A-ops现有CVE管理能力扩展|Discussion|sig-ops||EPOL||
-|[I5Y1HK](https://gitee.com/openeuler/release-management/issues/I5Y1HK)|降低secGear在空载下的CPU占用率|Discussion|Kernel||ISO||
-|[I5Y1I8](https://gitee.com/openeuler/release-management/issues/I5Y1I8)|HybridSched虚拟机在离线混部|Discussion|Virt||EPOL||
-|[I5Y1J1](https://gitee.com/openeuler/release-management/issues/I5Y1J1)|实时非实时系统混合部署支持树莓派|Discussion|sig-embedded||embedded||
-|[I5Y1K3](https://gitee.com/openeuler/release-management/issues/I5Y1K3)|分布式软总线生态互通互联|Discussion|sig-Edge||EPOL||
-|[I5YL35](https://gitee.com/openeuler/release-management/issues/I5YL35)|支持embedded版本|Discussion|sig-embedded||embedded||
-|[I605QY](https://gitee.com/openeuler/release-management/issues/I605QY)|支持generic vDPA Device|Discussion|sig-Kernel,sig-Virt||ISO|kernel,qemu|
-|[I609I2](https://gitee.com/openeuler/release-management/issues/I609I2)|Tensorflow中Intel AMX支持|Discussion|ai|[@Jincheng](https://gitee.com/wisespreading) [@yefeng](https://gitee.com/YeFeng_24) [@Sinever](https://gitee.com/Sinever)|EPOL|python3-tensorflow,python3-absl-py,flatbuffers,python3-flatbuffers,python3-keras, libclang, python3-tensorflow-estimator, python3-tensorboard|
-|[I61CMT](https://gitee.com/openeuler/release-management/issues/I61CMT)|openEuler WSL package支持|Discussion|sig-Infrastructure|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|Microsoft Store appx bundle||
+|[I5RDEG](https://gitee.com/openeuler/release-management/issues/I5RDEG) | DDE组件更新支持服务器场景优化 | Testing | sig-DDE | [@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo) | EPOL |     |
+|[I5RDGW](https://gitee.com/openeuler/release-management/issues/I5RDGW)|新增软件更新工具支持|Testing|sig-DDE|[@weidongkl](https://gitee.com/weidongkl) [@panchenbo](https://gitee.com/panchenbo)|EPOL|deepin-upgrade-tool|
+|[I5RDJS](https://gitee.com/openeuler/release-management/issues/I5RDJS)|新增备份还原功能支持|Testing|sig-Migration|[@blueblue](https://gitee.com/blublue)|EPOL|ubackup|
+|[I5T3MB](https://gitee.com/openeuler/release-management/issues/I5T3MB)|新增ROS基础版和ROS2基础版|Testing|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu) [@xiao_yun_wang](https://gitee.com/xiao_yun_wang) [@wuwei_plct](https://gitee.com/wuwei_plct)|EPOL|[ros_comm](https://gitee.com/src-openeuler/ros_comm) [ros2_base](https://gitee.com/src-openeuler/ros2_base)|
+|[I5TT8E](https://gitee.com/openeuler/release-management/issues/I5TT8E)|发布kiran-desktop 2.4版本|Testing|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02)|EPOL|kiran-control-panel,kiran-cc-daemon,kiran-qt5-integration,kiran-session-manager,kiran-log|
+|[I5U6JV](https://gitee.com/openeuler/release-management/issues/I5U6JV)|支持树莓派|Testing|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
+|[I5Y11K](https://gitee.com/openeuler/release-management/issues/I5Y11K)|openEuler 22.03 LTS SP 南向兼容：支持intel SPR|Testing|||ISO|kernel,gcc|
+|[I5Y16U](https://gitee.com/openeuler/release-management/issues/I5Y16U)|兼容HG2号和3号|Testing|sig-Compatibility-Infra||ISO||
+|[I5Y18K](https://gitee.com/openeuler/release-management/issues/I5Y18K)|支持openstack Train版本|Testing|sig-openstack||EPOL||
+|[I5Y1CR](https://gitee.com/openeuler/release-management/issues/I5Y1CR)|KubeOS支持一体机|Testing|Kernel||EPOL||
+|[I5Y1DS](https://gitee.com/openeuler/release-management/issues/I5Y1DS)|基于A-ops现有CVE管理能力扩展|Testing|sig-ops||EPOL||
+|[I5Y1HK](https://gitee.com/openeuler/release-management/issues/I5Y1HK)|降低secGear在空载下的CPU占用率|Testing|Kernel||ISO||
+|[I5Y1I8](https://gitee.com/openeuler/release-management/issues/I5Y1I8)|HybridSched虚拟机在离线混部|Testing|Virt||EPOL||
+|[I5Y1J1](https://gitee.com/openeuler/release-management/issues/I5Y1J1)|实时非实时系统混合部署支持树莓派|Testing|sig-embedded||embedded||
+|[I5Y1K3](https://gitee.com/openeuler/release-management/issues/I5Y1K3)|分布式软总线生态互通互联|Testing|sig-Edge||EPOL||
+|[I5YL35](https://gitee.com/openeuler/release-management/issues/I5YL35)|支持embedded版本|Testing|sig-embedded||embedded||
+|[I605QY](https://gitee.com/openeuler/release-management/issues/I605QY)|支持generic vDPA Device|Testing|sig-Kernel,sig-Virt||ISO|kernel,qemu|
+|[I609I2](https://gitee.com/openeuler/release-management/issues/I609I2)|Tensorflow中Intel AMX支持|Testing|ai|[@Jincheng](https://gitee.com/wisespreading) [@yefeng](https://gitee.com/YeFeng_24) [@Sinever](https://gitee.com/Sinever)|EPOL|python3-tensorflow,python3-absl-py,flatbuffers,python3-flatbuffers,python3-keras, libclang, python3-tensorflow-estimator, python3-tensorboard|
+|[I61CMT](https://gitee.com/openeuler/release-management/issues/I61CMT)|openEuler WSL package支持|Testing|sig-Infrastructure|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|Microsoft Store appx bundle||
 |[I61DRR](https://gitee.com/openeuler/release-management/issues/I61DRR)|Gazelle支持ceph client和rpc框架|Developing|sig-high-performance-network|[@wu-changsheng](https://gitee.com/wu-changsheng)|oepkgs|Gazelle,dpdk,lwip| 
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
