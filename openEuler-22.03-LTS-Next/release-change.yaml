@@ -261,3 +261,7 @@ release-change:
     and openEuler-22.03-LTS-SP1-Epol
   changed_packages: fcitx-libpinyin
   date: 2022-12-17-14-48-20
+- pr: https://gitee.com/openeuler/release-management/pulls/799
+  description: 12ff5d4 !799 exim move from 2203-lts-next everything to epol
+  changed_packages: exim libbsd opendmarc libspf2
+  date: 2022-12-20-22-37-08
