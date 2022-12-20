@@ -115,3 +115,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Qt
   date: '2022-07-26'
+- name: qt5-qtwebengine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: '2022-12-20'
