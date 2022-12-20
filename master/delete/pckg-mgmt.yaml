@@ -8,3 +8,5 @@ packages:
   - name: kiran-cpanel-appearance
   - name: kiran-cpanel-power
   - name: kiran-cpanel-keybinding
+  - name: libarchive-rust
+  - name: libxml2-rust
