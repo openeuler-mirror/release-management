@@ -344,3 +344,7 @@ release-change:
   description: 3493fc0 !802 mv qt5-qtwebengine from Factory to Qt
   changed_packages: qt5-qtwebengine
   date: 2022-12-20-17-13-18
+- pr: https://gitee.com/openeuler/release-management/pulls/805
+  description: 68a1b98 !805 delete libarchive-rust and libxml2-rust from master/delete/pckg-mgmt.yaml
+  changed_packages: libarchive-rust libxml2-rust
+  date: 2022-12-20-21-57-00
