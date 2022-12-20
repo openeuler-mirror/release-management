@@ -340,3 +340,7 @@ release-change:
   description: c7006f1 !791 openEuler 22.03-LTS-Next申请新增jieba
   changed_packages: jieba
   date: 2022-12-12-19-00-43
+- pr: https://gitee.com/openeuler/release-management/pulls/802
+  description: 3493fc0 !802 mv qt5-qtwebengine from Factory to Qt
+  changed_packages: qt5-qtwebengine
+  date: 2022-12-20-17-13-18
