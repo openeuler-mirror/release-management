@@ -4907,3 +4907,11 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: "2022-12-08"
+- name: qtav
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-12-21"
+- name: stb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-12-21"
