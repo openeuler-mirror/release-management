@@ -2015,3 +2015,9 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-11-29'
+- name: ovn
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-SP1
+  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2022-12-21'
