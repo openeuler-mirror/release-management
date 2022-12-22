@@ -12,3 +12,6 @@ packages:
 - name: go-bindata
 - name: libsoup3
 - name: fcitx-libpinyin
+- name: isula-transform
+- name: iSulad-img
+- name: authz
