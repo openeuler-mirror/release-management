@@ -348,3 +348,7 @@ release-change:
   description: 68a1b98 !805 delete libarchive-rust and libxml2-rust from master/delete/pckg-mgmt.yaml
   changed_packages: libarchive-rust libxml2-rust
   date: 2022-12-20-21-57-00
+- pr: https://gitee.com/openeuler/release-management/pulls/810
+  description: 2cba751 !810 move qtav stb from Factory to Epol
+  changed_packages: qtav stb
+  date: 2022-12-22-09-19-50
