@@ -265,3 +265,8 @@ release-change:
   description: 12ff5d4 !799 exim move from 2203-lts-next everything to epol
   changed_packages: exim libbsd opendmarc libspf2
   date: 2022-12-20-22-37-08
+- pr: https://gitee.com/openeuler/release-management/pulls/815
+  description: ccaaf58 !815 delete isula-transform/iSulad-img/authz/kata-micro-kernel
+    from openEuler-22.03-LTS-Next-Epol and openEuler-22.03-LTS-SP1-Epol
+  changed_packages: authz isula-transform iSulad-img
+  date: 2022-12-26-10-11-15

@@ -119,3 +119,8 @@ release-change:
     and openEuler-22.03-LTS-SP1-Epol
   changed_packages: fcitx-libpinyin
   date: 2022-12-17-14-48-20
+- pr: https://gitee.com/openeuler/release-management/pulls/815
+  description: ccaaf58 !815 delete isula-transform/iSulad-img/authz/kata-micro-kernel
+    from openEuler-22.03-LTS-Next-Epol and openEuler-22.03-LTS-SP1-Epol
+  changed_packages: authz isula-transform iSulad-img
+  date: 2022-12-26-10-11-15
