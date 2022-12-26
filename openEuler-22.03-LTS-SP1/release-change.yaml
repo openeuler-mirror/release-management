@@ -124,3 +124,8 @@ release-change:
     from openEuler-22.03-LTS-Next-Epol and openEuler-22.03-LTS-SP1-Epol
   changed_packages: authz isula-transform iSulad-img
   date: 2022-12-26-10-11-15
+- pr: https://gitee.com/openeuler/release-management/pulls/818
+  description: 0767905 !818 【轻量级 PR】：delete build or install pkgs from SP1
+  changed_packages: ovirt-engine-ui-extensions ovirt-engine pki-core mate-applets
+    ovirt-engine-dwh
+  date: 2022-12-26-16-07-49
