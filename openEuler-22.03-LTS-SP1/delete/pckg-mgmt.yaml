@@ -6,3 +6,6 @@ packages:
 - name: yocto-pseudo
 - name: mysql5
 - name: fcitx-libpinyin
+- name: isula-transform
+- name: iSulad-img
+- name: authz
