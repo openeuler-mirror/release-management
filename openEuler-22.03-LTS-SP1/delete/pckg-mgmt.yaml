@@ -9,3 +9,8 @@ packages:
 - name: isula-transform
 - name: iSulad-img
 - name: authz
+- name: mate-applets
+- name: ovirt-engine-ui-extensions
+- name: ovirt-engine
+- name: ovirt-engine-dwh
+- name: pki-core
