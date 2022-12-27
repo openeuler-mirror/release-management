@@ -5076,3 +5076,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2022-12-12"
+- name: libcbor
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-12-27"

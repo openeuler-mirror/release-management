@@ -1731,10 +1731,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: libcbor
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: libcddb
       obs_from: ""
       obs_to: openEuler:Factory
