@@ -352,3 +352,7 @@ release-change:
   description: 2cba751 !810 move qtav stb from Factory to Epol
   changed_packages: qtav stb
   date: 2022-12-22-09-19-50
+- pr: https://gitee.com/openeuler/release-management/pulls/820
+  description: 185af6e !820 add libcbor to mainline
+  changed_packages: libcbor
+  date: 2022-12-27-10-42-08
