@@ -14059,3 +14059,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-29"
+    - name: Jailhouse
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-12-29"
