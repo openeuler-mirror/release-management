@@ -14063,3 +14063,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-29"
+    - name: pyproject-rpm-macros
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2022-12-30"
