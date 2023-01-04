@@ -1951,6 +1951,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: libnvme
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2023-01-04'
 - name: liboauth
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
