@@ -360,3 +360,7 @@ release-change:
   description: 5f44326 !824 Move libnvme from openEuler:Factory to openEuler:C
   changed_packages: libnvme
   date: 2023-01-05-11-36-34
+- pr: https://gitee.com/openeuler/release-management/pulls/795
+  description: 429c773 !795 Remove lustre-e2fsprogs pkg from Mainline
+  changed_packages: lustre-e2fsprogs
+  date: 2023-01-09-15-34-55
