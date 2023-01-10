@@ -5080,3 +5080,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-01-09"
+- name: python-aiosignal
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-01-10"
