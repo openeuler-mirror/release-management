@@ -4923,3 +4923,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-01-19'
+- name: mindspore
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-01-29"
