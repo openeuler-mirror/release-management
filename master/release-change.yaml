@@ -372,3 +372,7 @@ release-change:
   description: 280f09a !829 Move python-aiosignal from openEuler:Factory to openEuler:Mainline
   changed_packages: python-aiosignal
   date: 2023-01-10-10-56-48
+- pr: https://gitee.com/openeuler/release-management/pulls/831
+  description: f770eed !831 Move OCF from Factory to Mainline
+  changed_packages: ocf
+  date: 2023-01-10-17-57-02
