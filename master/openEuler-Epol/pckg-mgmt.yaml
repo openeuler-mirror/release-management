@@ -3247,6 +3247,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: tcmu-runner
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2022-01-11"
 - name: template-glib
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
