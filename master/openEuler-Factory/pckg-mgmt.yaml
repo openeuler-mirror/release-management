@@ -12391,10 +12391,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: ocf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: R-plogr
       obs_from: ""
       obs_to: openEuler:Factory

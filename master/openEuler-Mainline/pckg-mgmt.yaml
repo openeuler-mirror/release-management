@@ -5084,3 +5084,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-01-10"
+- name: ocf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-01-10"
