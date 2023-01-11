@@ -14059,3 +14059,7 @@ packages:
       obs_from: openEuler:Mainline
       obs_to: openEuler:Factory
       date: "2023-01-09"
+    - name: xdotool
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-01-11"
