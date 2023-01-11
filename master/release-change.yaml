@@ -380,3 +380,7 @@ release-change:
   description: aa7393a !830 move tcmu-runner from Factory to Epol
   changed_packages: tcmu-runner
   date: 2023-01-11-10-37-54
+- pr: https://gitee.com/openeuler/release-management/pulls/835
+  description: 57b45de !835 Move xdotool from Factory to Epol
+  changed_packages: xdotool
+  date: 2023-01-11-14-40-16
