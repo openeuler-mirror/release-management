@@ -33,10 +33,11 @@ openEuler社区软件包引入到各版本分支原则
 
 ## 三、代码编译构建二进制RPM包（OBS构建工程）
 
-在第二步骤中新包在OBS的factory工程下编译成功且稳定后，就可以申请移仓到OBS mainline或者其他master下编译工程中来了，申请PR样例如下（openEuler社区是共主干开发，mainline是不受限新增包，编译成功稳定就可以申请加入mainline工程）
+在第二步骤中新包在OBS的factory工程下编译成功且稳定后，就可以申请移仓到OBS mainline或者其他master下编译工程中来了，申请PR样例如下（openEuler社区是共主干开发，mainline是不受限新增包，编译成功稳定就可以申请加入mainline或者master下的其他工程，具体可参阅本文第七章节）
 
 
 - 请参阅本文**第八章/1.1master下包的移动**
+- PR示例：https://gitee.com/openeuler/release-management/pulls/835
 
 
 ## 四、纳入master开发主干的每日构建版本ISO中参与版本构建（jenkins构建工程）
@@ -60,7 +61,7 @@ ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM�
 
 【openEuler分支中软件包增删改PR申请样例】
 
-- 请参阅本文**第八章**
+- 请参阅本文**第七章** **第八章**
 
 【jenkins构建工程PR申请样例】
 
