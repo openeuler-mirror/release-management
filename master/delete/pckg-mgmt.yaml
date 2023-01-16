@@ -10,3 +10,4 @@ packages:
   - name: kiran-cpanel-keybinding
   - name: libarchive-rust
   - name: libxml2-rust
+  - name: ansible-2.9
