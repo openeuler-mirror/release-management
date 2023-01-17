@@ -31,10 +31,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: ansible-2.9
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: ansible-runner-service
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -3250,7 +3246,7 @@ packages:
 - name: tcmu-runner
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-01-11"
+  date: '2022-01-11'
 - name: template-glib
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4814,7 +4810,7 @@ packages:
 - name: xorg-x11-drv-amdgpu
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-15"
+  date: '2022-11-15'
 - name: qla2xxx
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4836,29 +4832,29 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-11-16'
 - name: aops-apollo
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-17"
+  date: '2022-11-17'
 - name: aops-hermes
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-17"
+  date: '2022-11-17'
 - name: aops-vulcanus
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-17"
+  date: '2022-11-17'
 - name: aops-diana
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-17"
+  date: '2022-11-17'
 - name: aops-ceres
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-17"
+  date: '2022-11-17'
 - name: aops-zeus
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-11-17"
+  date: '2022-11-17'
 - name: gflags
   obs_from: openEuler:C
   obs_to: openEuler:Epol
@@ -4878,15 +4874,15 @@ packages:
 - name: python-adtk
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: '2022-12-1'
+  date: 2022-12-1
 - name: python-statsmodels
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: '2022-12-1'
+  date: 2022-12-1
 - name: python-patsy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: '2022-12-1'
+  date: 2022-12-1
 - name: gn
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4898,28 +4894,28 @@ packages:
 - name: python-rich
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-12-01"
+  date: '2022-12-01'
 - name: X-diagnosis
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-12-07"
+  date: '2022-12-07'
 - name: OpenAMP
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
-  date: "2022-12-08"
+  date: '2022-12-08'
 - name: libmetal
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
-  date: "2022-12-08"
+  date: '2022-12-08'
 - name: qtav
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-12-21"
+  date: '2022-12-21'
 - name: stb
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2022-12-21"
+  date: '2022-12-21'
 - name: xdotool
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-01-11"
+  date: '2023-01-11'

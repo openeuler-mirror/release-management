@@ -384,3 +384,7 @@ release-change:
   description: 57b45de !835 Move xdotool from Factory to Epol
   changed_packages: xdotool
   date: 2023-01-11-14-40-16
+- pr: https://gitee.com/openeuler/release-management/pulls/840
+  description: 2641026 !840 Remove ansible-2.9 from openEuler:Epol
+  changed_packages: ansible-2.9
+  date: 2023-01-17-09-26-06
