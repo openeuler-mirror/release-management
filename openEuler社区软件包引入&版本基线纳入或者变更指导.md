@@ -33,20 +33,21 @@ openEuler社区软件包引入到各版本分支原则
 
 ## 三、代码编译构建二进制RPM包（OBS构建工程）
 
-在第二步骤中新包在OBS的factory工程下编译成功且稳定后，就可以申请移仓到OBS mainline或者其他master下编译工程中来了，申请PR样例如下（openEuler社区是共主干开发，mainline是不受限新增包，编译成功稳定就可以申请加入mainline工程）
+在第二步骤中新包在OBS的factory工程下编译成功且稳定后，就可以申请移仓到OBS mainline或者其他master下编译工程中来了，申请PR样例如下（openEuler社区是共主干开发，mainline是不受限新增包，编译成功稳定就可以申请加入mainline工程或者其他工程）
+
+-  master包含以下工程：openEuler:Factory,openEuler:Mainline,openEuler:Epol,openEuler:BaseTools,openEuler:C,openEuler:Common_Languages_Dependent_Tools,openEuler:Epol,openEuler:Erlang,openEuler:Golang,openEuler:Java,openEuler:KernelSpace,openEuler:Lua,
+
+  openEuler:Meson,openEuler:MultiLanguage,openEuler:Nodejs,openEuler:Ocaml,openEuler:Perl,openEuler:Python,openEuler:Qt,openEuler:Ruby共19个分层工程
+
+  社区基于master分支工程做的分层project，如无特殊需求，由CICD sig组主导软件包的分层，开发者如往常提交PR至openEuler: Mainline/openEuler:Epol即可
+
+  详细分层工程介绍可参考：[openEuler&OBS-Build-optimization-design2.0.md](https://gitee.com/openeuler/openeuler-obs/blob/master/design-doc/openEuler&OBS-Build-optimization-design2.0.md)
 
 
-- 请参阅本文**第八章/1.1master下包的移动**
+- 分层工程建间报的移动请参阅本文**第七章/1.1master下包的移动**
 
 
-## 四、纳入master开发主干的每日构建版本ISO中参与版本构建（jenkins构建工程）
-
-申请该包被纳入各个版本开发主干的每日构建ISO交付件构建列表中；openEuler社区每日构建版本ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM包规模），全量ISO（everything ISO,大约10000+ 二进制RPM包）；
-
-- 【PR样例】https://gitee.com/src-openeuler/mkeuleros/pulls/91
-
-
-## 五、提交需求，申请新增软件包纳入release发布版本ISO中正式对外发布
+## 四、提交需求，申请新增软件包纳入release发布版本ISO中正式对外发布
 
 申请该包被纳入各个版本正式release发布的ISO交付件构建列表中，需要在版本分支拉出来之前的需求收集阶段，提需求给release sig，根据openEuler社区质量要求、版本需求接纳原则来评审；
 
@@ -54,19 +55,19 @@ ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM�
 
 - PR示例：https://gitee.com/openeuler/release-management/issues/I1O7RM?from=project-issue
 
-## 六、release版本ISO中参与版本编译、构建申请（OBS/jenkins工程）
+## 五、release版本ISO中参与版本编译、构建申请（OBS/jenkins工程）
 
 需求纳入release版本后，提交PR申请该包纳入release 分支对应的OBS和jenkins编译构建交付件列表
 
 【openEuler分支中软件包增删改PR申请样例】
 
-- 请参阅本文**第八章**
+- 请参阅本文**第七章**
 
 【jenkins构建工程PR申请样例】
 
 - PR样例： https://gitee.com/src-openeuler/mkeuleros/pulls/91
 
-## 七、Relese-management目录及pckg-mgmt字段解释
+## 六、Relese-management目录及pckg-mgmt字段解释
 
 ###  纳管master分支
 
@@ -127,7 +128,7 @@ ISO文件根据包规模大小有两类：基础ISO（大约2300+ 二进制RPM�
 | date            | 在yaml中修改该包的日期，修改日期必须与提交日期保持一致，否则门禁会提示错误 | √        |
 
 
-## 八、开发者提交变更软件包流程
+## 七、开发者提交变更软件包流程
 
 本章节用于指导开发者如何变更release_management下纳管分支(已停维分支除外)对应project内/不同 project之间的软件包
 
@@ -215,3 +216,9 @@ note：同分支内包移动， 需从原yaml中删除该包信息，再到目�
 - Note：PR合入后对于所有包的移动都会自动记录到对应的release_change.yaml
 
 ![eagle](Pictures/eagle.png)
+
+## 八、参考文档及相关社区工具操作指南链接
+
+- [OBS操作指导](https://docs.openeuler.org/zh/docs/22.03_LTS_SP1/docs/ApplicationDev/%E5%AE%89%E8%A3%85obs%E5%B7%A5%E5%85%B7.html)
+- [OBS master分层工程设计文档](https://gitee.com/openeuler/openeuler-obs/blob/master/design-doc/openEuler&OBS-Build-optimization-design2.0.md#41-%E5%88%86%E5%B1%82%E6%9E%84%E5%BB%BA)
+- [openeuler贡献攻略](https://www.openeuler.org/zh/community/contribution/detail.html)
