@@ -14075,3 +14075,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-18"
+    - name: rubygem-importmap-rails
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-01-18"
