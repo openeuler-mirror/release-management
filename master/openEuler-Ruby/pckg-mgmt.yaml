@@ -735,3 +735,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Ruby
   date: '2023-01-18'
+- name: rubygem-cucumber-create-meta
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ruby
+  date: "2023-01-19"
+- name: rubygem-cucumber-messages
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ruby
+  date: "2023-01-19"
+- name: rubygem-sys-uname
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ruby
+  date: "2023-01-19"

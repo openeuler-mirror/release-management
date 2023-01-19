@@ -14063,18 +14063,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-13"
-    - name: rubygem-cucumber-create-meta
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-18"
-    - name: rubygem-cucumber-messages
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-18"
-    - name: rubygem-sys-uname
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-18"
     - name: kylin-weather
       obs_from: ""
       obs_to: openEuler:Factory
