@@ -727,3 +727,15 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Ruby
   date: '2022-07-26'
+- name: rubygem-hoe
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ruby
+  date: '2023-01-18'
+- name: rubygem-benchmark-ips
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ruby
+  date: '2023-01-18'
+- name: rubygem-importmap-rails
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ruby
+  date: '2023-01-18'

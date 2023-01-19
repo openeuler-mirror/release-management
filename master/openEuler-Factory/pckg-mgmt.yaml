@@ -14067,18 +14067,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-16"
-    - name: rubygem-hoe
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-18"
-    - name: rubygem-benchmark-ips
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-18"
-    - name: rubygem-importmap-rails
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-18"
     - name: rubygem-cucumber-create-meta
       obs_from: ""
       obs_to: openEuler:Factory
