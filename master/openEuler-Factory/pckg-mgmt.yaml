@@ -14083,3 +14083,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-18"
+    - name: libpanel
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-01-19"
