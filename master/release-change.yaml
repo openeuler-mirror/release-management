@@ -397,3 +397,7 @@ release-change:
   description: 5f93610 !844 Remove rubygem-erubis from openEuler:Ruby
   changed_packages: rubygem-erubis
   date: 2023-01-19-11-53-10
+- pr: https://gitee.com/openeuler/release-management/pulls/846
+  description: 56ef0f2 !846 move libserverframe from openEuler:Factory to openEuler:Epol
+  changed_packages: libserverframe
+  date: 2023-01-19-17-09-28
