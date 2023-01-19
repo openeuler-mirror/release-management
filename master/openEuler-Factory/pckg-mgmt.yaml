@@ -14099,3 +14099,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-19"
+    - name: libshumate
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-01-19"
