@@ -388,3 +388,8 @@ release-change:
   description: 2641026 !840 Remove ansible-2.9 from openEuler:Epol
   changed_packages: ansible-2.9
   date: 2023-01-17-09-26-06
+- pr: https://gitee.com/openeuler/release-management/pulls/843
+  description: 2ac4f9c !843 move rubygem-importmap-rails,rubygem-benchmark-ips,rubygem-hoe
+    from openEuler:Factory to openEuler:Ruby
+  changed_packages: rubygem-hoe rubygem-benchmark-ips rubygem-importmap-rails
+  date: 2023-01-19-10-31-42
