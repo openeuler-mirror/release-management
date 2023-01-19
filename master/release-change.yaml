@@ -393,3 +393,7 @@ release-change:
     from openEuler:Factory to openEuler:Ruby
   changed_packages: rubygem-hoe rubygem-benchmark-ips rubygem-importmap-rails
   date: 2023-01-19-10-31-42
+- pr: https://gitee.com/openeuler/release-management/pulls/844
+  description: 5f93610 !844 Remove rubygem-erubis from openEuler:Ruby
+  changed_packages: rubygem-erubis
+  date: 2023-01-19-11-53-10

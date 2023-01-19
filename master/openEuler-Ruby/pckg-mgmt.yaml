@@ -187,10 +187,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Ruby
   date: '2022-07-26'
-- name: rubygem-erubis
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Ruby
-  date: '2022-07-26'
 - name: rubygem-ethon
   obs_from: openEuler:Mainline
   obs_to: openEuler:Ruby
