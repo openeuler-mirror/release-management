@@ -401,3 +401,8 @@ release-change:
   description: 56ef0f2 !846 move libserverframe from openEuler:Factory to openEuler:Epol
   changed_packages: libserverframe
   date: 2023-01-19-17-09-28
+- pr: https://gitee.com/openeuler/release-management/pulls/845
+  description: 266204b !845 move rubygem-sys-uname,rubygem-cucumber-messages,rubygem-cucumber-create-meta
+    from openEuler:Factory to openEuler:Ruby
+  changed_packages: rubygem-cucumber-create-meta rubygem-cucumber-messages rubygem-sys-uname
+  date: 2023-01-19-20-22-58
