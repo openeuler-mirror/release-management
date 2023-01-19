@@ -14063,10 +14063,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-13"
-    - name: libserverframe
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-16"
     - name: rubygem-cucumber-create-meta
       obs_from: ""
       obs_to: openEuler:Factory
