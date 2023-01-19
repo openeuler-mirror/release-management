@@ -11,3 +11,4 @@ packages:
   - name: libarchive-rust
   - name: libxml2-rust
   - name: ansible-2.9
+  - name: rubygem-erubis
