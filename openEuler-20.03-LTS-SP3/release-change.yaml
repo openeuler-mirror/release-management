@@ -24,3 +24,7 @@ release-change:
   description: '535e880 !775 I64LDD: Add jdk-17 to openEuler-20.03-LTS-SP3'
   changed_packages: openjdk-17
   date: 2022-12-13-16-18-21
+- pr: https://gitee.com/openeuler/release-management/pulls/833
+  description: d73b16a !833 add mindspore to openEuler 20.03-LTS-SP3
+  changed_packages: mindspore
+  date: 2023-01-29-15-16-31
