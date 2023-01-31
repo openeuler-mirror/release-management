@@ -4447,10 +4447,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-IPC-Run3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-IPC-ShareLite
       obs_from: ""
       obs_to: openEuler:Factory

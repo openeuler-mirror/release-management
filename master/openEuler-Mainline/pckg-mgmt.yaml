@@ -5088,3 +5088,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-01-10"
+- name: perl-IPC-Run3
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-01-31"
