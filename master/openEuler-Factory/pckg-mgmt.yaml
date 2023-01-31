@@ -14031,10 +14031,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-20"
-    - name: OpenCSD
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-12-23"
     - name: Xenomai4
       obs_from: ""
       obs_to: openEuler:Factory
