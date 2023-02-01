@@ -270,3 +270,8 @@ release-change:
     from openEuler-22.03-LTS-Next-Epol and openEuler-22.03-LTS-SP1-Epol
   changed_packages: authz isula-transform iSulad-img
   date: 2022-12-26-10-11-15
+- pr: https://gitee.com/openeuler/release-management/pulls/842
+  description: 27abc99 !842 Move OpenCSD from factory to mainline and add to 22.03-LTS-NEXT
+    everything
+  changed_packages: OpenCSD
+  date: 2023-02-01-14-56-13
