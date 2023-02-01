@@ -414,3 +414,7 @@ release-change:
   description: 72e73ca !848 move perl-IPC-Run3 from Factory to Mainline
   changed_packages: perl-IPC-Run3
   date: 2023-01-31-17-33-49
+- pr: https://gitee.com/openeuler/release-management/pulls/847
+  description: ffd47a2 !847 move compat-openssl11 from openEuler:Factory to openEuler:Common_Languages_Dependent_Tools
+  changed_packages: compat-openssl11
+  date: 2023-02-01-10-09-03
