@@ -5092,3 +5092,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-01-31"
+- name: OpenCSD
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-01-31"
