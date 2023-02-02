@@ -14051,34 +14051,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-01-18"
-    - name: libpanel
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: libglib-testing
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: d-spy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: editorconfig
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: libshumate
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: malcontent
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: libcloudproviders
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
     - name: NetworkManager-iodine
       obs_from: ""
       obs_to: openEuler:Factory

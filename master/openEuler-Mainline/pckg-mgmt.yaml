@@ -5096,3 +5096,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-01-31"
+- name: d-spy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
+- name: editorconfig
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
+- name: libshumate
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
+- name: malcontent
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
+- name: libcloudproviders
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
+- name: libpanel
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
+- name: libglib-testing
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-02"
