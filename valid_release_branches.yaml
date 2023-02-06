@@ -12,6 +12,7 @@ branch:
   - openEuler-22.09
   - openEuler-20.03-LTS-SP1
   - openEuler-20.03-LTS-SP3
+  - openEuler-23.03
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
