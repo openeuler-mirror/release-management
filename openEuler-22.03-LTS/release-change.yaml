@@ -27,3 +27,7 @@ release-change:
   description: cfeff54 !741 添加智能运维（aops-*）到22.03-LTS和22.03-LTS-SP1
   changed_packages: aops-apollo aops-hermes aops-vulcanus aops-diana aops-ceres aops-zeus
   date: 2022-11-21-22-05-30
+- pr: https://gitee.com/openeuler/release-management/pulls/859
+  description: 897d3f3 !859 add jieba to 22.03-LTS
+  changed_packages: jieba
+  date: 2023-02-06-16-56-30
