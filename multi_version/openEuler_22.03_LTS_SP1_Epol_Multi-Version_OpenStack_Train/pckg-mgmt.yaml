@@ -665,12 +665,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Train
   date: '2022-11-15'
-- name: python-feedparser
-  source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Train
-  date: '2022-11-15'
 - name: python-flake8-docstrings
   source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP1
@@ -1445,12 +1439,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Train
   date: '2022-11-15'
-- name: python-pyxcli
-  source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Train
-  date: '2022-11-15'
 - name: python-redis
   source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP1
@@ -1722,12 +1710,6 @@ packages:
   obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Train
   date: '2022-11-15'
 - name: python-taskflow
-  source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP1
-  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  obs_to: openEuler:22.03:LTS:SP1:Epol:Multi-Version:OpenStack:Train
-  date: '2022-11-15'
-- name: python-tempest-lib
   source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP1
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train

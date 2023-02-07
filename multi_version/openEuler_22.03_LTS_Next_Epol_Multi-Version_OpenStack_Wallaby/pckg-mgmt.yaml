@@ -1451,12 +1451,6 @@ packages:
   obs_from: openEuler:21.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-08-30'
-- name: python-tempest-lib
-  source_dir: openEuler-21.09
-  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2022-08-30'
 - name: python-os-client-config
   source_dir: openEuler-21.09
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
@@ -1524,12 +1518,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-08-30'
 - name: python-zaqarclient
-  source_dir: openEuler-21.09
-  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2022-08-30'
-- name: python-feedparser
   source_dir: openEuler-21.09
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09:Epol
@@ -1851,12 +1839,6 @@ packages:
   source_dir: openEuler-21.09
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09
-  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2022-08-30'
-- name: python-pyxcli
-  source_dir: openEuler-21.09
-  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-08-30'
 - name: python-proboscis
