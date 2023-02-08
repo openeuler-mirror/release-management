@@ -428,3 +428,7 @@ release-change:
   changed_packages: d-spy editorconfig libshumate malcontent libcloudproviders libpanel
     libglib-testing
   date: 2023-02-02-21-08-43
+- pr: https://gitee.com/openeuler/release-management/pulls/862
+  description: e5de228 !862 exim move from master:mainline to master:epol
+  changed_packages: exim libbsd opendmarc libspf2
+  date: 2023-02-08-16-22-11
