@@ -4927,3 +4927,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-01-29"
+- name: exim
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-02-08"
+- name: libbsd
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-02-08"
+- name: opendmarc
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-02-08"
+- name: libspf2
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-02-08"
