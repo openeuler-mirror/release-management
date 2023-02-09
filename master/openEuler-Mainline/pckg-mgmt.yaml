@@ -5112,3 +5112,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: "2023-02-09"
+- name: booth
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-02-09'
