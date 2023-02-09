@@ -14091,3 +14091,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
+    - name: libcxxabi-15
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-09"
