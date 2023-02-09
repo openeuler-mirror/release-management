@@ -5108,3 +5108,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-02-02"
+- name: libbsd
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: "2023-02-09"
