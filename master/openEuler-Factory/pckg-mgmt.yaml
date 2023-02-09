@@ -14111,3 +14111,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
+    - name: compiler-rt-15
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-09"
