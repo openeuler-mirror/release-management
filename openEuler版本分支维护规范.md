@@ -1,7 +1,7 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1219/202613_8dbe83a5_5603730.png "openEuler-branch-specification.PNG")
 
-openEuler社区的本着广泛合作，持续创新，包容并举的愿景，与所有开源软件世界的开发者共同持续打造稳定、创新的开源软件平台，构建支持多处理器架构、统一和开放的操作系统openEuler，推动软硬件生态繁荣发展。
-在基于以上开源开放的理念的同时， openEuler遵从开源软件及版本分支管理规范，对每个版本分支确定明确且清晰的规范策略，本文档作为社区维护人员介绍现有的openEuler社区各个分支中的软件包维护策略。如果有任何疑问或者需要澄清的地方，请您提交issue到[release-management SIG](https://gitee.com/openeuler/release-management/issues)中进行讨论。
+openEuler社区本着广泛合作，持续创新，包容并举的愿景，与所有开源软件世界的开发者共同持续打造稳定、创新的开源软件平台，构建支持多处理器架构、统一和开放的操作系统openEuler，推动软硬件生态繁荣发展。
+在基于以上开源开放的理念的同时， openEuler遵从开源软件及版本分支管理规范，对每个版本分支确定明确且清晰的规范策略，本文档为社区维护人员介绍现有的openEuler社区各个分支中的软件包维护策略。如果有任何疑问或者需要澄清的地方，请您提交issue到[release-management SIG](https://gitee.com/openeuler/release-management/issues)中进行讨论。
 
 ### master （主干分支）
 master作为openEuler社区持续滚动开发的主干，积极接纳openEuler社区每个软件包主干开发分支的代码更新，将其纳入mainline主干实时构建，并基于该master主干构建每日版本推送给openEuler社区开发者使用。
@@ -25,7 +25,7 @@ openEuler社区创新版本分支按照**每6个月一个周期**从master主干
 
 
 ### 以openEuler 20.03-LTS-NEXT 版本分支为例（长期支持维护版本开发分支）
-openEuler LTS-NEXT分支作为该[LTS版本生命周期](https://gitee.com/openeuler/release-management/blob/master/lifecycle.md)时间内持续维护的**LTS版本开发主干**，LTS-NEXT开发主干**每12月一个周期**拉出来LTS-SPx版本分支，确定openEuler下一个LTS-SP版本（版本号命名规则：openEuler+年月+LTS+SPx的数字点分形式，例如：openEuler 20.03-LTS SP1、openEuler 20.03-LTS SP2、......)。该LTS-SP版本在经过集中编译、构建、Beta测试、release测试，并最终通过openEuler社区评审发布。
+openEuler LTS-NEXT分支作为该[LTS版本生命周期](https://gitee.com/openeuler/release-management/blob/master/lifecycle.md)时间内持续维护的**LTS版本开发主干**，LTS-NEXT开发主干**每12月一个周期**拉出来LTS-SPx版本分支，确定openEuler下一个LTS-SP版本（版本号命名规则：openEuler+年月的数字点分形式+LTS+SPx的数字形式，例如：openEuler 20.03-LTS SP1、openEuler 20.03-LTS SP2、......)。该LTS-SP版本在经过集中编译、构建、Beta测试、release测试，并最终通过openEuler社区评审发布。
 
 对于openEuler LTS-NEXT开发版本分支，社区开发者和维护者需要遵从基本规范：
 
@@ -35,7 +35,7 @@ openEuler LTS-NEXT分支作为该[LTS版本生命周期](https://gitee.com/opene
 * 如果某些软件包LTS-NEXT开发版本主干分支因某些特定原因需要回退到老版本，请确认已获得该软件包对应sig组例会及[openEuler TC委员会](https://gitee.com/openeuler/community/tree/master/zh/technical-committee)批准，且务必确保你的回退变更早于openEuler LTX-SPx版本**需求收集冻结**里程碑之前，以此减少对于LTS-NEXT开发版本其他软件包和版本构建影响；
 
 ### 以openEuler 20.03-LTS版本分支为例（长期支持维护版本分支）
-openEuler社区**LTS长期支持维护版本**按照**每24个月一个周期**从master主干分支拉出来，确定openEuler下一个LTS长期支持维护版本（版本号命名规则：openEuler+年月+LTS的数字点分+缩写形式，例如：openEuler 20.03-LTS、openEuler 22.03-LTS、......)。该LTS版本在经过集中编译、构建、alpha版本测试、Beta版本测试、release版本测试，并最终通过openEuler社区评审发布。
+openEuler社区**LTS长期支持维护版本**按照**每24个月一个周期**从master主干分支拉出来，确定openEuler下一个LTS长期支持维护版本（版本号命名规则：openEuler+年月的数字点分形式+LTS，例如：openEuler 20.03-LTS、openEuler 22.03-LTS、......)。该LTS版本在经过集中编译、构建、alpha版本测试、Beta版本测试、release版本测试，并最终通过openEuler社区评审发布。
 
 对于openEuler LTS版本代码分支，社区开发者和维护者需要遵从基本规范：
 
