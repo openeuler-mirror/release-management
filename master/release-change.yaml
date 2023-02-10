@@ -436,3 +436,7 @@ release-change:
   description: 2b38331 !867 libbsd move from master:epol to master:Mainline
   changed_packages: libbsd
   date: 2023-02-09-17-19-04
+- pr: https://gitee.com/openeuler/release-management/pulls/865
+  description: 32d4e70 !865 Move booth from epol to mainline
+  changed_packages: booth
+  date: 2023-02-10-14-17-11
