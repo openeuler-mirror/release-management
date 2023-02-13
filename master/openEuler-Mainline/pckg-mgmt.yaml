@@ -5120,3 +5120,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-02-11"
+- name: clang-15
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-13"
+- name: llvm-15
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-13"
+- name: lld-15
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-13"
