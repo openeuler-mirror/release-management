@@ -14111,3 +14111,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
+    - name: os-net-config
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-13"
