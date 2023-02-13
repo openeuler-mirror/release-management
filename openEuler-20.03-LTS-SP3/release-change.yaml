@@ -28,3 +28,7 @@ release-change:
   description: d73b16a !833 add mindspore to openEuler 20.03-LTS-SP3
   changed_packages: mindspore
   date: 2023-01-29-15-16-31
+- pr: https://gitee.com/openeuler/release-management/pulls/877
+  description: c784fb9 !877 申请将beakerlib从obs的20.03-SP3的Epol工程移动到20.03-SP3主工程
+  changed_packages: beakerlib
+  date: 2023-02-13-19-05-37
