@@ -445,3 +445,7 @@ release-change:
     and 2203-lts-next
   changed_packages: ceph-deploy
   date: 2023-02-13-09-58-44
+- pr: https://gitee.com/openeuler/release-management/pulls/872
+  description: 4e583ad !872 将clang/llvm/lld-15从Facroty移动到mainline，申请2203-Next分支
+  changed_packages: clang-15 llvm-15 lld-15
+  date: 2023-02-13-11-48-15
