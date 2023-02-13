@@ -14007,18 +14007,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-20"
-    - name: clang-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-12-20"
-    - name: lld-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-12-20"
-    - name: llvm-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-12-20"
     - name: moby
       obs_from: ""
       obs_to: openEuler:Factory
