@@ -44,9 +44,7 @@ openEuler 23.03 是基于6.1内核的创新版本（参见[版本生命周期](h
 |9|[【openEuler 23.03】openEuler 23.03 创新版本选择 6.1 内核](https://gitee.com/openeuler/kernel/issues/I6834I)|Testing|Kernel |@zhengzengkai|oepkgs|Kernel|
 |10|[【openEuler 23.03】支持embedded版本](https://gitee.com/openeuler/release-management/issues/I6DS1J?from=project-issue)|Discussion|sig-embedded|@fanglinxu|独立发布|Embedded|
 |11|[【openEuler 23.03】NFS客户端支持多路径](https://gitee.com/openeuler/kernel/issues/I6CR7Z)|Discussion|Kernel |@jiangzhongbing|oepkgs|Kernel|
-
-|      |                                                              |         |                              |        |          |                |
-|      |||||||
+|12|[【openEuler 23.03】新增openGemini时序数据库](https://gitee.com/openeuler/release-management/issues/I6EQV3)|Testing|DB|@openGemini|ISO|Kernel|
 
 
 # 需求/特性反馈基本流程 <br />
