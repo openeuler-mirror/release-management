@@ -14063,14 +14063,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-02"
-    - name: mozjs102
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-06"
-    - name: uhttpmock
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-06"
     - name: openGemini
       obs_from: ""
       obs_to: openEuler:Factory
