@@ -275,3 +275,8 @@ release-change:
     everything
   changed_packages: OpenCSD
   date: 2023-02-01-14-56-13
+- pr: https://gitee.com/openeuler/release-management/pulls/871
+  description: 769efbc !871 move ceph-deploy from master:factory to master:Mainline
+    and 2203-lts-next
+  changed_packages: ceph-deploy
+  date: 2023-02-13-09-58-44
