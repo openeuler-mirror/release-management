@@ -34,7 +34,7 @@ openEuler 23.03 是基于6.1内核的创新版本（参见[版本生命周期](h
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
 |1|[【openEuler 23.03】新增高性能服务网格数据面Kmesh](https://gitee.com/openeuler/release-management/issues/I65S7M?from=project-issue)|Testing|sig-high-performance-network|@MrRlu|extras|kmesh|
-|2|[【openEuler 23.03】新增内核配置项错误值检查工具kconfigDetector](https://gitee.com/openeuler/release-management/issues/I69YOZ?from=project-issue)|Testing|sig-kernel|@sunying2022|extras|kconfigDetector|
+|2|[【openEuler 23.03】新增内核配置项错误值检查工具kconfigDetector](https://gitee.com/openeuler/release-management/issues/I69YOZ?from=project-issue)|Testing|sig-kernel|@sunying2022|EPOL|kconfigDetector|
 |3|[【openEuler 23.03】支持树莓派](https://gitee.com/openeuler/release-management/issues/I6AACH)|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
 |4|[【openEuler 23.03】iSulad新增native network特性](https://gitee.com/openeuler/release-management/issues/I6AD13)|Testing|sig-CloudNative|[@zh_xiaoyu](https://gitee.com/zh_xiaoyu)|oepkgs|iSulad|
 |5|[【openEuler 23.03】 虚拟机热迁移](https://e.gitee.com/open_euler/issues/table?issue=I6CFK4)|Testing|virt SIG|@yezengruan)|oepkgs||
