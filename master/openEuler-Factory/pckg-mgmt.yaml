@@ -14095,3 +14095,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-13"
+    - name: perl-Curses
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-13"
