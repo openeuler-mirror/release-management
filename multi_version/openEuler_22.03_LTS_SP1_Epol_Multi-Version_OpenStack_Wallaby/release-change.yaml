@@ -3,3 +3,7 @@ release-change:
   description: 7dc3f3f !754 Update OpenStack package
   changed_packages: gnocchi openstack-placement python-FormEncode python-actdiag
   date: 2022-11-29-10-12-42
+- pr: https://gitee.com/openeuler/release-management/pulls/811
+  description: e3e2186 !811 Add ovn to 22.03-SP1 OpenStack project
+  changed_packages: ovn
+  date: 2023-02-14-18-48-35

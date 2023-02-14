@@ -10,3 +10,7 @@ release-change:
   description: bff8526 !789 为itsdangerous创建22.03 OpenStack Train分支
   changed_packages: python-itsdangerous
   date: 2022-12-12-11-43-23
+- pr: https://gitee.com/openeuler/release-management/pulls/811
+  description: e3e2186 !811 Add ovn to 22.03-SP1 OpenStack project
+  changed_packages: ovn python-networking-ovn
+  date: 2023-02-14-18-48-35
