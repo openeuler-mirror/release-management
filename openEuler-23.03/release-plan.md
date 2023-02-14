@@ -36,7 +36,7 @@ openEuler 23.03 是基于6.1内核的创新版本（参见[版本生命周期](h
 |1|[【openEuler 23.03】新增高性能服务网格数据面Kmesh](https://gitee.com/openeuler/release-management/issues/I65S7M?from=project-issue)|Testing|sig-high-performance-network|@MrRlu|extras|kmesh|
 |2|[【openEuler 23.03】新增内核配置项错误值检查工具kconfigDetector](https://gitee.com/openeuler/release-management/issues/I69YOZ?from=project-issue)|Testing|sig-kernel|@sunying2022|EPOL|kconfigDetector|
 |3|[【openEuler 23.03】支持树莓派](https://gitee.com/openeuler/release-management/issues/I6AACH)|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
-|4|[【openEuler 23.03】iSulad新增native network特性](https://gitee.com/openeuler/release-management/issues/I6AD13)|Testing|sig-CloudNative|[@zh_xiaoyu](https://gitee.com/zh_xiaoyu)|oepkgs|iSulad|
+|4|[【openEuler 23.03】iSulad支持无盘化场景](https://gitee.com/openeuler/release-management/issues/I6E2SI)|Testing|sig-CloudNative|[@driedyellowpeach](https://gitee.com/driedyellowpeach)|oepkgs|iSulad|
 |5|[【openEuler 23.03】 虚拟机热迁移](https://e.gitee.com/open_euler/issues/table?issue=I6CFK4)|Testing|virt SIG|@yezengruan)|oepkgs||
 |6|[【openEuler 23.03】DPU虚机热迁移：内核态vDPA支持，异构网卡直通](https://e.gitee.com/open_euler/issues/table?issue=I6CFNF)|Discussion|virt SIG|@yezengruan|oepkgs||
 |7|[【openEuler 23.03】直连聚合虚机管理无感卸载](https://e.gitee.com/open_euler/issues/table?issue=I6CFPV)|Discussion|sig-DPU|@Apricity|oepkgs|DPU|
