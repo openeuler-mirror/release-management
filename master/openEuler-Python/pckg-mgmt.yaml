@@ -1667,3 +1667,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2022-10-25'  
+- name: python-precis_i18n
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-02-13'  
