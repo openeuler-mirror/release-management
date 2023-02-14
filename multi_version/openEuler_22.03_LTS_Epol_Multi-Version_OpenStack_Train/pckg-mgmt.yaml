@@ -857,12 +857,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
   obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
-- name: python-tempest-lib
-  source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS
-  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
 - name: python-iso8601
   source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS
@@ -1002,12 +996,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-zaqarclient
-  source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS
-  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-feedparser
   source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
@@ -1788,12 +1776,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Train
   date: '2022-08-30'
 - name: python-redis
-  source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS
-  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
-  obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Train
-  date: '2022-08-30'
-- name: python-pyxcli
   source_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Train_openEuler-22.03-LTS
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Train
