@@ -14263,3 +14263,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-14"
+    - name: ros2_python_qt_binding
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-14"
