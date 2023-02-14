@@ -453,3 +453,7 @@ release-change:
   description: a935a97 !874 Move package from Factory to Mainline.
   changed_packages: mozjs102 uhttpmock
   date: 2023-02-13-14-22-36
+- pr: https://gitee.com/openeuler/release-management/pulls/879
+  description: b6e9e5d !879 申请将python-precis_i18n从obs的Epol工程移动到Python工程
+  changed_packages: python-precis_i18n
+  date: 2023-02-14-10-04-17
