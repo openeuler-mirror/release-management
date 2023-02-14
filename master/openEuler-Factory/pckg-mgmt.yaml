@@ -14187,3 +14187,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-14"
+    - name: ros2_ros_environment
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-14"
