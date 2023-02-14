@@ -14099,3 +14099,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-13"
+    - name: ros2_image_pipeline
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-14"
