@@ -15,3 +15,7 @@ release-change:
   description: 2cd07e6 !776 为OpenStack Train新增软件itsdangerous
   changed_packages: python-itsdangerous
   date: 2022-12-08-22-48-37
+- pr: https://gitee.com/openeuler/release-management/pulls/860
+  description: b521869 !860 删除OpenStack无效项目
+  changed_packages: python-tempest-lib python-feedparser python-pyxcli
+  date: 2023-02-14-18-49-19

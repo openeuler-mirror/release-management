@@ -7,3 +7,7 @@ release-change:
   description: e3e2186 !811 Add ovn to 22.03-SP1 OpenStack project
   changed_packages: ovn
   date: 2023-02-14-18-48-35
+- pr: https://gitee.com/openeuler/release-management/pulls/860
+  description: b521869 !860 删除OpenStack无效项目
+  changed_packages: python-tempest-lib python-feedparser python-pyxcli
+  date: 2023-02-14-18-49-19
