@@ -284,3 +284,7 @@ release-change:
   description: 4e583ad !872 将clang/llvm/lld-15从Facroty移动到mainline，申请2203-Next分支
   changed_packages: clang-15 llvm-15 lld-15
   date: 2023-02-13-11-48-15
+- pr: https://gitee.com/openeuler/release-management/pulls/813
+  description: c5f5dad !813 申请将opensd加入到22.03-SP1的obs工程中
+  changed_packages: opensd
+  date: 2023-02-15-15-20-42

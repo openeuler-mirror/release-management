@@ -457,3 +457,7 @@ release-change:
   description: b6e9e5d !879 申请将python-precis_i18n从obs的Epol工程移动到Python工程
   changed_packages: python-precis_i18n
   date: 2023-02-14-10-04-17
+- pr: https://gitee.com/openeuler/release-management/pulls/813
+  description: c5f5dad !813 申请将opensd加入到22.03-SP1的obs工程中
+  changed_packages: opensd
+  date: 2023-02-15-15-20-42
