@@ -1,3 +1,12 @@
 packages:
 - name: drbd
 - name: kmod-drbd90
+- name: iSulad-img
+- name: authz
+- name: isula-transform
+- name: appstream-data
+- name: libdap
+- name: python-unicodecsv
+- name: python-multi_key_dict
+- name: python-django-babel
+- name: python-CouchDB
