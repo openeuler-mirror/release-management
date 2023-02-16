@@ -5140,3 +5140,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-02-13"
+- name: lilv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-15"
+- name: appstream
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: "2023-02-15"

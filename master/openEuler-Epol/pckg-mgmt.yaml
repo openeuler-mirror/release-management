@@ -4107,10 +4107,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: appstream
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: zincati
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
