@@ -1983,10 +1983,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: lv2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: lxappearance
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10487,10 +10483,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-sphinx_lv2_theme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-sphinxcontrib-bibtex
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11727,10 +11719,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: serd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: sezpoz
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11799,10 +11787,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: sord
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: sos-collector
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11860,10 +11844,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: springframework-retry
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: sratom
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
