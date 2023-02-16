@@ -36,7 +36,7 @@ openEuler 23.03 是基于6.1内核的创新版本（参见[版本生命周期](h
 |1|[【openEuler 23.03】新增高性能服务网格数据面Kmesh](https://gitee.com/openeuler/release-management/issues/I65S7M?from=project-issue)|Testing|sig-high-performance-network|@MrRlu|extras|kmesh|
 |2|[【openEuler 23.03】新增内核配置项错误值检查工具kconfigDetector](https://gitee.com/openeuler/release-management/issues/I69YOZ?from=project-issue)|Testing|sig-kernel|@sunying2022|EPOL|kconfigDetector|
 |3|[【openEuler 23.03】支持树莓派](https://gitee.com/openeuler/release-management/issues/I6AACH)|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
-|4|[【openEuler 23.03】iSulad支持无盘化场景](https://gitee.com/openeuler/release-management/issues/I6E2SI)|Testing|sig-CloudNative|[@driedyellowpeach](https://gitee.com/driedyellowpeach)|oepkgs|iSulad|
+|4|[【openEuler 23.03】iSulad支持镜像RO数据管理目录拆分](https://gitee.com/openeuler/release-management/issues/I6E2SI)|Testing|sig-CloudNative|[@driedyellowpeach](https://gitee.com/driedyellowpeach)|oepkgs|iSulad|
 |5|[【openEuler 23.03】GCC编译器插件框架支持LTO复杂优化，实现插件IR覆盖Gimple 80%的功能](https://e.gitee.com/open_euler/issues/table?issue=I6CK4F)|Discussion|Compiler|@wangding|oepkgs|GCC|
 |6|[【openEuler 23.03】openEuler 23.03 创新版本选择 6.1 内核](https://gitee.com/openeuler/kernel/issues/I6834I)|Testing|Kernel |@zhengzengkai|oepkgs|Kernel|
 |7|[【openEuler 23.03】支持embedded版本](https://gitee.com/openeuler/release-management/issues/I6DS1J?from=project-issue)|Discussion|sig-embedded|@fanglinxu|独立发布|Embedded|
