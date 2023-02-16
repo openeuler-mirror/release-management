@@ -461,3 +461,7 @@ release-change:
   description: c5f5dad !813 申请将opensd加入到22.03-SP1的obs工程中
   changed_packages: opensd
   date: 2023-02-15-15-20-42
+- pr: https://gitee.com/openeuler/release-management/pulls/882
+  description: 6d97a42 !882 Move appstream and lilv to Mainline.
+  changed_packages: lilv appstream
+  date: 2023-02-16-14-25-45
