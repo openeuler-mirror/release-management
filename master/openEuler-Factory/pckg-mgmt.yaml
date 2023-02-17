@@ -14271,3 +14271,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-17"
+    - name: webkit2gtk4
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-17"
