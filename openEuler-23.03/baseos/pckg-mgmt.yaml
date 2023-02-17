@@ -1,10 +1,4 @@
 packages:
-- name: iSulad-img
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
 - name: kata-containers
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2430,12 +2424,6 @@ packages:
   obs_to: openEuler:23.03
   date: '2023-02-10'
 - name: filesystem
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
-- name: authz
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Mainline

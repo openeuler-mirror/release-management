@@ -3,3 +3,8 @@ release-change:
   description: 6dacae0 !878 Remove drbd kmod-drbd90 from openEuler-23.03
   changed_packages: drbd kmod-drbd90
   date: 2023-02-14-10-03-30
+- pr: https://gitee.com/openeuler/release-management/pulls/883
+  description: 6b53651 !883 remove sig-recycle pkgs from project 23.03
+  changed_packages: python-django-babel python-multi_key_dict python-unicodecsv python-CouchDB
+    appstream-data authz libdap isula-transform iSulad-img
+  date: 2023-02-17-11-01-36
