@@ -5148,3 +5148,23 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: "2023-02-15"
+- name: sord
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-16"
+- name: serd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-16"
+- name: sratom
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-16"
+- name: lv2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-16"
+- name: python-sphinx_lv2_theme
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-16"
