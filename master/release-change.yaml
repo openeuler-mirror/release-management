@@ -465,3 +465,7 @@ release-change:
   description: 6d97a42 !882 Move appstream and lilv to Mainline.
   changed_packages: lilv appstream
   date: 2023-02-16-14-25-45
+- pr: https://gitee.com/openeuler/release-management/pulls/885
+  description: 64423b7 !885 Move package lilv build requires to Mainline.
+  changed_packages: sord serd sratom lv2 python-sphinx_lv2_theme
+  date: 2023-02-17-09-58-40
