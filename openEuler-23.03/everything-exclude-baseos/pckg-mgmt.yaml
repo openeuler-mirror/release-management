@@ -18329,3 +18329,9 @@ packages:
   obs_from: openEuler:Ruby
   obs_to: openEuler:23.03
   date: '2023-02-10'
+- name: appstream
+  source_dir: master
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.03:Epol
+  date: '2023-02-20'
