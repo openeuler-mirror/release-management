@@ -10,3 +10,6 @@ packages:
 - name: python-multi_key_dict
 - name: python-django-babel
 - name: python-CouchDB
+- name: gcc-12
+- name: malcontent
+- name: openstack-releases
