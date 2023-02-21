@@ -18312,8 +18312,8 @@ packages:
   obs_to: openEuler:23.03
   date: '2023-02-10'
 - name: appstream
-  source_dir: master
+  source_dir: openEuler-23.03
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: '2023-02-20'
+  date: '2023-02-21'
