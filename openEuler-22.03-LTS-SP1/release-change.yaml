@@ -129,3 +129,7 @@ release-change:
   changed_packages: ovirt-engine-ui-extensions ovirt-engine pki-core mate-applets
     ovirt-engine-dwh
   date: 2022-12-26-16-07-49
+- pr: https://gitee.com/openeuler/release-management/pulls/891
+  description: e04357b !891 Add llvm/clang/lld15 into openEuler-22.03-LTS-SP1
+  changed_packages: llvm-15 clang-15 lld-15
+  date: 2023-02-21-11-08-23
