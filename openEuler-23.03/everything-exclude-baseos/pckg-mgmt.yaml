@@ -1613,12 +1613,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:23.03
   date: '2023-02-10'
-- name: openstack-releases
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
 - name: fpaste
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2592,12 +2586,6 @@ packages:
   obs_to: openEuler:23.03
   date: '2023-02-10'
 - name: hunspell-ku
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
-- name: malcontent
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Mainline
@@ -5139,12 +5127,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Mainline
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
-- name: gcc-12
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:BaseTools
   obs_to: openEuler:23.03
   date: '2023-02-10'
 - name: obs-env

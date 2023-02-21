@@ -17,3 +17,7 @@ release-change:
     it to openEuler-23.03
   changed_packages: ceph-iscsi ceph-ansible ceph-csi ceph-deploy
   date: 2023-02-21-11-15-25
+- pr: https://gitee.com/openeuler/release-management/pulls/889
+  description: f1551c3 !889 【轻量级 PR】：remove empty  repo pkgs from 23.03
+  changed_packages: openstack-releases gcc-12 malcontent
+  date: 2023-02-21-11-16-26
