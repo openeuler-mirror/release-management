@@ -12,3 +12,8 @@ release-change:
   description: 724b5df !890 Add 23.03 branch for some respository.
   changed_packages: mozjs102 uhttpmock lilv lv2 serd sord sratom python-sphinx_lv2_theme
   date: 2023-02-20-11-06-24
+- pr: https://gitee.com/openeuler/release-management/pulls/887
+  description: f6186ca !887 Move the ceph related package to the repo and publish
+    it to openEuler-23.03
+  changed_packages: ceph-iscsi ceph-ansible ceph-csi ceph-deploy
+  date: 2023-02-21-11-15-25

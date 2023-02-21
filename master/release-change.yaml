@@ -469,3 +469,8 @@ release-change:
   description: 64423b7 !885 Move package lilv build requires to Mainline.
   changed_packages: sord serd sratom lv2 python-sphinx_lv2_theme
   date: 2023-02-17-09-58-40
+- pr: https://gitee.com/openeuler/release-management/pulls/887
+  description: f6186ca !887 Move the ceph related package to the repo and publish
+    it to openEuler-23.03
+  changed_packages: ceph-iscsi ceph-ansible ceph-csi ceph-deploy
+  date: 2023-02-21-11-15-25
