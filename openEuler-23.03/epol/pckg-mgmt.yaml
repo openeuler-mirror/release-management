@@ -7373,3 +7373,27 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
+- name: ceph-iscsi
+  source_dir: master
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.03:Epol
+  date: "2023-02-21"
+- name: ceph-ansible
+  source_dir: master
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.03:Epol
+  date: "2023-02-21"
+- name: ceph-csi
+  source_dir: master
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.03:Epol
+  date: "2023-02-21"
+- name: ceph-deploy
+  source_dir: master
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.03:Epol
+  date: "2023-02-21"

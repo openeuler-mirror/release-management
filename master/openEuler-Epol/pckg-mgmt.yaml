@@ -4931,3 +4931,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-02-15'
+- name: ceph-iscsi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-02-21"
+- name: ceph-ansible
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-02-21"
+- name: ceph-csi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-02-21"
+- name: ceph-deploy
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-02-21"
