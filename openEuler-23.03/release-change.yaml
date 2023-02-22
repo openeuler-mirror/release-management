@@ -21,3 +21,7 @@ release-change:
   description: f1551c3 !889 【轻量级 PR】：remove empty  repo pkgs from 23.03
   changed_packages: openstack-releases gcc-12 malcontent
   date: 2023-02-21-11-16-26
+- pr: https://gitee.com/openeuler/release-management/pulls/895
+  description: 4fe8634 !895 Fix error field.
+  changed_packages: appstream
+  date: 2023-02-22-15-47-30
