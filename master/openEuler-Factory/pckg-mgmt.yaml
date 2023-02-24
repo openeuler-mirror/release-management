@@ -14271,3 +14271,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-21"
+    - name: squashfuse
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-24"
