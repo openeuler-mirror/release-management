@@ -5128,6 +5128,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-02-13"
+- name: llvm-bolt-15
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-02-28"
 - name: mozjs102
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
