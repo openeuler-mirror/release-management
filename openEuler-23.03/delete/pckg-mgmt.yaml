@@ -13,3 +13,4 @@ packages:
 - name: gcc-12
 - name: malcontent
 - name: openstack-releases
+- name: mysql5
