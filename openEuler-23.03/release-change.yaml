@@ -25,3 +25,7 @@ release-change:
   description: 4fe8634 !895 Fix error field.
   changed_packages: appstream
   date: 2023-02-22-15-47-30
+- pr: https://gitee.com/openeuler/release-management/pulls/898
+  description: 6d63a73 !898 Add llvm-15/clang-15/lld-15/llvm-bolt-15 into openEuler-23.03
+  changed_packages: lld-15 llvm-bolt-15 clang-15 llvm-15
+  date: 2023-02-28-14-33-49
