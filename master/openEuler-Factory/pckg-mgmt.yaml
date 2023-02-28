@@ -14039,10 +14039,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
-    - name: llvm-bolt-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-09"
     - name: mlir-15
       obs_from: ""
       obs_to: openEuler:Factory
