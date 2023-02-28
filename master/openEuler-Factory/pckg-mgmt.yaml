@@ -14279,3 +14279,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-25"
+    - name: python-drgn
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-02-28"
