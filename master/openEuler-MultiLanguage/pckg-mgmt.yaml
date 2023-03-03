@@ -431,3 +431,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
+- name: gcr4
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: '2023-03-02'
