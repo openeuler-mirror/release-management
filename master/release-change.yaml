@@ -482,3 +482,7 @@ release-change:
   description: 9906992 !903 Move gcr4 from Factory to MultiLanguage
   changed_packages: gcr4
   date: 2023-03-03-08-54-45
+- pr: https://gitee.com/openeuler/release-management/pulls/904
+  description: ba245bb !904 add Kmesh in openEuler-23.03
+  changed_packages: Kmesh
+  date: 2023-03-03-10-21-37
