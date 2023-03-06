@@ -4955,3 +4955,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-03-06"
+- name: webp-pixbuf-loader
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-06"
