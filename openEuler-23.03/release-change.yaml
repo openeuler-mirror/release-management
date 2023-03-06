@@ -37,3 +37,7 @@ release-change:
   description: 4c37d32 !907 Copy gcr4 to obs openEuler-23.03 project.
   changed_packages: gcr4
   date: 2023-03-03-18-35-48
+- pr: https://gitee.com/openeuler/release-management/pulls/908
+  description: 0273c9b !908 add kconfigDetector in openEuler-23.03
+  changed_packages: kconfigDetector
+  date: 2023-03-06-11-15-31
