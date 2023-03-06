@@ -41,3 +41,7 @@ release-change:
   description: 0273c9b !908 add kconfigDetector in openEuler-23.03
   changed_packages: kconfigDetector
   date: 2023-03-06-11-15-31
+- pr: https://gitee.com/openeuler/release-management/pulls/910
+  description: 0a67dd9 !910 Copy webp-pixbuf-loader to openEuler:23.03:Epol from openEuler:Epol
+  changed_packages: webp-pixbuf-loader
+  date: 2023-03-06-17-44-40
