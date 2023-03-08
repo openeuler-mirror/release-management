@@ -14,3 +14,4 @@ packages:
 - name: malcontent
 - name: openstack-releases
 - name: mysql5
+- name: setuptool
