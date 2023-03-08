@@ -494,3 +494,7 @@ release-change:
   description: fe06ac4 !909 Move webp-pixbuf-loader to openEuler:Epol from openEuler:Factory
   changed_packages: webp-pixbuf-loader
   date: 2023-03-06-15-04-18
+- pr: https://gitee.com/openeuler/release-management/pulls/912
+  description: 1c18462 !912 add openGemini in openEuler-23.03
+  changed_packages: openGemini
+  date: 2023-03-08-15-18-20

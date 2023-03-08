@@ -49,3 +49,7 @@ release-change:
   description: dd2b179 !896 【轻量级 PR】：remove mysql5 from 23.03
   changed_packages: mysql5 malcontent
   date: 2023-03-07-11-47-13
+- pr: https://gitee.com/openeuler/release-management/pulls/912
+  description: 1c18462 !912 add openGemini in openEuler-23.03
+  changed_packages: openGemini
+  date: 2023-03-08-15-18-20
