@@ -2003,12 +2003,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: setuptool
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: perl-XML-Dumper
   source_dir: master
   destination_dir: openEuler-23.03
@@ -7378,43 +7372,43 @@ packages:
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-02-21"
+  date: '2023-02-21'
 - name: ceph-ansible
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-02-21"
+  date: '2023-02-21'
 - name: ceph-csi
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-02-21"
+  date: '2023-02-21'
 - name: ceph-deploy
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-02-21"
+  date: '2023-02-21'
 - name: llvm-bolt-15
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Mainline
   obs_to: openEuler:23.03:Epol
-  date: "2023-02-28"
+  date: '2023-02-28'
 - name: Kmesh
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-03-02"
+  date: '2023-03-02'
 - name: kconfigDetector
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-03-06"
+  date: '2023-03-06'
 - name: webp-pixbuf-loader
   source_dir: master
   destination_dir: openEuler-23.03
@@ -7426,4 +7420,4 @@ packages:
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
-  date: "2023-03-08"
+  date: '2023-03-08'
