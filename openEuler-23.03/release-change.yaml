@@ -57,3 +57,8 @@ release-change:
   description: d30dc0a !913 Move lld-15 form epol repo to everything
   changed_packages: lld-15
   date: 2023-03-08-16-44-13
+- pr: https://gitee.com/openeuler/release-management/pulls/915
+  description: c5ed3e1 !915 delete nvwa from openEuler-23.03 because of unsupported
+    6.1.x kernel
+  changed_packages: nvwa
+  date: 2023-03-09-16-11-51
