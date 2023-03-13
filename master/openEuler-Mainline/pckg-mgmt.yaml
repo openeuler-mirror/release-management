@@ -5164,6 +5164,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-02-16"
+- name: zfs
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Mainline
+  date: "2023-03-13"
 - name: python-sphinx_lv2_theme
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
