@@ -37,13 +37,13 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |胡峰 | [@solarhu](https://gitee.com/solarhu)| solar.hu@huawei.com|
 |黄诚飘|[@paul-huang](https://gitee.com/paul-huang)|huangchengpiao@huawei.com|
 |陈亚强  | [@chenyaqiang](https://gitee.com/chenyaqiang)|  chen_yaqiang@foxmail.com|
+|车明道| [@gitee-cmd](https://gitee.com/gitee-cmd) | chemingdao@huawei.com|
 
 **Commiter:**
 |团队| 姓名| GiteeID           | 邮件地址  |
 | :-------------: | :-------------: |:--------:| :-----|
 |华为-openEuler|王博| [@Forestrunner](https://gitee.com/forestrunner)|scaol@foxmail.com|
 |华为-openEuler|明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
-|华为-openEuler|车明道| [@gitee-cmd](https://gitee.com/gitee-cmd) | chemingdao@huawei.com|
 |麒麟|沈永康|	|	|
 |麒麟|刘涛|	|	|
 |超聚变|徐磊|	|	|
