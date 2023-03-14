@@ -62,3 +62,7 @@ release-change:
     6.1.x kernel
   changed_packages: nvwa
   date: 2023-03-09-16-11-51
+- pr: https://gitee.com/openeuler/release-management/pulls/921
+  description: 74b508f !921 remove qla2xxx package from openEuler 23.03
+  changed_packages: qla2xxx
+  date: 2023-03-14-14-45-41
