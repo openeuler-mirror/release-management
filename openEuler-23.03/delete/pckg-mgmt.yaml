@@ -16,3 +16,4 @@ packages:
 - name: mysql5
 - name: setuptool
 - name: nvwa
+- name: qla2xxx
