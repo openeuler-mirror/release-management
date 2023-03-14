@@ -12675,10 +12675,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: eagle
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: R-AsioHeaders
       obs_from: ""
       obs_to: openEuler:Factory

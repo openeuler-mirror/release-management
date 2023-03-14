@@ -5168,3 +5168,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-02-16"
+- name: eagle
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-03-15"
