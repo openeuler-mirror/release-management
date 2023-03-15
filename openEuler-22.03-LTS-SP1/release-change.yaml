@@ -133,3 +133,7 @@ release-change:
   description: e04357b !891 Add llvm/clang/lld15 into openEuler-22.03-LTS-SP1
   changed_packages: llvm-15 clang-15 lld-15
   date: 2023-02-21-11-08-23
+- pr: https://gitee.com/openeuler/release-management/pulls/930
+  description: a62a5de !930 Add libcxx,libcxxabi,libunwind to openEuler 22.03 SP1
+  changed_packages: libcxx libcxxabi llvm-libunwind
+  date: 2023-03-15-20-51-18
