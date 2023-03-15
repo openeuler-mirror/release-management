@@ -101,12 +101,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-api-ref
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: kf5-frameworkintegration
   source_dir: master
   destination_dir: openEuler-23.03
@@ -132,12 +126,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: kf5-syntax-highlighting
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.vmware
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -245,12 +233,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-resource-classes
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-tenacity
   source_dir: master
   destination_dir: openEuler-23.03
@@ -270,12 +252,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: k3s-selinux
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-murano-pkg-check
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -354,12 +330,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: nfdump
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-os-brick
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -467,12 +437,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.rootwrap
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: libXpresent
   source_dir: master
   destination_dir: openEuler-23.03
@@ -515,12 +479,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-trove-tempest-plugin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: xfce4-timer-plugin
   source_dir: master
   destination_dir: openEuler-23.03
@@ -546,12 +504,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: scl-utils
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-neutron-tempest-plugin
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -941,12 +893,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-keystonemiddleware
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: kf5-kwidgetsaddons
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1103,18 +1049,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-win
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-os-traits
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: dsoftbus
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1122,12 +1056,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: ovirt-ansible-collection
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-castellan
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -1163,19 +1091,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-ken
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: dconf-editor
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-taskflow
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -1229,12 +1145,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-osc-lib
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: ros_comm
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1283,12 +1193,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.sphinx
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: xfce4-netload-plugin
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1302,12 +1206,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: deepin-font-manager
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-os-vif
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -1469,12 +1367,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-cinder-tempest-plugin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-kazoo
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1554,12 +1446,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-rtslib-fb
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.metrics
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -1841,12 +1727,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.context
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: ranger
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2009,12 +1889,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-rbd-iscsi-client
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: rubygem-http_parser
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2022,12 +1896,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: robodoc
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-osprofiler
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2219,12 +2087,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-xenapi
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: qt5-qtspeech
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2291,12 +2153,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.service
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-smmap
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2321,12 +2177,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.db
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-watchdog
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2345,12 +2195,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-pycadf
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-libyang
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2364,18 +2208,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: mate-power-manager
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-ironic-prometheus-exporter
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-ironic-tempest-plugin
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2430,12 +2262,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-outcome
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.reports
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2502,12 +2328,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: xfce4-panel-profiles
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.limit
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2711,12 +2531,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: openstack-macros
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-retryz
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2724,12 +2538,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: liberasurecode
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-openstackdocstheme
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2849,12 +2657,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.policy
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-XStatic-JQuery-Migrate
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2892,12 +2694,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: gnome-text-editor
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.privsep
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -3083,18 +2879,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-ironic-lib
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.versionedobjects
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: collectd
   source_dir: master
   destination_dir: openEuler-23.03
@@ -3114,12 +2898,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-rjsmin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-cotyledon
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -3191,12 +2969,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-storpool.spopenstack
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: deepin-graphics-driver-manager
   source_dir: master
   destination_dir: openEuler-23.03
@@ -3234,18 +3006,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: perl-XML-LibXML-PrettyPrint
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.upgradecheck
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.utils
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -3366,12 +3126,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: xfce4-systemload-plugin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-glance-tempest-plugin
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -3570,12 +3324,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: xfce4-wavelan-plugin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-ironic-ui
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -3947,12 +3695,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-service-types
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-kombu
   source_dir: master
   destination_dir: openEuler-23.03
@@ -4043,12 +3785,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.middleware
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: kf5-kauth
   source_dir: master
   destination_dir: openEuler-23.03
@@ -4086,12 +3822,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: avro
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.i18n
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -4253,12 +3983,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-glance-store
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: ovirt-engine-dwh
   source_dir: master
   destination_dir: openEuler-23.03
@@ -4308,12 +4032,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-should_dsl
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.cache
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -4464,12 +4182,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: lightdm-gtk
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-keystoneauth1
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -4662,12 +4374,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: indicator-china-weather
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.concurrency
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -5081,19 +4787,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.serialization
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: deepin-system-monitor
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-tooz
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -5231,12 +4925,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-openstacksdk
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: ristretto
   source_dir: master
   destination_dir: openEuler-23.03
@@ -5346,12 +5034,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: dibbler
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-proliantutils
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -5489,12 +5171,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-os-testr
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-testrepository
   source_dir: master
   destination_dir: openEuler-23.03
@@ -5615,12 +5291,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.log
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-ifaddr
   source_dir: master
   destination_dir: openEuler-23.03
@@ -5712,24 +5382,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: dde-kwin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-pypowervm
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-osc-placement
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-oslo.config
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -6413,12 +6065,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-oslo.messaging
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: thunar-vcs-plugin
   source_dir: master
   destination_dir: openEuler-23.03
@@ -6708,12 +6354,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: time-shutdown
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-keystone-tempest-plugin
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
