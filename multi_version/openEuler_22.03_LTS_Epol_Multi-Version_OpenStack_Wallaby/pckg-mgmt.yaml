@@ -1919,3 +1919,9 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
   date: '2022-08-30'
+- name: python-chardet
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS
+  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:22.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2023-03-15'
