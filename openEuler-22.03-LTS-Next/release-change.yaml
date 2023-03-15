@@ -288,3 +288,7 @@ release-change:
   description: c5f5dad !813 申请将opensd加入到22.03-SP1的obs工程中
   changed_packages: opensd
   date: 2023-02-15-15-20-42
+- pr: https://gitee.com/openeuler/release-management/pulls/926
+  description: fd0a60e !926 Add libcxx,libcxxabi,libunwind to openEuler 22.03
+  changed_packages: libcxx libcxxabi llvm-libunwind
+  date: 2023-03-15-17-42-08
