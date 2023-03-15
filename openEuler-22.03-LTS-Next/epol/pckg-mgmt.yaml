@@ -5069,3 +5069,21 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-02-15'
+- name: libcxx
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-03-15'
+- name: libcxxabi
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-03-15'
+- name: llvm-libunwind
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-03-15'
