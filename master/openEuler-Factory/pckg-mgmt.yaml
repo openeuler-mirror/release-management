@@ -14267,3 +14267,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-08"
+    - name: qt6-qt5compat
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-16"
