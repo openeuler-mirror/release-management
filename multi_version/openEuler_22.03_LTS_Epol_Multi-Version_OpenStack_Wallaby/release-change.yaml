@@ -7,3 +7,7 @@ release-change:
   description: b521869 !860 删除OpenStack无效项目
   changed_packages: python-tempest-lib python-feedparser python-pyxcli
   date: 2023-02-14-18-49-19
+- pr: https://gitee.com/openeuler/release-management/pulls/925
+  description: 7b919f1 !925 22.03 LTS OpenStack Wallaby工程新增chardet
+  changed_packages: python-chardet
+  date: 2023-03-16-11-53-13
