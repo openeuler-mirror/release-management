@@ -156,3 +156,4 @@ packages:
 - name: ceph-ansible
 - name: mindspore
 - name: python-XStatic-Patternfly-Bootstrap-Treeview
+- name: obs-server
