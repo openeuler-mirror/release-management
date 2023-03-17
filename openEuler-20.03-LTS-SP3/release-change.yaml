@@ -32,3 +32,7 @@ release-change:
   description: c784fb9 !877 申请将beakerlib从obs的20.03-SP3的Epol工程移动到20.03-SP3主工程
   changed_packages: beakerlib
   date: 2023-02-13-19-05-37
+- pr: https://gitee.com/openeuler/release-management/pulls/923
+  description: d1fa854 !923 Add eagle to 20.03LTS-SP3
+  changed_packages: eagle
+  date: 2023-03-17-16-43-11
