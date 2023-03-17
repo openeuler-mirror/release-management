@@ -71,3 +71,7 @@ release-change:
   changed_packages: python-suds-community python-discover python-zVMCloudConnector
     ovn ansible-lint networking-baremetal python-rtslib-fb
   date: 2023-03-17-10-47-45
+- pr: https://gitee.com/openeuler/release-management/pulls/935
+  description: a7f27af !935 【轻量级 PR】：add python-multi_key_dict to 2303:epol
+  changed_packages: python-multi_key_dict
+  date: 2023-03-17-15-39-58
