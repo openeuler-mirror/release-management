@@ -1403,12 +1403,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: networking-baremetal
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-etcd3
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1440,12 +1434,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-migrate
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-rtslib-fb
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -1836,12 +1824,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: ovirt-jboss-modules-maven-plugin
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-discover
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2243,12 +2225,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: ansible-lint
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: mate-calc
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2586,12 +2562,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-h11
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-zVMCloudConnector
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -4014,12 +3984,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: gnome-clocks
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: ovn
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -6018,12 +5982,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: ovirt-engine-wildfly
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-suds-community
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol

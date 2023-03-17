@@ -66,3 +66,8 @@ release-change:
   description: 74b508f !921 remove qla2xxx package from openEuler 23.03
   changed_packages: qla2xxx
   date: 2023-03-14-14-45-41
+- pr: https://gitee.com/openeuler/release-management/pulls/932
+  description: da0b1be !932 23.03中移除openstack相关仓库
+  changed_packages: python-suds-community python-discover python-zVMCloudConnector
+    ovn ansible-lint networking-baremetal python-rtslib-fb
+  date: 2023-03-17-10-47-45
