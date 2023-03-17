@@ -18323,3 +18323,9 @@ packages:
   obs_from: openEuler:23.03:Epol
   obs_to: openEuler:23.03
   date: '2023-03-08'
+- name: python-precis_i18n
+  source_dir: openEuler-23.03
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:23.03:Epol
+  obs_to: openEuler:23.03
+  date: '2023-03-16'

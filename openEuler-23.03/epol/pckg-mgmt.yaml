@@ -4649,12 +4649,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-precis_i18n
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: xfce4-cpufreq-plugin
   source_dir: master
   destination_dir: openEuler-23.03
