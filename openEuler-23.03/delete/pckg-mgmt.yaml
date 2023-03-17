@@ -146,3 +146,10 @@ packages:
 - name: python-murano-pkg-check
 - name: python-tooz
 - name: python-taskflow
+- name: python-discover
+- name: ansible-lint
+- name: python-zVMCloudConnector
+- name: ovn
+- name: python-suds-community
+- name: python-rtslib-fb
+- name: networking-baremetal
