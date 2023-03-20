@@ -79,3 +79,8 @@ release-change:
   description: 5d7242e !931 Move python-precis_i18n from epol to everything
   changed_packages: python-precis_i18n
   date: 2023-03-17-16-18-55
+- pr: https://gitee.com/openeuler/release-management/pulls/938
+  description: '963a27e !938 Build requires: yocto-opkg-utils build need python3-pydot,
+    move python3-pydot from Epol to Mainline.'
+  changed_packages: python-pydot
+  date: 2023-03-20-11-23-21
