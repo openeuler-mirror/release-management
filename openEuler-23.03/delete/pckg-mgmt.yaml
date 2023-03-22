@@ -152,3 +152,7 @@ packages:
 - name: python-suds-community
 - name: python-rtslib-fb
 - name: networking-baremetal
+- name: ceph-csi
+- name: ceph-ansible
+- name: mindspore
+- name: python-XStatic-Patternfly-Bootstrap-Treeview
