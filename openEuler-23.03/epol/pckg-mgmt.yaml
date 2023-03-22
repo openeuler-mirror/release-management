@@ -4553,12 +4553,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-XStatic-Patternfly-Bootstrap-Treeview
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-XStatic-Angular-Schema-Form
   source_dir: master
   destination_dir: openEuler-23.03
@@ -6491,12 +6485,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: mindspore
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-oslotest
   source_dir: master
   destination_dir: openEuler-23.03
@@ -6534,18 +6522,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: ceph-iscsi
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-21'
-- name: ceph-ansible
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-21'
-- name: ceph-csi
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
