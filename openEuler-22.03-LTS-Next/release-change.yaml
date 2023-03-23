@@ -292,3 +292,7 @@ release-change:
   description: fd0a60e !926 Add libcxx,libcxxabi,libunwind to openEuler 22.03
   changed_packages: libcxx libcxxabi llvm-libunwind
   date: 2023-03-15-17-42-08
+- pr: https://gitee.com/openeuler/release-management/pulls/946
+  description: 4b08b83 !946 Add openEuler-22.03-LTS-Next branch for lldpd
+  changed_packages: lldpd
+  date: 2023-03-23-17-11-41
