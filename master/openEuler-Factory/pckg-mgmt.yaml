@@ -14483,3 +14483,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-23"
+    - name: ros2_perception_pcl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-23"
