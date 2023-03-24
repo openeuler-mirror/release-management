@@ -516,3 +516,7 @@ release-change:
     move python3-pydot from Epol to Mainline.'
   changed_packages: python-pydot
   date: 2023-03-20-11-23-21
+- pr: https://gitee.com/openeuler/release-management/pulls/947
+  description: 66197a3 !947 Add python-css-parser to openEuler:Epol and openEuler:23.03:Epol
+  changed_packages: python-css-parser
+  date: 2023-03-24-14-58-29
