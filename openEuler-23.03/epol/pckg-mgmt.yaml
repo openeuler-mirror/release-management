@@ -6569,3 +6569,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-03-17'
+- name: python-css-parser
+  source_dir: master
+  destination_dir: openEuler-23.03
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.03:Epol
+  date: '2023-03-24'
