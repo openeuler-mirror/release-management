@@ -524,3 +524,7 @@ release-change:
   description: f554a80 !919 Move zfs to Mainline from Factory
   changed_packages: zfs
   date: 2023-03-25-10-29-01
+- pr: https://gitee.com/openeuler/release-management/pulls/944
+  description: cf4ec20 !944 move python-pyspnego from openeuler:epol to openeuler:python
+  changed_packages: python-pyspnego
+  date: 2023-03-25-10-30-38
