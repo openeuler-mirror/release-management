@@ -3915,10 +3915,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-pyspnego
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: kiran-cc-daemon
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
