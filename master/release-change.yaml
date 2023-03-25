@@ -520,3 +520,7 @@ release-change:
   description: 66197a3 !947 Add python-css-parser to openEuler:Epol and openEuler:23.03:Epol
   changed_packages: python-css-parser
   date: 2023-03-24-14-58-29
+- pr: https://gitee.com/openeuler/release-management/pulls/919
+  description: f554a80 !919 Move zfs to Mainline from Factory
+  changed_packages: zfs
+  date: 2023-03-25-10-29-01
