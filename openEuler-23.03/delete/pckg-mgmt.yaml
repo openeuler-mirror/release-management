@@ -157,3 +157,4 @@ packages:
 - name: mindspore
 - name: python-XStatic-Patternfly-Bootstrap-Treeview
 - name: obs-server
+- name: libkae
