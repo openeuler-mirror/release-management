@@ -1685,12 +1685,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: adobe-source-code-pro-fonts
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: dde-introduction
   source_dir: master
   destination_dir: openEuler-23.03
@@ -4812,12 +4806,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: dde-calendar
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: ukui-search-extensions
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
