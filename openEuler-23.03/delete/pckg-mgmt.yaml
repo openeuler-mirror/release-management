@@ -161,3 +161,7 @@ packages:
 - name: adobe-source-code-pro-fonts
 - name: ukui-search-extensions
 - name: python-cursive
+- name: python-karborclient
+- name: python-netmiko
+- name: python-requirementslib
+- name: python-scciclient
