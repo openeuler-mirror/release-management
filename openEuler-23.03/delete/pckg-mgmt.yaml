@@ -160,3 +160,4 @@ packages:
 - name: libkae
 - name: adobe-source-code-pro-fonts
 - name: ukui-search-extensions
+- name: python-cursive
