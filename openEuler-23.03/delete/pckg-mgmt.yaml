@@ -165,3 +165,4 @@ packages:
 - name: python-netmiko
 - name: python-requirementslib
 - name: python-scciclient
+- name: python-rsdclient
