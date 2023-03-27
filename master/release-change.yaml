@@ -528,3 +528,8 @@ release-change:
   description: cf4ec20 !944 move python-pyspnego from openeuler:epol to openeuler:python
   changed_packages: python-pyspnego
   date: 2023-03-25-10-30-38
+- pr: https://gitee.com/openeuler/release-management/pulls/957
+  description: 2f3c5e7 !957 add compat-rest and move gfbgraph libzapojit gnome-online-miners
+    to epol
+  changed_packages: compat-rest gfbgraph libzapojit gnome-online-miners
+  date: 2023-03-27-16-57-26
