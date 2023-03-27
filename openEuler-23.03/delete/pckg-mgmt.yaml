@@ -162,7 +162,5 @@ packages:
 - name: ukui-search-extensions
 - name: python-cursive
 - name: python-karborclient
-- name: python-netmiko
-- name: python-requirementslib
 - name: python-scciclient
 - name: python-rsdclient
