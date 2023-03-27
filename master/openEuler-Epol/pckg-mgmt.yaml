@@ -4971,3 +4971,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-03-24"
+- name: compat-rest
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-27"
+- name: gfbgraph
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: "2023-03-27"
+- name: libzapojit
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: "2023-03-27"
+- name: gnome-online-miners
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: "2023-03-27"

@@ -6107,12 +6107,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:23.03
   date: '2023-02-10'
-- name: libzapojit
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:C
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
 - name: iniparser
   source_dir: master
   destination_dir: openEuler-23.03
@@ -6179,12 +6173,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:23.03
   date: '2023-02-10'
-- name: gfbgraph
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:C
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
 - name: cmocka
   source_dir: master
   destination_dir: openEuler-23.03
@@ -6222,12 +6210,6 @@ packages:
   obs_to: openEuler:23.03
   date: '2023-02-10'
 - name: lynx
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:C
-  obs_to: openEuler:23.03
-  date: '2023-02-10'
-- name: gnome-online-miners
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:C

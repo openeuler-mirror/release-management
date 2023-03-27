@@ -879,10 +879,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: gfbgraph
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: ghostscript
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -936,10 +932,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: gnome-online-accounts
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-online-miners
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -2280,10 +2272,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: libyubikey
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: libzapojit
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
