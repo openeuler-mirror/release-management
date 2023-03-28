@@ -166,3 +166,7 @@ packages:
 - name: python-rsdclient
 - name: python-netmiko
 - name: python-requirementslib
+- name: python-cassandra-driver
+- name: python-feedparser
+- name: python-sphinx-feature-classification
+- name: python-sushy-oem-idrac
