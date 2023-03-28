@@ -110,3 +110,8 @@ release-change:
     to epol
   changed_packages: compat-rest gfbgraph libzapojit gnome-online-miners
   date: 2023-03-27-16-57-26
+- pr: https://gitee.com/openeuler/release-management/pulls/958
+  description: 6ee5239 !958 add malcontent and remove some packages in openstack sig
+  changed_packages: python-cursive python-netmiko python-karborclient python-requirementslib
+    python-scciclient python-rsdclient
+  date: 2023-03-28-13-24-19

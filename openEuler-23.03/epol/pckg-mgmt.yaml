@@ -131,12 +131,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-cursive
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-fastavro
   source_dir: master
   destination_dir: openEuler-23.03
@@ -1434,12 +1428,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-migrate
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-rsdclient
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -2826,12 +2814,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: ukui-clock
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-scciclient
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -4242,12 +4224,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: python-pycountry
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-requirementslib
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
@@ -5933,12 +5909,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-karborclient
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: python-ansible-runner
   source_dir: master
   destination_dir: openEuler-23.03
@@ -6264,12 +6234,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: sysmaster
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: python-netmiko
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
