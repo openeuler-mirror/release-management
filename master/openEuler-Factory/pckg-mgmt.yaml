@@ -21975,3 +21975,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: perl-Sys-Info-Base
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
