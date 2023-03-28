@@ -17295,3 +17295,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: avro-python3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
