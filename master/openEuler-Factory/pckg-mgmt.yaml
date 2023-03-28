@@ -17579,3 +17579,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: dde-session-shell
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
