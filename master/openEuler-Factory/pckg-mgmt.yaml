@@ -15871,3 +15871,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: nodejs-rollup
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
