@@ -23127,3 +23127,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: python-tinycss2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
