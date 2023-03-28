@@ -3231,6 +3231,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: syscare
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2022-03-28'
 - name: system-config-language
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
