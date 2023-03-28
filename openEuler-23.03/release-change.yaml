@@ -115,3 +115,9 @@ release-change:
   changed_packages: python-cursive python-netmiko python-karborclient python-requirementslib
     python-scciclient python-rsdclient
   date: 2023-03-28-13-24-19
+- pr: https://gitee.com/openeuler/release-management/pulls/961
+  description: 522bbe4 !961 remove python-cassandra-driver、 python-sphinx-feature-classification、python-sushy-oem-idrac
+    and  python-feedparser from 23.03
+  changed_packages: python-sushy-oem-idrac python-sphinx-feature-classification python-feedparser
+    python-cassandra-driver malcontent
+  date: 2023-03-28-17-36-09

@@ -18311,9 +18311,3 @@ packages:
   obs_from: openEuler:23.03:Epol
   obs_to: openEuler:23.03
   date: '2023-03-17'
-- name: malcontent
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.03
-  date: '2023-03-27'
