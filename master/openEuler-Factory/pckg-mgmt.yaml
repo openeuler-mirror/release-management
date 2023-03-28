@@ -17623,3 +17623,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: jboss-concurrency-1.0-api
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
