@@ -19803,3 +19803,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: lttng-ust
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
