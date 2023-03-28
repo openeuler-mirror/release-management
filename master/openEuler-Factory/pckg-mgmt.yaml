@@ -16087,3 +16087,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: hyphen-nl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
