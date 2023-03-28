@@ -164,3 +164,4 @@ packages:
 - name: python-karborclient
 - name: python-scciclient
 - name: python-rsdclient
+- name: python-netmiko
