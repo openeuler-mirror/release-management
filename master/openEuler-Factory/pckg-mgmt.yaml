@@ -17915,3 +17915,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: ibus-table-array30
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
