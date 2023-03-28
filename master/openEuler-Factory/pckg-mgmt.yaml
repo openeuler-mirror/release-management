@@ -18047,3 +18047,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: python-pytimeparse
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
