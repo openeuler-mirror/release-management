@@ -20931,3 +20931,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: python-setuptools_hg
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
