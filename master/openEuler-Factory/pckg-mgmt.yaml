@@ -15267,3 +15267,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: kylin-screenshot
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
