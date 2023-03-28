@@ -170,5 +170,6 @@ packages:
 - name: python-feedparser
 - name: python-sphinx-feature-classification
 - name: python-sushy-oem-idrac
+- name: python-async-generator
 - name: system-config-users-docs
 - name: system-config-users
