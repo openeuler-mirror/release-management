@@ -533,3 +533,7 @@ release-change:
     to epol
   changed_packages: compat-rest gfbgraph libzapojit gnome-online-miners
   date: 2023-03-27-16-57-26
+- pr: https://gitee.com/openeuler/release-management/pulls/959
+  description: 3e61cbc !959 Move syscare to Mainline from Factory
+  changed_packages: syscare
+  date: 2023-03-28-13-22-30
