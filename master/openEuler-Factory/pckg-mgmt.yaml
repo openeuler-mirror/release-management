@@ -22727,3 +22727,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: ros2_image_transport_plugins
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
