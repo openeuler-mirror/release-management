@@ -19951,3 +19951,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: python-async_generator
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
