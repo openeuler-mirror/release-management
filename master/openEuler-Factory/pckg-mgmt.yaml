@@ -16691,3 +16691,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-28"
+    - name: ovirt-hosted-engine-setup
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-28"
