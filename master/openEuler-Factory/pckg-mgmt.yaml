@@ -23695,3 +23695,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: python-click-help-colors
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
