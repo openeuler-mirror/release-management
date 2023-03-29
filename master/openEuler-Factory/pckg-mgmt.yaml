@@ -29523,3 +29523,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: slf4j-jboss-logmanager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
