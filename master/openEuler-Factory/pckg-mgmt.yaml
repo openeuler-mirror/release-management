@@ -30819,3 +30819,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: u2f-hidraw-policy
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
