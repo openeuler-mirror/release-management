@@ -167,12 +167,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: python-async-generator
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: aops-zeus
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2171,12 +2165,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
-- name: system-config-users
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
 - name: libmediainfo
   source_dir: master
   destination_dir: openEuler-23.03
@@ -2328,12 +2316,6 @@ packages:
   obs_to: openEuler:23.03:Epol
   date: '2023-02-10'
 - name: xfce4-volumed-pulse
-  source_dir: master
-  destination_dir: openEuler-23.03
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.03:Epol
-  date: '2023-02-10'
-- name: system-config-users-docs
   source_dir: master
   destination_dir: openEuler-23.03
   obs_from: openEuler:Epol
