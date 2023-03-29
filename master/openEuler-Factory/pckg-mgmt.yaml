@@ -30099,3 +30099,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: kf5-kdewebkit
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
