@@ -26687,3 +26687,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: python-sushy-oem-idrac
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
