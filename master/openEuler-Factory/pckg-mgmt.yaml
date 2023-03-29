@@ -31355,3 +31355,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: perl-Storable
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
