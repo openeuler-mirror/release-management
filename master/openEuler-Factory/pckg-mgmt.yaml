@@ -28303,3 +28303,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-29"
+    - name: nodejs-make-arrow-function
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-03-29"
