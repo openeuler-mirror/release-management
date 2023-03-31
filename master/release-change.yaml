@@ -541,3 +541,8 @@ release-change:
   description: 87e632ce !948 Add OpenHPC related packages to 22.03 LTS NEXT
   changed_packages: perl-Linux-Pid apptainer squashfuse mod_perl
   date: 2023-03-31-09-53-23
+- pr: https://gitee.com/openeuler/release-management/pulls/970
+  description: 68b87896 !970 move rubygem-capng_c from factory to epol,and add openEuler-22.03-LTS-Next
+    for it
+  changed_packages: rubygem-capng_c
+  date: 2023-03-31-11-40-55
