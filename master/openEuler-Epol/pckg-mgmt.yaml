@@ -4991,3 +4991,19 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:Epol
   date: "2023-03-27"
+- name: perl-Linux-Pid
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-31"
+- name: apptainer
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-31"
+- name: squashfuse
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-31"
+- name: mod_perl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-31"
