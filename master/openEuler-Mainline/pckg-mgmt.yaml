@@ -5180,3 +5180,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2022-03-17'
+- name: moby
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2022-03-31'
