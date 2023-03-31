@@ -5007,3 +5007,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-03-31"
+- name: rubygem-capng_c
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-03-31"
