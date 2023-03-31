@@ -537,3 +537,7 @@ release-change:
   description: 3e61cbc !959 Move syscare to Mainline from Factory
   changed_packages: syscare
   date: 2023-03-28-13-22-30
+- pr: https://gitee.com/openeuler/release-management/pulls/948
+  description: 87e632ce !948 Add OpenHPC related packages to 22.03 LTS NEXT
+  changed_packages: perl-Linux-Pid apptainer squashfuse mod_perl
+  date: 2023-03-31-09-53-23

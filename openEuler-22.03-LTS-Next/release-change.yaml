@@ -296,3 +296,7 @@ release-change:
   description: 4b08b83 !946 Add openEuler-22.03-LTS-Next branch for lldpd
   changed_packages: lldpd
   date: 2023-03-23-17-11-41
+- pr: https://gitee.com/openeuler/release-management/pulls/948
+  description: 87e632ce !948 Add OpenHPC related packages to 22.03 LTS NEXT
+  changed_packages: perl-Linux-Pid apptainer squashfuse mod_perl
+  date: 2023-03-31-09-53-23
