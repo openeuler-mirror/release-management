@@ -53,6 +53,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |华为-庞加莱|廖清伟| [@liaoqingwei](https://gitee.com/liaoqingwei) | liaoqingwei@huawei.com |
 |华为-庞加莱|曾卫峰|	|	|
 |华为|王晔晖|    |    |
+|华为-openEuler|沐钰莹| [@muyuying1](https://gitee.com/muyuying1) | muyuying1@huawei.com |
 |统信|吕从庆|	|	|
 |统信|潘晨博|	|	|
 |拓林思|丁文龙|	[@dwl301](https://gitee.com/dwl301) | wenlong.ding@turbolinux.com.cn |
