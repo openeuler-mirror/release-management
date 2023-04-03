@@ -33,16 +33,16 @@ openEuler 23.03 是基于6.1内核的创新版本（参见[版本生命周期](h
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|1|[【openEuler 23.03】新增高性能服务网格数据面Kmesh](https://gitee.com/openeuler/release-management/issues/I65S7M?from=project-issue)|Testing|sig-high-performance-network|@MrRlu|extras|kmesh|
-|2|[【openEuler 23.03】新增内核配置项错误值检查工具kconfigDetector](https://gitee.com/openeuler/release-management/issues/I69YOZ?from=project-issue)|Testing|sig-kernel|@sunying2022|EPOL|kconfigDetector|
-|3|[【openEuler 23.03】支持树莓派](https://gitee.com/openeuler/release-management/issues/I6AACH)|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
+|1|[【openEuler 23.03】新增高性能服务网格数据面Kmesh](https://gitee.com/openeuler/release-management/issues/I65S7M?from=project-issue)|Accepted|sig-high-performance-network|@MrRlu|extras|kmesh|
+|2|[【openEuler 23.03】新增内核配置项错误值检查工具kconfigDetector](https://gitee.com/openeuler/release-management/issues/I69YOZ?from=project-issue)|Accepted|sig-kernel|@sunying2022|EPOL|kconfigDetector|
+|3|[【openEuler 23.03】支持树莓派](https://gitee.com/openeuler/release-management/issues/I6AACH)|Accepted|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom|
 |4|[【openEuler 23.03】iSulad支持镜像RO数据管理目录拆分](https://gitee.com/openeuler/release-management/issues/I6E2SI)|Testing|sig-CloudNative|[@driedyellowpeach](https://gitee.com/driedyellowpeach)|oepkgs|iSulad|
-|5|[【openEuler 23.03】GCC编译器插件框架支持LTO复杂优化，实现插件IR覆盖Gimple 80%的功能](https://e.gitee.com/open_euler/issues/table?issue=I6CK4F)|Discussion|Compiler|@wangding|oepkgs|GCC|
-|6|[【openEuler 23.03】openEuler 23.03 创新版本选择 6.1 内核](https://gitee.com/openeuler/kernel/issues/I6834I)|Testing|Kernel |@zhengzengkai|oepkgs|Kernel|
-|7|[【openEuler 23.03】支持embedded版本](https://gitee.com/openeuler/release-management/issues/I6DS1J?from=project-issue)|Discussion|sig-embedded|@fanglinxu|独立发布|Embedded|
-|8|[【openEuler 23.03】NFS客户端支持多路径](https://gitee.com/openeuler/kernel/issues/I6CR7Z)|Discussion|Kernel |@jiangzhongbing|oepkgs|Kernel|
-|9|[【openEuler 23.03】新增openGemini时序数据库](https://gitee.com/openeuler/release-management/issues/I6EQV3)|Testing|DB|@openGemini|ISO|Kernel|
-|10|[【openEuler 23.03】secGear支持安全通道](https://gitee.com/openeuler/release-management/issues/I6EZTD?from=project-issue)|Testing|sig-confidential-computing|@houmingyong|ISO|secGear|
+|5|[【openEuler 23.03】GCC编译器插件框架支持LTO复杂优化，实现插件IR覆盖Gimple 80%的功能](https://e.gitee.com/open_euler/issues/table?issue=I6CK4F)|Accepted|Compiler|@wangding|oepkgs|GCC|
+|6|[【openEuler 23.03】openEuler 23.03 创新版本选择 6.1 内核](https://gitee.com/openeuler/kernel/issues/I6834I)|Accepted|Kernel |@zhengzengkai|oepkgs|Kernel|
+|7|[【openEuler 23.03】支持embedded版本](https://gitee.com/openeuler/release-management/issues/I6DS1J?from=project-issue)|Accepted|sig-embedded|@fanglinxu|独立发布|Embedded|
+|8|[【openEuler 23.03】NFS客户端支持多路径](https://gitee.com/openeuler/kernel/issues/I6CR7Z)|Accepted|Kernel |@jiangzhongbing|oepkgs|Kernel|
+|9|[【openEuler 23.03】新增openGemini时序数据库](https://gitee.com/openeuler/release-management/issues/I6EQV3)|Accepted|DB|@openGemini|ISO|Kernel|
+|10|[【openEuler 23.03】secGear支持安全通道](https://gitee.com/openeuler/release-management/issues/I6EZTD?from=project-issue)|Accepted|sig-confidential-computing|@houmingyong|ISO|secGear|
 
 
 # 需求/特性反馈基本流程 <br />
