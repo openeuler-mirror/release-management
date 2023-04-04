@@ -14383,10 +14383,6 @@ packages:
     obs_from: ''
     obs_to: openEuler:Factory
     date: '2023-03-22'
-  - name: kiran-authentication-devices
-    obs_from: ''
-    obs_to: openEuler:Factory
-    date: '2023-03-22'
   - name: kiran-shell
     obs_from: ''
     obs_to: openEuler:Factory
