@@ -3975,6 +3975,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: kiran-authentication-devices
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-04-04'
 - name: caja-actions
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
