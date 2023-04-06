@@ -5015,3 +5015,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-03-31"
+- name: dtkcommon
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-06"
