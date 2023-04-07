@@ -14631,3 +14631,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-07"
+    - name: openstack-zaqar
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-04-07"
