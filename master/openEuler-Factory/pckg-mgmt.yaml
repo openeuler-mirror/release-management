@@ -14639,3 +14639,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-07"
+    - name: python-ovn-octavia-provider
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-04-07"
