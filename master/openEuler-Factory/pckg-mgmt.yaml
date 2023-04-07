@@ -14531,3 +14531,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-07"
+    - name: openstack-senlin
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-04-07"
