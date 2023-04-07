@@ -14627,3 +14627,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-07"
+    - name: python-xstatic-json2yaml
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-04-07"
