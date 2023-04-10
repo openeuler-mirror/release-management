@@ -1,0 +1,7 @@
+packages:
+- name: e2fsprogs
+  source_dir: master
+  destination_dir: Multi-Version_ldiskfsprogs_master
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol:Multi-Version:ldiskfsprogs
+  date: '2023-03-14'
