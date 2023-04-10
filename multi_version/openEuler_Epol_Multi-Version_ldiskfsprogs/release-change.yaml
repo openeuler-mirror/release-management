@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/922
+  description: 6b80cf29 !922 Add multi-version branch Multi-Version_ldiskfsprogs_master
+  changed_packages: e2fsprogs
+  date: 2023-04-10-11-27-56
