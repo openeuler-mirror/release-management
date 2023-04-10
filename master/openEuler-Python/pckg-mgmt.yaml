@@ -1219,6 +1219,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-pytest-asyncio
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-04-07'
 - name: python-pythonwebhdfs
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
