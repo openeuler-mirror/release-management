@@ -558,3 +558,7 @@ release-change:
   description: c3c2864f !977 移动dtkcommon到epol仓库
   changed_packages: dtkcommon
   date: 2023-04-06-17-43-31
+- pr: https://gitee.com/openeuler/release-management/pulls/980
+  description: ecc4fed4 !980 move python-pytest-asyncio from openeuler:epol to openeuler:python
+  changed_packages: python-pytest-asyncio
+  date: 2023-04-10-11-28-57
