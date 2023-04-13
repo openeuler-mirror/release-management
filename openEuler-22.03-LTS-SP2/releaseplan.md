@@ -22,4 +22,5 @@
 
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
-|1||||
+|[I6UA7F](https://gitee.com/openeuler/release-management/issues/I6UA7F)|DDE组件更新|Discussion|sig-DDE|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|
+
