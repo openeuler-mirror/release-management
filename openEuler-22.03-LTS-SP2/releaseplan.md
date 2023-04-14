@@ -24,4 +24,5 @@
 |:----|:---|:---|:--|:----|
 |[I6UA7F](https://gitee.com/openeuler/release-management/issues/I6UA7F)|DDE组件更新|Discussion|sig-DDE|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|
 |[I6V5AX](https://gitee.com/openeuler/release-management/issues/I6V5AX)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi/)|
+|[I6VFA7](https://gitee.com/openeuler/release-management/issues/I6VFA7)|sysMaster软件商用|Discussion|dev-utils|[@overweight](https://gitee.com/overweight/)|
 
