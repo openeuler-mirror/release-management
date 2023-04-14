@@ -4978,19 +4978,19 @@ packages:
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: 2022-12-1
+  date: '2022-12-1'
 - name: python-statsmodels
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: 2022-12-1
+  date: '2022-12-1'
 - name: python-patsy
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: 2022-12-1
+  date: '2022-12-1'
 - name: gn
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
@@ -5026,43 +5026,43 @@ packages:
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2022-12-19"
+  date: '2022-12-19'
 - name: libbsd
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2022-12-19"
+  date: '2022-12-19'
 - name: opendmarc
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2022-12-19"
+  date: '2022-12-19'
 - name: libspf2
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2022-12-19"
+  date: '2022-12-19'
 - name: clang-15
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-02-13"
+  date: '2023-02-13'
 - name: llvm-15
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-02-13"
+  date: '2023-02-13'
 - name: lld-15
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-02-13"
+  date: '2023-02-13'
 - name: opensd
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
@@ -5092,25 +5092,25 @@ packages:
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-03-31"
+  date: '2023-03-31'
 - name: apptainer
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-03-31"
+  date: '2023-03-31'
 - name: squashfuse
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-03-31"
+  date: '2023-03-31'
 - name: mod_perl
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
-  date: "2023-03-31"
+  date: '2023-03-31'
 - name: rubygem-capng_c
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
