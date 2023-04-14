@@ -14695,10 +14695,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-10"
-    - name: oepkgs-release
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-04-12"
     - name: python-asttokens
       obs_from: ""
       obs_to: openEuler:Factory
