@@ -6869,3 +6869,9 @@ packages:
   obs_from: openEuler:20.03:LTS:Next:Epol
   obs_to: openEuler:20.03:LTS:SP1:Epol
   date: '2022-10-21'
+- name: oepkgs-release
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP1
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP1:Epol
+  date: '2023-04-14'
