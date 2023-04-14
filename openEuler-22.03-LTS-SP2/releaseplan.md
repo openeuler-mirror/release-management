@@ -23,4 +23,5 @@
 |no|fetur|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |[I6UA7F](https://gitee.com/openeuler/release-management/issues/I6UA7F)|DDE组件更新|Discussion|sig-DDE|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|
+|[I6V5AX](https://gitee.com/openeuler/release-management/issues/I6V5AX)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi/)|
 
