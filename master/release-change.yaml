@@ -562,3 +562,7 @@ release-change:
   description: ecc4fed4 !980 move python-pytest-asyncio from openeuler:epol to openeuler:python
   changed_packages: python-pytest-asyncio
   date: 2023-04-10-11-28-57
+- pr: https://gitee.com/openeuler/release-management/pulls/987
+  description: 4e9220f2 !987 新增oepkgs-release到epol仓库
+  changed_packages: oepkgs-release
+  date: 2023-04-14-20-57-45

@@ -305,3 +305,7 @@ release-change:
     for it
   changed_packages: rubygem-capng_c
   date: 2023-03-31-11-40-55
+- pr: https://gitee.com/openeuler/release-management/pulls/987
+  description: 4e9220f2 !987 新增oepkgs-release到epol仓库
+  changed_packages: oepkgs-release
+  date: 2023-04-14-20-57-45
