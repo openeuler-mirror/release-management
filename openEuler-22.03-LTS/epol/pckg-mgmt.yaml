@@ -4307,3 +4307,9 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:Epol
   date: '2022-11-21'
+- name: oepkgs-release
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:Epol
+  date: '2023-04-15'
