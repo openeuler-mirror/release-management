@@ -309,3 +309,7 @@ release-change:
   description: 4e9220f2 !987 新增oepkgs-release到epol仓库
   changed_packages: oepkgs-release
   date: 2023-04-14-20-57-45
+- pr: https://gitee.com/openeuler/release-management/pulls/991
+  description: 26cac9fc !991 add kiran-authentication-devices to openEuler:22.03:LTS:Next:Epol
+  changed_packages: kiran-authentication-devices
+  date: 2023-04-17-14-23-41
