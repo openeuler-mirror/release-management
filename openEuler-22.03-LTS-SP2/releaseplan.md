@@ -26,4 +26,4 @@
 | [I6T8OP](https://gitee.com/openeuler/release-management/issues/I6T8OP) | 支持Lustre client软件包 | Discussion | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) |
 |[I6V5AX](https://gitee.com/openeuler/release-management/issues/I6V5AX)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi/)|
 |[I6VFA7](https://gitee.com/openeuler/release-management/issues/I6VFA7)|sysMaster软件商用|Discussion|dev-utils|[@overweight](https://gitee.com/overweight/)|
-
+|[I6TEAB](https://gitee.com/openeuler/release-management/issues/I6TEAB)|支持OpenStack Train、Wallaby多版本|Discussion|sig-openstack|[@xiyuanwang](https://gitee.com/xiyuanwang/)|
