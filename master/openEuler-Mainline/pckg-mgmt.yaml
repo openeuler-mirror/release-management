@@ -4455,6 +4455,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: python-flatbuffers
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-20"
 - name: texi2html
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
