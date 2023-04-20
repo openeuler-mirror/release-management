@@ -3675,10 +3675,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Digest-MD4
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Digest-MD5-File
       obs_from: ""
       obs_to: openEuler:Factory
@@ -5399,10 +5395,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-OLE-Storage_Lite
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Object-Accessor
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6008,10 +6000,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Spiffy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Spreadsheet-ParseExcel
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -7084,10 +7072,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Unicode-CheckUTF8-PP
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Unicode-Map
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12379,10 +12363,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Crypt-RC4
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-jsonpickle
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12412,10 +12392,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: R-farver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Parse-RecDescent
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12544,10 +12520,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-HTML-Tree
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Spreadsheet-WriteExcel
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -13032,10 +13004,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: R-R.methodsS3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Jcode
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
