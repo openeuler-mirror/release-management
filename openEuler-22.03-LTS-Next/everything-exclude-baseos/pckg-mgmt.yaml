@@ -2639,6 +2639,12 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
+- name: python-flatbuffers
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2023-04-20'
 - name: rubygem-cucumber
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
