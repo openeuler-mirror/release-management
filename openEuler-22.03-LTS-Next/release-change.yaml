@@ -313,3 +313,7 @@ release-change:
   description: 26cac9fc !991 add kiran-authentication-devices to openEuler:22.03:LTS:Next:Epol
   changed_packages: kiran-authentication-devices
   date: 2023-04-17-14-23-41
+- pr: https://gitee.com/openeuler/release-management/pulls/996
+  description: 5087eba2 !996 add python-flatbuffers to openEuler-22.03-LTS-Next
+  changed_packages: python-flatbuffers
+  date: 2023-04-21-12-40-54

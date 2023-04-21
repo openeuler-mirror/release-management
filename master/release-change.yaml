@@ -566,3 +566,7 @@ release-change:
   description: 4e9220f2 !987 新增oepkgs-release到epol仓库
   changed_packages: oepkgs-release
   date: 2023-04-14-20-57-45
+- pr: https://gitee.com/openeuler/release-management/pulls/996
+  description: 5087eba2 !996 add python-flatbuffers to openEuler-22.03-LTS-Next
+  changed_packages: python-flatbuffers
+  date: 2023-04-21-12-40-54
