@@ -35,3 +35,7 @@ release-change:
   description: e0e4f7e1 !990 添加 oepkgs-release 到 openEuler 22.03-LTS Epol 仓库
   changed_packages: oepkgs-release
   date: 2023-04-17-10-35-07
+- pr: https://gitee.com/openeuler/release-management/pulls/969
+  description: bff104e9 !969 Add OpenHPC related packages to 22.03 LTS
+  changed_packages: perl-Linux-Pid apptainer fuse-overlayfs squashfuse mod_perl
+  date: 2023-04-23-11-02-33
