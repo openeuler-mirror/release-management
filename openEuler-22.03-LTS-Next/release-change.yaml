@@ -321,3 +321,7 @@ release-change:
   description: e851c9b4 !999 move flatbuffers from 2203-lts-next:epol to 2203-lts-next:everything
   changed_packages: flatbuffers python-pydot
   date: 2023-04-23-11-45-09
+- pr: https://gitee.com/openeuler/release-management/pulls/1001
+  description: 39f3b91a !1001 【轻量级 PR】add openEuler-22.03-LTS-Next for botan2
+  changed_packages: botan2
+  date: 2023-04-23-17-44-26
