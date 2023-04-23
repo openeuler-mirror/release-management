@@ -317,3 +317,7 @@ release-change:
   description: 5087eba2 !996 add python-flatbuffers to openEuler-22.03-LTS-Next
   changed_packages: python-flatbuffers
   date: 2023-04-21-12-40-54
+- pr: https://gitee.com/openeuler/release-management/pulls/999
+  description: e851c9b4 !999 move flatbuffers from 2203-lts-next:epol to 2203-lts-next:everything
+  changed_packages: flatbuffers python-pydot
+  date: 2023-04-23-11-45-09
