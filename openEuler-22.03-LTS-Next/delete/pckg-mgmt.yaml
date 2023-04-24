@@ -5,6 +5,7 @@ packages:
 - name: execstack
 - name: booth
 - name: python-clufter
+- name: python-flatbuffers
 - name: ovirt-provider-ovn
 - name: python-Flask-Script
 - name: python-feedparser
