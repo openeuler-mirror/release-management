@@ -5019,3 +5019,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-04-14"
+- name: python-asttokens
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-23"

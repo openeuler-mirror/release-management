@@ -14691,10 +14691,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-10"
-    - name: python-asttokens
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-04-14"
     - name: python-hatchling
       obs_from: ""
       obs_to: openEuler:Factory
