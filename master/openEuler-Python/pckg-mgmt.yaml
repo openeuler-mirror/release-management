@@ -1679,4 +1679,16 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-03-22'
+- name: python-hatchling
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-24"
+- name: python-editables
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-24"
+- name: python-hatch-vcs
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-24"
 
