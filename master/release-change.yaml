@@ -570,3 +570,7 @@ release-change:
   description: 5087eba2 !996 add python-flatbuffers to openEuler-22.03-LTS-Next
   changed_packages: python-flatbuffers
   date: 2023-04-21-12-40-54
+- pr: https://gitee.com/openeuler/release-management/pulls/992
+  description: b2fbf6b8 !992 add python-asttokens to openEuler-20.03-LTS-SP3 and openEuler-22.03-LTS-Next
+  changed_packages: python-asttokens
+  date: 2023-04-24-10-31-08
