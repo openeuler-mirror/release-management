@@ -574,3 +574,8 @@ release-change:
   description: b2fbf6b8 !992 add python-asttokens to openEuler-20.03-LTS-SP3 and openEuler-22.03-LTS-Next
   changed_packages: python-asttokens
   date: 2023-04-24-10-31-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1004
+  description: d7089f18 !1004 move packages from openEuler:Factory to openEuler:Python
+    and openEuler:Epol
+  changed_packages: python-shtab python-hatchling python-editables python-hatch-vcs
+  date: 2023-04-24-15-24-02
