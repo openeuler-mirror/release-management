@@ -5023,3 +5023,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-04-23"
+- name: python-shtab
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-24"
