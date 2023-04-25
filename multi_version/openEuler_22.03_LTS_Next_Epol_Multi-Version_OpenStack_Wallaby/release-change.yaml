@@ -24,3 +24,17 @@ release-change:
   description: b521869 !860 删除OpenStack无效项目
   changed_packages: python-tempest-lib python-feedparser python-pyxcli
   date: 2023-02-14-18-49-19
+- pr: https://gitee.com/openeuler/release-management/pulls/994
+  description: e600675b !994 Move OpenStack packages
+  changed_packages: openstack-heat-ui python-xstatic-angular-vis python-octavia-lib
+    openstack-senlin python-XStatic-lodash python-influxdb python-natsort python-xstatic-filesaver
+    python-XStatic-Dagre-D3 python-XStatic-Moment-Timezone python-monasca-statsd openstack-octavia
+    python-mistral-lib openstack-mistral python-xstatic-js-yaml python-XStatic-Graphlib
+    openstack-vitrage-ui openstack-cloudkitty openstack-neutron-dynamic-routing python-XStatic-moment
+    python-ceilometerclient python-cloudkittyclient openstack-designate-ui openstack-masakari
+    python-XStatic-Dagre python-networking-sfc python-autobahn python-xstatic-json2yaml
+    openstack-zaqar openstack-mistral-ui python-ovn-octavia-provider openstack-manila
+    python-cinderlib openstack-barbican openstack-neutron-vpnaas openstack-sahara-ui
+    python-xstatic-angular-uuid openstack-magnum-ui python-edgegrid openstack-designate
+    python-masakariclient python-txaio openstack-octavia-ui
+  date: 2023-04-25-09-31-22
