@@ -603,3 +603,8 @@ release-change:
   changed_packages: perl-Digest-MD4 perl-Parse-RecDescent perl-Spreadsheet-WriteExcel
     perl-Jcode perl-Unicode-Map perl-OLE-Storage_Lite perl-Crypt-RC4 perl-Spreadsheet-ParseExcel
   date: 2023-04-25-12-15-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1011
+  description: 3c1e4eb2 !1011 move python-estimator from master:python to master:mainline
+    for tensorflow ebs&obs
+  changed_packages: python-estimator
+  date: 2023-04-25-14-51-23
