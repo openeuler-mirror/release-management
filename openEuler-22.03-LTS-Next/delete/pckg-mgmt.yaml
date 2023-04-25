@@ -18,3 +18,4 @@ packages:
 - name: authz
 - name: python-sphinx-feature-classification
 - name: python-croniter
+- name: opensd
