@@ -39,3 +39,7 @@ release-change:
   description: bff104e9 !969 Add OpenHPC related packages to 22.03 LTS
   changed_packages: perl-Linux-Pid apptainer fuse-overlayfs squashfuse mod_perl
   date: 2023-04-23-11-02-33
+- pr: https://gitee.com/openeuler/release-management/pulls/982
+  description: 99f069c3 !982 add libslirp to 22.03-LTS.
+  changed_packages: libslirp
+  date: 2023-04-25-09-30-14
