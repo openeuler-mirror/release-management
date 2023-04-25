@@ -593,3 +593,8 @@ release-change:
     python-xstatic-angular-uuid openstack-magnum-ui python-edgegrid openstack-designate
     python-masakariclient python-txaio openstack-octavia-ui
   date: 2023-04-25-09-31-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1009
+  description: 1f8e2219 !1009 move flatbuffers from master:epol to master:mainline
+    for tensorflow ebs&obs
+  changed_packages: flatbuffers
+  date: 2023-04-25-12-09-59
