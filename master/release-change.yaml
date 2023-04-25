@@ -570,3 +570,41 @@ release-change:
   description: 5087eba2 !996 add python-flatbuffers to openEuler-22.03-LTS-Next
   changed_packages: python-flatbuffers
   date: 2023-04-21-12-40-54
+- pr: https://gitee.com/openeuler/release-management/pulls/992
+  description: b2fbf6b8 !992 add python-asttokens to openEuler-20.03-LTS-SP3 and openEuler-22.03-LTS-Next
+  changed_packages: python-asttokens
+  date: 2023-04-24-10-31-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1004
+  description: d7089f18 !1004 move packages from openEuler:Factory to openEuler:Python
+    and openEuler:Epol
+  changed_packages: python-shtab python-hatchling python-editables python-hatch-vcs
+  date: 2023-04-24-15-24-02
+- pr: https://gitee.com/openeuler/release-management/pulls/994
+  description: e600675b !994 Move OpenStack packages
+  changed_packages: openstack-heat-ui python-xstatic-angular-vis python-octavia-lib
+    openstack-senlin python-XStatic-lodash python-influxdb python-natsort python-xstatic-filesaver
+    python-XStatic-Dagre-D3 python-XStatic-Moment-Timezone python-monasca-statsd openstack-octavia
+    python-mistral-lib openstack-mistral python-xstatic-js-yaml python-XStatic-Graphlib
+    openstack-vitrage-ui openstack-cloudkitty openstack-neutron-dynamic-routing python-XStatic-moment
+    python-ceilometerclient python-cloudkittyclient openstack-designate-ui openstack-masakari
+    python-XStatic-Dagre python-networking-sfc python-autobahn python-xstatic-json2yaml
+    openstack-zaqar openstack-mistral-ui python-ovn-octavia-provider openstack-manila
+    python-cinderlib openstack-barbican openstack-neutron-vpnaas openstack-sahara-ui
+    python-xstatic-angular-uuid openstack-magnum-ui python-edgegrid openstack-designate
+    python-masakariclient python-txaio openstack-octavia-ui
+  date: 2023-04-25-09-31-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1009
+  description: 1f8e2219 !1009 move flatbuffers from master:epol to master:mainline
+    for tensorflow ebs&obs
+  changed_packages: flatbuffers
+  date: 2023-04-25-12-09-59
+- pr: https://gitee.com/openeuler/release-management/pulls/997
+  description: 63e9edba !997 将8个perl包从Factory移动到Epol工程作为python-mpmath的编译依赖
+  changed_packages: perl-Digest-MD4 perl-Parse-RecDescent perl-Spreadsheet-WriteExcel
+    perl-Jcode perl-Unicode-Map perl-OLE-Storage_Lite perl-Crypt-RC4 perl-Spreadsheet-ParseExcel
+  date: 2023-04-25-12-15-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1011
+  description: 3c1e4eb2 !1011 move python-estimator from master:python to master:mainline
+    for tensorflow ebs&obs
+  changed_packages: python-estimator
+  date: 2023-04-25-14-51-23

@@ -4455,6 +4455,14 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: flatbuffers
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-04-25'
+- name: python-estimator
+  obs_from: openEuler:Python
+  obs_to: openEuler:Mainline
+  date: '2023-04-25'
 - name: python-flatbuffers
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

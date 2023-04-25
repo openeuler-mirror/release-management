@@ -27,3 +27,7 @@
 |[I6V5AX](https://gitee.com/openeuler/release-management/issues/I6V5AX)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi/)|
 |[I6VFA7](https://gitee.com/openeuler/release-management/issues/I6VFA7)|sysMaster软件商用|Discussion|dev-utils|[@overweight](https://gitee.com/overweight/)|
 |[I6Y54B](https://gitee.com/openeuler/release-management/issues/I6Y54B)|支持ROS2-humble基础版|Discussion|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu/)|
+|[I6TEAB](https://gitee.com/openeuler/release-management/issues/I6TEAB)|支持OpenStack Train、Wallaby多版本|Discussion|sig-openstack|[@xiyuanwang](https://gitee.com/xiyuanwang/)|
+|[I6YL1H](https://gitee.com/openeuler/release-management/issues/I6YL1H)|内核支持容器资源可见性功能|Discussion|sig-kernel|[@wenzhiwei11](https://gitee.com/wenzhiwei11/)|
+|[I6YL4A](https://gitee.com/openeuler/release-management/issues/I6YL4A)|内核新增UKFEF功能|Discussion|sig-kernel|[@wenzhiwei11](https://gitee.com/wenzhiwei11/)|
+|[I6YLKL](https://gitee.com/openeuler/release-management/issues/I6YLKL)|内核支持Group identity功能|Discussion|sig-kernel|[@wenzhiwei11](https://gitee.com/wenzhiwei11/)|

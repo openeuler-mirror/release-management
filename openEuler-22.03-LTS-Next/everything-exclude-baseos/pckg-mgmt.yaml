@@ -2645,12 +2645,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-04-23'
-- name: python-flatbuffers
-  source_dir: master
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:22.03:LTS:Next
-  date: '2023-04-20'
 - name: rubygem-cucumber
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -18148,7 +18142,7 @@ packages:
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:Next
-  date: '2022-11-7'
+  date: '2022-11-07'
 - name: dpu-utilities
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
@@ -18196,7 +18190,7 @@ packages:
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next
-  date: '2023-1-31'
+  date: '2023-01-31'
 - name: ceph-deploy
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next

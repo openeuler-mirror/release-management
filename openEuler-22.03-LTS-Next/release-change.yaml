@@ -321,3 +321,23 @@ release-change:
   description: e851c9b4 !999 move flatbuffers from 2203-lts-next:epol to 2203-lts-next:everything
   changed_packages: flatbuffers python-pydot
   date: 2023-04-23-11-45-09
+- pr: https://gitee.com/openeuler/release-management/pulls/1001
+  description: 39f3b91a !1001 【轻量级 PR】add openEuler-22.03-LTS-Next for botan2
+  changed_packages: botan2
+  date: 2023-04-23-17-44-26
+- pr: https://gitee.com/openeuler/release-management/pulls/992
+  description: b2fbf6b8 !992 add python-asttokens to openEuler-20.03-LTS-SP3 and openEuler-22.03-LTS-Next
+  changed_packages: python-asttokens
+  date: 2023-04-24-10-31-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1000
+  description: d8a3fc7d !1000 【轻量级 PR】：cleanup for 22.03 LTS NEXT
+  changed_packages: python-croniter python-sphinx-feature-classification
+  date: 2023-04-25-09-34-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1003
+  description: c9d018c7 !1003 Remove python-flatbuffers from openEuler-22.03-LTS-Next
+  changed_packages: python-flatbuffers
+  date: 2023-04-25-09-35-28
+- pr: https://gitee.com/openeuler/release-management/pulls/1006
+  description: f487db49 !1006 【轻量级 PR】：Remove opensd from 22.03 LTS NEXT
+  changed_packages: opensd
+  date: 2023-04-25-12-17-40
