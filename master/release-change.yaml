@@ -598,3 +598,8 @@ release-change:
     for tensorflow ebs&obs
   changed_packages: flatbuffers
   date: 2023-04-25-12-09-59
+- pr: https://gitee.com/openeuler/release-management/pulls/997
+  description: 63e9edba !997 将8个perl包从Factory移动到Epol工程作为python-mpmath的编译依赖
+  changed_packages: perl-Digest-MD4 perl-Parse-RecDescent perl-Spreadsheet-WriteExcel
+    perl-Jcode perl-Unicode-Map perl-OLE-Storage_Lite perl-Crypt-RC4 perl-Spreadsheet-ParseExcel
+  date: 2023-04-25-12-15-29
