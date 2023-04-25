@@ -333,3 +333,7 @@ release-change:
   description: d8a3fc7d !1000 【轻量级 PR】：cleanup for 22.03 LTS NEXT
   changed_packages: python-croniter python-sphinx-feature-classification
   date: 2023-04-25-09-34-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1003
+  description: c9d018c7 !1003 Remove python-flatbuffers from openEuler-22.03-LTS-Next
+  changed_packages: python-flatbuffers
+  date: 2023-04-25-09-35-28
