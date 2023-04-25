@@ -551,10 +551,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
-- name: python-estimator
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Python
-  date: '2022-07-26'
 - name: python-extras
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
