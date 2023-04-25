@@ -341,3 +341,7 @@ release-change:
   description: f487db49 !1006 【轻量级 PR】：Remove opensd from 22.03 LTS NEXT
   changed_packages: opensd
   date: 2023-04-25-12-17-40
+- pr: https://gitee.com/openeuler/release-management/pulls/1012
+  description: 4d6af085 !1012 Move crun from openEuler-22.03-LTS-Next-Epol to openEuler-22.03-LTS-Next
+  changed_packages: crun
+  date: 2023-04-25-22-49-52
