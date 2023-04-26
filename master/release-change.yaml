@@ -613,3 +613,8 @@ release-change:
     from 2203-LTS-Next
   changed_packages: lldpd
   date: 2023-04-26-09-52-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1016
+  description: 6432cd2e !1016 move python-pdm-pep517 python-tomli-w from openEuler-Factory
+    to openEuler-Python
+  changed_packages: python-tomli-w python-pdm-pep517
+  date: 2023-04-26-16-16-17
