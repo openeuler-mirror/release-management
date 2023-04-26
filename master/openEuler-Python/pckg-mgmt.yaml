@@ -1675,6 +1675,14 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-03-22'
+- name: python-tomli-w
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-26"
+- name: python-pdm-pep517
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-26"
 - name: python-hatchling
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
