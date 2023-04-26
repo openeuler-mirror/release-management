@@ -13611,10 +13611,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: python-tomli-w
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-04"
     - name: edgex-go
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14483,10 +14479,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-10"
-    - name: python-pdm-pep517
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-04-25"
     - name: hmdfs
       obs_from: ""
       obs_to: openEuler:Factory
