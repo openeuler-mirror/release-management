@@ -19,3 +19,5 @@ packages:
 - name: python-sphinx-feature-classification
 - name: python-croniter
 - name: opensd
+- name: lldpd
+- name: latrace

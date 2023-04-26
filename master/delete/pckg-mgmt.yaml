@@ -13,3 +13,4 @@ packages:
   - name: ansible-2.9
   - name: rubygem-erubis
   - name: lustre-e2fsprogs
+  - name: lldpd
