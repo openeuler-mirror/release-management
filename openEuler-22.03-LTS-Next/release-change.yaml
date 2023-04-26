@@ -345,3 +345,8 @@ release-change:
   description: 4d6af085 !1012 Move crun from openEuler-22.03-LTS-Next-Epol to openEuler-22.03-LTS-Next
   changed_packages: crun
   date: 2023-04-25-22-49-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1013
+  description: eb79647f !1013 【轻量级 PR】：remove lldpd from master and remove lldpd latrace
+    from 2203-LTS-Next
+  changed_packages: latrace lldpd
+  date: 2023-04-26-09-52-37

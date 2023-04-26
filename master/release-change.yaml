@@ -608,3 +608,8 @@ release-change:
     for tensorflow ebs&obs
   changed_packages: python-estimator
   date: 2023-04-25-14-51-23
+- pr: https://gitee.com/openeuler/release-management/pulls/1013
+  description: eb79647f !1013 【轻量级 PR】：remove lldpd from master and remove lldpd latrace
+    from 2203-LTS-Next
+  changed_packages: lldpd
+  date: 2023-04-26-09-52-37
