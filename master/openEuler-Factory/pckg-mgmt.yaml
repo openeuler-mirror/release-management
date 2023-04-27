@@ -13635,10 +13635,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-27"
-    - name: m1600-driver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-30"
     - name: oec-cloud
       obs_from: ""
       obs_to: openEuler:Factory
