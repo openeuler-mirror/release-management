@@ -350,3 +350,7 @@ release-change:
     from 2203-LTS-Next
   changed_packages: latrace lldpd
   date: 2023-04-26-09-52-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1017
+  description: 2b890949 !1017 Remove drbd kmod-drbd90 from openEuler-22.03-LTS-Next
+  changed_packages: drbd kmod-drbd90
+  date: 2023-04-27-15-27-44
