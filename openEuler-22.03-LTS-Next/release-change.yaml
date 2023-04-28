@@ -362,3 +362,7 @@ release-change:
   description: 3550a3a2 !1025 move castxml and astyle to openEuler-Epol
   changed_packages: castxml astyle
   date: 2023-04-28-15-36-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1027
+  description: dc5bea02 !1027 add sysmaster to openEuler-22.03-LTS-Next
+  changed_packages: sysmaster
+  date: 2023-04-28-17-53-13
