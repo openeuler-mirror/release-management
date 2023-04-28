@@ -1699,3 +1699,15 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
   date: "2023-04-27"
+- name: python-inflect
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-28"
+- name: python-autocommand
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-28"
+- name: python-jaraco-context
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-04-28"
