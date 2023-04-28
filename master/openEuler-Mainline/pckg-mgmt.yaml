@@ -5240,10 +5240,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
-- name: perl-Perl-MinimumVersion
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
 - name: R-ascii
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -5253,10 +5249,6 @@ packages:
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: perl-DateTime-Calendar-Julian
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-Perl-Critic
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5281,10 +5273,6 @@ packages:
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: R-utf8
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-Test-MinimumVersion
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5345,10 +5333,6 @@ packages:
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: R-RODBC
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-Text-CSV_XS
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5441,10 +5425,6 @@ packages:
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: perl-Encode-JIS2K
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-PPIx-Utils
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5561,10 +5541,6 @@ packages:
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: R-praise
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-Text-CSV
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5693,10 +5669,6 @@ packages:
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: R-magrittr
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-PPIx-Utilities
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5892,10 +5864,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
-- name: perl-Log-Log4perl
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
 - name: perl-Log-Dispatch
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -5912,27 +5880,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
-- name: perl-Pod-Spell
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-PPI
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
 - name: perl-Test-Object
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
 - name: perl-Test-SubCalls
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-PPIx-QuoteLike
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
-- name: perl-PPIx-Regexp
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
@@ -5944,3 +5896,67 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
+- name: glm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Tie-Cycle
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-CPAN-Meta-Check
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Ref-Util-XS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Clone
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Variable-Magic
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-FreezeThaw
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-PadWalker
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Test-Without-Module
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Test-File-ShareDir
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Date-ISO8601
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-ExtUtils-HasCompiler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-List-UtilsBy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Hook-LexWrap
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-Test-CPAN-Meta-JSON
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
+- name: perl-WWW-Mechanize
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-04-28"
