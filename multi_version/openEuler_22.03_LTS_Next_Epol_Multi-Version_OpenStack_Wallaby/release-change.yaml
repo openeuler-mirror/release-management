@@ -38,3 +38,8 @@ release-change:
     python-xstatic-angular-uuid openstack-magnum-ui python-edgegrid openstack-designate
     python-masakariclient python-txaio openstack-octavia-ui
   date: 2023-04-25-09-31-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1015
+  description: cc1ab03e !1015 【轻量级 PR】：Remove python-binary-memcached from openEuler
+    22.03 LTS NEXT OpenStack Wallaby
+  changed_packages: python-binary-memcached
+  date: 2023-04-28-10-05-46
