@@ -2231,3 +2231,39 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   date: "2023-04-24"
+- name: python-vitrageclient
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-05-04"
+- name: os-net-config
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-05-04"
+- name: python-ironic-ui
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-05-04"
+- name: spice-html5
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-05-04"
+- name: googleapis-common-protos
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-05-04"
+- name: google-api-core
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-05-04"

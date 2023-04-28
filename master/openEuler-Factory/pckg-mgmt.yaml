@@ -11539,10 +11539,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: spice-html5
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: spirv-tools
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13119,10 +13115,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
-    - name: os-net-config
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-13"
     - name: perl-Curses
       obs_from: ""
       obs_to: openEuler:Factory
