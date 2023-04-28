@@ -1055,10 +1055,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: glm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: glslang
       obs_from: ""
       obs_to: openEuler:Factory
@@ -2927,10 +2923,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-CPAN-Meta-Check
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-CSS-DOM
       obs_from: ""
       obs_to: openEuler:Factory
@@ -3479,10 +3471,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Date-ISO8601
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Date-JD
       obs_from: ""
       obs_to: openEuler:Factory
@@ -3796,10 +3784,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-ExtUtils-CChecker
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-ExtUtils-HasCompiler
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -4287,10 +4271,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Hook-LexWrap
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-IO
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4471,10 +4451,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Lingua-EN-Inflect
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Lingua-EN-Inflect-Number
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4544,10 +4520,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-List-SomeUtils-XS
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-List-UtilsBy
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -5419,10 +5391,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-PadWalker
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Palm
       obs_from: ""
       obs_to: openEuler:Factory
@@ -5703,10 +5671,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Ref-Util-XS
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Regexp-Assemble
       obs_from: ""
       obs_to: openEuler:Factory
@@ -5943,10 +5907,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-String-Format
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-String-Formatter
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6107,10 +6067,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Task-Weaken
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-TeX-Encode
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6192,10 +6148,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Test-Base
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Test-CPAN-Meta-JSON
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -6295,10 +6247,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Test-File-ShareDir
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Test-Filename
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6356,10 +6304,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Test-Manifest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Test-Memory-Cycle
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -6551,10 +6495,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Test-Without-Module
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Test-WriteVariants
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6731,10 +6671,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Tie-Cycle
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Tie-DBI
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6871,10 +6807,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-UNIVERSAL-isa
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-UNIVERSAL-require
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6975,10 +6907,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Variable-Magic
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Verilog-Readmem
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6996,10 +6924,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-WWW-GoodData
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-WWW-Mechanize
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -7040,10 +6964,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-XML-CommonNS
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-XML-DOM
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"

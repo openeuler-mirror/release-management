@@ -1495,19 +1495,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: perl-Clone
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: perl-Config-Tiny
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: perl-File-Pid
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: perl-FreezeThaw
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -5233,5 +5225,77 @@ packages:
   date: "2023-04-28"
 - name: astyle
   obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-UNIVERSAL-isa
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Text-CSV_XS
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Text-CSV
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Log-Log4perl
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-XML-DOM
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Task-Weaken
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Test-Memory-Cycle
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-String-Format
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-PPIx-Utils
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-PPIx-Utilities
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-PPIx-QuoteLike
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-PPIx-Regexp
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-PPI
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Pod-Spell
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Lingua-EN-Inflect
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Perl-Critic
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Perl-MinimumVersion
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: perl-Test-MinimumVersion
+  obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: "2023-04-28"
