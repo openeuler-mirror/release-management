@@ -13743,3 +13743,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-28"
+    - name: python-inflect
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-04-28"
