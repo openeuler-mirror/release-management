@@ -12799,10 +12799,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: astyle
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: plasma-systemsettings
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13735,10 +13731,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-26"
-    - name: castxml
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-04-28"
     - name: python-mitmproxy-wireguard
       obs_from: ""
       obs_to: openEuler:Factory

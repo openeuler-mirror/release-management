@@ -5227,3 +5227,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-04-25"
+- name: castxml
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+- name: astyle
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
