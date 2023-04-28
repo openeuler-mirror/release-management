@@ -631,3 +631,14 @@ release-change:
   description: 8564f261 !1026 将python-inflect，python-autocommand，python-jaraco-context从openEuler:Factory工程移到openEuler:Python
   changed_packages: python-inflect python-autocommand python-jaraco-context
   date: 2023-04-28-16-20-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1028
+  description: de7786fd !1028 Move texlive related packages to mainline & Epol
+  changed_packages: perl-UNIVERSAL-isa perl-Text-CSV_XS perl-Text-CSV perl-Log-Log4perl
+    perl-XML-DOM perl-Task-Weaken perl-Test-Memory-Cycle perl-String-Format perl-PPIx-Utils
+    perl-PPIx-Utilities perl-PPIx-QuoteLike perl-PPIx-Regexp perl-PPI perl-Pod-Spell
+    perl-Lingua-EN-Inflect perl-Perl-Critic perl-Perl-MinimumVersion perl-Test-MinimumVersion
+    glm perl-Tie-Cycle perl-CPAN-Meta-Check perl-Ref-Util-XS perl-Clone perl-Variable-Magic
+    perl-FreezeThaw perl-PadWalker perl-Test-Without-Module perl-Test-File-ShareDir
+    perl-Date-ISO8601 perl-ExtUtils-HasCompiler perl-List-UtilsBy perl-Hook-LexWrap
+    perl-Test-CPAN-Meta-JSON perl-WWW-Mechanize
+  date: 2023-04-28-17-52-10
