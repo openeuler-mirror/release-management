@@ -358,3 +358,7 @@ release-change:
   description: 613dcd1f !1022 【轻量级 PR】：remove ukui-search-extensions from 2203-next
   changed_packages: ukui-search-extensions
   date: 2023-04-28-10-03-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1025
+  description: 3550a3a2 !1025 move castxml and astyle to openEuler-Epol
+  changed_packages: castxml astyle
+  date: 2023-04-28-15-36-36
