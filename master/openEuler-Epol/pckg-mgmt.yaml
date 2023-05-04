@@ -5299,3 +5299,8 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: "2023-04-28"
+- name: m1600-driver
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-04-28"
+
