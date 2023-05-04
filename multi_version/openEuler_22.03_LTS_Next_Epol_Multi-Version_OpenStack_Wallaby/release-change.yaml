@@ -48,3 +48,7 @@ release-change:
   changed_packages: python-vitrageclient os-net-config python-ironic-ui spice-html5
     googleapis-common-protos google-api-core
   date: 2023-05-04-14-25-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1036
+  description: d9083f9d !1036 2203 NEXT OpenStack W分支新增python-cachetools
+  changed_packages: python-cachetools
+  date: 2023-05-04-17-55-18
