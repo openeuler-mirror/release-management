@@ -650,3 +650,7 @@ release-change:
   description: 5e17399e !1023 Move OpenStack pkgs to 22.03 LTS Next OpenStack Wallaby
   changed_packages: os-net-config spice-html5
   date: 2023-05-04-14-25-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1034
+  description: 8638a402 !1034  Move lustre from openEuler-Factory to openEuler-Epol
+  changed_packages: lustre
+  date: 2023-05-04-16-03-52
