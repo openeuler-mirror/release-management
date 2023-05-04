@@ -646,3 +646,7 @@ release-change:
   description: 06ee7717 !1019 星云智联驱动制品仓新拉的分支增加obs构建工程
   changed_packages: m1600-driver
   date: 2023-05-04-09-34-35
+- pr: https://gitee.com/openeuler/release-management/pulls/1023
+  description: 5e17399e !1023 Move OpenStack pkgs to 22.03 LTS Next OpenStack Wallaby
+  changed_packages: os-net-config spice-html5
+  date: 2023-05-04-14-25-50
