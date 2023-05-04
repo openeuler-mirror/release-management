@@ -5311,4 +5311,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-05-04"
-
+- name: perl-Test-Taint
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-04"
+- name: perl-DBD-CSV
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-05-04"
+- name: perl-WWW-Mechanize
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: "2023-05-04"
+- name: perl-HTML-Scrubber
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-04"
+- name: perl-Devel-Cycle
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-04"
