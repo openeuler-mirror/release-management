@@ -642,3 +642,7 @@ release-change:
     perl-Date-ISO8601 perl-ExtUtils-HasCompiler perl-List-UtilsBy perl-Hook-LexWrap
     perl-Test-CPAN-Meta-JSON perl-WWW-Mechanize
   date: 2023-04-28-17-52-10
+- pr: https://gitee.com/openeuler/release-management/pulls/1019
+  description: 06ee7717 !1019 星云智联驱动制品仓新拉的分支增加obs构建工程
+  changed_packages: m1600-driver
+  date: 2023-05-04-09-34-35
