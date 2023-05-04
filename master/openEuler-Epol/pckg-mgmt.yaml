@@ -5307,6 +5307,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-05-04"
+- name: lustre
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-04"
 - name: spice-html5
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
