@@ -659,3 +659,8 @@ release-change:
     for tensorflow obs&ebs
   changed_packages: python-tensorboard python-tensorboard-plugin-wit
   date: 2023-05-04-20-50-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1033
+  description: 16cc48be !1033 Move texlive related packages to mainline & Epol
+  changed_packages: perl-Test-Taint perl-DBD-CSV perl-WWW-Mechanize perl-HTML-Scrubber
+    perl-Devel-Cycle R-htmlwidgets
+  date: 2023-05-05-09-13-18
