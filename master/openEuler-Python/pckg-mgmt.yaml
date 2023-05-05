@@ -1703,3 +1703,7 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
   date: "2023-04-28"
+- name: python-contourpy
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-05-05"
