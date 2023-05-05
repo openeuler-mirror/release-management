@@ -52,3 +52,8 @@ release-change:
   description: d9083f9d !1036 2203 NEXT OpenStack W分支新增python-cachetools
   changed_packages: python-cachetools
   date: 2023-05-04-17-55-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1037
+  description: 412b0934 !1037 Move OpenStack pkgs to 22.03 LTS Next OpenStack Wallaby
+  changed_packages: python-gunicorn python-distro openvswitch python-hyperlink python-rtslib
+    python-falcon python-ldap3
+  date: 2023-05-05-09-15-09
