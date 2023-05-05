@@ -3519,10 +3519,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Devel-Cycle
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Devel-Dumpvar
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4116,10 +4112,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-HTML-RewriteAttributes
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-HTML-Scrubber
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -6452,10 +6444,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Test-TCP
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Test-Taint
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12132,10 +12120,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: butane
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: R-htmlwidgets
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"

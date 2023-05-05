@@ -5224,10 +5224,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
-- name: perl-DBD-CSV
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-04-27"
 - name: R-lifecycle
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -5964,7 +5960,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-28"
-- name: perl-WWW-Mechanize
+- name: R-htmlwidgets
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-04-28"
+  date: "2023-05-04"
