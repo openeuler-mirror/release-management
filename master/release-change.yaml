@@ -668,3 +668,8 @@ release-change:
   description: 030854ee !1039 将python-contourpy从openEuler:Factory工程移到openEuler:Python
   changed_packages: python-contourpy
   date: 2023-05-05-16-59-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1038
+  description: b90b7237 !1038 move python-cson&python-speg from master:Factory to
+    master:Mainline for asymptote obs&ebs
+  changed_packages: python-cson python-speg
+  date: 2023-05-05-17-30-22
