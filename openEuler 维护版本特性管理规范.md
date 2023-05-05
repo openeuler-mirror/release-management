@@ -1,10 +1,10 @@
 # openEuler 维护版本特性管理规范
 
-Update版本发布更新基于 OpenEuler 各个生命周期内的 LTS 版本分支的CVE漏洞修复和BUGFIX。版本计划、需求管理、特性开发及代码检车等均通过release-manangement SIG 完成。
+Update版本发布更新基于 openEuler 各个生命周期内的 LTS 版本分支的CVE漏洞修复和BUGFIX。版本计划、需求管理、特性开发及代码检车等均通过release-manangement SIG 完成。
 
 ## 新引入特性
 
-openEuler 长周期支持版本旨在为社区用户提供稳定、高质量的版本体验。因此对维护版本新特性合入采取强质量管理策略，特性引入需满足一下条件，方可获准引入openEuler LTS 版本
+openEuler LTS（长周期支持）版本旨在为社区用户提供稳定、高质量的版本体验。因此对维护版本新特性合入采取强质量管理策略，特性引入需满足以下条件，方可获准引入openEuler LTS 版本
 
 ![update](Pictures/update流程.png)
 
