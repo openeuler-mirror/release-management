@@ -374,3 +374,7 @@ release-change:
   description: ecdd1959 !1031 Add lustre to openEuler-22.03-LTS-Next EPOL rpm repo
   changed_packages: lustre
   date: 2023-05-05-09-06-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1032
+  description: 1bdea71a !1032 add dtkcommon to openEuler-22.03-LTS-Next EPOL rpm repo
+  changed_packages: dtkcommon
+  date: 2023-05-05-10-16-28
