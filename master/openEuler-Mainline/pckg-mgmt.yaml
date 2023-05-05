@@ -5900,6 +5900,14 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-04-27"
+- name: python-cson
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-05-05"
+- name: python-speg
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-05-05"
 - name: glm
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
