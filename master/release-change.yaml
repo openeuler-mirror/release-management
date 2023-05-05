@@ -664,3 +664,7 @@ release-change:
   changed_packages: perl-Test-Taint perl-DBD-CSV perl-WWW-Mechanize perl-HTML-Scrubber
     perl-Devel-Cycle R-htmlwidgets
   date: 2023-05-05-09-13-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1039
+  description: 030854ee !1039 将python-contourpy从openEuler:Factory工程移到openEuler:Python
+  changed_packages: python-contourpy
+  date: 2023-05-05-16-59-37
