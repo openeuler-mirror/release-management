@@ -5335,3 +5335,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-05-04"
+- name: perl-Test-Differences
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-08"
+- name: perl-XML-RegExp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-08"
