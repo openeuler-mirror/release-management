@@ -673,3 +673,7 @@ release-change:
     master:Mainline for asymptote obs&ebs
   changed_packages: python-cson python-speg
   date: 2023-05-05-17-30-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1043
+  description: 1a0781a7 !1043 Move perl packages & Move libb2 for qt6
+  changed_packages: perl-Test-Differences perl-XML-RegExp libb2
+  date: 2023-05-08-17-14-40
