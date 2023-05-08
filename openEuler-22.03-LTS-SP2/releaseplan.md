@@ -32,3 +32,4 @@
 |[I6YL4A](https://gitee.com/openeuler/release-management/issues/I6YL4A)|内核新增UKFEF功能|Discussion|sig-kernel|[@wenzhiwei11](https://gitee.com/wenzhiwei11/)|
 |[I6YLKL](https://gitee.com/openeuler/release-management/issues/I6YLKL)|内核支持Group identity功能|Discussion|sig-kernel|[@wenzhiwei11](https://gitee.com/wenzhiwei11/)|
 |[I6WSXH](https://gitee.com/openeuler/release-management/issues/I6WSXH)|新增kunpengsecl软件包支持平台和TEE远程证明|Discussion|sig-security-facility|[@gwei3](https://gitee.com/gwei3/)|
+|[I71EFN](https://gitee.com/openeuler/release-management/issues/I71EFN)|secGear特性增强|Developing|sig-confidential-computing|[@houmingyong](https://gitee.com/houmingyong/)|
