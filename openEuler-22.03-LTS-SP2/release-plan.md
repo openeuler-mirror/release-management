@@ -5,8 +5,8 @@
 |Develop|2023-03-24|2023-05-09|46|特性完成开发，合入22.03 LTS-Next|
 |Kernel freezing|2023-05-03|2023-05-09|6|内核冻结|
 |变更检查&Build|2023-05-10|2023-05-16|6|22.03-LTS Next分支发起软件包淘汰评审&22.03-LTS SP2版本DailyBuild|
-|Alpha|2023-05-17|2023-05-23|7|开发自验证|
-|Beta|2023-05-24|2023-06-02|7|22.03-LTS SP2 Beta版本发布|
+|Test round 1|2023-05-17|2023-05-23|7|开发自验证|
+|Test round 2|2023-05-24|2023-06-02|7|22.03-LTS SP2 Beta版本发布|
 |Test round 3|2023-06-03|2023-06-09|7|全量SIT验证|
 |Test round 4|2023-06-10|2023-06-16|7|全量SIT验证，版本分支代码冻结：管控合入，原则上只允许bug fix|
 |Test round 5|2023-06-17|2023-06-23|7|回归测试|
@@ -46,7 +46,6 @@
 |[I727NW](https://gitee.com/openeuler/release-management/issues/I727NW)|Rubik混部支持精细化资源QoS感知和控制|Developing|sig-CloudNative|[@jing-rui](https://gitee.com/jing-rui/)|
 |[I727H4](https://gitee.com/openeuler/release-management/issues/I727H4)|支持 sysmonitor 特性|Developing|sig-ops|[@cp3yeye](https://gitee.com/cp3yeye/)|
 |[I727E2](https://gitee.com/openeuler/release-management/issues/I727E2)|Gazelle新增支持UDP协议|Developing|sig-high-performance-network|[@kircher](https://gitee.com/kircher/)|
-|[I727D6](https://gitee.com/openeuler/release-management/issues/I727D6)|Gazelle新增支持bond4特性（网卡）|Developing|sig-high-performance-network|[@kircher](https://gitee.com/kircher/)|
 |[I727A5](https://gitee.com/openeuler/release-management/issues/I727A5)|安全配置规范框架设计及核心内容构建|Developing|sig-ops|[@yunjia_w](https://gitee.com/yunjia_w/)|
 |[I6YYUC](https://gitee.com/openeuler/release-management/issues/I6YYUC)|gala-gopher新增性能火焰图、线程级性能Profiling特性|Reject|sig-ops|[@Vchanger](https://gitee.com/Vchanger/)|
 |[I6YBPV](https://gitee.com/openeuler/release-management/issues/I6YBPV)|5.10内核hisi_sec2 hisi_hpre hisi_zip模块支持nosva特性|Developing|Kernel|[@realzhongkeyi](https://gitee.com/realzhongkeyi/)|
