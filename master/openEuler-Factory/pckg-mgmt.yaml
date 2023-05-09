@@ -13751,3 +13751,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: rc_genicam_api
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
