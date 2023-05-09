@@ -13983,3 +13983,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: zenoh-plugin-dds
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
