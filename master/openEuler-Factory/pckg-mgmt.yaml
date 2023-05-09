@@ -14723,3 +14723,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: FluentRviz
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
