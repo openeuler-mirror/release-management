@@ -14279,3 +14279,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: kobuki_ros_interfaces
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
