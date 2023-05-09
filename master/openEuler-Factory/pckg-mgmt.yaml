@@ -14215,3 +14215,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: raspimouse_description
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
