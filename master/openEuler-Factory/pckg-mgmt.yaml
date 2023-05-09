@@ -14407,3 +14407,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: point_cloud_msg_wrapper
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
