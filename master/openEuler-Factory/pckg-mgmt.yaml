@@ -14135,3 +14135,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: domain_bridge
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
