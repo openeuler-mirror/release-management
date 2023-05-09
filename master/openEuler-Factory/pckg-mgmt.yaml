@@ -13743,3 +13743,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: ros_gz
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
