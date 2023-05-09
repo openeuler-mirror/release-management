@@ -13715,3 +13715,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: pybind11_vendor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
