@@ -14003,3 +14003,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: libg2o-release
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
