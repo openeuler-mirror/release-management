@@ -14591,3 +14591,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: rt_usb_9axisimu_driver
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
