@@ -14051,3 +14051,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: py_trees_ros
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-09"
