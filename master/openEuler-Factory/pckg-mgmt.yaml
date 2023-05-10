@@ -14831,3 +14831,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-10"
+    - name: xchm
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-10"
