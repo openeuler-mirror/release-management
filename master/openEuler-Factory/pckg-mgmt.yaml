@@ -14875,3 +14875,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-10"
+    - name: lyx
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-10"
