@@ -14815,3 +14815,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
+    - name: gnumeric
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-10"
