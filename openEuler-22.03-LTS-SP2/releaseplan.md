@@ -34,3 +34,6 @@
 |[I6WSXH](https://gitee.com/openeuler/release-management/issues/I6WSXH)|新增kunpengsecl软件包支持平台和TEE远程证明|Discussion|sig-security-facility|[@gwei3](https://gitee.com/gwei3/)|
 |[I71EFN](https://gitee.com/openeuler/release-management/issues/I71EFN)|secGear特性增强|Developing|sig-confidential-computing|[@houmingyong](https://gitee.com/houmingyong/)|
 |[I71DTI](https://gitee.com/openeuler/release-management/issues/I71DTI)|支持embedded版本|Discussion|sig-embedded||
+|[I71TYY](https://gitee.com/openeuler/release-management/issues/I71TYY)|新增通用编译环境制作能力|Discussion|sig-OS-Builder|[@chen-huihan](https://gitee.com/chen-huihan/)|
+|[I71TEN](https://gitee.com/openeuler/release-management/issues/I71TEN)|支持qcow2格式镜像制作|Discussion|sig-Gatekeeper|[@chen-huihan](https://gitee.com/chen-huihan/)|
+|[I71TS7](https://gitee.com/openeuler/release-management/issues/I71TS7)|oemaker特性增强|Discussion|sig-OS-Builder|[@zhuchunyi](https://gitee.com/zhuchunyi/)|
