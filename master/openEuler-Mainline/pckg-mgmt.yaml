@@ -5976,3 +5976,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-05-08"
+- name: qt6
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-05-10"
