@@ -5980,3 +5980,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-05-10"
+- name: native-turbo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-05-11"
