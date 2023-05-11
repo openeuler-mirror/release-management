@@ -37,3 +37,4 @@
 |[I71TYY](https://gitee.com/openeuler/release-management/issues/I71TYY)|新增通用编译环境制作能力|Discussion|sig-OS-Builder|[@chen-huihan](https://gitee.com/chen-huihan/)|
 |[I71TEN](https://gitee.com/openeuler/release-management/issues/I71TEN)|支持qcow2格式镜像制作|Discussion|sig-Gatekeeper|[@chen-huihan](https://gitee.com/chen-huihan/)|
 |[I71TS7](https://gitee.com/openeuler/release-management/issues/I71TS7)|oemaker特性增强|Discussion|sig-OS-Builder|[@zhuchunyi](https://gitee.com/zhuchunyi/)|
+|[I71V5A](https://gitee.com/openeuler/release-management/issues/I71V5A)|回合bwm特性，支持面向容器的网络带宽调度策略|Developing|sig-high-performance-network|[@kwb0523](https://gitee.com/kwb0523/)|
