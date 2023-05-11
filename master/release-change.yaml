@@ -677,3 +677,7 @@ release-change:
   description: 1a0781a7 !1043 Move perl packages & Move libb2 for qt6
   changed_packages: perl-Test-Differences perl-XML-RegExp libb2
   date: 2023-05-08-17-14-40
+- pr: https://gitee.com/openeuler/release-management/pulls/1048
+  description: 5fdbc923 !1048 Move qt6 to Mainline
+  changed_packages: qt6
+  date: 2023-05-11-09-54-17
