@@ -681,3 +681,7 @@ release-change:
   description: 5fdbc923 !1048 Move qt6 to Mainline
   changed_packages: qt6
   date: 2023-05-11-09-54-17
+- pr: https://gitee.com/openeuler/release-management/pulls/1052
+  description: ab75932a !1052 add native turbo to 22.03-LTS-Next
+  changed_packages: native-turbo
+  date: 2023-05-11-17-00-04
