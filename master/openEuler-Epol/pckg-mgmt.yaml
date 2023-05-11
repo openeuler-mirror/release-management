@@ -5343,3 +5343,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-05-08"
+- name: gammaray
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-11"
