@@ -38,3 +38,17 @@
 |[I71TEN](https://gitee.com/openeuler/release-management/issues/I71TEN)|支持qcow2格式镜像制作|Discussion|sig-Gatekeeper|[@chen-huihan](https://gitee.com/chen-huihan/)|
 |[I71TS7](https://gitee.com/openeuler/release-management/issues/I71TS7)|oemaker特性增强|Discussion|sig-OS-Builder|[@zhuchunyi](https://gitee.com/zhuchunyi/)|
 |[I71V5A](https://gitee.com/openeuler/release-management/issues/I71V5A)|回合bwm特性，支持面向容器的网络带宽调度策略|Developing|sig-high-performance-network|[@kwb0523](https://gitee.com/kwb0523/)|
+|[I72C4A](https://gitee.com/openeuler/release-management/issues/I72C4A)|开发流水线打通构建/compass-ci/测试radiaTest 3大服务|Developing|sig-QA|[@disnight](https://gitee.com/disnight/)|
+|[I729JF](https://gitee.com/openeuler/release-management/issues/I729JF)|发布kiran-desktop 2.5版本|Developing|sig-KIRAN-DESKTOP||
+|[I727Q4](https://gitee.com/openeuler/release-management/issues/I727Q4)|iSulad支持K8S 1.24 /1.25版本|Developing|iSulad||
+|[I727OZ](https://gitee.com/openeuler/release-management/issues/I727OZ)|CICD支持：实现热补丁流水线发布，用户可以通过补丁服务制作补丁|Developing|sig-ops|[@solarhu](https://gitee.com/solarhu/)|
+|[I727OP](https://gitee.com/openeuler/release-management/issues/I727OP)|热补丁服务：热补丁流水线/管理框架，支持热补丁发布|Developing|sig-ops|[@solarhu](https://gitee.com/solarhu/)|
+|[I727NW](https://gitee.com/openeuler/release-management/issues/I727NW)|Rubik混部支持精细化资源QoS感知和控制|Developing|sig-CloudNative|[@jing-rui](https://gitee.com/jing-rui/)|
+|[I727H4](https://gitee.com/openeuler/release-management/issues/I727H4)|支持 sysmonitor 特性|Developing|sig-ops|[@cp3yeye](https://gitee.com/cp3yeye/)|
+|[I727E2](https://gitee.com/openeuler/release-management/issues/I727E2)|Gazelle新增支持UDP协议|Developing|sig-high-performance-network|[@kircher](https://gitee.com/kircher/)|
+|[I727D6](https://gitee.com/openeuler/release-management/issues/I727D6)|Gazelle新增支持bond4特性（网卡）|Developing|sig-high-performance-network|[@kircher](https://gitee.com/kircher/)|
+|[I727A5](https://gitee.com/openeuler/release-management/issues/I727A5)|安全配置规范框架设计及核心内容构建|Developing|sig-ops|[@yunjia_w](https://gitee.com/yunjia_w/)|
+|[I6YYUC](https://gitee.com/openeuler/release-management/issues/I6YYUC)|gala-gopher新增性能火焰图、线程级性能Profiling特性|Developing|sig-ops|[@Vchanger](https://gitee.com/Vchanger/)|
+|[I6YBPV](https://gitee.com/openeuler/release-management/issues/I6YBPV)|5.10内核hisi_sec2 hisi_hpre hisi_zip模块支持nosva特性|Developing|Kernel|[@realzhongkeyi](https://gitee.com/realzhongkeyi/)|
+|[I6UAMM](https://gitee.com/openeuler/release-management/issues/I6UAMM)|新增NestOS K8S部署方案|Developing|SIG-K8s-Distro|[@duyiwei7w](https://gitee.com/duyiwei7w/)|
+|[I6PXNE](https://gitee.com/openeuler/release-management/issues/I6PXNE)|Kernel新增星云智联板卡N1045XS网卡驱动|Developing|Kernel|[@nebula_matrix](https://gitee.com/nebula_matrix/)|
