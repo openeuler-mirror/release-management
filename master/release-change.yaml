@@ -685,3 +685,7 @@ release-change:
   description: ab75932a !1052 add native turbo to 22.03-LTS-Next
   changed_packages: native-turbo
   date: 2023-05-11-17-00-04
+- pr: https://gitee.com/openeuler/release-management/pulls/1051
+  description: 57c7176b !1051 Add gammaray to openEuler-22.03-LTS-Next
+  changed_packages: gammaray
+  date: 2023-05-12-09-14-06
