@@ -689,3 +689,7 @@ release-change:
   description: 57c7176b !1051 Add gammaray to openEuler-22.03-LTS-Next
   changed_packages: gammaray
   date: 2023-05-12-09-14-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1054
+  description: 553bac93 !1054 Move dlm from factory to mainline
+  changed_packages: dlm
+  date: 2023-05-12-14-42-13
