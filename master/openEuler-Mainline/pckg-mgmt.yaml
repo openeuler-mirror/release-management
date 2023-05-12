@@ -5984,3 +5984,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-05-11"
+- name: dlm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-05-12"
