@@ -14943,3 +14943,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-11"
+    - name: python-pyinstaller-hooks-contrib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-12"
