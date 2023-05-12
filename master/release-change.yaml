@@ -693,3 +693,8 @@ release-change:
   description: 553bac93 !1054 Move dlm from factory to mainline
   changed_packages: dlm
   date: 2023-05-12-14-42-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1055
+  description: 702d73c0 !1055 Move python-maturin and python-mitmproxy-wireguard from
+    factory to python
+  changed_packages: python-mitmproxy-wireguard python-maturin
+  date: 2023-05-12-14-56-24
