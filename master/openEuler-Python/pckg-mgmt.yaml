@@ -1707,3 +1707,11 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
   date: "2023-05-05"
+- name: python-mitmproxy-wireguard
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-05-12"
+- name: python-maturin
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-05-12" 
