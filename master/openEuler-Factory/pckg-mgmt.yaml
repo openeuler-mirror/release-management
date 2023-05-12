@@ -13587,10 +13587,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-26"
-    - name: python-mitmproxy-wireguard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-04-28"
     - name: rviz_visual_tools
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14940,10 +14936,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-05-11"
     - name: python-pyinstaller-hooks-contrib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-12"
-    - name: python-maturin
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-12"
