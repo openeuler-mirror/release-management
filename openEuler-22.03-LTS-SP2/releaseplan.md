@@ -39,7 +39,7 @@
 |[I71TS7](https://gitee.com/openeuler/release-management/issues/I71TS7)|oemaker特性增强|Discussion|sig-OS-Builder|[@zhuchunyi](https://gitee.com/zhuchunyi/)|
 |[I71V5A](https://gitee.com/openeuler/release-management/issues/I71V5A)|回合bwm特性，支持面向容器的网络带宽调度策略|Developing|sig-high-performance-network|[@kwb0523](https://gitee.com/kwb0523/)|
 |[I72C4A](https://gitee.com/openeuler/release-management/issues/I72C4A)|开发流水线打通构建/compass-ci/测试radiaTest 3大服务|Developing|sig-QA|[@disnight](https://gitee.com/disnight/)|
-|[I729JF](https://gitee.com/openeuler/release-management/issues/I729JF)|发布kiran-desktop 2.5版本|Developing|sig-KIRAN-DESKTOP||
+|[I729JF](https://gitee.com/openeuler/release-management/issues/I729JF)|发布kiran-desktop 2.5版本|Discussion|sig-KIRAN-DESKTOP|[@tangjie02](https://gitee.com/tangjie02/)|
 |[I727Q4](https://gitee.com/openeuler/release-management/issues/I727Q4)|iSulad支持K8S 1.24 /1.25版本|Developing|iSulad||
 |[I727OZ](https://gitee.com/openeuler/release-management/issues/I727OZ)|CICD支持：实现热补丁流水线发布，用户可以通过补丁服务制作补丁|Developing|sig-ops|[@solarhu](https://gitee.com/solarhu/)|
 |[I727OP](https://gitee.com/openeuler/release-management/issues/I727OP)|热补丁服务：热补丁流水线/管理框架，支持热补丁发布|Developing|sig-ops|[@solarhu](https://gitee.com/solarhu/)|
