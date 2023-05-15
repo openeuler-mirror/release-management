@@ -703,3 +703,7 @@ release-change:
     for it.
   changed_packages: hmdfs
   date: 2023-05-15-16-21-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1060
+  description: 2df76aa3 !1060 将python-pyinstaller-hooks-contrib包从openEuler:Factory工程移到openEuler:Python
+  changed_packages: python-pyinstaller-hooks-contrib
+  date: 2023-05-15-16-43-36
