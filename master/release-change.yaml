@@ -711,3 +711,8 @@ release-change:
   description: cd632475 !1058 Move qt6-qtbase to Qt
   changed_packages: qt6-qtbase
   date: 2023-05-15-20-33-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1062
+  description: 2a24b428 !1062 move python-dill from master:Factory to master:Python
+    for pylint obs&ebs
+  changed_packages: python-dill
+  date: 2023-05-15-20-35-19
