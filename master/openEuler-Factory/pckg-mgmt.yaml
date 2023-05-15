@@ -8083,10 +8083,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-dill
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-dingz
       obs_from: ""
       obs_to: openEuler:Factory

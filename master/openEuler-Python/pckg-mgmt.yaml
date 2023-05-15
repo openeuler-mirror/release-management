@@ -1719,3 +1719,7 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
   date: "2023-05-15" 
+- name: python-dill
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-05-15" 
