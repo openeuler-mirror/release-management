@@ -119,3 +119,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
   date: '2022-12-20'
+- name: qt6-qtbase
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-05-15"
