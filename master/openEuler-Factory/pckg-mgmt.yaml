@@ -13583,10 +13583,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-04-04"
-    - name: hmdfs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-04-26"
     - name: rviz_visual_tools
       obs_from: ""
       obs_to: openEuler:Factory
