@@ -698,3 +698,8 @@ release-change:
     factory to python
   changed_packages: python-mitmproxy-wireguard python-maturin
   date: 2023-05-12-14-56-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1061
+  description: da9dfb6e !1061 move hmdfs from factory to epol, and add openEuler-22.03-LTS-Next
+    for it.
+  changed_packages: hmdfs
+  date: 2023-05-15-16-21-26
