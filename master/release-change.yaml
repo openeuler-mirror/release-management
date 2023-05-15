@@ -707,3 +707,7 @@ release-change:
   description: 2df76aa3 !1060 将python-pyinstaller-hooks-contrib包从openEuler:Factory工程移到openEuler:Python
   changed_packages: python-pyinstaller-hooks-contrib
   date: 2023-05-15-16-43-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1058
+  description: cd632475 !1058 Move qt6-qtbase to Qt
+  changed_packages: qt6-qtbase
+  date: 2023-05-15-20-33-59
