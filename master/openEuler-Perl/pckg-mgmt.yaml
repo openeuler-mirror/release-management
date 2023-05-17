@@ -91,3 +91,15 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Perl
   date: '2022-07-26'
+- name: perl-XS-Parse-Keyword
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: '2023-05-17'
+- name: perl-ExtUtils-CChecker
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: '2023-05-17'
+- name: perl-Syntax-Keyword-Try
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: '2023-05-17'
