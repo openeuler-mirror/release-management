@@ -720,3 +720,8 @@ release-change:
   description: e09c3928 !1067 将perl-XS-Parse-Keyword和perl-ExtUtils-CChecke以及perl-Syntax-Keyword-Try包从openEuler:Factory工程移到openEuler:Perl
   changed_packages: perl-XS-Parse-Keyword perl-ExtUtils-CChecker perl-Syntax-Keyword-Try
   date: 2023-05-17-14-48-39
+- pr: https://gitee.com/openeuler/release-management/pulls/1068
+  description: fd84816a !1068 Move python-requests-unixsocket ephemeral-port-reserve
+    from factory to Python
+  changed_packages: ephemeral-port-reserve python-requests-unixsocket
+  date: 2023-05-17-17-56-11
