@@ -716,3 +716,7 @@ release-change:
     for pylint obs&ebs
   changed_packages: python-dill
   date: 2023-05-15-20-35-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1067
+  description: e09c3928 !1067 将perl-XS-Parse-Keyword和perl-ExtUtils-CChecke以及perl-Syntax-Keyword-Try包从openEuler:Factory工程移到openEuler:Perl
+  changed_packages: perl-XS-Parse-Keyword perl-ExtUtils-CChecker perl-Syntax-Keyword-Try
+  date: 2023-05-17-14-48-39
