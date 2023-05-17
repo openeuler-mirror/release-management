@@ -3771,10 +3771,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-ExtUtils-CChecker
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-ExtUtils-InferConfig
       obs_from: ""
       obs_to: openEuler:Factory
@@ -5976,10 +5972,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Syntax-Keyword-Junction
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Syntax-Keyword-Try
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14939,10 +14931,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-15"
-    - name: perl-XS-Parse-Keyword
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-17"
     - name: ephemeral-port-reserve
       obs_from: ""
       obs_to: openEuler:Factory
