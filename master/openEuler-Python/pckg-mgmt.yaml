@@ -1723,3 +1723,11 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
   date: "2023-05-15" 
+- name: ephemeral-port-reserve
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-05-17"
+- name: python-requests-unixsocket
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-05-17"
