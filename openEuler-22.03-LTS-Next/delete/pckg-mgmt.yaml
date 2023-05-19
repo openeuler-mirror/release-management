@@ -24,3 +24,4 @@ packages:
 - name: drbd
 - name: kmod-drbd90
 - name: ukui-search-extensions
+- name: python-openvswitch
