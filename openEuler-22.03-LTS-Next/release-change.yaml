@@ -391,3 +391,7 @@ release-change:
     for it.
   changed_packages: hmdfs
   date: 2023-05-15-16-21-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1072
+  description: 98d9d8a9 !1072 从openEuler-22.03-LTS-Next和openEuler-22.03-LTS-SP2分支删除python-openvswitch
+  changed_packages: booth python-openvswitch
+  date: 2023-05-22-17-16-18
