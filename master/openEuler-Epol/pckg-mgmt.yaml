@@ -5355,4 +5355,12 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-05-23"
+- name: kylin-weather
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-23"
+- name: ukui-biometric-manager
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-23"
 
