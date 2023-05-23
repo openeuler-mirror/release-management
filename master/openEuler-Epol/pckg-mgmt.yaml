@@ -5351,3 +5351,8 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-05-15"
+- name: tpm2-tss-engine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-05-23"
+
