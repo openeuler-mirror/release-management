@@ -11,3 +11,7 @@ release-change:
   description: 974375e8 !1077 create native-turbo in 22.03-LTS-SP2 OBS
   changed_packages: native-turbo
   date: 2023-05-23-11-37-35
+- pr: https://gitee.com/openeuler/release-management/pulls/1079
+  description: d11dca90 !1079 create openEuler-22.03-LTS-SP2 for ukui
+  changed_packages: kylin-weather stb qtav ukui-biometric-manager ukui-clock
+  date: 2023-05-23-22-26-43

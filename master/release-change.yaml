@@ -730,3 +730,7 @@ release-change:
     master:Python for pylint upgrade
   changed_packages: python-poetry-core python-tomlkit
   date: 2023-05-23-09-20-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1079
+  description: d11dca90 !1079 create openEuler-22.03-LTS-SP2 for ukui
+  changed_packages: tpm2-tss-engine kylin-weather ukui-biometric-manager
+  date: 2023-05-23-22-26-43
