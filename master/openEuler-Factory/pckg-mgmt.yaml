@@ -14919,10 +14919,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-12"
-    - name: tpm2-tss-engine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-13"
     - name: fisher
       obs_from: ""
       obs_to: openEuler:Factory
