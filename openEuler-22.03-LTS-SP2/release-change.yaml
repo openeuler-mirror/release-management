@@ -3,3 +3,7 @@ release-change:
   description: 98d9d8a9 !1072 从openEuler-22.03-LTS-Next和openEuler-22.03-LTS-SP2分支删除python-openvswitch
   changed_packages: python-openvswitch
   date: 2023-05-22-17-16-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1074
+  description: 7c9631dc !1074 在22.03 LTS SP2中新增kunpengsecl软件包
+  changed_packages: kunpengsecl
+  date: 2023-05-23-10-57-00
