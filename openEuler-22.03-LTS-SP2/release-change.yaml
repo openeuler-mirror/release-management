@@ -7,3 +7,7 @@ release-change:
   description: 7c9631dc !1074 在22.03 LTS SP2中新增kunpengsecl软件包
   changed_packages: kunpengsecl
   date: 2023-05-23-10-57-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1077
+  description: 974375e8 !1077 create native-turbo in 22.03-LTS-SP2 OBS
+  changed_packages: native-turbo
+  date: 2023-05-23-11-37-35
