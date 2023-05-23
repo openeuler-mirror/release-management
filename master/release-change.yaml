@@ -725,3 +725,8 @@ release-change:
     from factory to Python
   changed_packages: ephemeral-port-reserve python-requests-unixsocket
   date: 2023-05-17-17-56-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1075
+  description: c75df0bb !1075 move tomlkit and poetry-core from master:Factory to
+    master:Python for pylint upgrade
+  changed_packages: python-poetry-core python-tomlkit
+  date: 2023-05-23-09-20-24
