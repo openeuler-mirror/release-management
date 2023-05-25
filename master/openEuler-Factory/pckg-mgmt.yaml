@@ -14931,3 +14931,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
+    - name: libcoap
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-25"
