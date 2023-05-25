@@ -14987,3 +14987,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
+    - name: notification_common_event_service
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-25"
