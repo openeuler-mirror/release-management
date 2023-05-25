@@ -15003,3 +15003,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
+    - name: tpm2-openssl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-25"
