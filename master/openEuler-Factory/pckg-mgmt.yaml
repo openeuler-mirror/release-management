@@ -15023,3 +15023,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-26"
+    - name: python-pytest-benchmark
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-26"
