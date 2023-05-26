@@ -734,3 +734,8 @@ release-change:
   description: d11dca90 !1079 create openEuler-22.03-LTS-SP2 for ukui
   changed_packages: tpm2-tss-engine kylin-weather ukui-biometric-manager
   date: 2023-05-23-22-26-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1085
+  description: f099870d !1085 move phonon-qt4 from master:Factory to master:Mainline
+    for PyQt4 ebs&obs
+  changed_packages: phonon-qt4
+  date: 2023-05-26-16-09-24
