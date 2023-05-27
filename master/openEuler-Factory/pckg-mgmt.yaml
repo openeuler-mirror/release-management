@@ -15031,3 +15031,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-26"
+    - name: kf5-akonadi-calendar
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-27"
