@@ -123,3 +123,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
   date: "2023-05-15"
+- name: qt6-qtdeclarative
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-05-29"
+- name: qt6-qtdoc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-05-29"
+- name: qt6-qtimageformats
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-05-29"
+- name: qt6-qtshadertools
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-05-29"

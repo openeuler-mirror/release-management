@@ -13347,10 +13347,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-16"
-    - name: qt6-qtdoc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
     - name: qt6-qtwebchannel
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13367,10 +13363,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-16"
-    - name: qt6-qtshadertools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
     - name: qt6-qtserialbus
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13383,19 +13375,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-16"
-    - name: qt6-qtimageformats
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
     - name: qt6-qtwebsockets
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-16"
     - name: qt6-qtcharts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
-    - name: qt6-qtdeclarative
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-16"
