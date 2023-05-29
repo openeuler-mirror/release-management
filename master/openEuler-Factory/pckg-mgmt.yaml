@@ -15059,3 +15059,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-27"
+    - name: rust-bindgen
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-29"
