@@ -15115,3 +15115,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
+    - name: ros-octomap
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-31"
