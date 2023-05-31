@@ -15079,3 +15079,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
+    - name: python-rospkg
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-31"
