@@ -15131,3 +15131,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
+    - name: metslib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-31"
