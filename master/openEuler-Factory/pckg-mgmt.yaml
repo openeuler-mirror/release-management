@@ -15083,3 +15083,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
+    - name: python-catkin_sphinx
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-05-31"
