@@ -15175,3 +15175,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-02"
+    - name: qt6-qtopcua
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-02"
