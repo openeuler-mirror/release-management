@@ -1,2 +1,6 @@
 packages:
 - name: python-openvswitch
+- name: dtkcore2
+- name: dtkwidget2
+- name: dtkwm
+- name: deepin-music
