@@ -131,6 +131,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-rich
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-06-01'
 - name: python-Flask-SQLAlchemy
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
