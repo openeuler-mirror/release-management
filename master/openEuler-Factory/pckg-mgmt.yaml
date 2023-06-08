@@ -15119,3 +15119,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-08"
+    - name: lttng-tools
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-08"
