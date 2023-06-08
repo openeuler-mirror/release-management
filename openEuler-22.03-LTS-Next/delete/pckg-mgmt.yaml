@@ -25,3 +25,7 @@ packages:
 - name: kmod-drbd90
 - name: ukui-search-extensions
 - name: python-openvswitch
+- name: dtkcore2
+- name: dtkwidget2
+- name: dtkwm
+- name: deepin-music
