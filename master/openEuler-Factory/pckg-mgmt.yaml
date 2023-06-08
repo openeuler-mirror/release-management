@@ -15115,3 +15115,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-08"
+    - name: openni
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-08"
