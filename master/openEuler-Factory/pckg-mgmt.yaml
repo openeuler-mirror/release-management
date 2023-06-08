@@ -9523,10 +9523,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-py-cpuinfo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-py-make
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14932,10 +14928,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-05-26"
     - name: python-build
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
-    - name: python-pytest-benchmark
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-26"
