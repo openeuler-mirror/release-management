@@ -15135,3 +15135,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-09"
+    - name: libkolabxml
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-09"
