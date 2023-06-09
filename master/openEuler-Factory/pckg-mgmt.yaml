@@ -15139,3 +15139,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-09"
+    - name: kdepim-runtime
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-09"
