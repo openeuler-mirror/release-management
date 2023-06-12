@@ -4673,6 +4673,12 @@ packages:
   obs_from: openEuler:BaseTools
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-11-04'
+- name: gcc-7
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-06-12'
 - name: WALinuxAgent
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
