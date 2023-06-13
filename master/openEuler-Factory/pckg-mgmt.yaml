@@ -15175,3 +15175,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-12"
+    - name: python-hug
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-13"
