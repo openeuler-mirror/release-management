@@ -2327,12 +2327,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP2:Epol
   date: '2023-05-12'
-- name: deepin-music
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP2
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP2:Epol
-  date: '2023-05-12'
 - name: kdevelop
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP2
@@ -2754,12 +2748,6 @@ packages:
   obs_to: openEuler:22.03:LTS:SP2:Epol
   date: '2023-05-12'
 - name: dde-device-formatter
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP2
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP2:Epol
-  date: '2023-05-12'
-- name: dtkwm
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP2
   obs_from: openEuler:22.03:LTS:Next:Epol
@@ -3605,12 +3593,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP2:Epol
   date: '2023-05-12'
-- name: dtkwidget2
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP2
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP2:Epol
-  date: '2023-05-12'
 - name: dde-introduction
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP2
@@ -3786,12 +3768,6 @@ packages:
   obs_to: openEuler:22.03:LTS:SP2:Epol
   date: '2023-05-12'
 - name: kubekey
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP2
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP2:Epol
-  date: '2023-05-12'
-- name: dtkcore2
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP2
   obs_from: openEuler:22.03:LTS:Next:Epol
