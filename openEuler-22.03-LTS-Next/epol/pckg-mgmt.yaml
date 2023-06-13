@@ -2333,12 +2333,6 @@ packages:
   obs_from: openEuler:21.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-08-30'
-- name: deepin-music
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2022-08-30'
 - name: kdevelop
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -2766,12 +2760,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-08-30'
 - name: dde-device-formatter
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2022-08-30'
-- name: dtkwm
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09:Epol
@@ -3617,12 +3605,6 @@ packages:
   obs_from: openEuler:21.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-08-30'
-- name: dtkwidget2
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2022-08-30'
 - name: dde-introduction
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
@@ -3798,12 +3780,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-08-30'
 - name: kubekey
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2022-08-30'
-- name: dtkcore2
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09:Epol
@@ -5171,7 +5147,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-05-23'
-- name:  ukui-biometric-manager
+- name: ukui-biometric-manager
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol
@@ -5237,4 +5213,3 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-06-02'
-
