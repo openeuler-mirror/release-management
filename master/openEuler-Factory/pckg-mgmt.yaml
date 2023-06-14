@@ -15103,10 +15103,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-08"
-    - name: python-argon2-cffi-bindings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-09"
     - name: kuasar
       obs_from: ""
       obs_to: openEuler:Factory
