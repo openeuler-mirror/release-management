@@ -1751,3 +1751,19 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Python
   date: "2023-06-08"
+- name: python-tox-current-env
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-06-14"
+- name: pyproject-api
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-06-14"
+- name: pyproject-hooks
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-06-14"
+- name: python-plette
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-06-14"
