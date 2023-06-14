@@ -14915,10 +14915,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-26"
-    - name: python-tox-current-env
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
     - name: python-libcst
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15071,19 +15067,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
-    - name: pyproject-hooks
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
     - name: python-vistir
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
     - name: python-pip-shims
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-plette
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
@@ -15196,10 +15184,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-13"
     - name: python-diff-cover
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
-    - name: pyproject-api
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-13"
