@@ -2591,10 +2591,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-pytest-relaxed
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-pytimeparse
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5359,4 +5355,8 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-06-12"
+- name: python-argon2-cffi-bindings
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-15"
 
