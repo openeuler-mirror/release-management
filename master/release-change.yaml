@@ -739,3 +739,7 @@ release-change:
     for PyQt4 ebs&obs
   changed_packages: phonon-qt4
   date: 2023-05-26-16-09-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1111
+  description: 144ce6e4 !1111 Move python-lexicon from openEuler:Epol to openEuler:Python
+  changed_packages: python-lexicon
+  date: 2023-06-15-16-14-36
