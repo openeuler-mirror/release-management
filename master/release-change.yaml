@@ -743,3 +743,7 @@ release-change:
   description: 144ce6e4 !1111 Move python-lexicon from openEuler:Epol to openEuler:Python
   changed_packages: python-lexicon
   date: 2023-06-15-16-14-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1108
+  description: 91b54900 !1108 移动 python-argon2-cffi-bindings 到 openEuler:Epol 工程和移仓python-pytest-relaxed到openEuler:Python工程
+  changed_packages: python-argon2-cffi-bindings python-pytest-relaxed
+  date: 2023-06-15-20-36-15
