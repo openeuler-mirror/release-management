@@ -5992,3 +5992,35 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-05-12"
+- name: gala-gopher
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: gala-spider
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: gala-anteater
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: cadvisor
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: python-libconf
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: flamegraph
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: kafka-python
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
+- name: pyArango
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-20'
