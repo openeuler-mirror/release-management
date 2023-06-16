@@ -14923,10 +14923,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-26"
-    - name: python-build
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
     - name: python-portray
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14959,10 +14955,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-27"
-    - name: python-requirementslib
-      obs_from: openEuler:Epol
-      obs_to: openEuler:Factory
-      date: "2023-05-29"
     - name: rust-bindgen
       obs_from: ""
       obs_to: openEuler:Factory

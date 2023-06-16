@@ -1775,3 +1775,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-06-15'
+- name: python-build
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-06-16"
+- name: python-requirementslib
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Python
+  date: "2023-06-16"
