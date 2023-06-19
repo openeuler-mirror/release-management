@@ -399,3 +399,7 @@ release-change:
   description: d11dca90 !1079 create openEuler-22.03-LTS-SP2 for ukui
   changed_packages: kylin-weather stb qtav ukui-biometric-manager ukui-clock
   date: 2023-05-23-22-26-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1118
+  description: 2330857a !1118 Add openEuler-22.03-LTS-Next for optimized-routines.
+  changed_packages: optimized-routines
+  date: 2023-06-19-16-59-20
