@@ -23,7 +23,7 @@
 |no|feture|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |[I6UA7F](https://gitee.com/openeuler/release-management/issues/I6UA7F)|DDE组件更新|Testing|sig-DDE|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|
-| [I6T8OP](https://gitee.com/openeuler/release-management/issues/I6T8OP) | 支持Lustre client软件包 | Testing | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) |
+|[I6T8OP](https://gitee.com/openeuler/release-management/issues/I6T8OP) | 支持Lustre client软件包 | Testing | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) |
 |[I6V5AX](https://gitee.com/openeuler/release-management/issues/I6V5AX)|支持树莓派|Testing|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi/)|
 |[I6VFA7](https://gitee.com/openeuler/release-management/issues/I6VFA7)|openEuler docker容器支持sysMaster管理sshd服务|Testing|dev-utils|[@overweight](https://gitee.com/overweight/)|
 |[I6Y54B](https://gitee.com/openeuler/release-management/issues/I6Y54B)|支持ROS2-humble基础版|Testing|sig-ROS|[@anchuanxu](https://gitee.com/anchuanxu/)|
@@ -51,3 +51,4 @@
 |[I6YBPV](https://gitee.com/openeuler/release-management/issues/I6YBPV)|5.10内核hisi_sec2 hisi_hpre hisi_zip模块支持nosva特性|Testing|Kernel|[@realzhongkeyi](https://gitee.com/realzhongkeyi/)|
 |[I6UAMM](https://gitee.com/openeuler/release-management/issues/I6UAMM)|新增NestOS K8S部署方案|Testing|SIG-K8s-Distro|[@duyiwei7w](https://gitee.com/duyiwei7w/)|
 |[I6PXNE](https://gitee.com/openeuler/release-management/issues/I6PXNE)|Kernel新增星云智联板卡N1045XS网卡驱动|Testing|Kernel|[@nebula_matrix](https://gitee.com/nebula_matrix/)|
+|[I7C6QL](https://gitee.com/openeuler/release-management/issues/I7C6QL)|在dnf的repo配置中增加 metalink 配置项|Testing|Base-service|[@zengchen1024](https://gitee.com/zengchen1024/)|
