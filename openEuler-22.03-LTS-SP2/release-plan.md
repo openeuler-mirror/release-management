@@ -20,7 +20,7 @@
 - Testing(测试中)
 - Accepted(已验收)
 
-|no|feture|status|sig|owner|
+|no|feature|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |[I6UA7F](https://gitee.com/openeuler/release-management/issues/I6UA7F)|DDE组件更新|Testing|sig-DDE|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|
 |[I6T8OP](https://gitee.com/openeuler/release-management/issues/I6T8OP) | 支持Lustre client软件包 | Testing | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) |
