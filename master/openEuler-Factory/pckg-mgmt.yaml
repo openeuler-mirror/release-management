@@ -15215,3 +15215,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
+    - name: python-untokenize
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-20"
