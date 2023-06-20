@@ -15227,3 +15227,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
+    - name: python-hatch-fancy-pypi-readme
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-20"
