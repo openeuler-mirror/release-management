@@ -15,3 +15,9 @@ release-change:
   description: d11dca90 !1079 create openEuler-22.03-LTS-SP2 for ukui
   changed_packages: kylin-weather stb qtav ukui-biometric-manager ukui-clock
   date: 2023-05-23-22-26-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1123
+  description: efafa0f5 !1123 move 分布式协同需求 package to obs openEuler:22.03:LTS:SP2:Epol
+    project
+  changed_packages: hiviewdfx_hilog distributed-build distributed-build_lite filemanagement_dfs_service
+    hiviewdfx_hisysevent
+  date: 2023-06-21-14-11-46
