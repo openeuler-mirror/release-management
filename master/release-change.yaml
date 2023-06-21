@@ -752,3 +752,9 @@ release-change:
     to master:Python for python-isort upgrad
   changed_packages: python-build python-requirementslib
   date: 2023-06-16-17-12-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1122
+  description: 7d893d04 !1122 move some package to obs openEuler:22.03:LTS:SP2:Epol
+    project
+  changed_packages: hiviewdfx_hilog distributed-build distributed-build_lite filemanagement_dfs_service
+    hiviewdfx_hisysevent
+  date: 2023-06-21-12-38-55
