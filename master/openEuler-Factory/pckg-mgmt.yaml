@@ -14827,14 +14827,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
-    - name: hiviewdfx_hilog
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: distributed-build
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
     - name: libcoap
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14847,19 +14839,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
-    - name: distributed-build_lite
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
     - name: notification_eventhandler
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
     - name: communication_ipc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: filemanagement_dfs_service
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
@@ -14884,10 +14868,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-05-25"
     - name: security_device_security_level
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: hiviewdfx_hisysevent
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"

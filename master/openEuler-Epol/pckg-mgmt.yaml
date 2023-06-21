@@ -5359,4 +5359,24 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-06-15"
+- name: hiviewdfx_hilog
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-21"
+- name: distributed-build
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-21"
+- name: distributed-build_lite
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-21"
+- name: filemanagement_dfs_service
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-21"
+- name: hiviewdfx_hisysevent
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-21"
 
