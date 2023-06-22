@@ -2315,3 +2315,9 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:22.03:LTS:SP2:Epol:Multi-Version:OpenStack:Wallaby
   date: '2023-05-15'
+- name: python-ndg-httpsclient
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-SP2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:SP2:Epol:Multi-Version:OpenStack:Wallaby
+  date: "2023-06-22"
