@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1126
+  description: 793a17cc !1126 Move python-ndg-httpsclient
+  changed_packages: python-ndg-httpsclient
+  date: 2023-06-25-11-57-11
