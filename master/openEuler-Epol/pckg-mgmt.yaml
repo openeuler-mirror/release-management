@@ -679,10 +679,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: kafka-python
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: kbackup
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4207,10 +4203,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: cadvisor
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: mate-control-center
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4547,10 +4539,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-28'
-- name: python-libconf
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-29'
 - name: cryfs
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4560,10 +4548,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-29'
 - name: arangodb
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-30'
-- name: pyArango
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-30'
@@ -4679,10 +4663,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-22'
-- name: flamegraph
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-23'
 - name: astream
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4752,18 +4732,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-11-14'
 - name: ros2_base
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-11-14'
-- name: gala-gopher
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-11-14'
-- name: gala-spider
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-11-14'
-- name: gala-anteater
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-14'
