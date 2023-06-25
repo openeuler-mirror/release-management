@@ -48,7 +48,7 @@
 |[I727E2](https://gitee.com/openeuler/release-management/issues/I727E2)|Gazelle新增支持UDP协议|Testing|sig-high-performance-network|[@kircher](https://gitee.com/kircher/)|
 |[I727A5](https://gitee.com/openeuler/release-management/issues/I727A5)|安全配置规范框架设计及核心内容构建|Testing|sig-ops|[@yunjia_w](https://gitee.com/yunjia_w/)|
 |[I6YYUC](https://gitee.com/openeuler/release-management/issues/I6YYUC)|gala-gopher新增性能火焰图、线程级性能Profiling特性|Rejected|sig-ops|[@Vchanger](https://gitee.com/Vchanger/)|
-|[I6YBPV](https://gitee.com/openeuler/release-management/issues/I6YBPV)|5.10内核hisi_sec2 hisi_hpre hisi_zip模块支持nosva特性|Testing|Kernel|[@realzhongkeyi](https://gitee.com/realzhongkeyi/)|
+|[I6YBPV](https://gitee.com/openeuler/release-management/issues/I6YBPV)|5.10内核hisi_sec2 hisi_hpre hisi_zip模块支持nosva特性|Rejected|Kernel|[@realzhongkeyi](https://gitee.com/realzhongkeyi/)|
 |[I6UAMM](https://gitee.com/openeuler/release-management/issues/I6UAMM)|新增NestOS K8S部署方案|Testing|SIG-K8s-Distro|[@duyiwei7w](https://gitee.com/duyiwei7w/)|
 |[I6PXNE](https://gitee.com/openeuler/release-management/issues/I6PXNE)|Kernel新增星云智联板卡N1045XS网卡驱动|Testing|Kernel|[@nebula_matrix](https://gitee.com/nebula_matrix/)|
 |[I7C6QL](https://gitee.com/openeuler/release-management/issues/I7C6QL)|在dnf的repo配置中增加 metalink 配置项|Testing|Base-service|[@zengchen1024](https://gitee.com/zengchen1024/)|
