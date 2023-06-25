@@ -409,3 +409,7 @@ release-change:
   changed_packages: hiviewdfx_hilog distributed-build distributed-build_lite filemanagement_dfs_service
     hiviewdfx_hisysevent
   date: 2023-06-21-12-38-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1117
+  description: 7889e91a !1117 move gala from Epol to everything in master/openEuler-22.03-LTS-Next
+  changed_packages: gala-gopher gala-spider gala-anteater
+  date: 2023-06-25-11-41-45
