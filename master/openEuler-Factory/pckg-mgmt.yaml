@@ -15291,3 +15291,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-21"
+    - name: python-Authlib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-25"
