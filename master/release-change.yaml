@@ -771,3 +771,9 @@ release-change:
   description: 60c2d2c2 !1130 Move python-zstandard from openEuler:Epol to openEuler:Mainline
   changed_packages: python-zstandard
   date: 2023-06-25-17-54-04
+- pr: https://gitee.com/openeuler/release-management/pulls/1129
+  description: d5b92bf1 !1129 move python-pytest-rerunfailures from master:Factory
+    to master:Python for python-build deps
+  changed_packages: python-Authlib nosync rpm-git-tag-sort preproc python-templated-dictionary
+    distribution-gpg-keys python-pytest-rerunfailures
+  date: 2023-06-25-17-56-00
