@@ -413,3 +413,7 @@ release-change:
   description: 7889e91a !1117 move gala from Epol to everything in master/openEuler-22.03-LTS-Next
   changed_packages: gala-gopher gala-spider gala-anteater
   date: 2023-06-25-11-41-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1128
+  description: 56a8cdeb !1128 删除重复的软件包
+  changed_packages: libzmq ovirt-provider-ovn
+  date: 2023-06-25-12-07-49

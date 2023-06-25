@@ -5129,12 +5129,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-05-29'
-- name: ovirt-provider-ovn
-  source_dir: master
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2023-05-29'
 - name: ovirt-ansible-vm-infra
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
@@ -5220,12 +5214,6 @@ packages:
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-06-14'
 - name: libuvc
-  source_dir: master
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2023-06-14'
-- name: libzmq
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:Epol

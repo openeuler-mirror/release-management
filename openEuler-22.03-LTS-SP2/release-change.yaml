@@ -25,3 +25,7 @@ release-change:
   description: 25dc5dc6 !1127 add hmdfs to openEuler:22.03:LTS:SP2:Epol
   changed_packages: hmdfs
   date: 2023-06-25-11-30-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1128
+  description: 56a8cdeb !1128 删除重复的软件包
+  changed_packages: libzmq
+  date: 2023-06-25-12-07-49
