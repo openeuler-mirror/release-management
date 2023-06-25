@@ -6024,3 +6024,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-06-20'
+- name: python-zstandard
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-06-25'
