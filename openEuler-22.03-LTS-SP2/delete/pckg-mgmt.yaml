@@ -4,3 +4,4 @@ packages:
 - name: dtkwidget2
 - name: dtkwm
 - name: deepin-music
+- name: libzmq
