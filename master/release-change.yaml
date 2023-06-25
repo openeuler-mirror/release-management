@@ -767,3 +767,7 @@ release-change:
   description: 793a17cc !1126 Move python-ndg-httpsclient
   changed_packages: python-ndg-httpsclient
   date: 2023-06-25-11-57-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1130
+  description: 60c2d2c2 !1130 Move python-zstandard from openEuler:Epol to openEuler:Mainline
+  changed_packages: python-zstandard
+  date: 2023-06-25-17-54-04
