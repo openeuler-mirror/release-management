@@ -21,3 +21,7 @@ release-change:
   changed_packages: hiviewdfx_hilog distributed-build distributed-build_lite filemanagement_dfs_service
     hiviewdfx_hisysevent
   date: 2023-06-21-14-11-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1127
+  description: 25dc5dc6 !1127 add hmdfs to openEuler:22.03:LTS:SP2:Epol
+  changed_packages: hmdfs
+  date: 2023-06-25-11-30-36
