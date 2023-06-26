@@ -15339,3 +15339,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-26"
+    - name: fast_rsync
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-26"
