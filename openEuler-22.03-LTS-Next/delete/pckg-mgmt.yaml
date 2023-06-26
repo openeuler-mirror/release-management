@@ -30,3 +30,4 @@ packages:
 - name: dtkwm
 - name: deepin-music
 - name: libzmq
+- name: deepin-qml-widgets
