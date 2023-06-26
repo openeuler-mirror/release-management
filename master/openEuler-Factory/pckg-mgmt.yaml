@@ -15347,3 +15347,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-26"
+    - name: coreutils-rs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-26"
