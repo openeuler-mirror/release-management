@@ -777,3 +777,7 @@ release-change:
   changed_packages: python-Authlib nosync rpm-git-tag-sort preproc python-templated-dictionary
     distribution-gpg-keys python-pytest-rerunfailures
   date: 2023-06-25-17-56-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1134
+  description: 14ac4021 !1134 add python-coveralls to openEuler:Factory
+  changed_packages: python-coveralls
+  date: 2023-06-27-16-53-06
