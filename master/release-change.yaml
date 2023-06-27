@@ -781,3 +781,7 @@ release-change:
   description: 14ac4021 !1134 add python-coveralls to openEuler:Factory
   changed_packages: python-coveralls
   date: 2023-06-27-16-53-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1132
+  description: 06cb7772 !1132 解决门mock禁失败
+  changed_packages: python-templated-dictionary
+  date: 2023-06-27-19-34-46
