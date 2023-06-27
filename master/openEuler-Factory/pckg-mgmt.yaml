@@ -15363,3 +15363,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-27"
+    - name: zathura-cb
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-27"
