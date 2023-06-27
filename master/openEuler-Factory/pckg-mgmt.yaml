@@ -15351,3 +15351,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-26"
+    - name: zathura-pdf-poppler
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-27"
