@@ -789,3 +789,10 @@ release-change:
   description: 66cd5c52 !1135 move procenv to mainline
   changed_packages: procenv
   date: 2023-06-28-16-56-41
+- pr: https://gitee.com/openeuler/release-management/pulls/1131
+  description: f3c8282d !1131 move some package to obs mainline:Epol and openEuler-22.03-LTS-Next:Epol
+  changed_packages: aisleriot lyx pdfsam pympress sigil texworks xchm zegrapher datovka
+    openttd gummi feathernotes yokadi zathura minder osmo gnumeric formiko featherpad
+    input-pad gendesk chmlib libdatovka girara libgringotts mhash psiconv lasem granite
+    goffice gtksourceview2
+  date: 2023-06-28-21-40-48
