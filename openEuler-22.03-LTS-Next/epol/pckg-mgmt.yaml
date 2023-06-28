@@ -4151,12 +4151,6 @@ packages:
   obs_from: openEuler:21.09:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2022-08-30'
-- name: deepin-qml-widgets
-  source_dir: openEuler-21.09
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:21.09:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2022-08-30'
 - name: python-pkginfo
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next

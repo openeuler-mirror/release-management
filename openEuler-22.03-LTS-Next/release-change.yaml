@@ -417,3 +417,7 @@ release-change:
   description: 56a8cdeb !1128 删除重复的软件包
   changed_packages: libzmq ovirt-provider-ovn
   date: 2023-06-25-12-07-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1114
+  description: b252b844 !1114 清退不在更新不在使用的deepin-qml-widgets
+  changed_packages: deepin-qml-widgets
+  date: 2023-06-28-15-44-35
