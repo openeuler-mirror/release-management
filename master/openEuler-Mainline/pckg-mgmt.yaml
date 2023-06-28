@@ -6032,3 +6032,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-06-27"
+- name: procenv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-06-28"
