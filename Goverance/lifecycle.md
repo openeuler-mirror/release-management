@@ -11,13 +11,13 @@
 
 - **社区创新版本**：openEuler每隔6个月会发布一个社区创新版本，提供6个月社区支持。下一个社区创新版本将于2022年9月发布。
 
-![](./lifecycle.png)
+![](./Pictures/lifecycle.png)
 
 
 ## 2、openEuler社区版本生命周期管理规范（LTS+SP） 
  _* 方案已经在TC和Release SIG汇报，并完成了社区邮件列表公示（2022/3/15~2022/3/31）_ 
 
-![](./lts-sp-lifecycle.png)
+![](./Pictures/lts-sp-lifecycle.png)
 
 - 目前LTS版本**全版本**生命周期4年（ 2+2 ），到生命周期结束前半年~1年由**相关团队组建联合维护团队，申请**延长至6年
 
