@@ -428,3 +428,7 @@ release-change:
     input-pad gendesk chmlib libdatovka girara libgringotts mhash psiconv lasem granite
     goffice gtksourceview2
   date: 2023-06-28-21-40-48
+- pr: https://gitee.com/openeuler/release-management/pulls/1137
+  description: ebe9ca63 !1137  move some package to obs mainline:Epol and openEuler-22.03-LTS-Next:Epol
+  changed_packages: zathura-pdf-poppler zathura-djvu libmcrypt zathura-cb zathura-ps
+  date: 2023-06-29-17-36-32
