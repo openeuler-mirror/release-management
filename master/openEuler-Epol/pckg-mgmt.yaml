@@ -5471,3 +5471,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2023-06-26"
+- name: zathura-pdf-poppler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-29"
+- name: zathura-djvu
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-29"
+- name: libmcrypt
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-29"
+- name: zathura-cb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-29"
+- name: zathura-ps
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-06-29"
