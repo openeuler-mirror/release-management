@@ -15219,26 +15219,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-26"
-    - name: zathura-pdf-poppler
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-27"
-    - name: zathura-djvu
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-27"
-    - name: libmcrypt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-27"
-    - name: zathura-cb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-27"
-    - name: zathura-ps
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-27"
     - name: redis_exporter
       obs_from: ""
       obs_to: openEuler:Factory
