@@ -6,3 +6,4 @@ packages:
 - name: deepin-music
 - name: libzmq
 - name: deepin-qml-widgets
+- name: containers-common
