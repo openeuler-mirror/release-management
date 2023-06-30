@@ -15235,3 +15235,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-30"
+    - name: koji
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-30"
