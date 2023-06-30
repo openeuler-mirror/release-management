@@ -15243,3 +15243,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-30"
+    - name: python3-openid
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-06-30"
