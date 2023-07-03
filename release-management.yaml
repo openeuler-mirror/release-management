@@ -6,13 +6,9 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - Ronnie_Jiang
-  - zyp-rock
-  - small_leek
   - paul-huang
-  - imxcc 
-  - gatieme 
-  - xxiaosong
+  - gitee-cmd
+
 - branch: master
   community:
   - src-openeuler
@@ -20,13 +16,9 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - Ronnie_Jiang
-  - zyp-rock
-  - small_leek
   - paul-huang
-  - imxcc 
-  - gatieme 
-  - xxiaosong
+  - gitee-cmd
+
 - branch: openEuler-21.03
   community:
   - src-openeuler
@@ -34,13 +26,9 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - Ronnie_Jiang
-  - small_leek
-  - xuxiaosong
-  - BenchMarkFather
-  - jdkboy
-  - xiexiuqi
-  - openeuler-basic
+  - paul-huang
+  - gitee-cmd
+
 - branch: openEuler-20.03-LTS-SP2
   community:
   - src-openeuler
@@ -48,8 +36,9 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - small_leek
-  - xuxiaosong
+  - paul-huang
+  - gitee-cmd
+
 - branch: openEuler-20.03-LTS-SP3
   community:
   - src-openeuler
@@ -57,8 +46,8 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - zyp-rock
   - paul-huang
+  - gitee-cmd
 
 - branch: openEuler-22.03-LTS-Next
   community:
@@ -67,11 +56,8 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - ruebb
-  - licihua
-  - zhengshaoyu
-  - zengwefeng
   - paul-huang
+  - gitee-cmd
 
 - branch: openEuler-22.03-LTS
   community:
@@ -80,12 +66,8 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - ruebb
-  - licihua
-  - zhengshaoyu
-  - zengwefeng
-  - imxcc
   - paul-huang
+  - gitee-cmd
 
 - branch: openEuler-20.03-LTS
   community:
@@ -94,11 +76,8 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - ruebb
-  - licihua
-  - zhengshaoyu
-  - zengwefeng
-  - imxcc
+  - paul-huang
+  - gitee-cmd
 
 - branch: openEuler-22.09
   community:
@@ -107,13 +86,8 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - Lostwayzxc
-  - disnight
-  - licihua
-  - zhengshaoyu
-  - zengwefeng
-  - imxcc
   - paul-huang
+  - gitee-cmd
 
 - branch: openEuler-22.03-LTS-SP1
   community:
@@ -122,13 +96,8 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - Lostwayzxc
-  - disnight
-  - licihua
-  - zhengshaoyu
-  - zengwefeng
-  - imxcc
   - paul-huang
+  - gitee-cmd
 
 - branch: openEuler-22.03-LTS-SP2
   community:
@@ -137,10 +106,5 @@ release:
   owner:
   - solarhu
   - yaqiangchen
-  - Lostwayzxc
-  - disnight
-  - licihua
-  - zhengshaoyu
-  - zengwefeng
-  - imxcc
   - paul-huang
+  - gitee-cmd
