@@ -6,7 +6,7 @@ Update版本发布更新基于 openEuler 各个生命周期内的 LTS 版本分�
 
 openEuler LTS（长周期支持）版本旨在为社区用户提供稳定、高质量的版本体验。因此对维护版本新特性合入采取强质量管理策略，特性引入需满足以下条件，方可获准引入openEuler LTS 版本
 
-![update](Pictures/update流程.png)
+![update](./Pictures/update流程.png)
 
 ### 新特性引入checklist
 
@@ -59,4 +59,3 @@ openEuler  Update版本约每1周发布一次，但不排除受版本质量、CV
 
  
 
- 
