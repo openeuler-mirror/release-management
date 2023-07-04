@@ -2,7 +2,7 @@ openEuler 创新版本大约每6个月发布一次新版本，并在发布后的
 openEuler创新版本经过社区sig组和QA团队充分测试，推荐给开发者、openEuler社区贡献者和Linux爱好者使用。
 
 ### 开发时间表
-openEuler创新版本大约每6个月发布一次，但不排除受版本质量、社区关键组件构建进度影响到导致的严格的发布时间执行，且创新版本的里程碑发行版均需要由各个sig和QA团队的充分测试验证，已达到openEuler社区版本质量发行标准的情况下允许发布，关于具体的发布计划和发布进展，请关注openEuler社区relase management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)
+openEuler创新版本大约每6个月发布一次，但不排除受版本质量、社区关键组件构建进度影响到严格的发布时间执行，且创新版本的里程碑发行版均需要由各个sig和QA团队的充分测试验证，已达到openEuler社区版本质量发行标准的情况下允许发布，关于具体的发布计划和发布进展，请关注openEuler社区release management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)
 
 ### 开发流程
 openEuler创新版本是基于openEuler社区master主干中“分支”出来的，master主干持续不断的向前滚动开发。在openEuler创新版本发布计划中拉分支点阶段且该时间点之前各关键任务项均已完成，将拉出创新版本分支，master主线继续向前开发；
@@ -43,12 +43,12 @@ openEuler社区版本计划及关键里程碑时间表由release management sig�
 如果openEuler 创新版本Beta Go_No_Go_Meeting结果为“不同意”，则重新计划里程碑，其后续里程碑将遵循以下规则：
 *  Beta从首选目标到目标延期不影响最终发行（GA）日期，最终发布日期扔保留在“首选最终目标”
 *  如果最终的Go_No_Go_Meeting结果为“不发布”，则该里程碑和随后的里程碑将推迟一周。
-*   Go_No_Go_Meeting从relase management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)和[质量保证](https://gitee.com/openeuler/QA)"质量检查")团队处获取详细信息。
+*   Go_No_Go_Meeting从release management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)和[质量保证](https://gitee.com/openeuler/QA)"质量检查")团队处获取详细信息。
 
 
 ### 版本维护时间表
 openEuler 20.09版本已于2020.09.30正式发布，该版本将维护到2021.3.30截止；
-openEuler 21.03版本信息详见relase management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)
+openEuler 21.03版本信息详见release management sig [版本计划](https://gitee.com/openeuler/release-management/tree/master/openEuler-20.09)
 ### 版本维护周期策略
 openEuler创新版本聚集于自由和开源软件的持续创新，版本开发、发布节奏高效且快速。如果您希望使用系统功能稳定且版本生命周期更长的发行版，推荐您使用openEuler LTS版本，有关openEuler LTS版本详细信息，请参考页面
 
