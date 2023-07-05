@@ -15271,3 +15271,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-05"
+    - name: openmp-15
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-07-05"
