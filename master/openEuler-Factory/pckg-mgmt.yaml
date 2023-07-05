@@ -15255,3 +15255,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-03"
+    - name: parallel
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-07-05"
