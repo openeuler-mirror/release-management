@@ -14,3 +14,4 @@ packages:
   - name: rubygem-erubis
   - name: lustre-e2fsprogs
   - name: lldpd
+  - name: eclipse-jgit
