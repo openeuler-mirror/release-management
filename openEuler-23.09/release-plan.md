@@ -35,6 +35,7 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7GRO2](https://gitee.com/openeuler/release-management/issues/I7GRO2)|增加 utshell 项目发布|disgusting|sig-utshell|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|ISO|utshell|
 |[I7GYQK](https://gitee.com/openeuler/release-management/issues/I7GYQK)|增加 utsudo 项目发布|disgusting|sig-utsudo|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|ISO|utsudo|
 |[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|disgusting|sig-migration-tools|[@HelloWorld_lvcongqing](https://gitee.com/HelloWorld_lvcongqing/)|ISO|migration-tools|
+|[I7INU0](https://gitee.com/openeuler/release-management/issues/I7INU0?from=project-issue)|增加 Kmesh 项目发布|Developing|sig-ebpf|[@sky](https://gitee.com/nlgwcy)|extras|Kmesh|
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
