@@ -800,3 +800,7 @@ release-change:
   description: ebe9ca63 !1137  move some package to obs mainline:Epol and openEuler-22.03-LTS-Next:Epol
   changed_packages: zathura-pdf-poppler zathura-djvu libmcrypt zathura-cb zathura-ps
   date: 2023-06-29-17-36-32
+- pr: https://gitee.com/openeuler/release-management/pulls/1148
+  description: 9b58075d !1148 解决mock门禁失败的问题
+  changed_packages: mock-core-configs
+  date: 2023-07-05-14-06-25
