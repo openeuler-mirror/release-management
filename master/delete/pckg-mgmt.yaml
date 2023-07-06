@@ -15,3 +15,4 @@ packages:
   - name: lustre-e2fsprogs
   - name: lldpd
   - name: eclipse-jgit
+  - name: python-Cython 
