@@ -15167,10 +15167,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-25"
-    - name: distribution-gpg-keys
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-25"
     - name: resalloc
       obs_from: ""
       obs_to: openEuler:Factory

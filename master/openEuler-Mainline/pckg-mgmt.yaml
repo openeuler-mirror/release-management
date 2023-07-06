@@ -6044,3 +6044,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-07-06"
+- name: distribution-gpg-keys
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-07-06"
