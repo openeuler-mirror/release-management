@@ -812,3 +812,7 @@ release-change:
   description: 0eb67c49 !1155 move buildah from factory to mainline
   changed_packages: buildah
   date: 2023-07-06-14-39-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1154
+  description: f2e7fd15 !1154 解决mock check_install失败的问题
+  changed_packages: distribution-gpg-keys
+  date: 2023-07-06-19-47-55
