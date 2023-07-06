@@ -6040,3 +6040,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-07-04"
+- name: buildah
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-07-06"
