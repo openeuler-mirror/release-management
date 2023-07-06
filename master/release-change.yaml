@@ -808,3 +808,7 @@ release-change:
   description: 9e00c9c8 !1150 master分支删除eclipse-jgit
   changed_packages: eclipse-jgit
   date: 2023-07-06-10-24-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1155
+  description: 0eb67c49 !1155 move buildah from factory to mainline
+  changed_packages: buildah
+  date: 2023-07-06-14-39-37
