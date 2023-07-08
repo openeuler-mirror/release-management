@@ -816,3 +816,7 @@ release-change:
   description: f2e7fd15 !1154 解决mock check_install失败的问题
   changed_packages: distribution-gpg-keys
   date: 2023-07-06-19-47-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1160
+  description: c896019c !1160 move parallel, bats and netavark from factory to mainline
+  changed_packages: parallel bats netavark
+  date: 2023-07-08-16-37-07
