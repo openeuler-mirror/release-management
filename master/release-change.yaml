@@ -820,3 +820,7 @@ release-change:
   description: c896019c !1160 move parallel, bats and netavark from factory to mainline
   changed_packages: parallel bats netavark
   date: 2023-07-08-16-37-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1156
+  description: 25a47c32 !1156 Move amtterm from factory to mainline
+  changed_packages: amtterm
+  date: 2023-07-10-14-36-08
