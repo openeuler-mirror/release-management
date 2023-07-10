@@ -6060,3 +6060,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-07-07"
+- name: amtterm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-07-10"
