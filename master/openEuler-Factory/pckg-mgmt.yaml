@@ -15291,3 +15291,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-11"
+    - name: python-pdm-backend
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-07-11"
