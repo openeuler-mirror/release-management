@@ -828,3 +828,7 @@ release-change:
   description: 55539e71 !1158 Move pep517 from Epol to Python
   changed_packages: python-pep517
   date: 2023-07-10-14-38-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1164
+  description: 34d116f2 !1164 移除了openEuler:Epol中的python-Cython
+  changed_packages: python-Cython
+  date: 2023-07-11-10-53-12
