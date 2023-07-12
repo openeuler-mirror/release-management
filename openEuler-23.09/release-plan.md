@@ -37,9 +37,12 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|disgusting|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
 |[I7K7FQ](https://gitee.com/openeuler/release-management/issues/I7K7FQ)|DDE组件更新支持服务器场景优化|Testing|sig-DDE|[@leeffo](https://gitee.com/leeffo)|EPOL||
 |[I7INU0](https://gitee.com/openeuler/release-management/issues/I7INU0?from=project-issue)|增加 Kmesh 项目发布|Developing|sig-ebpf|[@sky](https://gitee.com/nlgwcy)|extras|Kmesh|
+|[I7K5TZ](https://gitee.com/openeuler/release-management/issues/I7K5TZ)|增加i3相关软件包发布|Developing|sig-epol|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,perl-Guard,perl-Glib,perl-Curses,dmenu,perl-Task-Weaken,perl-POE-Test-Loops,perl-Test-Command|
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
+
+
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入23.09的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
