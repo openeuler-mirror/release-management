@@ -832,3 +832,7 @@ release-change:
   description: 34d116f2 !1164 移除了openEuler:Epol中的python-Cython
   changed_packages: python-Cython
   date: 2023-07-11-10-53-12
+- pr: https://gitee.com/openeuler/release-management/pulls/1167
+  description: 707f7f4e !1167 move catatonit from factory to mainline
+  changed_packages: catatonit
+  date: 2023-07-18-10-51-57
