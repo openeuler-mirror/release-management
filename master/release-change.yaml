@@ -836,3 +836,8 @@ release-change:
   description: 707f7f4e !1167 move catatonit from factory to mainline
   changed_packages: catatonit
   date: 2023-07-18-10-51-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1178
+  description: 5a2a746e !1178 Move LLVM-related packages to openEuler-MultiLanguage
+  changed_packages: llvm-libunwind-15 libcxx-15 mlir-15 compiler-rt-15 polly-15 openmp-15
+    flang-15 openmp clang-15 llvm-15 lld-15 llvm-bolt-15
+  date: 2023-07-19-10-51-58
