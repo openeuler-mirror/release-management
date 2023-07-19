@@ -15287,3 +15287,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-18"
+    - name: hinic3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-07-19"
