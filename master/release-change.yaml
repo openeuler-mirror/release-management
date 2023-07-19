@@ -845,3 +845,7 @@ release-change:
   description: efa2f933 !1182 add custom_build_tool to Factory
   changed_packages: custom_build_tool
   date: 2023-07-19-18-13-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1183
+  description: bcb2f5d0 !1183 【轻量级 PR】：move custom_build_tool to mainline
+  changed_packages: custom_build_tool
+  date: 2023-07-19-18-29-50
