@@ -12995,22 +12995,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
-    - name: llvm-libunwind-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-09"
-    - name: libcxx-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-09"
-    - name: mlir-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-09"
-    - name: compiler-rt-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-09"
     - name: perl-Curses
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15239,22 +15223,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-03"
-    - name: polly-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-05"
-    - name: openmp-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-05"
-    - name: flang-15
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-05"
-    - name: openmp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-05"
     - name: perl-HTTP-CookieJar
       obs_from: ""
       obs_to: openEuler:Factory
