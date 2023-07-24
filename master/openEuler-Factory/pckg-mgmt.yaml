@@ -15439,3 +15439,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
+    - name: pyproject-metadata
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-07-24"
