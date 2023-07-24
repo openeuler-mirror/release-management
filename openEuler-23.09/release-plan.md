@@ -40,6 +40,7 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7K5TZ](https://gitee.com/openeuler/release-management/issues/I7K5TZ)|增加i3相关软件包发布|Developing|sig-epol|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,perl-Guard,perl-Glib,perl-Curses,dmenu,perl-Task-Weaken,perl-POE-Test-Loops,perl-Test-Command|
 |[I7L1TT](https://gitee.com/openeuler/release-management/issues/I7L1TT)|A-Ops gala发布精细化性能Profiling特性|Developing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
 |[I7K9ZJ](https://gitee.com/openeuler/release-management/issues/I7K9ZJ?from=project-issue)|增加DPU-OS镜像发布|Discussion|sig-DPU|[@minknov](https://gitee.com/minknov)|ISO|dpu-utilities|
+|[I7MAWT](https://gitee.com/openeuler/release-management/issues/I7MAWT)|Aops支持配置溯源功能|Discussion|sig-ops|[@byrobins](https://gitee.com/byrobins)|EPOL|A-Ops,aops-hermes,aops-zeus,aops-ceres|
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
