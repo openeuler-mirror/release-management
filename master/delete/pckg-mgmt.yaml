@@ -16,3 +16,5 @@ packages:
   - name: lldpd
   - name: eclipse-jgit
   - name: python-Cython 
+  - name: PyPAM 
+  - name: python-wrapt-1.10 
