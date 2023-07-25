@@ -6055,3 +6055,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-07-25'
+- name: python-sphinxtesters
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-25'
+- name: python-mpmath
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-25'
