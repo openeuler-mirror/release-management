@@ -4627,14 +4627,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2022-08-12'
-- name: python-sphinxtesters
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-12'
-- name: python-mpmath
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-12'
 - name: dpu-utilities
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
