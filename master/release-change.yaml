@@ -854,3 +854,7 @@ release-change:
     master:Mainline for pytorch obs&ebs
   changed_packages: python-sympy python-texext
   date: 2023-07-25-17-47-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1184
+  description: af1284ef !1184 Remove PyPAM python-wrapt-1.10  from openEuler:Mainline
+  changed_packages: python-wrapt-1.10 PyPAM libxml2-rust
+  date: 2023-07-25-17-55-11
