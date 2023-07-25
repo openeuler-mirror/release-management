@@ -1835,10 +1835,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-codecov
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-colorclass
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
