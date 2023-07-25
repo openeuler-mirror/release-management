@@ -849,3 +849,8 @@ release-change:
   description: bcb2f5d0 !1183 【轻量级 PR】：move custom_build_tool to mainline
   changed_packages: custom_build_tool
   date: 2023-07-19-18-29-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1190
+  description: 61f38781 !1190 move python-sympy&python-texext from master:Epol to
+    master:Mainline for pytorch obs&ebs
+  changed_packages: python-sympy python-texext
+  date: 2023-07-25-17-47-56
