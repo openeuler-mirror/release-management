@@ -863,3 +863,8 @@ release-change:
     to master:Mainline for pytorch obs&ebs
   changed_packages: python-sphinxtesters python-mpmath
   date: 2023-07-25-18-50-30
+- pr: https://gitee.com/openeuler/release-management/pulls/1192
+  description: 0e242acc !1192 move python-codecov from master:Epol to master:Mainline
+    for pytorch obs&ebs
+  changed_packages: python-codecov
+  date: 2023-07-25-19-39-39
