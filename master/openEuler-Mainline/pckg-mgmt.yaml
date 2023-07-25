@@ -6056,3 +6056,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-07-19"
+- name: python-sympy
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-25'
+- name: python-texext
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-25'

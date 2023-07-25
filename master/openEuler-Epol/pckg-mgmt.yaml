@@ -4583,10 +4583,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-04'
-- name: python-texext
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-04'
 - name: python-phonenumbers
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4632,10 +4628,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-08-12'
 - name: python-sphinxtesters
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-12'
-- name: python-sympy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-12'
