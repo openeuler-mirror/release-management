@@ -874,3 +874,7 @@ release-change:
   changed_packages: perl-Digest-MD4 perl-Parse-RecDescent perl-Spreadsheet-WriteExcel
     perl-Jcode perl-Unicode-Map perl-OLE-Storage_Lite perl-Crypt-RC4 perl-Spreadsheet-ParseExcel
   date: 2023-07-26-12-14-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1186
+  description: 065e3dbe !1186 Add lld,openmp to openEuler 22.03
+  changed_packages: lld
+  date: 2023-07-26-15-05-46

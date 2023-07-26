@@ -436,3 +436,7 @@ release-change:
   description: d01f6cf3 !1153 add mindspore to openEuler-22.03-LTS-Next
   changed_packages: mindspore
   date: 2023-07-06-09-22-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1186
+  description: 065e3dbe !1186 Add lld,openmp to openEuler 22.03
+  changed_packages: lld openmp
+  date: 2023-07-26-15-05-46
