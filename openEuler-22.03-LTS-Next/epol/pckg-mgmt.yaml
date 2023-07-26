@@ -4619,6 +4619,18 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-06-12'
+- name: lld
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-07-26'
+- name: openmp
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-07-26'
 - name: WALinuxAgent
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next

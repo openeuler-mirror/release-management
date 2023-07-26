@@ -5259,6 +5259,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-06-12'
+- name: lld
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-07-26'
 - name: python-argon2-cffi-bindings
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
