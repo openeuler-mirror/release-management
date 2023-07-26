@@ -5107,38 +5107,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-24'
-- name: perl-Digest-MD4
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-Parse-RecDescent
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-Spreadsheet-WriteExcel
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-Jcode
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-Unicode-Map
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-OLE-Storage_Lite
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-Crypt-RC4
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
-- name: perl-Spreadsheet-ParseExcel
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-25'
 - name: castxml
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

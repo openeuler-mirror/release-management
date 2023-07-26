@@ -6067,3 +6067,35 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-07-25'
+- name: perl-Digest-MD4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-Parse-RecDescent
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-Spreadsheet-WriteExcel
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-Jcode
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-Unicode-Map
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-OLE-Storage_Lite
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-Crypt-RC4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
+- name: perl-Spreadsheet-ParseExcel
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-07-26'
