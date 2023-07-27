@@ -878,3 +878,7 @@ release-change:
   description: 065e3dbe !1186 Add lld,openmp to openEuler 22.03
   changed_packages: lld
   date: 2023-07-26-15-05-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1141
+  description: 0ac5e6d9 !1141 Add sysmaster to openEuler-22.03-LTS and openEuler-22.03-LTS-SP1
+  changed_packages: sysmaster
+  date: 2023-07-27-10-07-46
