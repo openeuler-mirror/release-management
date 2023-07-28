@@ -886,3 +886,8 @@ release-change:
   description: db6c00ba !1187 Move zfs to openEuler-Factory
   changed_packages: zfs
   date: 2023-07-28-17-02-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1189
+  description: 360c2b89 !1189 Move qt6 related packages to QT
+  changed_packages: qt6-qtvirtualkeyboard qt6-qtscxml qt6-qtquick3d qt6-qtwebchannel
+    qt6-qtsensors qt6-qthttpserver qt6-qttranslations qt6-qtremoteobjects
+  date: 2023-07-28-17-03-10
