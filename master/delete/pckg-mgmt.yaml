@@ -18,3 +18,4 @@ packages:
   - name: python-Cython 
   - name: PyPAM 
   - name: python-wrapt-1.10 
+  - name: python-contextlib2 
