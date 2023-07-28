@@ -891,3 +891,7 @@ release-change:
   changed_packages: qt6-qtvirtualkeyboard qt6-qtscxml qt6-qtquick3d qt6-qtwebchannel
     qt6-qtsensors qt6-qthttpserver qt6-qttranslations qt6-qtremoteobjects
   date: 2023-07-28-17-03-10
+- pr: https://gitee.com/openeuler/release-management/pulls/1196
+  description: 73dded1a !1196 remove python-contextlib2 from openEuler:Python
+  changed_packages: python-contextlib2
+  date: 2023-07-28-17-13-48

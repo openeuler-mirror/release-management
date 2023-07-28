@@ -435,10 +435,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
-- name: python-contextlib2
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Python
-  date: '2022-07-26'
 - name: python-copr
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
@@ -1666,137 +1662,136 @@ packages:
 - name: python-pep8
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
-  date: '2022-10-25'  
+  date: '2022-10-25'
 - name: python-precis_i18n
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
-  date: '2023-02-13'  
+  date: '2023-02-13'
 - name: python-pyspnego
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-03-22'
 - name: python-tomli-w
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-26"
+  date: '2023-04-26'
 - name: python-pdm-pep517
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-26"
+  date: '2023-04-26'
 - name: python-hatchling
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-24"
+  date: '2023-04-24'
 - name: python-editables
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-24"
+  date: '2023-04-24'
 - name: python-hatch-vcs
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-24"
+  date: '2023-04-24'
 - name: python-pytz-deprecation-shim
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-27"
+  date: '2023-04-27'
 - name: python-inflect
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-28"
+  date: '2023-04-28'
 - name: python-autocommand
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-28"
+  date: '2023-04-28'
 - name: python-jaraco-context
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-04-28"
+  date: '2023-04-28'
 - name: python-contourpy
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-05"
+  date: '2023-05-05'
 - name: python-mitmproxy-wireguard
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-12"
+  date: '2023-05-12'
 - name: python-maturin
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-12" 
+  date: '2023-05-12'
 - name: python-pyinstaller-hooks-contrib
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-15" 
+  date: '2023-05-15'
 - name: python-dill
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-15" 
+  date: '2023-05-15'
 - name: ephemeral-port-reserve
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-17"
+  date: '2023-05-17'
 - name: python-requests-unixsocket
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-17"
+  date: '2023-05-17'
 - name: python-poetry-core
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-23"
+  date: '2023-05-23'
 - name: python-tomlkit
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-05-23"
+  date: '2023-05-23'
 - name: python-py-cpuinfo
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-08"
+  date: '2023-06-08'
 - name: python-pytest-benchmark
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-08"
+  date: '2023-06-08'
 - name: python-tox-current-env
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-14"
+  date: '2023-06-14'
 - name: pyproject-api
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-14"
+  date: '2023-06-14'
 - name: pyproject-hooks
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-14"
+  date: '2023-06-14'
 - name: python-plette
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-14"
+  date: '2023-06-14'
 - name: python-pytest-relaxed
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-06-15'
 - name: python-build
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-16"
+  date: '2023-06-16'
 - name: python-requirementslib
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-16"
+  date: '2023-06-16'
 - name: python-exceptiongroup
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-21"
+  date: '2023-06-21'
 - name: python-flit-scm
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-21"
+  date: '2023-06-21'
 - name: python-pytest-rerunfailures
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2023-06-25"
+  date: '2023-06-25'
 - name: python-pep517
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-07-06'
-
