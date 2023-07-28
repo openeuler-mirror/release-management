@@ -15531,6 +15531,10 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
+    - name: zfs
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:Factory
+      date: "2023-07-27"
     - name: eventmesh
       obs_from: ""
       obs_to: openEuler:Factory
