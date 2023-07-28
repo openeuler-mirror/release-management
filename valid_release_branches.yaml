@@ -14,6 +14,7 @@ branch:
   - openEuler-20.03-LTS-SP3
   - openEuler-23.03
   - humble
+  - openEuler-23.09
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
