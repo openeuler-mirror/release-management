@@ -15511,3 +15511,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-29"
+    - name: i3blocks
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-07-29"
