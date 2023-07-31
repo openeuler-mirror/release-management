@@ -14715,10 +14715,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-08"
-    - name: kuasar
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-09"
     - name: qt5-qtnetworkauth
       obs_from: ""
       obs_to: openEuler:Factory
