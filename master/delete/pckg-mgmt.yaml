@@ -19,3 +19,4 @@ packages:
   - name: PyPAM 
   - name: python-wrapt-1.10 
   - name: python-contextlib2 
+  - name: mozjs78 
