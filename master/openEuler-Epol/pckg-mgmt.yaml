@@ -5431,3 +5431,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-06-29'
+- name: qax-gm-certificates
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-07-31'
