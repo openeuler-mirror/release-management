@@ -603,6 +603,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: glslang
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-07-31"
 - name: gnome-abrt
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -4351,6 +4355,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: spirv-tools
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-07-31"
 - name: sqlite-jdbc
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
