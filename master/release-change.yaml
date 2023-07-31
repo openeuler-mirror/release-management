@@ -895,3 +895,7 @@ release-change:
   description: 73dded1a !1196 remove python-contextlib2 from openEuler:Python
   changed_packages: python-contextlib2
   date: 2023-07-28-17-13-48
+- pr: https://gitee.com/openeuler/release-management/pulls/1201
+  description: 667dfe05 !1201 add qax-gm-certificates to EPOL
+  changed_packages: qax-gm-certificates
+  date: 2023-07-31-11-09-30
