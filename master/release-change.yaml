@@ -903,3 +903,7 @@ release-change:
   description: 05622e74 !1200 move glslang&spirv-tools from openEuler:Factory to openEuler:Mainline
   changed_packages: glslang spirv-tools
   date: 2023-07-31-14-33-41
+- pr: https://gitee.com/openeuler/release-management/pulls/1198
+  description: 2eb8456c !1198 remove mozjs78 from openEuler:Mainline
+  changed_packages: mozjs78
+  date: 2023-07-31-15-31-02
