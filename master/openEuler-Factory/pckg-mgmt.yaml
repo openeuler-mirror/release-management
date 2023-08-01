@@ -9959,10 +9959,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-rpkg
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-rply
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15079,18 +15075,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-25"
-    - name: nosync
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-25"
-    - name: rpm-git-tag-sort
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-25"
-    - name: preproc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-25"
     - name: resalloc
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15147,19 +15131,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-30"
-    - name: koji
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-30"
-    - name: rpkg-macros
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-30"
     - name: python3-openid
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-30"
-    - name: python-pygit2
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-30"
@@ -15188,14 +15160,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-11"
     - name: python-executing
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-11"
-    - name: rpkg
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-11"
-    - name: rpkg-util
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-11"
