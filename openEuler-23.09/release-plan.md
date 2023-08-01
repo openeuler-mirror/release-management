@@ -42,6 +42,8 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7K9ZJ](https://gitee.com/openeuler/release-management/issues/I7K9ZJ?from=project-issue)|增加DPU-OS镜像发布|Discussion|sig-DPU|[@minknov](https://gitee.com/minknov)|ISO|dpu-utilities|
 |[I7MAWT](https://gitee.com/openeuler/release-management/issues/I7MAWT)|Aops支持配置溯源功能|Discussion|sig-ops|[@byrobins](https://gitee.com/byrobins)|EPOL|A-Ops,aops-hermes,aops-zeus,aops-ceres|
 |[I7K7I7](https://gitee.com/openeuler/release-management/issues/I7K7I7)|sysMaster支持虚机场景|Discussion|dev-utils|[@overweight](https://gitee.com/overweight)|ISO|sysmaster|
+|[I7PNTH](https://gitee.com/openeuler/release-management/issues/I7PNTH)|增加异构通用内存管理框架（GMEM）特性发布|Developing|sig-kernel,sig-Computing|[@fangchuang](https://gitee.com/fangchuang),[@weixizhu94](https://gitee.com/weixizhu94)|ISO|kernel,libgmem|
+
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
