@@ -9103,10 +9103,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-myst-parser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-nb2plots
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15295,10 +15291,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-markdown-it-py
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-debugpy
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15308,10 +15300,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-folium
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-mdurl
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -15340,10 +15328,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-sphinx-design
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-mdit-py-plugins
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"

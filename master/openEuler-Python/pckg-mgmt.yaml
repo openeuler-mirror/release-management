@@ -1795,3 +1795,19 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-07-06'
+- name: python-mdurl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-08-03'
+- name: python-mdit-py-plugins
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-08-03'
+- name: python-myst-parser
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-08-03'
+- name: python-markdown-it-py
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-08-03'
