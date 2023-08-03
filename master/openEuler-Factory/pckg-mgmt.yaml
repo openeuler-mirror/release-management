@@ -2703,10 +2703,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-AnyEvent
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Apache-LogFormat-Compiler
       obs_from: ""
       obs_to: openEuler:Factory
@@ -3715,10 +3711,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Event
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Excel-Writer-XLSX
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4047,10 +4039,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Guard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-HTML-Defang
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4260,10 +4248,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-IO-Pager
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-IO-Pipely
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -5319,14 +5303,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-POE
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-POE-Test-Loops
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-POSIX-strftime-Compiler
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6144,10 +6120,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Test-Cmd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Test-Command
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12679,22 +12651,10 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-04"
-    - name: i3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-06"
     - name: libvirt-dbus
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-09"
-    - name: perl-AnyEvent-I3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-14"
-    - name: xcb-util-xrm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-15"
     - name: python-click-didyoumean
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12971,10 +12931,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-09"
-    - name: perl-Curses
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-13"
     - name: ros2_image_pipeline
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13179,10 +13135,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-02-17"
-    - name: i3status
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-02-21"
     - name: perl-Algorithm-C3
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13199,10 +13151,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-07"
-    - name: dmenu
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-08"
     - name: qt6-qtwebengine
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15475,27 +15423,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-26"
-    - name: xcompmgr
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-29"
-    - name: i3blocks
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-29"
-    - name: i3blocks-contrib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-29"
     - name: feh
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-29"
-    - name: i3lock
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-29"
-    - name: acpi
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-29"
