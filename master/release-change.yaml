@@ -912,3 +912,8 @@ release-change:
   changed_packages: rpkg rpkg-util rpkg-macros koji python-rpkg rpm-git-tag-sort nosync
     preproc python-pygit2
   date: 2023-08-03-14-21-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1208
+  description: 0b2d5b4a !1208 move python-markdown-it-py&mdit-py-plugins&myst-parser&mdurl
+    from master:Factory to master:Python for python-rich upgrade
+  changed_packages: python-mdurl python-mdit-py-plugins python-myst-parser python-markdown-it-py
+  date: 2023-08-03-14-22-17
