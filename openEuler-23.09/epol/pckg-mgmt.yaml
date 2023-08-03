@@ -3923,12 +3923,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
-- name: python-responses
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
 - name: python-restructuredtext-lint
   source_dir: master
   destination_dir: openEuler-23.09
