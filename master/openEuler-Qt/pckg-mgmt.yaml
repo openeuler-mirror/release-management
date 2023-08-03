@@ -239,3 +239,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
   date: "2023-07-27"
+- name: qt6-qttools
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-03"
