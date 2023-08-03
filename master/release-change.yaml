@@ -917,3 +917,8 @@ release-change:
     from master:Factory to master:Python for python-rich upgrade
   changed_packages: python-mdurl python-mdit-py-plugins python-myst-parser python-markdown-it-py
   date: 2023-08-03-14-22-17
+- pr: https://gitee.com/openeuler/release-management/pulls/1210
+  description: ba7fd760 !1210 move python-responses from Epol to master:Python and
+    openEuler:23.09 for cloud-init upgrade
+  changed_packages: python-responses
+  date: 2023-08-03-19-50-04
