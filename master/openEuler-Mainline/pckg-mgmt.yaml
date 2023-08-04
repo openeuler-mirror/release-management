@@ -6099,39 +6099,3 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-07-26'
-- name: rpkg
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-08-01"
-- name: rpkg-util
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-08-01"
-- name: rpkg-macros
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-08-01"
-- name: koji
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2023-08-01"
-- name: python-rpkg
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2022-08-01"
-- name: rpm-git-tag-sort
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2022-08-01"
-- name: nosync
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2022-08-01"
-- name: preproc
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2022-08-01"
-- name: python-pygit2
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: "2022-08-01"
