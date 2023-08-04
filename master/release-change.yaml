@@ -926,3 +926,8 @@ release-change:
   description: 44426d8a !1211 【轻量级 PR】：【CICD】move qt6-qttools to Qt
   changed_packages: qt6-qttools
   date: 2023-08-04-09-03-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1213
+  description: 6f5df8c4 !1213 Revert rpkg from factory to mainline
+  changed_packages: python-rpkg nosync rpm-git-tag-sort preproc koji rpkg-macros python-pygit2
+    rpkg rpkg-util
+  date: 2023-08-04-14-12-15
