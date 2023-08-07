@@ -15451,3 +15451,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-07"
+    - name: mpiP
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-07"
