@@ -1,1 +1,5 @@
-packages: []
+packages:
+  - name: dleyna-server
+  - name: dleyna-renderer
+  - name: dleyna-core
+  - name: dleyna-connector-dbus
