@@ -931,3 +931,9 @@ release-change:
   changed_packages: python-rpkg nosync rpm-git-tag-sort preproc koji rpkg-macros python-pygit2
     rpkg rpkg-util
   date: 2023-08-04-14-12-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1212
+  description: 77604466 !1212 [openEuler 23.09]add i3 to mainline and factory
+  changed_packages: i3status i3blocks i3blocks-contrib i3lock acpi dmenu xcompmgr
+    i3 perl-AnyEvent-I3 xcb-util-xrm perl-AnyEvent perl-Guard perl-IO-Pipely perl-Curses
+    perl-POE-Test-Loops perl-Test-Command perl-Event perl-POE
+  date: 2023-08-07-14-49-59
