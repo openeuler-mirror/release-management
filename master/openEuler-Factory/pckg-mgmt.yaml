@@ -15443,3 +15443,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-07"
+    - name: BSC-extrae
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-07"
