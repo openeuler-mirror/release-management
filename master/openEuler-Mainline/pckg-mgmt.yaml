@@ -6099,3 +6099,39 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-07-26'
+- name: xcb-util-xrm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-AnyEvent
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-Guard
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-IO-Pipely
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-Curses
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-POE-Test-Loops
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-Test-Command
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-Event
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
+- name: perl-POE
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-04"
