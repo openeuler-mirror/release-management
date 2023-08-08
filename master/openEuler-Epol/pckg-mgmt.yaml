@@ -363,10 +363,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: dleyna-renderer
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: docbook5-schemas
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5434,36 +5430,36 @@ packages:
 - name: i3status
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: i3blocks
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: i3blocks-contrib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: i3lock
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: acpi
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: dmenu
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: xcompmgr
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: i3
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
 - name: perl-AnyEvent-I3
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-08-04"
+  date: '2023-08-04'
