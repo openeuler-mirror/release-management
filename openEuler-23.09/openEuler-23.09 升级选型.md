@@ -1,54 +1,53 @@
-# openEuler-23.09 升级选型清单
-|软件包|选型版本|
-|:----|:-------|
-|gcc|12.3|
-|binutils|2.40|
-|systemd|253|
-|dbus|1.14.8|
-|glibc|2.38|
-|glib2|2.76.4|
-|iproute|6.4.0|
-|coreutils|9.3|
-|python3|3.11.4|
-|golang|1.20.5|
-|lvm2|2.03.21|
-|e2fsprogs|v1.46.5|
-|elfutils|0.189|
-|gnutls|3.8.0|
-|openssl|3.0.9|
-|pam|1.5.3|
-|audit|3.1.1|
-|libnl3|3.7.0|
-|libselinux|3.5|
-|libxcrypt|4.4.36|
-|openssh|9.3p1|
-|lxc|5.0.2|
-|protobuf|3.19.6|
-|containerd|1.6.21|
-|runc|1.1.8|
-|alsa-lib|1.2.9|
-|gmp|6.2.1|
-|kmod|30|
-|libaio|0.3-113|
-|libiscsi|1.19.0|
-|grep|3.11|
-|libxml2|2.11.4|
-|bash|5.2.15|
-|libcap|2.69|
-|libxslt|1.1.38|
-|sssd|2.9.1|
-|util-linux|2.39.1|
-|zstd|1.5.5|
-|cairo|1.17.8|
-|curl|8.1.2|
-|ethtool|6.4.0|
-|freetype|2.13.1|
-|libpng|1.6.40|
-|libtiff|4.5.1|
-|mesa|23.1.3|
-|samba|4.18.5|
-|NetworkManager|1.42.8|
-|ntp|4.2.8p17|
-|openldap|2.6.5|
-|gtk3|3.24.38|
-|libX11|1.8.6|
+| 软件包            | 原版本（23.03） | 选型版本（23.09）|
+|----------------|----------|----------|
+| gcc            | 10.3.1   | 12.3     |
+| binutils       | 2.37     | 2.40     |
+| systemd        | 249      | 253      |
+| dbus           | 1.12.20  | 1.14.8   |
+| glibc          | 2.34     | 2.38     |
+| glib2          | 2.68.1   | 2.76.4   |
+| iproute        | 5.15.0   | 6.4.0    |
+| coreutils      | 9        | 9.3      |
+| python3        | 3.9.9    | 3.11.4   |
+| golang         | 1.19.4   | 1.20.5   |
+| lvm2           | 2.03.14  | 2.03.21  |
+| e2fsprogs      | 1.46.4   | 1.46.5   |
+| elfutils       | 0.185    | 0.189    |
+| gnutls         | 3.7.2    | 3.8.0    |
+| openssl        | 1.1.1m   | 3.0.9    |
+| pam            | 1.5.2    | 1.5.3    |
+| audit          | 3.0.1    | 3.1.1    |
+| libnl3         | 3.5.0    | 3.7.0    |
+| libselinux     | 3.3      | 3.5      |
+| libxcrypt      | 4.4.26   | 4.4.36   |
+| openssh        | 8.8p1    | 9.3p1    |
+| lxc            | 4.0.3    | 5.0.2    |
+| protobuf       | 3.14.0   | 3.19.6   |
+| containerd     | 1.6.18   | 1.6.21   |
+| runc           | 1.1.3    | 1.1.8    |
+| alsa-lib       | 1.2.8    | 1.2.9    |
+| gmp            | 6.2.1    | 6.3.0    |
+| kmod           | 29       | 30       |
+| libaio         | 0.3.112  | 0.3-113  |
+| libiscsi       | 1.19.0   | 1.19.0   |
+| grep           | 3.7      | 3.11     |
+| libxml2        | 2.9.12   | 2.11.4   |
+| bash           | 5.1.8    | 5.2.15   |
+| libcap         | 2.61     | 2.69     |
+| libxslt        | 1.1.34   | 1.1.38   |
+| sssd           | 2.6.1    | 2.9.1    |
+| util-linux     | 2.37.2   | 2.39.1   |
+| zstd           | 1.5.0    | 1.5.5    |
+| cairo          | 1.17.4   | 1.17.8   |
+| curl           | 7.79.1   | 8.1.2    |
+| ethtool        | 5.15     | 6.4.0    |
+| freetype       | 2.11.0   | 2.13.1   |
+| libpng         | 1.6.37   | 1.6.40   |
+| libtiff        | 4.3.0    | 4.5.1    |
+| mesa           | 21.3.1   | 23.1.3   |
+| samba          | 4.17.5   | 4.18.5   |
+| NetworkManager | 1.32.12  | 1.42.8   |
+| ntp            | 4.2.8p15 | 4.2.8p17 |
+| openldap       | 2.6.0    | 2.6.5    |
+| gtk3           | 3.24.30  | 3.24.38  |
+| libX11         | 1.7.2    | 1.8.6    |
