@@ -20,3 +20,7 @@ packages:
   - name: python-wrapt-1.10 
   - name: python-contextlib2 
   - name: mozjs78 
+  - name: dleyna-server
+  - name: dleyna-renderer
+  - name: dleyna-core
+  - name: dleyna-connector-dbus
