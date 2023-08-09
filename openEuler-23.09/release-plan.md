@@ -51,6 +51,10 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7KXLQ](https://gitee.com/openeuler/release-management/issues/I7KXLQ?from=project-issue)|syscare支持容器内补丁制作|Developing|sig-ops|[@RenoSeven](https://gitee.com/RenoSeven)|ISO|syscare|
 |[I7G3JV](https://gitee.com/openeuler/release-management/issues/I7G3JV?from=project-issue)|增加sysBoost项目发布|Developing|atune-sig|[@ironictwist](https://gitee.com/ironictwist)|ISO|sysboost|
 |[I7FB2R](https://gitee.com/openeuler/release-management/issues/I7FB2R?from=project-issue)|增加CTinspector项目发布|Developing|ebpf-sig|[@wonleing](https://gitee.com/wonleing)|ISO|CTinspector|
+|[I6V32Y](https://gitee.com/openeuler/kernel/issues/I6V32Y?from=project-issue)|openEuler-22.03-SP2继承需求回合（内核）|Developing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
+|[I7RPQG](https://gitee.com/openeuler/release-management/issues/I7RPQG?from=project-issue)|继承特性回合|Developing|相关sig组|[@sujinling](https://gitee.com/sujinling)|ISO||
+|[I7RPOW](https://gitee.com/openeuler/release-management/issues/I7RPOW?from=project-issue)|软件包升级适配|Developing|相关sig组|[@sujinling](https://gitee.com/sujinling)|ISO||
+|[I6V436](https://gitee.com/openeuler/kernel/issues/I6V436?from=project-issue)|内核基线版本升级到v6.4 Release|Developing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
