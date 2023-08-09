@@ -43,6 +43,14 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7MAWT](https://gitee.com/openeuler/release-management/issues/I7MAWT)|Aops支持配置溯源功能|Discussion|sig-ops|[@byrobins](https://gitee.com/byrobins)|EPOL|A-Ops,aops-hermes,aops-zeus,aops-ceres|
 |[I7K7I7](https://gitee.com/openeuler/release-management/issues/I7K7I7)|sysMaster支持虚机场景|Discussion|dev-utils|[@overweight](https://gitee.com/overweight)|ISO|sysmaster|
 |[I7PNTH](https://gitee.com/openeuler/release-management/issues/I7PNTH)|增加异构通用内存管理框架（GMEM）特性发布|Developing|sig-kernel,sig-Computing|[@fangchuang](https://gitee.com/fangchuang),[@weixizhu94](https://gitee.com/weixizhu94)|ISO|kernel,libgmem|
+|[I7MR9U](https://gitee.com/openeuler/release-management/issues/I7MR9U?from=project-issue)|增加RISC-V架构QEMU镜像|Developing|sig-RISC-V|[@phoebe-xi](https://gitee.com/phoebe-xi)|ISO||
+|[I7LQ45](https://gitee.com/openeuler/release-management/issues/I7LQ45?from=project-issue)|增加进程完整性防护特性|Developing|sig-security-facility|[@jinlun123123](https://gitee.com/jinlun123123)|ISO|dim,dim-tools|
+|[I7LPVO](https://gitee.com/openeuler/release-management/issues/I7LPVO?from=project-issue)|Kuasar 统一容器运行时特性|Developing|SIG-CloudNative|[@flyflyflypeng](https://gitee.com/flyflyflypeng)|ISO|kuasar,iSulad|
+|[I7L1TM](https://gitee.com/openeuler/release-management/issues/I7L1TM?from=project-issue)|A-Ops gala支持K8S Pod全栈可观测及诊断|Developing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
+|[I7KXN5](https://gitee.com/openeuler/release-management/issues/I7KXN5?from=project-issue)|syscare组件支持容器化热补丁制作场景|Developing|sig-ops|[@RenoSeven](https://gitee.com/RenoSeven)|ISO|syscare|
+|[I7KXLQ](https://gitee.com/openeuler/release-management/issues/I7KXLQ?from=project-issue)|syscare支持容器内补丁制作|Developing|sig-ops|[@RenoSeven](https://gitee.com/RenoSeven)|ISO|syscare|
+|[I7G3JV](https://gitee.com/openeuler/release-management/issues/I7G3JV?from=project-issue)|增加sysBoost项目发布|Developing|atune-sig|[@ironictwist](https://gitee.com/ironictwist)|ISO|sysboost|
+|[I7FB2R](https://gitee.com/openeuler/release-management/issues/I7FB2R?from=project-issue)|增加CTinspector项目发布|Developing|ebpf-sig|[@wonleing](https://gitee.com/wonleing)|ISO|CTinspector|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
