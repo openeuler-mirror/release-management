@@ -3,3 +3,4 @@ packages:
   - name: dleyna-renderer
   - name: dleyna-core
   - name: dleyna-connector-dbus
+  - name: optimized-routines
