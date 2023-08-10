@@ -15475,3 +15475,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-08"
+    - name: secscanner
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-10"
