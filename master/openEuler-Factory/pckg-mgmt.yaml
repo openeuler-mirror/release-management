@@ -15511,3 +15511,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-10"
+    - name: dde-manual-content
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-10"
