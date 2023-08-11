@@ -1575,10 +1575,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: kf5-ktexteditor
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: kiran-avatar-editor
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12335,10 +12331,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-30"
-    - name: kf5-kfilemetadata
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: khotkeys
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12375,19 +12367,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kf5-kactivities-stats
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kmediaplayer
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: cln
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-prison
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12399,23 +12379,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kf5-kholidays
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: libfakekey
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kf5-purpose
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: sddm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kjsembed
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12424,14 +12392,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: kf5-grantleetheme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kcontacts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-baloo
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12444,14 +12404,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: maliit-framework
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kimageformats
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kdnssd
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12468,10 +12420,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: sddm-kcm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kpeople
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12496,10 +12444,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: kate
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kdav
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12547,14 +12491,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kf5-kquickcharts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kapidox
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: kde-connect
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12571,10 +12507,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kf5-kxmlrpcclient
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: libaccounts-qt
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12588,10 +12520,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-systemsettings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-modemmanager-qt
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12632,10 +12560,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-oxygen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kf5-kross
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12735,19 +12659,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-10"
-    - name: kf5-syndication
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-14"
     - name: plasma-milou
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-14"
     - name: plasma-nm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-14"
-    - name: kf5-kcalendarcore
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-14"
