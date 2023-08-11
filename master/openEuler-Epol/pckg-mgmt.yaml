@@ -3803,10 +3803,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: perl-Glib
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-pytest-freezegun
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5120,10 +5116,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2023-04-28'
 - name: perl-XML-DOM
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Task-Weaken
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-28'
