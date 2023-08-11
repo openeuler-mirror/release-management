@@ -946,3 +946,11 @@ release-change:
   description: 5be46412 !1226 Remove optimized-routines from openEuler:23.09.
   changed_packages: optimized-routines
   date: 2023-08-10-17-34-23
+- pr: https://gitee.com/openeuler/release-management/pulls/1219
+  description: 387bafec !1219 Remove kf5 some package from openEuler:Factory to openEuler:Epol
+    and openEuler:23.09
+  changed_packages: kf5-baloo kf5-kactivities-stats kf5-kapidox kf5-kcalendarcore
+    kf5-kcontacts kf5-kdav kf5-kdnssd kf5-kfilemetadata kf5-kholidays kf5-kimageformats
+    kf5-kjsembed kf5-kmediaplayer kf5-kpeople kf5-kquickcharts kf5-kross kf5-ktexteditor
+    kf5-kxmlrpcclient kf5-modemmanager-qt kf5-prison kf5-purpose kf5-syndication
+  date: 2023-08-11-14-10-11
