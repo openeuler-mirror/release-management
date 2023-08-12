@@ -26,3 +26,5 @@ packages:
   - name: dleyna-connector-dbus
   - name: optimized-routines
   - name: libkae
+  - name: perl-Test-CPAN-Meta
+  - name: perl-Test-CPAN-Meta-JSON
