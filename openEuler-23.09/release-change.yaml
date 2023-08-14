@@ -43,3 +43,13 @@ release-change:
   description: 95483ee2 !1231 移除perl-Test-CPAN-Meta和perl-Test-CPAN-Meta-JSON 从master和openEuler-23.09
   changed_packages: perl-Test-CPAN-Meta-JSON
   date: 2023-08-14-16-35-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1234
+  description: 8e79175a !1234 move kde package from Factory to openEuler:Epol and
+    openEuler:23.09
+  changed_packages: kdegraphics-mobipocket kf5-akonadi-calendar kf5-akonadi-contacts
+    kf5-akonadi-mime kf5-akonadi-notes kf5-akonadi-search kf5-akonadi-server kf5-calendarsupport
+    kf5-grantleetheme kf5-kcalendarutils kf5-kidentitymanagement kf5-kimap kf5-kldap
+    kf5-kmailtransport kf5-kmbox kf5-kmime kf5-kontactinterface kf5-ksmtp kf5-ktnef
+    kf5-libgravatar kf5-libkdepim kf5-libkexiv2 kf5-libkleo kf5-libksieve kf5-mailcommon
+    kf5-mailimporter kf5-messagelib kf5-pimcommon konsole5 libkgapi okular
+  date: 2023-08-14-16-36-19
