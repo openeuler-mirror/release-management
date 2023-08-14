@@ -5867,10 +5867,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-04-27'
-- name: perl-Test-CPAN-Meta
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2023-04-27'
 - name: asymptote
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -5936,10 +5932,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2023-04-28'
 - name: perl-Hook-LexWrap
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2023-04-28'
-- name: perl-Test-CPAN-Meta-JSON
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-04-28'

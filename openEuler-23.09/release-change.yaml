@@ -39,3 +39,7 @@ release-change:
   description: e1755b1d !1229 Remove pkgship from openEuler:23.09
   changed_packages: pkgship
   date: 2023-08-14-15-50-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1231
+  description: 95483ee2 !1231 移除perl-Test-CPAN-Meta和perl-Test-CPAN-Meta-JSON 从master和openEuler-23.09
+  changed_packages: perl-Test-CPAN-Meta-JSON
+  date: 2023-08-14-16-35-15
