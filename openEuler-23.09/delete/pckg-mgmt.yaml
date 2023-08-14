@@ -4,3 +4,4 @@ packages:
   - name: dleyna-core
   - name: dleyna-connector-dbus
   - name: optimized-routines
+  - name: pkgship
