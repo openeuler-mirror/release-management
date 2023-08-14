@@ -30,6 +30,7 @@ openEuler 20.03-LTS-SP4 版本基线继承openEuler 20.03-LTS-Next分支 <br>
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
+|1|eNFS|Discussion|Kernel|闫海涛|ISO|nfs，sunrpc，eNfs|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
