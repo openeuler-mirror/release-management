@@ -15415,35 +15415,3 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2023-08-10'
-- name: libchardet
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: deepin-screensaver
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: dde-app-services
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: dde-manual-content
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: docparser
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: dde-network-core
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: dareader
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'
-- name: deepin-proxy
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-10'

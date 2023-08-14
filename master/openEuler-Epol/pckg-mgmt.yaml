@@ -5539,3 +5539,35 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-09'
+- name: libchardet
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: deepin-screensaver
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: dde-app-services
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: dde-manual-content
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: docparser
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: dde-network-core
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: dareader
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
+- name: deepin-proxy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-14'
