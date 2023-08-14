@@ -5,3 +5,4 @@ packages:
   - name: dleyna-connector-dbus
   - name: optimized-routines
   - name: pkgship
+  - name: perl-Test-CPAN-Meta-JSON
