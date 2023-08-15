@@ -53,3 +53,9 @@ release-change:
     kf5-libgravatar kf5-libkdepim kf5-libkexiv2 kf5-libkleo kf5-libksieve kf5-mailcommon
     kf5-mailimporter kf5-messagelib kf5-pimcommon konsole5 libkgapi okular
   date: 2023-08-14-16-36-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1232
+  description: 7c501abe !1232 将i3相关包添加到23.09的工程中
+  changed_packages: i3status i3blocks i3blocks-contrib i3lock acpi dmenu xcompmgr
+    i3 perl-AnyEvent-I3 xcb-util-xrm perl-AnyEvent perl-Guard perl-IO-Pipely perl-Curses
+    perl-POE-Test-Loops perl-Test-Command perl-Event perl-POE
+  date: 2023-08-15-16-29-09
