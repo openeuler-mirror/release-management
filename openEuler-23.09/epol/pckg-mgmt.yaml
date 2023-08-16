@@ -5657,12 +5657,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
-- name: perl-Glib
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
 - name: python-pytest-freezegun
   source_dir: master
   destination_dir: openEuler-23.09
@@ -7590,12 +7584,6 @@ packages:
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
 - name: perl-XML-DOM
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
-- name: perl-Task-Weaken
   source_dir: master
   destination_dir: openEuler-23.09
   obs_from: openEuler:Epol
