@@ -71,10 +71,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: PackageKit-Qt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: Picard
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12339,10 +12335,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: pulseaudio-qt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: kcron
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12355,19 +12347,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: gpsd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: cln
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: keditbookmarks
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: libfakekey
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12379,15 +12359,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: signon
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: maliit-framework
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: libqalculate
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12423,10 +12395,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: plasma-workspace
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: plasma-sdk
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12435,19 +12403,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kde-cli-tools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: kdnssd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: qqc2-desktop-style
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kuserfeedback
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12456,10 +12412,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-pa
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kde-connect
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12475,10 +12427,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: libaccounts-qt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: libchewing
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12488,10 +12436,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-systemsettings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: libaccounts-glib
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12515,19 +12459,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: catdoc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: anthy-unicode
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-oxygen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: ebook-tools
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12595,10 +12531,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-31"
-    - name: accounts-qml-module
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-31"
     - name: polkit-kde
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12607,10 +12539,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-31"
-    - name: signon-plugin-oauth2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-07"
     - name: mhvtl
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12644,10 +12572,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-11-22"
     - name: fstools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-29"
-    - name: qtkeychain-qt5
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-29"
@@ -15400,10 +15324,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-orjson
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: ktextaddons
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
