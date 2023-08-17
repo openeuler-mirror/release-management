@@ -15339,3 +15339,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
+    - name: python-markdown-callouts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-17"
