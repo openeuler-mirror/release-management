@@ -7907,6 +7907,12 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:23.09
   date: '2023-08-03'
+- name: glslang
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:23.09
+  date: '2023-08-17'
 - name: gnome-abrt
   source_dir: master
   destination_dir: openEuler-23.09
@@ -11735,6 +11741,12 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:23.09
   date: '2023-08-03'
+- name: spirv-tools
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:23.09
+  date: '2023-08-17'
 - name: sqlite-jdbc
   source_dir: master
   destination_dir: openEuler-23.09
