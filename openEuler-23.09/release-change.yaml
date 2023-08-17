@@ -64,3 +64,7 @@ release-change:
     to openEuler:23.09
   changed_packages: perl-Glib perl-Task-Weaken
   date: 2023-08-16-10-51-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1236
+  description: f25f2356 !1236 add glslang&spriv-tools from openEuler:Factory to openEuler:23.09
+  changed_packages: glslang spirv-tools
+  date: 2023-08-17-15-24-52
