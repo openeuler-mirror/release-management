@@ -14959,10 +14959,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-21"
-    - name: libgmem
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-21"
     - name: python-watchfiles
       obs_from: ""
       obs_to: openEuler:Factory

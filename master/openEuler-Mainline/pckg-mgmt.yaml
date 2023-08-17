@@ -6135,3 +6135,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-08-14'
+- name: libgmem
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2023-08-22'
