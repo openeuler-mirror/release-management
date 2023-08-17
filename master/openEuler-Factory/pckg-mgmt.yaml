@@ -15663,3 +15663,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
+    - name: python-OWSLib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-17"
