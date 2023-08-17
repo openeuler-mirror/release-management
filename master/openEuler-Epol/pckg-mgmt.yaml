@@ -5571,227 +5571,231 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kdegraphics-mobipocket
+- name: kdegraphics-mobipocket
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-akonadi-calendar
+- name: kf5-akonadi-calendar
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-akonadi-contacts
+- name: kf5-akonadi-contacts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-akonadi-mime
+- name: kf5-akonadi-mime
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-akonadi-notes
+- name: kf5-akonadi-notes
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-akonadi-search
+- name: kf5-akonadi-search
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-akonadi-server
+- name: kf5-akonadi-server
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-calendarsupport
+- name: kf5-calendarsupport
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-grantleetheme
+- name: kf5-grantleetheme
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kcalendarutils
+- name: kf5-kcalendarutils
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kidentitymanagement
+- name: kf5-kidentitymanagement
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kimap
+- name: kf5-kimap
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kldap
+- name: kf5-kldap
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kmailtransport
+- name: kf5-kmailtransport
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kmbox
+- name: kf5-kmbox
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kmime
+- name: kf5-kmime
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kontactinterface
+- name: kf5-kontactinterface
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-kpimtextedit
+- name: kf5-kpimtextedit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-ksmtp
+- name: kf5-ksmtp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-ktnef
+- name: kf5-ktnef
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-libgravatar
+- name: kf5-libgravatar
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-libkdepim
+- name: kf5-libkdepim
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-libkexiv2
+- name: kf5-libkexiv2
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-libkleo
+- name: kf5-libkleo
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-libksieve
+- name: kf5-libksieve
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-mailcommon
+- name: kf5-mailcommon
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-mailimporter
+- name: kf5-mailimporter
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-messagelib
+- name: kf5-messagelib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kf5-pimcommon
+- name: kf5-pimcommon
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  konsole5
+- name: konsole5
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  libkgapi
+- name: libkgapi
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  okular
+- name: okular
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  grantlee-qt5
+- name: grantlee-qt5
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  libdmtx
+- name: libdmtx
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  kaccounts-integration
+- name: kaccounts-integration
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
-- name:  utsudo
+- name: utsudo
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  libaccounts-qt
+- name: libaccounts-qt
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  libaccounts-glib
+- name: libaccounts-glib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  accounts-qml-module
+- name: accounts-qml-module
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  signon
+- name: signon
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  signon-plugin-oauth2
+- name: signon-plugin-oauth2
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  kde-connect
+- name: kde-connect
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  ebook-tools
+- name: ebook-tools
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  pulseaudio-qt
+- name: pulseaudio-qt
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  libfakekey
+- name: libfakekey
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  qqc2-desktop-style
+- name: qqc2-desktop-style
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  catdoc
+- name: catdoc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  qtkeychain-qt5
+- name: qtkeychain-qt5
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  kde-cli-tools
+- name: kde-cli-tools
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  plasma-workspace
+- name: plasma-workspace
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  gpsd
+- name: gpsd
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  libqalculate
+- name: libqalculate
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  PackageKit-Qt
+- name: PackageKit-Qt
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  kuserfeedback
+- name: kuserfeedback
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  cln
+- name: cln
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'
-- name:  ktextaddons
+- name: ktextaddons
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-08-17'
+- name: libksysguard
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-17'

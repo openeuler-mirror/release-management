@@ -1763,10 +1763,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: libksysguard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: libmatroska
       obs_from: ""
       obs_to: openEuler:Factory

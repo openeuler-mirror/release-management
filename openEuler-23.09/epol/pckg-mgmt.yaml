@@ -8567,3 +8567,27 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-17'
+- name: libdmtx
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-08-17'
+- name: kf5-kpimtextedit
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-08-17'
+- name: kaccounts-integration
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-08-17'
+- name: grantlee-qt5
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-08-17'
