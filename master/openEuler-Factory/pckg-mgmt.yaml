@@ -15407,3 +15407,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
+    - name: ktextaddons
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-17"
