@@ -101,3 +101,7 @@ release-change:
   description: f55f7b6b !1255 Remove drbd kmod-drbd90 from openEuler-23.09
   changed_packages: drbd kmod-drbd90
   date: 2023-08-18-15-41-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1261
+  description: dd48f9d0 !1261 create 23.09-epol for libksysguard
+  changed_packages: libksysguard
+  date: 2023-08-18-16-17-45
