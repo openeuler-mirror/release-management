@@ -7,3 +7,5 @@ packages:
   - name: pkgship
   - name: perl-Test-CPAN-Meta-JSON
   - name: libkae
+  - name: drbd
+  - name: kmod-drbd90
