@@ -8597,3 +8597,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-18'
+- name: utshell
+  source_dir: openEuler-23.09
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-08-18'
