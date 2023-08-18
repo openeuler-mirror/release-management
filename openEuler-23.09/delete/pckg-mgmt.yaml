@@ -9,3 +9,5 @@ packages:
   - name: libkae
   - name: drbd
   - name: kmod-drbd90
+  - name: tracker
+  - name: tracker-miners
