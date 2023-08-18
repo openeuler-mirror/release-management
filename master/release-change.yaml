@@ -1012,3 +1012,10 @@ release-change:
     and openEuler:23.09
   changed_packages: utshell
   date: 2023-08-18-14-53-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1257
+  description: 1207e587 !1257 添加ros工程和依赖
+  changed_packages: Catch2 python-catkin_pkg ceres-solver cppzmq fcl flann google_benchmark
+    libccd libomp libuvc metslib nlohmann_json octomap openni orocos_kdl pcl python-catkin-sphinx
+    python-pycollada python-empy python-lark-parser python-rosdistro python-rospkg
+    python-typeguard range-v3 spdlog tango_icon_theme openeuler-ros
+  date: 2023-08-18-15-08-43
