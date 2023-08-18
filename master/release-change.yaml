@@ -1003,3 +1003,7 @@ release-change:
   description: 2c93c7a2 !1251 move libksysguard from Factory to Epol
   changed_packages: libksysguard
   date: 2023-08-17-19-01-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1254
+  description: b61476b7 !1254 add xscreensaver for compile and use deepin-screensaver
+  changed_packages: xscreensaver
+  date: 2023-08-18-10-59-39

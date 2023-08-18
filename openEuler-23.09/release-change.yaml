@@ -88,3 +88,7 @@ release-change:
   description: 917ef178 !1253 KAE仓归一，将废弃仓删除。
   changed_packages: libkae
   date: 2023-08-18-09-26-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1254
+  description: b61476b7 !1254 add xscreensaver for compile and use deepin-screensaver
+  changed_packages: xscreensaver
+  date: 2023-08-18-10-59-39
