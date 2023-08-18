@@ -471,10 +471,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: ceres-solver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: chromium
       obs_from: ""
       obs_to: openEuler:Factory
@@ -1799,10 +1795,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: libomp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: libopenmpt
       obs_from: ""
       obs_to: openEuler:Factory
@@ -2448,10 +2440,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: origin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: orocos_kdl
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -7767,10 +7755,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-catkin-sphinx
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-cccolutils
       obs_from: ""
       obs_to: openEuler:Factory
@@ -8787,10 +8771,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-lark-parser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-lasso
       obs_from: ""
       obs_to: openEuler:Factory
@@ -9504,10 +9484,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-pyclipper
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-pycollada
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -13759,10 +13735,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
-    - name: octomap
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-09"
     - name: hls_lfcd_lds_driver
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14371,35 +14343,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-29"
-    - name: python-rosdistro
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: libuvc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: cppzmq
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
     - name: ydlidar
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: fcl
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: libccd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: Catch2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-rospkg
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
@@ -14407,31 +14351,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
-    - name: google_benchmark
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-catkin_pkg
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
     - name: libzmq
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: flann
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: spdlog
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: tango_icon_theme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-typeguard
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
@@ -14443,27 +14363,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
-    - name: nlohmann_json
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: range-v3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: metslib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-empy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
     - name: pycollada
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: pcl
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
@@ -14488,10 +14388,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-02"
     - name: ydlidar-sdk
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-08"
-    - name: openni
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-08"
@@ -14543,10 +14439,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-11"
-    - name: openeuler-ros
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-12"
     - name: python-hug
       obs_from: ""
       obs_to: openEuler:Factory
