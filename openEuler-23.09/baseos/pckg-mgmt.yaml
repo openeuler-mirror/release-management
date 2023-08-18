@@ -1559,12 +1559,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:23.09
   date: '2023-08-03'
-- name: libkae
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:C
-  obs_to: openEuler:23.09
-  date: '2023-08-03'
 - name: libksba
   source_dir: master
   destination_dir: openEuler-23.09

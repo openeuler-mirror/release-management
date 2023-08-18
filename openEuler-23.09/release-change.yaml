@@ -84,3 +84,7 @@ release-change:
   description: 2c93c7a2 !1251 move libksysguard from Factory to Epol
   changed_packages: libdmtx kf5-kpimtextedit kaccounts-integration grantlee-qt5
   date: 2023-08-17-19-01-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1253
+  description: 917ef178 !1253 KAE仓归一，将废弃仓删除。
+  changed_packages: libkae
+  date: 2023-08-18-09-26-36
