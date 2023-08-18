@@ -6,3 +6,4 @@ packages:
   - name: optimized-routines
   - name: pkgship
   - name: perl-Test-CPAN-Meta-JSON
+  - name: libkae
