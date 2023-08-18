@@ -97,3 +97,7 @@ release-change:
     and openEuler:23.09
   changed_packages: utshell
   date: 2023-08-18-14-53-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1255
+  description: f55f7b6b !1255 Remove drbd kmod-drbd90 from openEuler-23.09
+  changed_packages: drbd kmod-drbd90
+  date: 2023-08-18-15-41-29

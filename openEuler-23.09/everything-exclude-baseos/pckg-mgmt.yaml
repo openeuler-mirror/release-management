@@ -12011,12 +12011,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:23.09
   date: '2023-08-03'
-- name: drbd
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.09
-  date: '2023-08-03'
 - name: python-pytest-xprocess
   source_dir: master
   destination_dir: openEuler-23.09
@@ -12372,12 +12366,6 @@ packages:
   obs_to: openEuler:23.09
   date: '2023-08-03'
 - name: kafka
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:23.09
-  date: '2023-08-03'
-- name: kmod-drbd90
   source_dir: master
   destination_dir: openEuler-23.09
   obs_from: openEuler:Mainline
