@@ -15087,10 +15087,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-14"
-    - name: migration-tools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-16"
     - name: python-jsx-lexer
       obs_from: ""
       obs_to: openEuler:Factory
