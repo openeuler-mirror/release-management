@@ -1024,3 +1024,7 @@ release-change:
     and openEuler:23.09
   changed_packages: migration-tools
   date: 2023-08-21-18-00-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1250
+  description: 7272db4a !1250 move libgmem to mainline and 23.09
+  changed_packages: libgmem
+  date: 2023-08-22-14-16-05
