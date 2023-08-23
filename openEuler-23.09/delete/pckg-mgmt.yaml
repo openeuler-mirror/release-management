@@ -201,3 +201,9 @@ packages:
   - name: python-zaqarclient
   - name: python-zunclient
   - name: python-zVMCloudConnector
+  - name: hiviewdfx_hilog
+  - name: distributed-build
+  - name: distributed-build_lite
+  - name: filemanagement_dfs_service
+  - name: hiviewdfx_hisysevent
+  - name: hmdfs
