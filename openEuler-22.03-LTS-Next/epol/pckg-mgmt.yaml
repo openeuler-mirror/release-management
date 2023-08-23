@@ -5573,3 +5573,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-07-05'
+- name: SmartHBA-2100-8i-driver
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2023-08-23'
