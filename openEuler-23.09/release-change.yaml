@@ -127,3 +127,7 @@ release-change:
   description: 8ad27b7d !1266 add appres for compile and use screensaver
   changed_packages: appres
   date: 2023-08-23-10-22-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1269
+  description: 4395bcd5 !1269 delete package arangodb from openEuler-23.09:Epol
+  changed_packages: arangodb
+  date: 2023-08-23-10-48-34
