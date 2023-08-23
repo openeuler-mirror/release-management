@@ -1032,3 +1032,7 @@ release-change:
   description: 8ad27b7d !1266 add appres for compile and use screensaver
   changed_packages: appres
   date: 2023-08-23-10-22-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1267
+  description: 1c821ed9 !1267 PMC RAID卡驱动仓库新拉的分支增加obs构建工程
+  changed_packages: SmartHBA-2100-8i-driver
+  date: 2023-08-23-17-34-39
