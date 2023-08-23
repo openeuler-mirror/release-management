@@ -32,9 +32,9 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|[I7GRO2](https://gitee.com/openeuler/release-management/issues/I7GRO2)|增加 utshell 项目发布|discussion|sig-utshell|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
-|[I7GYQK](https://gitee.com/openeuler/release-management/issues/I7GYQK)|增加 utsudo 项目发布|discussion|sig-utsudo|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
-|[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|discussion|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
+|[I7GRO2](https://gitee.com/openeuler/release-management/issues/I7GRO2)|增加 utshell 项目发布|Testing|sig-utshell|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
+|[I7GYQK](https://gitee.com/openeuler/release-management/issues/I7GYQK)|增加 utsudo 项目发布|Testing|sig-utsudo|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
+|[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|Testing|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
 |[I7K7FQ](https://gitee.com/openeuler/release-management/issues/I7K7FQ)|DDE组件更新支持服务器场景优化|Testing|sig-DDE|[@leeffo](https://gitee.com/leeffo)|EPOL||
 |[I7INU0](https://gitee.com/openeuler/release-management/issues/I7INU0?from=project-issue)|增加 Kmesh 项目发布|Developing|sig-ebpf|[@sky](https://gitee.com/nlgwcy)|extras|Kmesh|
 |[I7K5TZ](https://gitee.com/openeuler/release-management/issues/I7K5TZ)|增加i3相关软件包发布|Developing|sig-epol|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,perl-Guard,perl-Glib,perl-Curses,dmenu,perl-Task-Weaken,perl-POE-Test-Loops,perl-Test-Command|
