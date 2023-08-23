@@ -201,6 +201,7 @@ packages:
   - name: python-zaqarclient
   - name: python-zunclient
   - name: python-zVMCloudConnector
+  - name: arangodb
   - name: hiviewdfx_hilog
   - name: distributed-build
   - name: distributed-build_lite
