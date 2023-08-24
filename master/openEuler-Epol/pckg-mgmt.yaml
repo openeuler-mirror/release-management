@@ -2983,18 +2983,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: qt5-qtcharts
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: qt5-qtspeech
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: qt5-qtvirtualkeyboard
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: qt5-ukui-platformtheme
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol

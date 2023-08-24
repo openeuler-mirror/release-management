@@ -243,3 +243,43 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
   date: "2023-08-03"
+- name: qt5-qtdatavis3d
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtfeedback
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtgamepad
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtnetworkauth
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtremoteobjects
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtscxml
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtwebview
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtcharts
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtspeech
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Qt
+  date: "2023-08-24"
+- name: qt5-qtvirtualkeyboard
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Qt
+  date: "2023-08-24"

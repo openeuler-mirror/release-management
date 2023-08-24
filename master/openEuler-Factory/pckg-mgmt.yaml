@@ -11907,10 +11907,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: qt5-qtscxml
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-pip-run
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11971,10 +11967,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: qt5-qtremoteobjects
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: butane
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12031,10 +12023,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: qt5-qtdatavis3d
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-uncertainties
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12063,10 +12051,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: qt5-qtgamepad
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-towncrier
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12088,10 +12072,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-ConfigSpace
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: qt5-qtwebview
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12416,10 +12396,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: kactivitymanagerd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: qt5-qtfeedback
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -14399,10 +14375,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-08"
-    - name: qt5-qtnetworkauth
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-09"
     - name: libkolabxml
       obs_from: ""
       obs_to: openEuler:Factory
