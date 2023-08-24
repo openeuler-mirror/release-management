@@ -6139,3 +6139,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-08-22'
+- name: chatglm.cpp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-24"
+- name: llama.cpp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-08-24"
