@@ -208,3 +208,4 @@ packages:
   - name: filemanagement_dfs_service
   - name: hiviewdfx_hisysevent
   - name: hmdfs
+  - name: i3status
