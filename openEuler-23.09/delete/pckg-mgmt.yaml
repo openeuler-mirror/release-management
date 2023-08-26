@@ -209,3 +209,4 @@ packages:
   - name: hiviewdfx_hisysevent
   - name: hmdfs
   - name: i3status
+  - name: gcc-12
