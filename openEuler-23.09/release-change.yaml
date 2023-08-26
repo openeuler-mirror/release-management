@@ -144,3 +144,7 @@ release-change:
   description: 5b71fa8f !1277 申请从23.09 软件包基线中剔除i3status
   changed_packages: i3status
   date: 2023-08-25-10-17-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1279
+  description: 0bd7ff3c !1279 【轻量级 PR】：delete gcc-12 on openEuler 23.09
+  changed_packages: gcc-12
+  date: 2023-08-26-09-41-07
