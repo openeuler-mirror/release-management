@@ -209,4 +209,5 @@ packages:
   - name: hiviewdfx_hisysevent
   - name: hmdfs
   - name: i3status
+  - name: openstack-releases
   - name: gcc-12
