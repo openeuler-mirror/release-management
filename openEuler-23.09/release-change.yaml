@@ -152,3 +152,7 @@ release-change:
   description: f190dd6b !1284 Remove python-flatbuffers from openEuler-23.09 and master
   changed_packages: python-flatbuffers
   date: 2023-08-28-11-18-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1275
+  description: b0395bf2 !1275 add delete pkg of openEuler-23.09:Epol-excluded
+  changed_packages: openstack-releases
+  date: 2023-08-28-11-27-52
