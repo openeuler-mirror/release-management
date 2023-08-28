@@ -148,3 +148,7 @@ release-change:
   description: 0bd7ff3c !1279 【轻量级 PR】：delete gcc-12 on openEuler 23.09
   changed_packages: gcc-12
   date: 2023-08-26-09-41-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1284
+  description: f190dd6b !1284 Remove python-flatbuffers from openEuler-23.09 and master
+  changed_packages: python-flatbuffers
+  date: 2023-08-28-11-18-11

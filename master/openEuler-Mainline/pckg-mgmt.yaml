@@ -4471,10 +4471,6 @@ packages:
   obs_from: openEuler:Python
   obs_to: openEuler:Mainline
   date: '2023-04-25'
-- name: python-flatbuffers
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2023-04-20'
 - name: texi2html
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6142,8 +6138,8 @@ packages:
 - name: chatglm.cpp
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: llama.cpp
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-08-24"
+  date: '2023-08-24'
