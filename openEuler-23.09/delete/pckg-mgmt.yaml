@@ -208,7 +208,6 @@ packages:
   - name: filemanagement_dfs_service
   - name: hiviewdfx_hisysevent
   - name: hmdfs
-  - name: i3status
   - name: openstack-releases
   - name: gcc-12
   - name: python-flatbuffers
