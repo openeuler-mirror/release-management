@@ -57,6 +57,7 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I6V436](https://gitee.com/openeuler/kernel/issues/I6V436?from=project-issue)|内核基线版本升级到v6.4 Release|Developing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
 |[I7TYZ8](https://gitee.com/openeuler/release-management/issues/I7TYZ8)|支持embedded|Developing|sig-embedded|[@fanglinxu](https://gitee.com/fanglinxu)|img|sig-embedded|
 |[I7V5ZO](https://gitee.com/openeuler/release-management/issues/I7V5ZO)|支持ROS2-humble基础版|Discussion|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
+|[I7WDH4](https://gitee.com/openeuler/release-management/issues/I7WDH4)|支持llama.cpp和chatglm.cpp|Discussion|atune-sig|[@zhoupengcheng11](https://gitee.com/zhoupengcheng11)|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
