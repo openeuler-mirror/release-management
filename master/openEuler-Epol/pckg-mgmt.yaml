@@ -5927,3 +5927,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-29'
+- name: PilotGo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-01'
+- name: PilotGo-plugin-grafana
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-01'
+- name: PilotGo-plugin-prometheus
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-01'

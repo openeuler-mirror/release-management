@@ -32,6 +32,7 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
+|[I7VFV1](https://gitee.com/openeuler/release-management/issues/I7VFV1)|增加 PilotGo 项目发布|Developing|sig-ops|[@yangzhao_kl](https://gitee.com/yangzhao_kl)|EPOL|PilotGo,PilotGo-plugin-grafana,PilotGo-plugin-prometheus|
 |[I7GRO2](https://gitee.com/openeuler/release-management/issues/I7GRO2)|增加 utshell 项目发布|Testing|sig-utshell|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
 |[I7GYQK](https://gitee.com/openeuler/release-management/issues/I7GYQK)|增加 utsudo 项目发布|Testing|sig-utsudo|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
 |[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|Testing|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
