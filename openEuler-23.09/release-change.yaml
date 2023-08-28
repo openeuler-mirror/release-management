@@ -156,3 +156,7 @@ release-change:
   description: b0395bf2 !1275 add delete pkg of openEuler-23.09:Epol-excluded
   changed_packages: openstack-releases
   date: 2023-08-28-11-27-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1289
+  description: cd1cf417 !1289 add i3status to 23.09
+  changed_packages: i3status
+  date: 2023-08-28-20-25-44
