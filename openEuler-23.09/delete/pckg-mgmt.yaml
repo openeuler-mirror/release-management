@@ -210,3 +210,4 @@ packages:
   - name: hmdfs
   - name: i3status
   - name: gcc-12
+  - name: python-flatbuffers
