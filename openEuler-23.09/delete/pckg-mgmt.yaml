@@ -211,3 +211,4 @@ packages:
   - name: openstack-releases
   - name: gcc-12
   - name: python-flatbuffers
+  - name: nvwa
