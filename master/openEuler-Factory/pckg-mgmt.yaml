@@ -14251,27 +14251,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
-    - name: distributeddatamgr_data_object
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
     - name: security_device_security_level
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
     - name: notification_common_event_service
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: distributeddatamgr_datamgr_service
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: distributeddatamgr_relational_store
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: distributeddatamgr_kv_store
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
