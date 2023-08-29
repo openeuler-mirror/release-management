@@ -449,3 +449,8 @@ release-change:
   description: 1c821ed9 !1267 PMC RAID卡驱动仓库新拉的分支增加obs构建工程
   changed_packages: SmartHBA-2100-8i-driver
   date: 2023-08-23-17-34-39
+- pr: https://gitee.com/openeuler/release-management/pulls/1292
+  description: 7511d873 !1292 添加4个分布式数据管理相关软件包到22.03-LTS-SP2 epol仓
+  changed_packages: distributeddatamgr_kv_store distributeddatamgr_datamgr_service
+    distributeddatamgr_relational_store distributeddatamgr_data_object
+  date: 2023-08-29-14-39-12
