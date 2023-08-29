@@ -15619,3 +15619,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-26"
+    - name: cpds-detector
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-08-29"
