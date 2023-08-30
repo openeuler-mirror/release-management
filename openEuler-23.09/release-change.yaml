@@ -160,3 +160,7 @@ release-change:
   description: cd1cf417 !1289 add i3status to 23.09
   changed_packages: i3status
   date: 2023-08-28-20-25-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1283
+  description: fdd5ac3c !1283 Add qax-gm-certificates to openEuler 23.09 Epol
+  changed_packages: qax-gm-certificates
+  date: 2023-08-30-15-17-13
