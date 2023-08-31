@@ -15619,3 +15619,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-01"
+    - name: libxml2-rust
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-04"
