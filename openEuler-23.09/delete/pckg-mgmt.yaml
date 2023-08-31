@@ -212,3 +212,4 @@ packages:
   - name: gcc-12
   - name: python-flatbuffers
   - name: nvwa
+  - name: python-feedparser
