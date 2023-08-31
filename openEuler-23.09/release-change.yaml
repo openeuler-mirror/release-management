@@ -164,3 +164,7 @@ release-change:
   description: fdd5ac3c !1283 Add qax-gm-certificates to openEuler 23.09 Epol
   changed_packages: qax-gm-certificates
   date: 2023-08-30-15-17-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1293
+  description: 0e654c53 !1293 【轻量级 PR】：delete nvwa from openEuler-23.09
+  changed_packages: nvwa
+  date: 2023-08-31-09-56-32
