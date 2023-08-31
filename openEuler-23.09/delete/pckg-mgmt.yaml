@@ -213,3 +213,4 @@ packages:
   - name: python-flatbuffers
   - name: nvwa
   - name: python-feedparser
+  - name: mock-core-configs

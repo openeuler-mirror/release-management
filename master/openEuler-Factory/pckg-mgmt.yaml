@@ -15623,3 +15623,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-30"
+    - name: mock-core-configs
+      obs_from: openEuler:Mainline
+      obs_to: openEuler:Factory
+      date: '2023-08-31'
