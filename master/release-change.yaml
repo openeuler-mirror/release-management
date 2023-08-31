@@ -1058,3 +1058,7 @@ release-change:
   description: 1b3bcde8 !1290 Move pulsar from factory to mainline
   changed_packages: pulsar
   date: 2023-08-29-17-46-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1297
+  description: 07fbf458 !1297 Remove python-feedparser from openEuler-23.09
+  changed_packages: python-feedparser
+  date: 2023-08-31-17-43-35
