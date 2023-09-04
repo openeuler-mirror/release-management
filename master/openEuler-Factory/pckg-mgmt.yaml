@@ -695,10 +695,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: dim_tools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: dlib
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15607,10 +15603,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-29"
-    - name: dim_kernel
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-30"
     - name: mock-core-configs
       obs_from: openEuler:Mainline
       obs_to: openEuler:Factory
