@@ -181,3 +181,10 @@ release-change:
     to openEuler 23.09 Epol
   changed_packages: PilotGo PilotGo-plugin-grafana PilotGo-plugin-prometheus
   date: 2023-09-01-11-06-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1299
+  description: cac94817 !1299 增加ROS 23.09 工程
+  changed_packages: Catch2 python-catkin_pkg ceres-solver cppzmq fcl flann google_benchmark
+    libccd libomp libuvc metslib nlohmann_json octomap openni orocos_kdl pcl python-catkin-sphinx
+    python-pycollada python-empy python-lark-parser python-rosdistro python-rospkg
+    python-typeguard range-v3 spdlog tango_icon_theme openeuler-ros
+  date: 2023-09-04-09-25-49
