@@ -188,3 +188,7 @@ release-change:
     python-pycollada python-empy python-lark-parser python-rosdistro python-rospkg
     python-typeguard range-v3 spdlog tango_icon_theme openeuler-ros
   date: 2023-09-04-09-25-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1301
+  description: 466e7247 !1301 Add python-ovsdbapp to openEuler 23.09 Epol
+  changed_packages: python-ovsdbapp
+  date: 2023-09-04-14-28-35
