@@ -162,7 +162,6 @@ packages:
   - name: python-oslotest
   - name: python-osprofiler
   - name: python-ovn-octavia-provider
-  - name: python-ovsdbapp
   - name: python-proliantutils
   - name: python-psycopg2-binary
   - name: python-pypowervm
