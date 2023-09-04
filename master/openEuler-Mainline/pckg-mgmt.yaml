@@ -6143,3 +6143,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-08-24'
+- name: dim_tools
+  obs_from: ''
+  obs_to: openEuler:Mainline
+  date: '2023-09-04'
+- name: dim_kernel
+  obs_from: ''
+  obs_to: openEuler:Mainline
+  date: '2023-09-04'
