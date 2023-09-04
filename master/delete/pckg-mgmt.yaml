@@ -9,7 +9,6 @@ packages:
   - name: kiran-cpanel-power
   - name: kiran-cpanel-keybinding
   - name: libarchive-rust
-  - name: libxml2-rust
   - name: ansible-2.9
   - name: rubygem-erubis
   - name: lustre-e2fsprogs
