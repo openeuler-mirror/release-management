@@ -1071,3 +1071,7 @@ release-change:
     to openEuler 23.09 Epol
   changed_packages: PilotGo PilotGo-plugin-grafana PilotGo-plugin-prometheus
   date: 2023-09-01-11-06-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1304
+  description: bda94bde !1304 Remove dim_kernel to prepare rename package
+  changed_packages: dim_kernel libxml2-rust
+  date: 2023-09-05-10-13-58
