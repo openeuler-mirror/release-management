@@ -15623,7 +15623,3 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2023-09-04'
-- name: dim
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-09-05'
