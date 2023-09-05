@@ -30,3 +30,4 @@ packages:
   - name: perl-Test-CPAN-Meta-JSON
   - name: python-flatbuffers
   - name: python-feedparser
+  - name: dim_kernel
