@@ -1075,3 +1075,7 @@ release-change:
   description: bda94bde !1304 Remove dim_kernel to prepare rename package
   changed_packages: dim_kernel libxml2-rust
   date: 2023-09-05-10-13-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1305
+  description: 529c4ddc !1305 Add dim_tools and dim to openEuler 23.09 baseos
+  changed_packages: dim
+  date: 2023-09-05-10-38-54
