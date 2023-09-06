@@ -31,3 +31,4 @@ packages:
   - name: python-flatbuffers
   - name: python-feedparser
   - name: dim_kernel
+  - name: kf5-kapidox
