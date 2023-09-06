@@ -37,9 +37,9 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7GYQK](https://gitee.com/openeuler/release-management/issues/I7GYQK)|增加 utsudo 项目发布|Testing|sig-utsudo|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
 |[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|Testing|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
 |[I7K7FQ](https://gitee.com/openeuler/release-management/issues/I7K7FQ)|DDE组件更新支持服务器场景优化|Testing|sig-DDE|[@leeffo](https://gitee.com/leeffo)|EPOL||
-|[I7INU0](https://gitee.com/openeuler/release-management/issues/I7INU0?from=project-issue)|增加 Kmesh 项目发布|Developing|sig-ebpf|[@sky](https://gitee.com/nlgwcy)|extras|Kmesh|
+|[I7INU0](https://gitee.com/openeuler/release-management/issues/I7INU0?from=project-issue)|增加 Kmesh 项目发布|Testing|sig-ebpf|[@sky](https://gitee.com/nlgwcy)|extras|Kmesh|
 |[I7K5TZ](https://gitee.com/openeuler/release-management/issues/I7K5TZ)|增加i3相关软件包发布|Developing|sig-epol|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,perl-Guard,perl-Glib,perl-Curses,dmenu,perl-Task-Weaken,perl-POE-Test-Loops,perl-Test-Command|
-|[I7L1TT](https://gitee.com/openeuler/release-management/issues/I7L1TT)|A-Ops gala发布精细化性能Profiling特性|Developing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
+|[I7L1TT](https://gitee.com/openeuler/release-management/issues/I7L1TT)|A-Ops gala发布精细化性能Profiling特性|Testing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
 |[I7K9ZJ](https://gitee.com/openeuler/release-management/issues/I7K9ZJ?from=project-issue)|增加DPU-OS镜像发布|Discussion|sig-DPU|[@minknov](https://gitee.com/minknov)|ISO|dpu-utilities|
 |[I7MAWT](https://gitee.com/openeuler/release-management/issues/I7MAWT)|Aops支持配置溯源功能|Discussion|sig-ops|[@byrobins](https://gitee.com/byrobins)|EPOL|A-Ops,aops-hermes,aops-zeus,aops-ceres|
 |[I7K7I7](https://gitee.com/openeuler/release-management/issues/I7K7I7)|sysMaster支持虚机场景|Discussion|dev-utils|[@overweight](https://gitee.com/overweight)|ISO|sysmaster|
