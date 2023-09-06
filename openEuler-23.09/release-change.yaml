@@ -196,3 +196,7 @@ release-change:
   description: 529c4ddc !1305 Add dim_tools and dim to openEuler 23.09 baseos
   changed_packages: dim_tools dim
   date: 2023-09-05-10-38-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1307
+  description: 0170b7aa !1307 Revert "Move kf5-kapidox to openEuler:Epol & openEuler:23.09"
+  changed_packages: kf5-kapidox
+  date: 2023-09-06-15-32-33

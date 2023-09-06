@@ -6833,12 +6833,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-09'
-- name: kf5-kapidox
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-09'
 - name: kf5-kcalendarcore
   source_dir: master
   destination_dir: openEuler-23.09
