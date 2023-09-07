@@ -40,7 +40,7 @@ CVE处理流程图：
 
 #### 2.3.1 通过gitee确认
 
-可登陆码云，切换到对应分支，查看spec及补丁，确定是否已修复
+可登录码云，切换到对应分支，查看spec及补丁，确定是否已修复
 
 码云：https://gitee.com/src-openeuler/haproxy
 
@@ -48,7 +48,7 @@ CVE处理流程图：
 
 #### 2.3.2 通过obs或eulermaker确认
 
-登陆OBS或EBS网页查看haproxy的spec及对应的补丁，确定是否已修复
+登录OBS或EBS网页查看haproxy的spec及对应的补丁，确定是否已修复
 
 OBS：https://build.openeuler.openatom.cn/project
 
@@ -199,7 +199,7 @@ git add -A & git commit -m “Fix CVE-2023-25950”
 ```
 gitee参考文档：
 
-- 注册gitee账号帮助文档：https://gitee.com/help/articles/4113#article-header0
+- 注册gitee帐号帮助文档：https://gitee.com/help/articles/4113#article-header0
 
 - 签署CLA指导文档：https://gitee.com/openeuler/infrastructure/blob/master/docs/cla-guide/faq/faq.md
 
