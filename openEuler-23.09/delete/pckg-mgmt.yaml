@@ -211,6 +211,9 @@ packages:
   - name: gcc-12
   - name: python-flatbuffers
   - name: nvwa
+  - name: python-pycadf
+  - name: python-scciclient
+  - name: python-cursive
   - name: python-feedparser
   - name: mock-core-configs
   - name: kf5-kapidox
