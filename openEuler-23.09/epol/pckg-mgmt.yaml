@@ -2591,12 +2591,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
-- name: python-cursive
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
 - name: python-daemon
   source_dir: master
   destination_dir: openEuler-23.09
@@ -3167,12 +3161,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
-- name: python-pycadf
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
 - name: python-pycares
   source_dir: master
   destination_dir: openEuler-23.09
@@ -3354,12 +3342,6 @@ packages:
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
 - name: python-robotframework
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
-- name: python-scciclient
   source_dir: master
   destination_dir: openEuler-23.09
   obs_from: openEuler:Epol
