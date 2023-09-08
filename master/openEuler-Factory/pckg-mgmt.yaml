@@ -15623,3 +15623,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-08"
+    - name: kpeoplevcard
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-08"
