@@ -217,3 +217,8 @@ packages:
   - name: python-feedparser
   - name: mock-core-configs
   - name: kf5-kapidox
+  - name: tpm2-tss-engine
+  - name: mindspore
+  - name: m1600-driver
+  - name: ceph-csi
+  - name: ceph-ansible
