@@ -213,3 +213,7 @@ release-change:
   changed_packages: maliit-framework maliit-keyboard kpeoplevcard kactivitymanagerd
     khotkeys ksystemstats oxygen-sounds oxygen-icon-theme polkit-kde
   date: 2023-09-12-14-07-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1321
+  description: d809494f !1321 【轻量级 PR】：【CICD】delete empty pkgs
+  changed_packages: ceph-csi mindspore m1600-driver ceph-ansible tpm2-tss-engine
+  date: 2023-09-12-16-59-52

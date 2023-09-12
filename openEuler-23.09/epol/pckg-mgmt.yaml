@@ -6185,12 +6185,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
-- name: mindspore
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
 - name: exim
   source_dir: master
   destination_dir: openEuler-23.09
@@ -6210,18 +6204,6 @@ packages:
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
 - name: ceph-iscsi
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
-- name: ceph-ansible
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
-- name: ceph-csi
   source_dir: master
   destination_dir: openEuler-23.09
   obs_from: openEuler:Epol
@@ -6485,12 +6467,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
-- name: m1600-driver
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
 - name: lustre
   source_dir: master
   destination_dir: openEuler-23.09
@@ -6546,12 +6522,6 @@ packages:
   obs_to: openEuler:23.09:Epol
   date: '2023-08-03'
 - name: gammaray
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:Epol
-  obs_to: openEuler:23.09:Epol
-  date: '2023-08-03'
-- name: tpm2-tss-engine
   source_dir: master
   destination_dir: openEuler-23.09
   obs_from: openEuler:Epol
