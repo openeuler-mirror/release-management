@@ -12271,10 +12271,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-30"
-    - name: khotkeys
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: kio-extras
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12287,23 +12283,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: ksystemstats
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: maliit-keyboard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: sddm
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: kontact
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: maliit-framework
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12328,10 +12312,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: kdsoap
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: oxygen-sounds
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12380,14 +12360,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-systemsettings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: oxygen-icon-theme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kactivitymanagerd
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -12468,10 +12440,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-10-30"
     - name: scim
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-31"
-    - name: polkit-kde
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-31"
@@ -15620,10 +15588,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-09-04"
     - name: masstree
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-08"
-    - name: kpeoplevcard
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-08"
