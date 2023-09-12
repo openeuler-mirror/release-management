@@ -5939,3 +5939,39 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-09-08'
+- name: maliit-framework
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: maliit-keyboard
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: kpeoplevcard
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: kactivitymanagerd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: khotkeys
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: ksystemstats
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: oxygen-sounds
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: oxygen-icon-theme
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
+- name: polkit-kde
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-09-12'
