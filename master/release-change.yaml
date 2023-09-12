@@ -1087,3 +1087,8 @@ release-change:
   description: f389520e !1312 create 23.09 for keditbookmarks
   changed_packages: keditbookmarks
   date: 2023-09-08-09-44-40
+- pr: https://gitee.com/openeuler/release-management/pulls/1317
+  description: 03ac9404 !1317 Fix plasma-workspace install problem
+  changed_packages: maliit-framework maliit-keyboard kpeoplevcard kactivitymanagerd
+    khotkeys ksystemstats oxygen-sounds oxygen-icon-theme polkit-kde
+  date: 2023-09-12-14-07-51
