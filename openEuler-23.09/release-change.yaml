@@ -217,3 +217,7 @@ release-change:
   description: d809494f !1321 【轻量级 PR】：【CICD】delete empty pkgs
   changed_packages: ceph-csi mindspore m1600-driver ceph-ansible tpm2-tss-engine
   date: 2023-09-12-16-59-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1315
+  description: e65bd9c2 !1315 删除dtk*2 deepin-music
+  changed_packages: dtkwm dtkwidget2 dtkcore2 deepin-music
+  date: 2023-09-13-11-41-02
