@@ -1096,3 +1096,7 @@ release-change:
   description: c211392d !1323 Move x2nestos from factory to epol
   changed_packages: x2nestos
   date: 2023-09-13-11-16-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1326
+  description: e106d9bb !1326  Move rocketmq from factory to mainline
+  changed_packages: rocketmq
+  date: 2023-09-13-16-30-38
