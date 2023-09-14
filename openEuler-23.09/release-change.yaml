@@ -221,3 +221,7 @@ release-change:
   description: e65bd9c2 !1315 删除dtk*2 deepin-music
   changed_packages: dtkwm dtkwidget2 dtkcore2 deepin-music
   date: 2023-09-13-11-41-02
+- pr: https://gitee.com/openeuler/release-management/pulls/1328
+  description: 584a3450 !1328 Fix maliit-keyboard build problem on openEuler:23.09
+  changed_packages: anthy-unicode libchewing
+  date: 2023-09-14-14-06-25

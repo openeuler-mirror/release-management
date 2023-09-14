@@ -1100,3 +1100,7 @@ release-change:
   description: e106d9bb !1326  Move rocketmq from factory to mainline
   changed_packages: rocketmq
   date: 2023-09-13-16-30-38
+- pr: https://gitee.com/openeuler/release-management/pulls/1328
+  description: 584a3450 !1328 Fix maliit-keyboard build problem on openEuler:23.09
+  changed_packages: anthy-unicode libchewing
+  date: 2023-09-14-14-06-25
