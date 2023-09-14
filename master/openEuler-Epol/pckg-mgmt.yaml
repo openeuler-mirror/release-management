@@ -5979,3 +5979,11 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Epol
   date: "2023-09-13"
+- name: anthy-unicode
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: '2023-09-14'
+- name: libchewing
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: '2023-09-14'
