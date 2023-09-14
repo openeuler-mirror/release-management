@@ -7589,3 +7589,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:23.09:Epol
   date: '2023-09-12'
+- name: anthy-unicode
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-09-14'
+- name: libchewing
+  source_dir: master
+  destination_dir: openEuler-23.09
+  obs_from: openEuler:Epol
+  obs_to: openEuler:23.09:Epol
+  date: '2023-09-14'
