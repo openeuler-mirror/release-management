@@ -1104,3 +1104,7 @@ release-change:
   description: 584a3450 !1328 Fix maliit-keyboard build problem on openEuler:23.09
   changed_packages: anthy-unicode libchewing
   date: 2023-09-14-14-06-25
+- pr: https://gitee.com/openeuler/release-management/pulls/1329
+  description: 471fc6e3 !1329 在openEuler:Factory中增加libxml2-rust仓库
+  changed_packages: libxml2-rust
+  date: 2023-09-14-17-03-55
