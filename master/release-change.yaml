@@ -1108,3 +1108,7 @@ release-change:
   description: 471fc6e3 !1329 在openEuler:Factory中增加libxml2-rust仓库
   changed_packages: libxml2-rust
   date: 2023-09-14-17-03-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1330
+  description: 9c9ef528 !1330 remove python-pyzmq from factory
+  changed_packages: python-pyzmq
+  date: 2023-09-15-18-38-49
