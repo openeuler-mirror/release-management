@@ -226,3 +226,5 @@ packages:
   - name: dtkwidget2
   - name: dtkwm
   - name: deepin-music
+  - name: ncbi-blast
+  - name: cufflinks
