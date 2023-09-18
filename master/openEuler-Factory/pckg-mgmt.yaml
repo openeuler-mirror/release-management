@@ -15611,3 +15611,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
+    - name: linux-libertine-fonts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-18"
