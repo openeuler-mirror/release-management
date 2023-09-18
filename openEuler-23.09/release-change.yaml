@@ -225,3 +225,7 @@ release-change:
   description: 584a3450 !1328 Fix maliit-keyboard build problem on openEuler:23.09
   changed_packages: anthy-unicode libchewing
   date: 2023-09-14-14-06-25
+- pr: https://gitee.com/openeuler/release-management/pulls/1334
+  description: c9629296 !1334 remove ncbi-blast cufflinks from 23.09
+  changed_packages: cufflinks ncbi-blast
+  date: 2023-09-18-19-56-53
