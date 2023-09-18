@@ -15615,3 +15615,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
+    - name: libstaroffice
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-18"
