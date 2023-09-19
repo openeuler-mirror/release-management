@@ -1112,3 +1112,7 @@ release-change:
   description: 9c9ef528 !1330 remove python-pyzmq from factory
   changed_packages: python-pyzmq
   date: 2023-09-15-18-38-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1331
+  description: d8571947 !1331 remove libzmq for conflict with zeromq
+  changed_packages: libzmq
+  date: 2023-09-19-10-02-44
