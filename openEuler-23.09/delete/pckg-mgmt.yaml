@@ -228,3 +228,17 @@ packages:
   - name: deepin-music
   - name: ncbi-blast
   - name: cufflinks
+  - name: rygel
+  - name: octave
+  - name: qla2xxx
+  - name: caja-extensions
+  - name: cinnamon
+  - name: cjs
+  - name: gnome-music
+  - name: system-config-users
+  - name: calls
+  - name: feedbackd
+  - name: kiran-desktop
+  - name: system-config-users-docs
+  - name: gnome-photos
+  - name: llvm-bolt
