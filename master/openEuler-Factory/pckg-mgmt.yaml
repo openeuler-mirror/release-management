@@ -15719,3 +15719,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-20"
+    - name: libetonyek
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-20"
