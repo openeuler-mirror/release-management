@@ -1116,3 +1116,7 @@ release-change:
   description: d8571947 !1331 remove libzmq for conflict with zeromq
   changed_packages: libzmq
   date: 2023-09-19-10-02-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1341
+  description: b94b9b38 !1341 [feature]:Add tinytoml to obs
+  changed_packages: tinytoml
+  date: 2023-09-20-17-54-15
