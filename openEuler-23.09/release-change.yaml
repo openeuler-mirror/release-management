@@ -229,3 +229,9 @@ release-change:
   description: c9629296 !1334 remove ncbi-blast cufflinks from 23.09
   changed_packages: cufflinks ncbi-blast
   date: 2023-09-18-19-56-53
+- pr: https://gitee.com/openeuler/release-management/pulls/1337
+  description: 10faf511 !1337 申请剔除openEuler-23.09持续未解决单包编译/安装的软件包
+  changed_packages: gnome-photos rygel caja-extensions system-config-users-docs gnome-music
+    feedbackd calls octave qla2xxx cinnamon kiran-desktop cjs system-config-users
+    llvm-bolt
+  date: 2023-09-20-09-55-59
