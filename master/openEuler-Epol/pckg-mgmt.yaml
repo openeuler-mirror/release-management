@@ -5987,3 +5987,7 @@ packages:
   obs_from: "openEuler:Factory"
   obs_to: openEuler:Epol
   date: '2023-09-14'
+- name: tinytoml
+  obs_from: "openEuler:Factory"
+  obs_to: openEuler:Epol
+  date: '2023-09-20'
