@@ -1120,3 +1120,7 @@ release-change:
   description: b94b9b38 !1341 [feature]:Add tinytoml to obs
   changed_packages: tinytoml
   date: 2023-09-20-17-54-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1343
+  description: 6803e2c4 !1343 add python-pythran&python-jupyter-console to openEuler:Factory
+  changed_packages: python-pythran python-jupyter-console
+  date: 2023-09-21-10-35-06
