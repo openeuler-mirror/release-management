@@ -15739,3 +15739,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-21"
+    - name: python-sphinx-hoverxref
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-21"
