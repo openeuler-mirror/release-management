@@ -15743,3 +15743,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-21"
+    - name: python-shap
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-09-21"
