@@ -38,6 +38,7 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
 | [I80F3Y](https://gitee.com/openeuler/release-management/issues/I80F3Y) | 支持Lustre server软件包 | Discussion | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) | EPOL | lustre, lustre-release, e2fsprogs |
+| [I83JRC](https://gitee.com/openeuler/release-management/issues/I83JRC) | eNFS特性合入 | Discussion | sig-kernel | [@mingqian218472](https://gitee.com/mingqian218472) | ISO | nfs,sunrpc |
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
