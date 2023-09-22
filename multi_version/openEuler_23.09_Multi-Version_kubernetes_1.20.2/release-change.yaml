@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1345
+  description: ab83a5a1 !1345 【CICD】add k8s to project
+  changed_packages: kubernetes
+  date: 2023-09-22-10-29-42
