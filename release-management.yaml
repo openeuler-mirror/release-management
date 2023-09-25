@@ -108,3 +108,13 @@ release:
   - yaqiangchen
   - paul-huang
   - gitee-cmd
+
+- branch: openEuler-23.09
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
