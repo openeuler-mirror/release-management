@@ -60,7 +60,7 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 |[I7WDH4](https://gitee.com/openeuler/release-management/issues/I7WDH4)|支持llama.cpp和chatglm.cpp|Testing|atune-sig|[@zhoupengcheng11](https://gitee.com/zhoupengcheng11)|
 |[I7VN45](https://gitee.com/openeuler/release-management/issues/I7VN45)|CPDS支持对容器TOP故障、亚健康检测的监测与识别|Testing|sig-CloudNative|[@SaarHV](https://gitee.com/SaarHV/)|
 |[I7X0GI](https://gitee.com/openeuler/release-management/issues/I7X0GI)|增加CVE-ease项目发布|Testing|Infrastructure-sig|[@youyifeng](https://gitee.com/youyifeng)|||
-
+|[I83B93](https://gitee.com/openeuler/imageTailor/issues/I83B93)|imageTailor支持树莓派镜像定制|Testing|sig-OS-Builder|[@zhuchunyi](https://gitee.com/zhuchunyi)|ISO|imageTailor|
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
 <br>
