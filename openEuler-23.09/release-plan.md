@@ -27,43 +27,39 @@ openEuler 23.09 是基于6.4内核的创新版本（参见[版本生命周期](h
 
 
 # Feature list
-状态说明：Discussion(方案讨论，需求未接受)、 Developing(开发中)、 Testing(测试中)、 Accepted(已验收) <br>
+状态说明：Discussion(方案讨论，需求未接受)、 Developing(开发中)、 Testing(测试中)、 Accepted(已验收) ，Reject（拒绝，该条记录从清单中移除）<br>
 发布方式：ISO、EPOL、oepkgs、独立发布等
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|[I7VFV1](https://gitee.com/openeuler/release-management/issues/I7VFV1)|增加 PilotGo 项目发布|Developing|sig-ops|[@yangzhao_kl](https://gitee.com/yangzhao_kl)|EPOL|PilotGo,PilotGo-plugin-grafana,PilotGo-plugin-prometheus|
+|[I7VFV1](https://gitee.com/openeuler/release-management/issues/I7VFV1)|增加 PilotGo 项目发布|Testing|sig-ops|[@yangzhao_kl](https://gitee.com/yangzhao_kl)|EPOL|PilotGo,PilotGo-plugin-grafana,PilotGo-plugin-prometheus|
 |[I7GRO2](https://gitee.com/openeuler/release-management/issues/I7GRO2)|增加 utshell 项目发布|Testing|sig-utshell|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
 |[I7GYQK](https://gitee.com/openeuler/release-management/issues/I7GYQK)|增加 utsudo 项目发布|Testing|sig-utsudo|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
 |[I7HXX2](https://gitee.com/openeuler/release-management/issues/I7HXX2)|增加 migration-tools 项目发布|Testing|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
 |[I7K7FQ](https://gitee.com/openeuler/release-management/issues/I7K7FQ)|DDE组件更新支持服务器场景优化|Testing|sig-DDE|[@leeffo](https://gitee.com/leeffo)|EPOL||
 |[I7INU0](https://gitee.com/openeuler/release-management/issues/I7INU0?from=project-issue)|增加 Kmesh 项目发布|Testing|sig-ebpf|[@sky](https://gitee.com/nlgwcy)|extras|Kmesh|
-|[I7K5TZ](https://gitee.com/openeuler/release-management/issues/I7K5TZ)|增加i3相关软件包发布|Developing|sig-epol|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,perl-Guard,perl-Glib,perl-Curses,dmenu,perl-Task-Weaken,perl-POE-Test-Loops,perl-Test-Command|
+|[I7K5TZ](https://gitee.com/openeuler/release-management/issues/I7K5TZ)|增加i3相关软件包发布|Testing|sig-epol|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,perl-Guard,perl-Glib,perl-Curses,dmenu,perl-Task-Weaken,perl-POE-Test-Loops,perl-Test-Command|
 |[I7L1TT](https://gitee.com/openeuler/release-management/issues/I7L1TT)|A-Ops gala发布精细化性能Profiling特性|Testing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
-|[I7K9ZJ](https://gitee.com/openeuler/release-management/issues/I7K9ZJ?from=project-issue)|增加DPU-OS镜像发布|Discussion|sig-DPU|[@minknov](https://gitee.com/minknov)|ISO|dpu-utilities|
+|[I7K9ZJ](https://gitee.com/openeuler/release-management/issues/I7K9ZJ?from=project-issue)|增加DPU-OS镜像发布|Reject|sig-DPU|[@minknov](https://gitee.com/minknov)|ISO|dpu-utilities|
 |[I7MAWT](https://gitee.com/openeuler/release-management/issues/I7MAWT)|Aops支持配置溯源功能|Testing|sig-ops|[@byrobins](https://gitee.com/byrobins)|EPOL|A-Ops,aops-hermes,aops-zeus,aops-ceres|
-|[I7K7I7](https://gitee.com/openeuler/release-management/issues/I7K7I7)|sysMaster支持虚机场景|Discussion|dev-utils|[@overweight](https://gitee.com/overweight)|ISO|sysmaster|
+|[I7K7I7](https://gitee.com/openeuler/release-management/issues/I7K7I7)|sysMaster支持虚机场景|Testing|dev-utils|[@overweight](https://gitee.com/overweight)|ISO|sysmaster|
 |[I7PNTH](https://gitee.com/openeuler/release-management/issues/I7PNTH)|增加异构通用内存管理框架（GMEM）特性发布|Testing|sig-kernel,sig-Computing|[@fangchuang](https://gitee.com/fangchuang),[@weixizhu94](https://gitee.com/weixizhu94)|ISO|kernel,libgmem|
-|[I7MR9U](https://gitee.com/openeuler/release-management/issues/I7MR9U?from=project-issue)|增加RISC-V架构QEMU镜像|Developing|sig-RISC-V|[@phoebe-xi](https://gitee.com/phoebe-xi)|ISO||
-|[I7LQ45](https://gitee.com/openeuler/release-management/issues/I7LQ45?from=project-issue)|增加进程完整性防护特性|Developing|sig-security-facility|[@jinlun123123](https://gitee.com/jinlun123123)|ISO|dim,dim-tools|
-|[I7LPVO](https://gitee.com/openeuler/release-management/issues/I7LPVO?from=project-issue)|Kuasar 统一容器运行时特性|Developing|SIG-CloudNative|[@flyflyflypeng](https://gitee.com/flyflyflypeng)|ISO|kuasar,iSulad|
-|[I7L1TM](https://gitee.com/openeuler/release-management/issues/I7L1TM?from=project-issue)|A-Ops gala支持K8S Pod全栈可观测及诊断|Developing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
-|[I7KXN5](https://gitee.com/openeuler/release-management/issues/I7KXN5?from=project-issue)|syscare组件支持容器化热补丁制作场景|Developing|sig-ops|[@RenoSeven](https://gitee.com/RenoSeven)|ISO|syscare|
-|[I7KXLQ](https://gitee.com/openeuler/release-management/issues/I7KXLQ?from=project-issue)|syscare支持容器内补丁制作|Developing|sig-ops|[@RenoSeven](https://gitee.com/RenoSeven)|ISO|syscare|
-|[I7G3JV](https://gitee.com/openeuler/release-management/issues/I7G3JV?from=project-issue)|增加sysBoost项目发布|Developing|atune-sig|[@ironictwist](https://gitee.com/ironictwist)|ISO|sysboost|
-|[I7FB2R](https://gitee.com/openeuler/release-management/issues/I7FB2R?from=project-issue)|增加CTinspector项目发布|Developing|ebpf-sig|[@wonleing](https://gitee.com/wonleing)|ISO|CTinspector|
-|[I6V32Y](https://gitee.com/openeuler/kernel/issues/I6V32Y?from=project-issue)|openEuler-22.03-SP2继承需求回合（内核）|Developing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
-|[I7RPQG](https://gitee.com/openeuler/release-management/issues/I7RPQG?from=project-issue)|继承特性回合|Developing|相关sig组|[@sujinling](https://gitee.com/sujinling)|ISO||
-|[I7RPOW](https://gitee.com/openeuler/release-management/issues/I7RPOW?from=project-issue)|软件包升级适配|Developing|相关sig组|[@sujinling](https://gitee.com/sujinling)|ISO||
-|[I6V436](https://gitee.com/openeuler/kernel/issues/I6V436?from=project-issue)|内核基线版本升级到v6.4 Release|Developing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
-|[I7TYZ8](https://gitee.com/openeuler/release-management/issues/I7TYZ8)|支持embedded|Developing|sig-embedded|[@fanglinxu](https://gitee.com/fanglinxu)|img|sig-embedded|
-|[I7V5ZO](https://gitee.com/openeuler/release-management/issues/I7V5ZO)|支持ROS2-humble基础版|Discussion|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
-|[I7WDH4](https://gitee.com/openeuler/release-management/issues/I7WDH4)|支持llama.cpp和chatglm.cpp|Discussion|atune-sig|[@zhoupengcheng11](https://gitee.com/zhoupengcheng11)|
-|[I7VFV1](https://gitee.com/openeuler/release-management/issues/I7VFV1?from=project-issue)|增加PilotGo运维管理平台特性|Discussion|sig-ops|[@yangzhao_kl](https://gitee.com/yangzhao_kl/)|
-|[I7VN45](https://gitee.com/openeuler/release-management/issues/I7VN45)|CPDS支持对容器TOP故障、亚健康检测的监测与识别|Discussion|sig-CloudNative|[@SaarHV](https://gitee.com/SaarHV/)|
-|[I7X0GI](https://gitee.com/openeuler/release-management/issues/I7X0GI)|增加CVE-ease项目发布|Developing|Infrastructure-sig|[@youyifeng](https://gitee.com/youyifeng)|||
-|[I83B93](https://gitee.com/openeuler/imageTailor/issues/I83B93)|imageTailor支持树莓派镜像定制|Testing|sig-OS-Builder|[@zhuchunyi](https://gitee.com/zhuchunyi)|ISO|imageTailor|
-
+|[I7MR9U](https://gitee.com/openeuler/release-management/issues/I7MR9U?from=project-issue)|增加RISC-V架构QEMU镜像|Testing|sig-RISC-V|[@phoebe-xi](https://gitee.com/phoebe-xi)|ISO||
+|[I7LQ45](https://gitee.com/openeuler/release-management/issues/I7LQ45?from=project-issue)|增加进程完整性防护特性|Testing|sig-security-facility|[@jinlun123123](https://gitee.com/jinlun123123)|ISO|dim,dim-tools|
+|[I7LPVO](https://gitee.com/openeuler/release-management/issues/I7LPVO?from=project-issue)|Kuasar 统一容器运行时特性|Testing|SIG-CloudNative|[@flyflyflypeng](https://gitee.com/flyflyflypeng)|ISO|kuasar,iSulad|
+|[I7L1TM](https://gitee.com/openeuler/release-management/issues/I7L1TM?from=project-issue)|A-Ops gala支持K8S Pod全栈可观测及诊断|Testing|sig-ops|[@Vchanger](https://gitee.com/Vchanger)|ISO|gala-gopher|
+|[I7KXN5](https://gitee.com/openeuler/release-management/issues/I7KXN5?from=project-issue)|syscare组件支持容器化热补丁制作场景|Testing|sig-ops|[@RenoSeven](https://gitee.com/RenoSeven)|ISO|syscare|
+|[I7G3JV](https://gitee.com/openeuler/release-management/issues/I7G3JV?from=project-issue)|增加sysBoost项目发布|Testing|atune-sig|[@ironictwist](https://gitee.com/ironictwist)|ISO|sysboost|
+|[I7FB2R](https://gitee.com/openeuler/release-management/issues/I7FB2R?from=project-issue)|增加CTinspector项目发布|Testing|ebpf-sig|[@wonleing](https://gitee.com/wonleing)|ISO|CTinspector|
+|[I6V32Y](https://gitee.com/openeuler/kernel/issues/I6V32Y?from=project-issue)|openEuler-22.03-SP2继承需求回合（内核）|Testing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
+|[I7RPQG](https://gitee.com/openeuler/release-management/issues/I7RPQG?from=project-issue)|继承特性回合|Testing|相关sig组|[@sujinling](https://gitee.com/sujinling)|ISO||
+|[I7RPOW](https://gitee.com/openeuler/release-management/issues/I7RPOW?from=project-issue)|软件包升级适配|Testing|相关sig组|[@sujinling](https://gitee.com/sujinling)|ISO||
+|[I6V436](https://gitee.com/openeuler/kernel/issues/I6V436?from=project-issue)|内核基线版本升级到v6.4 Release|Testing|kernel|[@stkid](https://gitee.com/stkid)|ISO|kernel|
+|[I7TYZ8](https://gitee.com/openeuler/release-management/issues/I7TYZ8)|支持embedded|Testing|sig-embedded|[@fanglinxu](https://gitee.com/fanglinxu)|img|sig-embedded|
+|[I7V5ZO](https://gitee.com/openeuler/release-management/issues/I7V5ZO)|支持ROS2-humble基础版|Testing|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
+|[I7WDH4](https://gitee.com/openeuler/release-management/issues/I7WDH4)|支持llama.cpp和chatglm.cpp|Testing|atune-sig|[@zhoupengcheng11](https://gitee.com/zhoupengcheng11)|
+|[I7VN45](https://gitee.com/openeuler/release-management/issues/I7VN45)|CPDS支持对容器TOP故障、亚健康检测的监测与识别|Testing|sig-CloudNative|[@SaarHV](https://gitee.com/SaarHV/)|
+|[I7X0GI](https://gitee.com/openeuler/release-management/issues/I7X0GI)|增加CVE-ease项目发布|Testing|Infrastructure-sig|[@youyifeng](https://gitee.com/youyifeng)|||
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
