@@ -1124,3 +1124,7 @@ release-change:
   description: 6803e2c4 !1343 add python-pythran&python-jupyter-console to openEuler:Factory
   changed_packages: python-pythran python-jupyter-console
   date: 2023-09-21-10-35-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1348
+  description: 042112ef !1348 Move kf5-kirigami2-addons to openEuler:Epol
+  changed_packages: kf5-kirigami2-addons
+  date: 2023-09-26-17-19-56
