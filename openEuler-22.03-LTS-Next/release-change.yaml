@@ -458,3 +458,7 @@ release-change:
   description: b94b9b38 !1341 [feature]:Add tinytoml to obs
   changed_packages: tinytoml
   date: 2023-09-20-17-54-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1356
+  description: 2428205a !1356 Add dim_tools and dim to openEuler 22.03-LTS-Next baseos
+  changed_packages: dim_tools dim
+  date: 2023-10-07-15-09-31
