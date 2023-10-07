@@ -7487,3 +7487,15 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:Next
   date: '2023-08-01'
+- name: dim_tools
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2023-10-07'
+- name: dim
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2023-10-07'
