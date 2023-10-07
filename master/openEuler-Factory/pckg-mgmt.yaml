@@ -15751,3 +15751,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-27"
+    - name: k3b
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-07"
