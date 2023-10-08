@@ -14447,10 +14447,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-ruff
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-flake8-mutable
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14856,10 +14852,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-httpcore
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-pytest-ruff
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
