@@ -6159,3 +6159,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-10-12'
+- name: umdk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2023-10-16"
