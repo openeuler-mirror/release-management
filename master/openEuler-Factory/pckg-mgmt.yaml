@@ -15755,3 +15755,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-07"
+    - name: python-retry2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-08"
