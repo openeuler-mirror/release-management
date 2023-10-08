@@ -1128,3 +1128,8 @@ release-change:
   description: 042112ef !1348 Move kf5-kirigami2-addons to openEuler:Epol
   changed_packages: kf5-kirigami2-addons
   date: 2023-09-26-17-19-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1358
+  description: 293356bb !1358 move python-ruff&pytest-ruff from master:Factory to
+    master:Python
+  changed_packages: python-ruff python-pytest-ruff
+  date: 2023-10-08-17-30-10
