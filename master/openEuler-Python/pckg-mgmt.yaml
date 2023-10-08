@@ -1815,3 +1815,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-08-03'
+- name: python-ruff
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-08'
+- name: python-pytest-ruff
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-08'
