@@ -1,0 +1,13 @@
+packages:
+- name: e2fsprogs
+  source_dir: Multi-Version_ldiskfsprogs_master
+  destination_dir: Multi-Version_lustre_openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol:Multi-Version:ldiskfsprogs
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:lustre
+  date: '2031-10-31'
+- name: lustre
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: Multi-Version_lustre_openEuler-22.03-LTS-Next
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol:Multi-Version:lustre
+  date: '2031-10-31'
