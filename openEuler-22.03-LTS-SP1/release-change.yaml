@@ -149,3 +149,7 @@ release-change:
   description: 34f70bf6 !1174 gcc-7、lld、openmp添加openEuler:22.03:LTS:SP1分支
   changed_packages: gcc-7 lld openmp
   date: 2023-07-27-10-35-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1342
+  description: 6b52cc05 !1342 [feature]:Add tinytoml to SP1
+  changed_packages: tinytoml
+  date: 2023-10-09-11-26-27
