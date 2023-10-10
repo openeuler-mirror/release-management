@@ -1823,3 +1823,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-08'
+- name: python-black
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-10'
+- name: python-pytest-black
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-10'
+- name: python-nox
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-10'
+- name: python-nox-poetry
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-10'
