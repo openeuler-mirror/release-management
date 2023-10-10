@@ -11987,10 +11987,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-pytest-black
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-jaraco.envs
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14207,10 +14203,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
-    - name: python-black
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
     - name: python-libcst
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15127,10 +15119,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-nox
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-mkdocs-literate-nav
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15420,10 +15408,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-oldest-supported-numpy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-nox-poetry
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
