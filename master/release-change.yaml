@@ -1133,3 +1133,8 @@ release-change:
     master:Python
   changed_packages: python-ruff python-pytest-ruff
   date: 2023-10-08-17-30-10
+- pr: https://gitee.com/openeuler/release-management/pulls/1362
+  description: a2ea302e !1362 move python-black&nox&nox-poetry from master:Factory
+    to master:Python
+  changed_packages: python-black python-pytest-black python-nox python-nox-poetry
+  date: 2023-10-10-14-11-55
