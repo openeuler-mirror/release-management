@@ -33,3 +33,4 @@ packages:
   - name: kf5-kapidox
   - name: python-pyzmq
   - name: libzmq
+  - name: kabi-dw
