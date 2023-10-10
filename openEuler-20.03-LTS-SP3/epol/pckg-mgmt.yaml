@@ -7997,3 +7997,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:20.03:LTS:SP3:Epol
   date: '2023-04-23'
+- name: aops-ceres
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-10-10'
+- name: syscare
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-10-10'
