@@ -1138,3 +1138,7 @@ release-change:
     to master:Python
   changed_packages: python-black python-pytest-black python-nox python-nox-poetry
   date: 2023-10-10-14-11-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1361
+  description: 71b230be !1361 Remove kabi-dw from openEuler:C
+  changed_packages: kabi-dw
+  date: 2023-10-11-09-59-01
