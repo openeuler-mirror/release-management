@@ -14331,10 +14331,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-13"
-    - name: python-mkdocs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
     - name: python-pdocs
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14356,10 +14352,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-13"
     - name: python-pymdown-extensions
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
-    - name: python-mkdocs-material
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-13"
@@ -14392,10 +14384,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-20"
     - name: python-pydantic
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-hatch-fancy-pypi-readme
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
@@ -14975,10 +14963,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocs-gen-files
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-pyee
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15119,10 +15103,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocs-literate-nav
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-jupyter-server-mathjax
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15140,10 +15120,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-bump2version
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-mkdocs-coverage
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
