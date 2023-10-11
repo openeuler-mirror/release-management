@@ -5995,3 +5995,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-09-22'
+- name: python-cssselect2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-10-11'
