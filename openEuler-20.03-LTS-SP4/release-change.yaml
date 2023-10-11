@@ -3,3 +3,9 @@ release-change:
   description: 8c040707 !1363 Move lensfun from openEuler:20.03:LTS:SP4:Epol to openEuler:20.03:LTS:SP4
   changed_packages: lensfun
   date: 2023-10-11-10-04-39
+- pr: https://gitee.com/openeuler/release-management/pulls/1367
+  description: 9ed9d494 !1367 Move ladspa,icon-naming-utils,pmix,ccache,etc. from
+    openEuler:20.03:LTS:SP4:Epol to openEuler:20.03:LTS:SP4
+  changed_packages: ladspa icon-naming-utils pmix ccache automoc python-paste-deploy
+    pylint perl-Expect gssntlmssp
+  date: 2023-10-11-16-57-09
