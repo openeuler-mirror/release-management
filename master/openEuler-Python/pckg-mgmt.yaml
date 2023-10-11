@@ -1839,3 +1839,27 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-10'
+- name: python-mkdocs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-11'
+- name: python-mkdocs-material
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-11'
+- name: python-mkdocs-coverage
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-11'
+- name: python-mkdocs-gen-files
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-11'
+- name: python-mkdocs-literate-nav
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-11'
+- name: python-hatch-fancy-pypi-readme
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-11'
