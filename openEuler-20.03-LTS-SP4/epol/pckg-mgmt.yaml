@@ -2393,12 +2393,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: automoc
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: python-sysv-ipc
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2436,12 +2430,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: python-cmd2
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: ladspa
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -2490,12 +2478,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: hyphen-ku
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: python-paste-deploy
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -3156,12 +3138,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: python-consul
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: ccache
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -5249,12 +5225,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: pmix
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: nodejs-path-array
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5754,12 +5724,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: libopenraw
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: pylint
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -7529,12 +7493,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: icon-naming-utils
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: makeself
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -7739,12 +7697,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: perl-Expect
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: kf5-ktextwidgets
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -7788,12 +7740,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: vpnc-script
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: gssntlmssp
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
