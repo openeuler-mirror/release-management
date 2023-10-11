@@ -1142,3 +1142,9 @@ release-change:
   description: 71b230be !1361 Remove kabi-dw from openEuler:C
   changed_packages: kabi-dw
   date: 2023-10-11-09-59-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1369
+  description: 49ac48bb !1369 move python-mkdocs&dependpkgs&hatch-fancy-pypi-readme
+    from master:Factory to master:Python
+  changed_packages: python-mkdocs python-mkdocs-material python-mkdocs-coverage python-mkdocs-gen-files
+    python-mkdocs-literate-nav python-hatch-fancy-pypi-readme
+  date: 2023-10-11-16-59-03
