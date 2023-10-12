@@ -52,7 +52,7 @@
 |29|[openEuler 20.03 LTS SP2 支持多应用版本构建和发布](https://gitee.com/openeuler/release-management/issues/I3N36K?from=project-issue)|Accepted|Gatekeeper|@solarhu|
 |30|[openEuler 20.03 LTS SP2 内存UCE故障降级，用户数据保持一致，业务可持续运行](https://gitee.com/openeuler/release-management/issues/I3N36H?from=project-issue)|Accepted|kernel|@xiexiuqi|
 |31|[openEuler 20.03 LTS SP2 故障预测框架](https://gitee.com/openeuler/release-management/issues/I3N36F?from=project-issue)|Accepted|kernel|@xiexiuqi|
-|32|[openEuler 20.03 LTS SP2 IO_URING全栈使能](https://gitee.com/openeuler/release-management/issues/I3N36C?from=project-issue)|Testing|kernel|@xiexiuqi|
+|32|[openEuler 20.03 LTS SP2 IO_URING全栈使能](https://gitee.com/openeuler/release-management/issues/I3N36C?from=project-issue)|Accepted|kernel|@xiexiuqi|
 |33|[openEuler 20.03 LTS SP2 Qemu：虚拟化可靠性和可维护性增强](https://gitee.com/openeuler/release-management/issues/I3N369?from=project-issue)|Accepted|sig-virt|@KuhnChen|
 |34|[openEuler 20.03 LTS SP2 Qemu：热迁移pro，提升热迁移性能+安全](https://gitee.com/openeuler/release-management/issues/I3N368?from=project-issue)|Accepted|sig-virt|@KuhnChen|
 |35|[openEuler 20.03 LTS SP2支持StratoVirt：下一代轻量化虚拟化平台](https://gitee.com/openeuler/release-management/issues/I3N364?from=project-issue)|Accepted|sig-virt|@KuhnChen|
