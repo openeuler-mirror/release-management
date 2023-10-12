@@ -14399,10 +14399,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-hatch-requirements-txt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-docstring-parser
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14427,10 +14423,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-hatch-nodejs-version
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-wcmatch
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14452,10 +14444,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-20"
     - name: python-flake8-bugbear
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-mkdocs-material-extensions
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
@@ -15159,10 +15147,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocs-redirects
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-pytest-check-links
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15287,10 +15271,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocs-autorefs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-OWSLib
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15311,10 +15291,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocs-include-markdown-plugin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-sphinx-reredirects
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15332,10 +15308,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-ubelt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-mkdocs-git-committers-plugin-2
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -15375,10 +15347,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-hatch-jupyter-builder
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-oldest-supported-numpy
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15388,10 +15356,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-ipyleaflet
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-mkdocs-minify-plugin
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

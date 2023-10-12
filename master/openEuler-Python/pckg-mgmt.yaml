@@ -1863,3 +1863,39 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-11'
+- name: python-hatch-requirements-txt
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-hatch-nodejs-version
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-hatch-jupyter-builder
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-mkdocs-material-extensions
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-mkdocs-redirects
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-mkdocs-autorefs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-mkdocs-include-markdown-plugin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-mkdocs-git-committers-plugin-2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
+- name: python-mkdocs-minify-plugin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-12'
