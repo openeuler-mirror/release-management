@@ -6155,3 +6155,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-09-13"
+- name: masstree
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2023-10-12'

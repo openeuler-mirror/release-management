@@ -41,6 +41,7 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 | [I83JRC](https://gitee.com/openeuler/release-management/issues/I83JRC) | eNFS特性合入 | Discussion | sig-kernel | [@mingqian218472](https://gitee.com/mingqian218472) | ISO | nfs,sunrpc |
 | [I82A5V](https://gitee.com/openeuler/release-management/issues/I82A5V) | DDE组件更新支持服务器场景优化 | Discussion | sig-DDE | [@leeffo](https://gitee.com/leeffo) | EPOL | |
 | [I84H9S](https://gitee.com/openeuler/release-management/issues/I84H9S) | FangTian视窗引擎特性合入 | Discussion | sig-FangTian | [@BruceXuXu](https://gitee.com/BruceXuXu) | EPOL | |
+| [I876AA](https://gitee.com/openeuler/release-management/issues/I876AA) | masstree特性合入 | Discussion | sig-DB | [@zhengshaoyu](https://gitee.com/zhengshaoyu) | ISO | masstree |
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
