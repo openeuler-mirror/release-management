@@ -653,12 +653,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: python-wrapt
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: ukui-media
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1104,12 +1098,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: dde-daemon
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: python-mccabe
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -1776,12 +1764,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: hyphen-pa
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: python-pylons-sphinx-themes
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -3144,12 +3126,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: nodejs-getobject
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: python-pyquery
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -7032,12 +7008,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: deepin-gtk-theme
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: python-astroid
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
