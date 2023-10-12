@@ -1159,3 +1159,8 @@ release-change:
     python-mkdocs-material-extensions python-mkdocs-redirects python-mkdocs-autorefs
     python-mkdocs-include-markdown-plugin python-mkdocs-git-committers-plugin-2 python-mkdocs-minify-plugin
   date: 2023-10-12-11-48-21
+- pr: https://gitee.com/openeuler/release-management/pulls/1376
+  description: 63290fb9 !1376 [openEuler 22.03-LTS-SP3] openEuler:masstree申请集成到22.03
+    LTS-SP3中
+  changed_packages: masstree
+  date: 2023-10-12-17-19-47
