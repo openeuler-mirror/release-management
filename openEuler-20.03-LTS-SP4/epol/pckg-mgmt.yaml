@@ -2285,12 +2285,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: ocaml-camlp4
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: mousepad
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3737,12 +3731,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: extra-cmake-modules
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: xfce4-verve-plugin
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3918,12 +3906,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: python-novaclient
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: rubygem-mustache
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -4254,12 +4236,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: python-watchdog
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: kf5
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
@@ -4896,12 +4872,6 @@ packages:
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
 - name: python-wsproto
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
-- name: rubygem-ronn-ng
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3:Epol
