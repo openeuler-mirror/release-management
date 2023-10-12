@@ -1152,3 +1152,10 @@ release-change:
   description: c6c8f989 !1372 move cssselect2 from master:Factory to master:Epol
   changed_packages: python-cssselect2
   date: 2023-10-12-10-45-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1375
+  description: be38c40f !1375 move python-mkdocs pkgs&hatch pkgs from master:Factory
+    to master:Python
+  changed_packages: python-hatch-requirements-txt python-hatch-nodejs-version python-hatch-jupyter-builder
+    python-mkdocs-material-extensions python-mkdocs-redirects python-mkdocs-autorefs
+    python-mkdocs-include-markdown-plugin python-mkdocs-git-committers-plugin-2 python-mkdocs-minify-plugin
+  date: 2023-10-12-11-48-21
