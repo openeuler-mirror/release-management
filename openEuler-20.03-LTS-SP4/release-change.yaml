@@ -18,3 +18,7 @@ release-change:
   description: f68cd849 !1378 将python-mccabe,python-astroid,python-wrapt,python-pyquery,python-pylons-sphinx-themes从openEuler:20.03:LTS:SP4:Epol工程移到openEuler:20.03:LTS:SP4
   changed_packages: python-mccabe python-astroid python-wrapt python-pyquery python-pylons-sphinx-themes
   date: 2023-10-13-11-14-23
+- pr: https://gitee.com/openeuler/release-management/pulls/1379
+  description: 918af4b2 !1379 Add asio and python-breathe to openEuler:20.03-LTS-SP4
+  changed_packages: python-breathe asio
+  date: 2023-10-13-15-41-07
