@@ -14,3 +14,7 @@ release-change:
     移仓至 openEuler:20.03:LTS:SP4
   changed_packages: ocaml-camlp4 extra-cmake-modules kf5 rubygem-ronn-ng rubygem-mustache
   date: 2023-10-12-10-54-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1378
+  description: f68cd849 !1378 将python-mccabe,python-astroid,python-wrapt,python-pyquery,python-pylons-sphinx-themes从openEuler:20.03:LTS:SP4:Epol工程移到openEuler:20.03:LTS:SP4
+  changed_packages: python-mccabe python-astroid python-wrapt python-pyquery python-pylons-sphinx-themes
+  date: 2023-10-13-11-14-23
