@@ -1899,3 +1899,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-12'
+- name: python-pdm-backend
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-13'
+- name: python-ghp-import2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-13'
+- name: python-mergedeep
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-13'
+- name: python-pyyaml-env-tag
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-13'
+- name: python-poetry-dynamic-versioning
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-13'
+- name: python-watchdog
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-10-13'
+- name: pympress
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-10-13'

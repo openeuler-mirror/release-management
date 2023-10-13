@@ -3651,10 +3651,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-watchdog
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-exif
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5264,10 +5260,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2023-06-26'
 - name: pdfsam
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-06-26'
-- name: pympress
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-06-26'
