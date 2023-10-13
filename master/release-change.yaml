@@ -1164,3 +1164,9 @@ release-change:
     LTS-SP3中
   changed_packages: masstree
   date: 2023-10-12-17-19-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1380
+  description: f7911cc2 !1380 move python-mkdocs dep-pkgs&relvent-pkgs from master:Factory&Epol
+    to master:Python
+  changed_packages: python-pdm-backend python-ghp-import2 python-mergedeep python-pyyaml-env-tag
+    python-poetry-dynamic-versioning python-watchdog pympress
+  date: 2023-10-13-17-44-39
