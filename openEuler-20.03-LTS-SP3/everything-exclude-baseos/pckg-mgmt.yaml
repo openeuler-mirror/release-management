@@ -13079,3 +13079,15 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:20.03:LTS:SP3
   date: '2023-03-15'
+- name: python-breathe
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Python
+  obs_to: openEuler:20.03:LTS:SP3
+  date: '2023-10-12'
+- name: asio
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:20.03:LTS:SP3
+  date: '2023-10-12'
