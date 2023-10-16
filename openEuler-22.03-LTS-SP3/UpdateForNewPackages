@@ -1,0 +1,52 @@
+openEuler 22.03-LTS-SP3分支将源于openEuler 22.03-LTS-Next拉取，现由工程组对比LTS-Next分支与openEuler 22.03-LTS-SP2分支软件包基线，LTS-Next分支新增47款软件包，且新增包均可以成功编译构建，release sig发起新增软件引入22.03-LTS-SP3分支评审，请该软件包sig组maintainer确认该包是否可纳入LTS-SP3。
+
+
+| 软件包名 | 所在工程 | 所在sig | gitee_status | aarch64_build_status | x86_build_status | 是否在SP2基线 |
+|-|-|-|-|-|-|-|  
+| native-turbo | everything | A-Tune | normal | success | JOB_FAILED | 否 |
+| optimized-routines | everything | Compiler | normal | success | JOB_EXCLUDED | 否 |
+| masstree | everything | db | normal | success | success | 否 |
+| umdk | everything | sig-high-performance-network | normal | success | JOB_EXCLUDED | 否 | 
+| containers-common | everything | sig-CloudNative | normal | success | success | 否 |
+| dim_tools | everything | sig-security-facility | normal | success | success | 否 |
+| dim | everything | sig-security-facility | normal | success | success | 否 |
+| lld | epol | Compiler | normal | success | success | 否 |
+| openmp | epol | Compiler | normal | success | success | 否 |
+| m1600-driver | epol | sig-Compatibility-Infra | normal | success | success | 否 |
+| gammaray | epol | sig-desktop-apps | normal | success | success | 否 |
+| tpm2-tss-engine | epol | sig-security-facility | normal | success | success | 否 |
+| lyx | epol | sig-desktop-apps | normal | success | success | 否 |
+| pdfsam | epol | sig-desktop-apps | normal | success | success | 否 |
+| pympress | epol | sig-desktop-apps | normal | success | success | 否 |
+| sigil | epol | sig-desktop-apps | normal | success | success | 否 |
+| xchm | epol | sig-desktop-apps | normal | success | success | 否 |
+| zegrapher | epol | sig-desktop-apps | normal | success | success | 否 |
+| openttd | epol | sig-desktop-apps | normal | success | success | 否 |
+| gummi | epol | sig-desktop-apps | normal | success | success | 否 |
+| feathernotes | epol | sig-desktop-apps | normal | success | success | 否 |
+| yokadi | epol | sig-desktop-apps | normal | success | success | 否 |
+| zathura | epol | sig-desktop-apps | normal | success | success | 否 |
+| minder | epol | sig-desktop-apps | normal | success | success | 否 |
+| osmo | epol | sig-desktop-apps | normal | success | success | 否 |
+| gnumeric | epol | sig-desktop-apps | normal | success | success | 否 |
+| formiko | epol | sig-desktop-apps | normal | success | success | 否 |
+| featherpad | epol | sig-desktop-apps | normal | success | success | 否 |
+| input-pad | epol | sig-desktop-apps | normal | success | success | 否 |  
+| gendesk | epol | sig-desktop-apps | normal | success | success | 否 |
+| chmlib | epol | sig-desktop-apps | normal | success | success | 否 |
+| libdatovka | epol | sig-desktop-apps | normal | success | success | 否 |
+| girara | epol | sig-desktop-apps | normal | success | success | 否 |
+| libgringotts | epol | sig-desktop-apps | normal | success | success | 否 |
+| mhash | epol | sig-desktop-apps | normal | success | success | 否 |
+| psiconv | epol | sig-desktop-apps | normal | success | success | 否 |
+| lasem | epol | sig-desktop-apps | normal | success | success | 否 |
+| granite | epol | sig-desktop-apps | normal | success | success | 否 |
+| goffice | epol | sig-desktop-apps | normal | success | success | 否 |
+| gtksourceview2 | epol | sig-desktop-apps | normal | success | success | 否 |
+| zathura-pdf-poppler | epol | sig-desktop-apps | normal | success | success | 否 |  
+| zathura-djvu | epol | sig-desktop-apps | normal | success | success | 否 |
+| libmcrypt | epol | sig-desktop-apps | normal | success | success | 否 |
+| zathura-cb | epol | sig-desktop-apps | normal | success | success | 否 |
+| zathura-ps | epol | sig-desktop-apps | normal | success | success | 否 |
+| mindspore | epol | ai | normal | success | success | 否 |
+| tinytoml | epol | Compiler | normal | success | success | 否 |
