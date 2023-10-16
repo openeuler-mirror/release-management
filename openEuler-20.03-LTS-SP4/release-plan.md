@@ -20,7 +20,7 @@ openEuler 20.03-LTS-SP4 作为20.03-LTS版本的增强扩展版本（参见[版�
 
 
 # 代码合入说明
-openEuler 20.03-LTS-SP4 版本基线继承openEuler 20.03-LTS-Next分支 <br>
+openEuler 20.03-LTS-SP4 版本基线继承openEuler 20.03-LTS-SP3分支 <br>
 // 新特性代码请及时合入版本&自验证，跟随整体计划赶在第一轮转测试
 
 
