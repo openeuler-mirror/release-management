@@ -22,3 +22,8 @@ release-change:
   description: 918af4b2 !1379 Add asio and python-breathe to openEuler:20.03-LTS-SP4
   changed_packages: python-breathe asio
   date: 2023-10-13-15-41-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1370
+  description: 5a8b485c !1370 remove gstreamer-plugins-base,gstreamer-plugins-good
+    from openEuler:20.03:LTS:SP4
+  changed_packages: gstreamer-plugins-good gstreamer-plugins-base
+  date: 2023-10-16-10-08-37
