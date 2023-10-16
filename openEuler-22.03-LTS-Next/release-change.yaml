@@ -467,3 +467,7 @@ release-change:
     LTS-SP3中
   changed_packages: masstree
   date: 2023-10-12-17-19-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1364
+  description: b40b537c !1364 【openeuler 22.03 SP3】支持 umdk 软件包
+  changed_packages: umdk
+  date: 2023-10-16-09-38-04

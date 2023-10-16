@@ -1170,3 +1170,7 @@ release-change:
   changed_packages: python-pdm-backend python-ghp-import2 python-mergedeep python-pyyaml-env-tag
     python-poetry-dynamic-versioning python-watchdog pympress
   date: 2023-10-13-17-44-39
+- pr: https://gitee.com/openeuler/release-management/pulls/1364
+  description: b40b537c !1364 【openeuler 22.03 SP3】支持 umdk 软件包
+  changed_packages: umdk
+  date: 2023-10-16-09-38-04
