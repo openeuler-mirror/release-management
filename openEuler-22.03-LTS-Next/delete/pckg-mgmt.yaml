@@ -31,3 +31,6 @@ packages:
 - name: deepin-music
 - name: libzmq
 - name: deepin-qml-widgets
+- name: isula-transform
+- name: iSulad-img
+- name: authz
