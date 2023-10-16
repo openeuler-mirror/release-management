@@ -34,3 +34,7 @@ packages:
   - name: python-pyzmq
   - name: libzmq
   - name: kabi-dw
+  - name: isula-transform
+  - name: iSulad-img
+  - name: authz
+  - name: kata-micro-kernel
