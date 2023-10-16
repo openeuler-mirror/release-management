@@ -135,10 +135,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: authz
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: autoconf213
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -1351,10 +1347,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: iSulad-img
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: ibus-hangul
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -1420,10 +1412,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: isula-build
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: isula-transform
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -6154,7 +6142,7 @@ packages:
 - name: rocketmq
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-09-13"
+  date: '2023-09-13'
 - name: masstree
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -6162,4 +6150,4 @@ packages:
 - name: umdk
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-10-16"
+  date: '2023-10-16'
