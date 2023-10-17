@@ -57,3 +57,8 @@ release-change:
     openEuler:20.03-LTS-SP3
   changed_packages: perl-Net-DNS-Resolver-Mock perl-Tie-IxHash
   date: 2023-10-17-16-35-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1385
+  description: e9262146 !1385 add aops module and its requires to openEuler:20.03-LTS-SP3
+  changed_packages: aops-zeus aops-apollo aops-vulcanus aops-hermes python-elasticsearch7
+    python-Flask-APScheduler python-APScheduler python-tzlocal kafka-python
+  date: 2023-10-17-16-36-00
