@@ -52,3 +52,8 @@ release-change:
   description: 5cb08a32 !1377 Add asio and python-breathe to openEuler:20.03-LTS-SP3
   changed_packages: python-breathe asio
   date: 2023-10-13-11-13-12
+- pr: https://gitee.com/openeuler/release-management/pulls/1386
+  description: 27980d47 !1386 添加perl-Tie-IxHash 和 perl-Net-DNS-Resolver-Mock到 OBS
+    openEuler:20.03-LTS-SP3
+  changed_packages: perl-Net-DNS-Resolver-Mock perl-Tie-IxHash
+  date: 2023-10-17-16-35-06
