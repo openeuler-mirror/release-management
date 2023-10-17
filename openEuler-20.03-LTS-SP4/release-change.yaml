@@ -27,3 +27,8 @@ release-change:
     from openEuler:20.03:LTS:SP4
   changed_packages: gstreamer-plugins-good gstreamer-plugins-base
   date: 2023-10-16-10-08-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1387
+  description: 6ef4c3fa !1387 添加perl-Tie-IxHash 和 perl-Net-DNS-Resolver-Mock到 OBS
+    openEuler:20.03-LTS-SP4
+  changed_packages: perl-Net-DNS-Resolver-Mock perl-Tie-IxHash
+  date: 2023-10-17-18-18-31
