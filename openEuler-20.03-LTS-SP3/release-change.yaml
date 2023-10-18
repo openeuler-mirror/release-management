@@ -62,3 +62,7 @@ release-change:
   changed_packages: aops-zeus aops-apollo aops-vulcanus aops-hermes python-elasticsearch7
     python-Flask-APScheduler python-APScheduler python-tzlocal kafka-python
   date: 2023-10-17-16-36-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1389
+  description: e4fb65cb !1389 添加dtkcommon到 OBS openEuler:20.03-LTS-SP4
+  changed_packages: dtkcommon
+  date: 2023-10-18-16-06-51
