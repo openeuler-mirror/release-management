@@ -1183,3 +1183,9 @@ release-change:
     to master:Python
   changed_packages: python-dunamai python-pytest-randomly
   date: 2023-10-17-11-11-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1391
+  description: 98e39886 !1391 move python-jupyter-core&nbclient&nbformat&deps from
+    master:Factory to master:Python
+  changed_packages: python-jupyter-core python-nbclient python-nbformat python-pandocfilters
+    python-ipykernel python-ipywidgets python-ipython python-mdformat
+  date: 2023-10-18-16-01-47
