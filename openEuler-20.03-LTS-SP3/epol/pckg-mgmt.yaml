@@ -8063,3 +8063,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:20.03:LTS:SP3
   date: '2023-10-17'
+- name: dtkcommon
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3
+  date: '2023-10-18'
