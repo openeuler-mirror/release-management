@@ -3,7 +3,6 @@ packages:
 - name: gstreamer-plugins-base
 - name: gstreamer-plugins-good
 - name: execstack
-- name: booth
 - name: python-clufter
 - name: python-flatbuffers
 - name: ovirt-provider-ovn
