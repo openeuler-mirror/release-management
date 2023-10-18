@@ -8663,10 +8663,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-ipykernel
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-jaraco.packaging
       obs_from: ""
       obs_to: openEuler:Factory
@@ -8716,10 +8712,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-jupyter-client
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-jupyter-core
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -9031,10 +9023,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-nbformat
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-nbsphinx
       obs_from: ""
       obs_to: openEuler:Factory
@@ -9228,10 +9216,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-pamela
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-pandocfilters
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14559,10 +14543,6 @@ packages:
       obs_from: openEuler:Mainline
       obs_to: openEuler:Factory
       date: "2023-08-04"
-    - name: python-ipython
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-11"
     - name: python-pure-eval
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14640,10 +14620,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-sphinx-tabs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-ipywidgets
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14772,10 +14748,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-pytest-regressions
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-nbclient
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14932,10 +14904,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-csscompressor
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-mdformat
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

@@ -1935,3 +1935,35 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-10-17'
+- name: python-jupyter-core
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-nbclient
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-nbformat
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-pandocfilters
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-ipykernel
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-ipywidgets
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-ipython
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
+- name: python-mdformat
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-18'
