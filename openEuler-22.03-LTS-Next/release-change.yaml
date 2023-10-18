@@ -471,3 +471,7 @@ release-change:
   description: b40b537c !1364 【openeuler 22.03 SP3】支持 umdk 软件包
   changed_packages: umdk
   date: 2023-10-16-09-38-04
+- pr: https://gitee.com/openeuler/release-management/pulls/1388
+  description: 1dbc3a0d !1388 Add booth to openEuler:22.03:LTS:Next
+  changed_packages: booth
+  date: 2023-10-18-16-12-17
