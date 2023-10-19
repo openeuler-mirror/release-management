@@ -8823,10 +8823,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-littleutils
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-livereload
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11951,10 +11947,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-furo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-uncertainties
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14555,19 +14547,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-nest-asyncio
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-sphinxext-opengraph
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-sphinx-examples
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-sphinx-theme-builder
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14607,10 +14591,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-debugpy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-uvicorn
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14640,10 +14620,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-jupyter-cache
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-sphinx-design
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14687,15 +14663,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-sphinx-basic-ng
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-sphinx-togglebutton
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-pytest-regressions
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -15111,10 +15079,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-anyascii
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-sphinxext-rediraffe
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15168,10 +15132,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-versioneer
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-pytest-datadir
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

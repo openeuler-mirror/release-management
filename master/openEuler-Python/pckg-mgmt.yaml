@@ -2019,3 +2019,43 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-18'
+- name: python-nest-asyncio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-debugpy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-sphinx-theme-builder
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-sphinx-basic-ng
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-anyascii
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-furo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-sphinx-design
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-pytest-regressions
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-pytest-datadir
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
+- name: python-littleutils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-19'
