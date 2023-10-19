@@ -1189,3 +1189,10 @@ release-change:
   changed_packages: python-jupyter-core python-nbclient python-nbformat python-pandocfilters
     python-ipykernel python-ipywidgets python-ipython python-mdformat
   date: 2023-10-18-16-01-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1394
+  description: 4c448159 !1394 move python3-comm&jupyter-packaging&deprecation&deps
+    from master:Factory to master:Python
+  changed_packages: python-comm python-jupyter-packaging python-deprecation python-matplotlib-inline
+    python-pickleshare python-stack-data python-executing python-pure-eval python-prompt-toolkit
+    python-jedi python-parso python-fastjsonschema python-jupyter-client
+  date: 2023-10-19-10-40-54
