@@ -1196,3 +1196,10 @@ release-change:
     python-pickleshare python-stack-data python-executing python-pure-eval python-prompt-toolkit
     python-jedi python-parso python-fastjsonschema python-jupyter-client
   date: 2023-10-19-10-40-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1395
+  description: 554e431a !1395 move python3-sphinx-theme-builder&sphinx-basic-ng&ipykernel
+    deps from master:Factory to master:Python
+  changed_packages: python-nest-asyncio python-debugpy python-sphinx-theme-builder
+    python-sphinx-basic-ng python-anyascii python-furo python-sphinx-design python-pytest-regressions
+    python-pytest-datadir python-littleutils
+  date: 2023-10-19-15-10-55
