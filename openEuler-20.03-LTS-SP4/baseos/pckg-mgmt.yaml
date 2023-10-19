@@ -137,6 +137,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: protobuf-c
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -197,6 +198,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: json-glib
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -215,12 +217,14 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: mesa
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libXcomposite
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -293,6 +297,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: sg3_utils
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -347,6 +352,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: check
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -497,6 +503,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: telepathy-glib
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -557,6 +564,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: perftest
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -653,6 +661,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: hwdata
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -671,6 +680,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: pciutils
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -707,6 +717,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: perl-Pod-Usage
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -827,6 +838,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: metacity
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -869,6 +881,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: gnome-online-accounts
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1001,6 +1014,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: libmicrohttpd
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1049,6 +1063,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: kpatch
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1121,6 +1136,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: less
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1223,6 +1239,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: sound-theme-freedesktop
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1361,6 +1378,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: python-joblib
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1487,6 +1505,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libgweather
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1667,6 +1686,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: environment-modules
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1703,6 +1723,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: ostree
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1721,12 +1742,14 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libxslt
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: xorg-x11-xinit
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1865,6 +1888,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: perl-File-Listing
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -1907,6 +1931,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: satyr
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2063,6 +2088,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: perl-Module-Load
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2189,6 +2215,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: open-isns
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2357,6 +2384,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: lato-fonts
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2381,6 +2409,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: python-configobj
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2567,6 +2596,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libbonobo
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2609,6 +2639,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: gnome-session
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -2669,6 +2700,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: xvattr
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3023,6 +3055,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: iSulad-img
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3197,6 +3230,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: libqmi
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3329,6 +3363,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: ipcalc
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3413,6 +3448,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libusbx
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3479,6 +3515,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: graphite2
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3527,6 +3564,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: python-scikit-optimize
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3587,6 +3625,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: perl-DBD-SQLite
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3623,6 +3662,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: perl-NTLM
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3749,6 +3789,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: python-xgboost
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3821,6 +3862,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: fontawesome-fonts
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -3869,6 +3911,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: ca-certificates
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4061,6 +4104,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: rdma-core
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4073,6 +4117,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: gnome-shell
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4169,6 +4214,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libatasmart
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4253,6 +4299,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: rhash
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4283,6 +4330,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: kiwi
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4331,6 +4379,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: gnome-vfs2
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4409,6 +4458,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: xfsdump
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4421,6 +4471,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libart_lgpl
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4571,18 +4622,21 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: which
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libselinux
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: mod_http2
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4871,6 +4925,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: kae_driver
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4889,6 +4944,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libXcursor
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -4943,6 +4999,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libjpeg-turbo
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5069,6 +5126,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: qt5-qttranslations
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5153,6 +5211,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: vte291
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5291,6 +5350,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: python-hypothesis
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5417,6 +5477,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: perl-XML-XPath
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5435,6 +5496,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: libXrandr
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5519,6 +5581,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: python-dmidecode
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -5951,6 +6014,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: sbc
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6035,6 +6099,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: adcli
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6407,6 +6472,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: gnome-menus
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6419,6 +6485,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: iw
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6485,6 +6552,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: clevis
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6539,6 +6607,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: rpmdevtools
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6551,6 +6620,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: mobile-broadband-provider-info
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6563,6 +6633,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: jbigkit
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6581,6 +6652,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: tracker
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6653,6 +6725,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L1
 - name: ding-libs
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6779,6 +6852,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: openvswitch
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6917,6 +6991,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: publicsuffix-list
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -6989,6 +7064,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: fontconfig
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -7073,6 +7149,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: hostname
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -7151,6 +7228,7 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+  quality_level: L2
 - name: fuse3
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
