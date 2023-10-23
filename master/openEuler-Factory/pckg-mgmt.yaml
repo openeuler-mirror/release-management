@@ -14623,15 +14623,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: pyproject-metadata
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-autodoc-traits
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-sphinx-inline-tabs
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14688,10 +14680,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-nbdime
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-sphinx-copybutton
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
