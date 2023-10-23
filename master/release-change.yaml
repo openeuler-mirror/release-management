@@ -1207,3 +1207,9 @@ release-change:
   description: 1d0f5b30 !1393 add gala-ragdoll to 20.03 SP3
   changed_packages: gala-ragdoll
   date: 2023-10-23-09-46-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1398
+  description: 17cfd5ac !1398 move python3-asttokens&nodeenv&pyproject-metadata to
+    master:Python and python3-furo to master:Epol
+  changed_packages: python-furo python-asttokens python-nodeenv pyproject-metadata
+    python-sphinx-copybutton python-sphinx-inline-tabs
+  date: 2023-10-23-11-27-22
