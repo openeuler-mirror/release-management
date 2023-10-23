@@ -1203,3 +1203,7 @@ release-change:
     python-sphinx-basic-ng python-anyascii python-furo python-sphinx-design python-pytest-regressions
     python-pytest-datadir python-littleutils
   date: 2023-10-19-15-10-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1393
+  description: 1d0f5b30 !1393 add gala-ragdoll to 20.03 SP3
+  changed_packages: gala-ragdoll
+  date: 2023-10-23-09-46-54
