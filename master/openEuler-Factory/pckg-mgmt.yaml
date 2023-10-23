@@ -15419,27 +15419,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
-    - name: ft_surface
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: ft_flutter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
     - name: ft_wl_fwk
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
-    - name: ft_multimedia
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
     - name: ft_engine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: ft_mmi
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
