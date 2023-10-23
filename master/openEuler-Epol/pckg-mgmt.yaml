@@ -2247,10 +2247,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-nodeenv
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-nosehtmloutput
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4887,10 +4883,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-14'
-- name: python-asttokens
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-23'
 - name: python-shtab
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -5991,3 +5983,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-10-18'
+- name: python-furo
+  obs_from: openEuler:Python
+  obs_to: openEuler:Epol
+  date: '2023-10-23'

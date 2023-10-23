@@ -2039,10 +2039,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-19'
-- name: python-furo
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Python
-  date: '2023-10-19'
 - name: python-sphinx-design
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
@@ -2059,3 +2055,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-19'
+- name: python-asttokens
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-10-23'
+- name: python-nodeenv
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-10-23'
+- name: pyproject-metadata
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-23'
+- name: python-sphinx-copybutton
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-23'
+- name: python-sphinx-inline-tabs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-10-23'
