@@ -1,3 +1,4 @@
 packages:
 - name: gstreamer-plugins-base
 - name: gstreamer-plugins-good
+- name: isula-transform
