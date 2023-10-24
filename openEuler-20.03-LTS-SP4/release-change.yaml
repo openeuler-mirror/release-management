@@ -40,3 +40,7 @@ release-change:
   description: 3495fd05 !1404 【轻量级 PR】：remove isula-transform from 20.03-LTS-SP4
   changed_packages: isula-transform
   date: 2023-10-24-09-56-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1407
+  description: c7144f42 !1407 remove nodejs-grunt-contrib-watch from 20.03-LTS-SP4-epol
+  changed_packages: nodejs-grunt-contrib-watch
+  date: 2023-10-24-11-47-43
