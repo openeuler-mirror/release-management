@@ -15419,18 +15419,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
-    - name: ft_wl_fwk
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: ft_engine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: arkui-linux
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
     - name: mythes-en
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15491,10 +15479,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-09"
-    - name: ft_utils
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-17"
     - name: software-package-server
       obs_from: ""
       obs_to: openEuler:Factory
