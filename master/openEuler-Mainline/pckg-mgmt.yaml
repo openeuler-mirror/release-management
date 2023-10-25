@@ -6151,3 +6151,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-10-16'
+- name: python-eventlet
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-10-24'
