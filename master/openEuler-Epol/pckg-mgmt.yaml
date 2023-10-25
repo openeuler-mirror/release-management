@@ -5983,10 +5983,6 @@ packages:
   obs_from: openEuler:Python
   obs_to: openEuler:Epol
   date: '2023-10-23'
-- name: ft_surface
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-10-24'
 - name: ft_flutter
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

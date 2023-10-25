@@ -6155,3 +6155,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-10-24'
+- name: ft_surface
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2023-10-26'
