@@ -15547,3 +15547,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
+    - name: python-mkdocs-rss-plugin
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-25"
