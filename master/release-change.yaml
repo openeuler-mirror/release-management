@@ -1218,3 +1218,8 @@ release-change:
     and openEuler:22.03 next
   changed_packages: ft_surface ft_flutter ft_multimedia ft_mmi
   date: 2023-10-25-09-24-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1410
+  description: 41dcf078 !1410 move python3-eventlet from master:Epol to master:Mainline
+    for execnet obs
+  changed_packages: python-eventlet
+  date: 2023-10-25-09-30-31
