@@ -15551,3 +15551,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
+    - name: python-validator-collection
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-25"
