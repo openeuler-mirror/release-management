@@ -1213,3 +1213,8 @@ release-change:
   changed_packages: python-furo python-asttokens python-nodeenv pyproject-metadata
     python-sphinx-copybutton python-sphinx-inline-tabs
   date: 2023-10-23-11-27-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1405
+  description: 3d4f01e5 !1405 move fangtian package from Factory to openEuler:Epol
+    and openEuler:22.03 next
+  changed_packages: ft_surface ft_flutter ft_multimedia ft_mmi
+  date: 2023-10-25-09-24-26

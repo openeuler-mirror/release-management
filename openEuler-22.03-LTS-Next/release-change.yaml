@@ -475,3 +475,8 @@ release-change:
   description: 1dbc3a0d !1388 Add booth to openEuler:22.03:LTS:Next
   changed_packages: booth
   date: 2023-10-18-16-12-17
+- pr: https://gitee.com/openeuler/release-management/pulls/1405
+  description: 3d4f01e5 !1405 move fangtian package from Factory to openEuler:Epol
+    and openEuler:22.03 next
+  changed_packages: ft_surface ft_flutter ft_multimedia ft_mmi
+  date: 2023-10-25-09-24-26
