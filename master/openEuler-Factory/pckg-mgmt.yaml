@@ -15683,3 +15683,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
+    - name: python-parse-type
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-25"
