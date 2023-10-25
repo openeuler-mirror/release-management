@@ -15515,3 +15515,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-21"
+    - name: gcc-10
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-25"
