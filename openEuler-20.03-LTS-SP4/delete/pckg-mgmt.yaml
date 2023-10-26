@@ -4,3 +4,4 @@ packages:
 - name: isula-transform
 - name: nodejs-grunt-contrib-watch
 - name: redhat-menus
+- name: libdap
