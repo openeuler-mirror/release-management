@@ -3,3 +3,4 @@ packages:
 - name: gstreamer-plugins-good
 - name: isula-transform
 - name: nodejs-grunt-contrib-watch
+- name: redhat-menus
