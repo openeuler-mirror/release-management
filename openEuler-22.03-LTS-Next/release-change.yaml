@@ -480,3 +480,7 @@ release-change:
     and openEuler:22.03 next
   changed_packages: ft_surface ft_flutter ft_multimedia ft_mmi
   date: 2023-10-25-09-24-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1415
+  description: 35dd52e9 !1415 ft_surface需要移动到everything中才可以被mesa依赖
+  changed_packages: ft_surface
+  date: 2023-10-27-09-31-20
