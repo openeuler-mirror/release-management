@@ -81,3 +81,7 @@ release-change:
     python-inflection python-strict-rfc3339 python-rfc3339-validator openapi-schema-validator
     openapi-spec-validator python-flask-testing python-connexion
   date: 2023-10-26-18-23-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1400
+  description: a12bfdc0 !1400 【Compiler SIG】gcc-10 多版本GCC仓引入到Mainline和openEuler-20.03-LTS-SP3
+  changed_packages: gcc-10
+  date: 2023-10-27-17-02-36
