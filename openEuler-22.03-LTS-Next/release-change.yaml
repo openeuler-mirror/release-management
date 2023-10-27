@@ -484,3 +484,8 @@ release-change:
   description: 35dd52e9 !1415 ft_surface需要移动到everything中才可以被mesa依赖
   changed_packages: ft_surface
   date: 2023-10-27-09-31-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1416
+  description: ded21e15 !1416 move fangtian package from Factory to openEuler:Epol
+    and openEuler:22.03 next
+  changed_packages: ft_engine ft_wl_fwk arkui-linux ft_utils
+  date: 2023-10-27-09-39-43
