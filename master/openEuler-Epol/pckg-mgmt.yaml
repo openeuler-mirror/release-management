@@ -5995,3 +5995,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-10-24'
+- name: ft_engine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-10-26'
+- name: ft_wl_fwk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-10-26'
+- name: arkui-linux
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-10-26'
+- name: ft_utils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-10-26'
