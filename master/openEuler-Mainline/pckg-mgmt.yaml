@@ -6159,3 +6159,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-10-26'
+- name: ub-lldpd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2023-10-27'
+- name: ub-dhcp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2023-10-27'
