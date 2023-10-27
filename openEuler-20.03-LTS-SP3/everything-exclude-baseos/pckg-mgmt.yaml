@@ -13103,3 +13103,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:20.03:LTS:SP3
   date: '2023-10-12'
+- name: gcc-10
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:20.03:LTS:SP3
+  date: '2023-10-27'
