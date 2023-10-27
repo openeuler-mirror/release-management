@@ -49,3 +49,7 @@ release-change:
     rapidjson-devel deepin-pw-check package
   changed_packages: htmlcxx lucenepp mimetic deepin-pw-check rapidjson
   date: 2023-10-25-14-20-32
+- pr: https://gitee.com/openeuler/release-management/pulls/1414
+  description: 76c56917 !1414 remove redhat-menus from openEuler-20.03-LTS-SP4
+  changed_packages: redhat-menus
+  date: 2023-10-27-09-38-27
