@@ -15739,3 +15739,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-28"
+    - name: mcp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-10-28"
