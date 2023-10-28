@@ -53,3 +53,7 @@ release-change:
   description: 76c56917 !1414 remove redhat-menus from openEuler-20.03-LTS-SP4
   changed_packages: redhat-menus
   date: 2023-10-27-09-38-27
+- pr: https://gitee.com/openeuler/release-management/pulls/1419
+  description: 185b6460 !1419 【Compiler SIG】gcc-10 多版本GCC仓引入到openEuler-20.03-LTS-SP4
+  changed_packages: gcc-10
+  date: 2023-10-28-11-46-15
