@@ -85,3 +85,8 @@ release-change:
   description: a12bfdc0 !1400 【Compiler SIG】gcc-10 多版本GCC仓引入到Mainline和openEuler-20.03-LTS-SP3
   changed_packages: gcc-10
   date: 2023-10-27-17-02-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1418
+  description: af0e8143 !1418 将python-pyrsistent从openEuler:20.03:LTS:SP3:Epol 移动至
+    openEuler:20.03:LTS:SP3工程, 创建libyang在openEuler:20.03:LTS:SP3:Epol的obs工程
+  changed_packages: libyang python-pyrsistent
+  date: 2023-10-30-15-54-43
