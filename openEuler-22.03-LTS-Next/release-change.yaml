@@ -493,3 +493,7 @@ release-change:
   description: ca506652 !1403 【openeuler 22.03 SP3】支持 ub-lldpd和ub-dhcp 软件包
   changed_packages: ub-lldpd ub-dhcp
   date: 2023-10-27-10-20-14
+- pr: https://gitee.com/openeuler/release-management/pulls/1371
+  description: d5569c86 !1371 Add packages to project Multi-Version_lustre_openEuler-22.03-LTS-Next
+  changed_packages: lustre
+  date: 2023-10-31-11-49-20

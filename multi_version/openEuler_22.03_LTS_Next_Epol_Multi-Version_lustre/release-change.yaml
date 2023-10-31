@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1371
+  description: d5569c86 !1371 Add packages to project Multi-Version_lustre_openEuler-22.03-LTS-Next
+  changed_packages: e2fsprogs lustre
+  date: 2023-10-31-11-49-20
