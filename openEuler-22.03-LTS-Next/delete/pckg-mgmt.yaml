@@ -33,3 +33,4 @@ packages:
 - name: isula-transform
 - name: iSulad-img
 - name: authz
+- name: lustre
