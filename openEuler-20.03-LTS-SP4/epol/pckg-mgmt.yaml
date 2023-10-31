@@ -7883,3 +7883,39 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-25'
+- name: aops-ceres
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-10-31'
+- name: aops-zeus
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-10-31'
+- name: aops-apollo
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-10-31'
+- name: aops-hermes
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-10-31'
+- name: aops-vulcanus
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-10-31'
+- name: syscare
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-10-31'
