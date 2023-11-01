@@ -13205,3 +13205,33 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-28'
+- name: python-APScheduler
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3
+  obs_to: openEuler:20.03:LTS:SP4
+  date: '2023-10-31'
+- name: python-tzlocal
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3
+  obs_to: openEuler:20.03:LTS:SP4
+  date: '2023-10-31'
+- name: python-Flask-APScheduler
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3
+  obs_to: openEuler:20.03:LTS:SP4
+  date: '2023-10-31'
+- name: kafka-python
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3
+  obs_to: openEuler:20.03:LTS:SP4
+  date: '2023-10-31'
+- name: python-elasticsearch7
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3
+  obs_to: openEuler:20.03:LTS:SP4
+  date: '2023-10-31'
