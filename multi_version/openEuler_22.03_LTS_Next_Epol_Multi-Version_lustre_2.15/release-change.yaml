@@ -1,1 +1,6 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1425
+  description: b57828f7 !1425 init openEuler:22.03:LTS:Next:Epol:Multi-Version:lustre:2.15
+    pkgs
+  changed_packages: e2fsprogs lustre
+  date: 2023-11-01-14-24-27
