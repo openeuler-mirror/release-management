@@ -1236,3 +1236,8 @@ release-change:
   description: ca506652 !1403 【openeuler 22.03 SP3】支持 ub-lldpd和ub-dhcp 软件包
   changed_packages: ub-lldpd ub-dhcp
   date: 2023-10-27-10-20-14
+- pr: https://gitee.com/openeuler/release-management/pulls/1427
+  description: 8f4a2202 !1427 move python-jupyterlab-pygments from master:Factory
+    to master:Python
+  changed_packages: python-jupyterlab-pygments
+  date: 2023-11-02-11-50-52
