@@ -66,3 +66,9 @@ release-change:
   changed_packages: aops-ceres aops-zeus aops-apollo aops-hermes aops-vulcanus syscare
     python-APScheduler python-tzlocal python-Flask-APScheduler kafka-python python-elasticsearch7
   date: 2023-11-01-11-18-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1428
+  description: c69a2f1e !1428 gala-ragdoll服务及依赖创建openEuler-20.03-LTS-SP4分支obs工程
+  changed_packages: python-libyang python-clickclick swagger-ui-bundle python-inflection
+    python-strict-rfc3339 python-rfc3339-validator openapi-schema-validator openapi-spec-validator
+    python-flask-testing python-connexion libyang gala-ragdoll python-pyrsistent
+  date: 2023-11-02-19-45-24
