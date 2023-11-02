@@ -2079,3 +2079,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-01'
+- name: python-flasgger
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'
+- name: python-brotlicffi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'
+- name: python-jupyter-server-terminals
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'
+- name: python-overrides
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'
+- name: python-calver
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'
+- name: python-trove-classifiers
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'
+- name: python-bump2version
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-02'

@@ -14939,10 +14939,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-bump2version
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-sphinx-remove-toctrees
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15495,10 +15491,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-jupyter-server-terminals
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-sip
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15635,19 +15627,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-brotlicffi
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-hatch
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-mdformat-tables
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-flasgger
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15684,10 +15668,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-sphinxcontrib-openapi
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-overrides
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15739,14 +15719,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-28"
-    - name: python-trove-classifiers
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-02"
-    - name: python-calver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-02"
     - name: python-hiplot
       obs_from: ""
       obs_to: openEuler:Factory
