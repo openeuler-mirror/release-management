@@ -2075,3 +2075,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-10-23'
+- name: python-jupyterlab-pygments
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-01'
