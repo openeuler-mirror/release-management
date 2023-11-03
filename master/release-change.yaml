@@ -1241,3 +1241,9 @@ release-change:
     to master:Python
   changed_packages: python-jupyterlab-pygments
   date: 2023-11-02-11-50-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1429
+  description: 02b5559e !1429 move python-flasgger&brotlicffi&overrides&jupyter-server-terminals&calver&trove-classifiers
+    deppkgs from master:Factory to master:Python
+  changed_packages: python-flasgger python-brotlicffi python-jupyter-server-terminals
+    python-overrides python-calver python-trove-classifiers python-bump2version
+  date: 2023-11-03-15-43-54
