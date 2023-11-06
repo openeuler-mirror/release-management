@@ -2107,3 +2107,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-02'
+- name: python-rpds-py
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
+- name: python-nbconvert
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
+- name: python-bumpversion
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
+- name: python-httpbin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
+- name: python-rfc3986-validator
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
+- name: python-json-logger
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
+- name: python-trio-websocket
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-06'
