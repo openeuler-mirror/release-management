@@ -72,3 +72,7 @@ release-change:
     python-strict-rfc3339 python-rfc3339-validator openapi-schema-validator openapi-spec-validator
     python-flask-testing python-connexion libyang gala-ragdoll python-pyrsistent
   date: 2023-11-02-19-45-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1437
+  description: d0390c26 !1437 delete liberation-sans-fonts from 20.03-lts-sp4
+  changed_packages: liberation-sans-fonts
+  date: 2023-11-07-09-05-59
