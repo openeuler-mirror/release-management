@@ -5,3 +5,4 @@ packages:
 - name: nodejs-grunt-contrib-watch
 - name: redhat-menus
 - name: libdap
+- name: liberation-sans-fonts
