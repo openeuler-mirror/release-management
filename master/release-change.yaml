@@ -1247,3 +1247,9 @@ release-change:
   changed_packages: python-flasgger python-brotlicffi python-jupyter-server-terminals
     python-overrides python-calver python-trove-classifiers python-bump2version
   date: 2023-11-03-15-43-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1436
+  description: e8dbb94c !1436 move python-rpds-py&httpbin&bumpversion&some dep pkgs
+    from master:Factory to master:Python
+  changed_packages: python-rpds-py python-nbconvert python-bumpversion python-httpbin
+    python-rfc3986-validator python-json-logger python-trio-websocket
+  date: 2023-11-07-09-11-52
