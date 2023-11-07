@@ -6171,3 +6171,7 @@ packages:
   obs_from: ''
   obs_to: openEuler:Mainline
   date: '2023-10-27'
+- name: hbase
+  obs_from: 'openEuler:Epol'
+  obs_to: openEuler:Mainline
+  date: '2023-11-01'
