@@ -81,3 +81,7 @@ release-change:
     branch
   changed_packages: ddcutil
   date: 2023-11-07-09-07-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1439
+  description: bfad97a7 !1439 添加 hikptool 到 OBS openEuler:20.03-LTS-SP4
+  changed_packages: hikptool
+  date: 2023-11-07-16-44-41
