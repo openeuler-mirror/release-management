@@ -90,3 +90,8 @@ release-change:
     openEuler:20.03:LTS:SP3工程, 创建libyang在openEuler:20.03:LTS:SP3:Epol的obs工程
   changed_packages: libyang python-pyrsistent
   date: 2023-10-30-15-54-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1435
+  description: 6df3737f !1435 ddcutil package add compile openeuler 20.03 LTS SP4
+    branch
+  changed_packages: ddcutil
+  date: 2023-11-07-09-07-01

@@ -76,3 +76,8 @@ release-change:
   description: d0390c26 !1437 delete liberation-sans-fonts from 20.03-lts-sp4
   changed_packages: liberation-sans-fonts
   date: 2023-11-07-09-05-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1435
+  description: 6df3737f !1435 ddcutil package add compile openeuler 20.03 LTS SP4
+    branch
+  changed_packages: ddcutil
+  date: 2023-11-07-09-07-01
