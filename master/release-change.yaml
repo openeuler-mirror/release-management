@@ -1253,3 +1253,7 @@ release-change:
   changed_packages: python-rpds-py python-nbconvert python-bumpversion python-httpbin
     python-rfc3986-validator python-json-logger python-trio-websocket
   date: 2023-11-07-09-11-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1346
+  description: 05b83d1e !1346 Move hbase from epol to everything
+  changed_packages: hbase
+  date: 2023-11-07-17-36-13
