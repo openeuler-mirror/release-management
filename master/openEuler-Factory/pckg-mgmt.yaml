@@ -7195,10 +7195,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-Arpeggio
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-Bottleneck
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11911,10 +11907,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-easy-vault
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: obs_meta
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11924,10 +11916,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-cfn-lint
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-testfixtures
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14179,10 +14167,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-11"
-    - name: python-hug
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
     - name: python-diff-cover
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14216,10 +14200,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-20"
     - name: python-docformatter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-docstring-parser
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"

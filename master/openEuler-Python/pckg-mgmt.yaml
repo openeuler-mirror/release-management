@@ -2307,3 +2307,43 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-08'
+- name: python-Arpeggio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-hug
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-testfixtures
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-easy-vault
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-pre-commit
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-cfgv
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-identify
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-GitPython
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-gitdb
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-docstring-parser
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-08'

@@ -1567,10 +1567,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-GitPython
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-Logbook
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -1795,10 +1791,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-cfgv
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-cinder-tempest-plugin
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -1983,10 +1975,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-gitdb
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-glance-store
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2036,10 +2024,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-icdiff
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-identify
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -2460,10 +2444,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-posix_ipc
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-pre-commit
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
