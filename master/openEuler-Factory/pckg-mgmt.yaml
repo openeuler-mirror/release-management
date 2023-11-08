@@ -15699,3 +15699,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-02"
+    - name: python-rfc3987
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-08"
