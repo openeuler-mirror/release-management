@@ -1257,3 +1257,17 @@ release-change:
   description: 05b83d1e !1346 Move hbase from epol to everything
   changed_packages: hbase
   date: 2023-11-07-17-36-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1442
+  description: 7f6f79ea !1442 move some deppkgs from master:Factory to master:Python
+    for pkg import
+  changed_packages: python-picobox python-sphinxemoji python-mdformat-tables python-pdfminer.six
+    python-tabcompleter python-pynose python-sbvirtualdisplay python-parse-type python-yaspin
+    python-watchfiles python-vl-convert-python python-vistir python-uri-template python-untokenize
+    python-typing-inspect python-types-paramiko python-tox-pdm python-time-machine
+    python-terminado python-stuf python-sphinxext-rediraffe python-sphinxcontrib-github-alt
+    python-rope python-rfc3987 python-re-assert python-pytoolconfig python-pytest-enabler
+    python-pymdown-extensions python-psycopg2cffi python-portray python-pip-shims
+    python-pip-run python-pika python-pdocs python-pdbp python-parver python-livereload
+    python-libcst python-hypothesmith python-hypothesis-fspaths python-fqdn python-easy-server
+    python-deepmerge
+  date: 2023-11-08-15-08-16
