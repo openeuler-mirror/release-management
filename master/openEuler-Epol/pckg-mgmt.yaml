@@ -2667,10 +2667,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-smmap
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-sphinx-feature-classification
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2836,10 +2832,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-twine
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-twisted
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4520,10 +4512,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-08-04'
 - name: python-sphinxcontrib-issuetracker
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-04'
-- name: python-sybil
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-04'

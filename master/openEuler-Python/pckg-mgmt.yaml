@@ -2347,3 +2347,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-08'
+- name: python-smmap
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-twisted
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
+- name: python-sybil
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-08'
