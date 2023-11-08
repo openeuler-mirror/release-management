@@ -1271,3 +1271,9 @@ release-change:
     python-libcst python-hypothesmith python-hypothesis-fspaths python-fqdn python-easy-server
     python-deepmerge
   date: 2023-11-08-15-08-16
+- pr: https://gitee.com/openeuler/release-management/pulls/1443
+  description: c514eaf3 !1443 move python-pre-commit&easy-vault&testfixtrues&hug&Arpeggio
+    from master:Factory&Epol to master:Python for deppkgs
+  changed_packages: python-Arpeggio python-hug python-testfixtures python-easy-vault
+    python-pre-commit python-cfgv python-identify python-GitPython python-gitdb python-docstring-parser
+  date: 2023-11-08-16-21-34
