@@ -15715,3 +15715,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-08"
+    - name: python-isoduration
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-08"
