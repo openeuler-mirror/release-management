@@ -7967,10 +7967,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-deepmerge
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-demjson
       obs_from: ""
       obs_to: openEuler:Factory
@@ -8587,10 +8583,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-hypothesis-fspaths
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-icalendar
       obs_from: ""
       obs_to: openEuler:Factory
@@ -8816,10 +8808,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-listparser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-livereload
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -9268,10 +9256,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-pigpio
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-pika
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -9799,10 +9783,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-rope
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-rosinstall
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10011,10 +9991,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-sphinxcontrib-github-alt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-spur
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10048,10 +10024,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-stompest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-stuf
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -10112,10 +10084,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-tempdir
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-terminado
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -10404,10 +10372,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-yara
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-yaspin
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -11811,10 +11775,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-psycopg2cffi
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: apache-atlas
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11831,10 +11791,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-pip-run
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-jaraco.path
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11848,10 +11804,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: nload
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-easy-server
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -11983,10 +11935,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-types-paramiko
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-ConfigSpace
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12020,10 +11968,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-brotlipy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-pytest-enabler
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14131,18 +14075,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
-    - name: python-libcst
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
-    - name: python-hypothesmith
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
-    - name: python-portray
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-26"
     - name: kf5-incidenceeditor
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14184,14 +14116,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-05-31"
     - name: pycollada
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-vistir
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-31"
-    - name: python-pip-shims
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-31"
@@ -14259,31 +14183,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-13"
-    - name: python-pdocs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
-    - name: python-re-assert
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
-    - name: python-typing-inspect
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
     - name: python-diff-cover
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-13"
     - name: python-devpi-process
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
-    - name: python-pymdown-extensions
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-13"
-    - name: python-time-machine
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-13"
@@ -14295,15 +14199,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-14"
-    - name: python-parver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-flake8-builtins
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-untokenize
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
@@ -14319,19 +14215,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-pytoolconfig
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-docformatter
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
     - name: python-docstring-parser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-tox-pdm
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
@@ -14511,10 +14399,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-20"
-    - name: python-watchfiles
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-myst-nb
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14791,10 +14675,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-vl-convert-python
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-restview
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15040,10 +14920,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-rinoh-typeface-texgyreheros
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-sphinxext-rediraffe
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -15511,10 +15387,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-picobox
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-empack
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15547,10 +15419,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-pynose
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-allure
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15564,10 +15432,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-jupyterlite-xeus
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-pdbp
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15595,23 +15459,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-tabcompleter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-sphinxemoji
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-hatch
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-mdformat-tables
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-parse-type
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15624,10 +15472,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-hunter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-sbvirtualdisplay
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15648,10 +15492,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-cyclic
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-pdfminer.six
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15699,18 +15539,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-02"
-    - name: python-rfc3987
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-08"
-    - name: python-fqdn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-08"
-    - name: python-uri-template
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-08"
     - name: python-jsonschema-specifications
       obs_from: ""
       obs_to: openEuler:Factory
