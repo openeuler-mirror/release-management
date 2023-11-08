@@ -1277,3 +1277,8 @@ release-change:
   changed_packages: python-Arpeggio python-hug python-testfixtures python-easy-vault
     python-pre-commit python-cfgv python-identify python-GitPython python-gitdb python-docstring-parser
   date: 2023-11-08-16-21-34
+- pr: https://gitee.com/openeuler/release-management/pulls/1444
+  description: f2138940 !1444 move python-twisted&sybil&smmap from master:Epol to
+    master:Python for deppkgs
+  changed_packages: python-smmap python-twisted python-sybil
+  date: 2023-11-08-17-35-33
