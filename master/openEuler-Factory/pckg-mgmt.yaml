@@ -15711,3 +15711,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-08"
+    - name: python-jsonschema-specifications
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-08"
