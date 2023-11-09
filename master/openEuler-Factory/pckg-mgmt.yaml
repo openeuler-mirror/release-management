@@ -14391,10 +14391,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-jupyter-server
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-sphinxext-opengraph
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15407,10 +15403,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-mdformat-gfm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-jupyterlite-xeus
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15428,10 +15420,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-androguard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-jupyter-events
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15456,10 +15444,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-shellingham
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-referencing
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15519,14 +15503,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-02"
-    - name: python-jsonschema-specifications
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-08"
-    - name: python-isoduration
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-08"
     - name: openInula
       obs_from: ""
       obs_to: openEuler:Factory
