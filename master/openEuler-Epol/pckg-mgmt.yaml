@@ -1559,10 +1559,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-Automat
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-ConfigArgParse
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2003,10 +1999,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-h2
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-hacking
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2148,10 +2140,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-lz4
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-m2r
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -2447,10 +2435,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-priority
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-proboscis
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2652,10 +2636,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-seqdiag
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-service-identity
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
