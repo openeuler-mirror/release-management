@@ -85,3 +85,7 @@ release-change:
   description: bfad97a7 !1439 添加 hikptool 到 OBS openEuler:20.03-LTS-SP4
   changed_packages: hikptool
   date: 2023-11-07-16-44-41
+- pr: https://gitee.com/openeuler/release-management/pulls/1431
+  description: 58be6c9b !1431 Remove drbd from openEuler-20.03-LTS-SP4
+  changed_packages: drbd
+  date: 2023-11-09-14-19-02
