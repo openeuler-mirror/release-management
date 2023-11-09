@@ -1282,3 +1282,10 @@ release-change:
     master:Python for deppkgs
   changed_packages: python-smmap python-twisted python-sybil
   date: 2023-11-08-17-35-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1446
+  description: 560f62ba !1446 move python-h2&priority&service-identity&Automat and
+    some deppkgs from master:Epol and master:Factory to master:Python for deppkgs
+  changed_packages: python-h2 python-Automat python-priority python-service-identity
+    python-referencing python-mdformat-gfm python-jsonschema-specifications python-isoduration
+    python-jupyter-events python-jupyter-server pyOpenSSL python-m2r
+  date: 2023-11-09-14-11-20
