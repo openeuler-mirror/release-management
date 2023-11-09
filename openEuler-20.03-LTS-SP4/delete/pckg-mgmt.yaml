@@ -6,3 +6,4 @@ packages:
 - name: redhat-menus
 - name: libdap
 - name: liberation-sans-fonts
+- name: drbd
