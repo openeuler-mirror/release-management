@@ -1289,3 +1289,8 @@ release-change:
     python-referencing python-mdformat-gfm python-jsonschema-specifications python-isoduration
     python-jupyter-events python-jupyter-server pyOpenSSL python-m2r
   date: 2023-11-09-14-11-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1449
+  description: 7858bd36 !1449 move python-rfc3339-validator&sphinx-mdinclude&sphinxcontrib-openapi
+    from master:Epol&Factory to master:Python for jupyter-event deppkgs
+  changed_packages: python-rfc3339-validator python-sphinx-mdinclude python-sphinxcontrib-openapi
+  date: 2023-11-10-09-28-34
