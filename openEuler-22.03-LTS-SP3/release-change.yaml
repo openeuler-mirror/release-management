@@ -1,1 +1,6 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1448
+  description: 1cc69137 !1448 添加FangTian软件包到openEuler-22.03-LTS-SP3
+  changed_packages: ft_flutter ft_multimedia ft_mmi ft_engine ft_wl_fwk arkui-linux
+    ft_utils ft_surface
+  date: 2023-11-10-09-17-29
