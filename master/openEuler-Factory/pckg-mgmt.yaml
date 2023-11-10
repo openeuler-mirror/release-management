@@ -15379,10 +15379,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-sphinx-mdinclude
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-diffoscope
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15444,10 +15440,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-shellingham
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-sphinxcontrib-openapi
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
