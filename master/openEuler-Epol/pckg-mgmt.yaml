@@ -2583,10 +2583,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-rfc3339-validator
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-rfc3986
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
