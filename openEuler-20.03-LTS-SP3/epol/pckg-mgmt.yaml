@@ -8099,12 +8099,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:20.03:LTS:SP3:Epol
   date: '2023-10-25'
-- name: rapidjson
-  source_dir: master
-  destination_dir: openEuler-20.03-LTS-SP3
-  obs_from: openEuler:C
-  obs_to: openEuler:20.03:LTS:SP3:Epol
-  date: '2023-10-25'
 - name: python-libyang
   source_dir: master
   destination_dir: openEuler-20.03-LTS-SP3
