@@ -1294,3 +1294,11 @@ release-change:
     from master:Epol&Factory to master:Python for jupyter-event deppkgs
   changed_packages: python-rfc3339-validator python-sphinx-mdinclude python-sphinxcontrib-openapi
   date: 2023-11-10-09-28-34
+- pr: https://gitee.com/openeuler/release-management/pulls/1451
+  description: aa02b2cc !1451 move python-selenium&selenium-wire&pytest-httpbin and
+    some deppkgs from master:Factory and Epol to master:Python or Epol
+  changed_packages: python-pydata-sphinx-theme python-selenium-wire python-selenium
+    python-pytest-httpbin python-sphinxcontrib-httpdomain python-argon2-cffi-bindings
+    python-argon2-cffi python-prometheus_client python-Send2Trash python-anyio python-sniffio
+    python-jupyter-sphinx
+  date: 2023-11-14-18-52-00
