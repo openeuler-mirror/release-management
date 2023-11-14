@@ -2419,3 +2419,47 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-10'
+- name: python-selenium-wire
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-selenium
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-pytest-httpbin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-sphinxcontrib-httpdomain
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-argon2-cffi-bindings
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-argon2-cffi
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-prometheus_client
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-Send2Trash
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-anyio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-sniffio
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-14'
+- name: python-jupyter-sphinx
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-14'

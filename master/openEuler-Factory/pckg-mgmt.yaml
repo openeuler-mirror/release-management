@@ -7379,10 +7379,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-Send2Trash
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-Slowloris
       obs_from: ""
       obs_to: openEuler:Factory
@@ -9600,10 +9596,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-pytest-helpers-namespace
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-pytest-httpbin
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -11936,10 +11928,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-pytest-checkdocs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-pydata-sphinx-theme
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14415,10 +14403,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-anyio
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-sphinx-thebe
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14931,10 +14915,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-jupyter-sphinx
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-Fiona
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15428,10 +15408,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-pycnite
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-selenium-wire
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"

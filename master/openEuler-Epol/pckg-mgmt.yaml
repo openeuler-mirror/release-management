@@ -1711,10 +1711,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-argon2-cffi
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-arrow
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2447,10 +2443,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-prometheus_client
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-pure-sasl
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2619,10 +2611,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-selenium
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-senlinclient
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2664,10 +2652,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-sphinxcontrib-blockdiag
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-sphinxcontrib-httpdomain
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -3728,10 +3712,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: kiran-gtk-theme
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-sniffio
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -5147,10 +5127,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-07-26'
-- name: python-argon2-cffi-bindings
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-06-15'
 - name: hiviewdfx_hilog
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -5951,3 +5927,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-10-26'
+- name: python-pydata-sphinx-theme
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-14'
