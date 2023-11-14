@@ -37,7 +37,7 @@ openEuler社区master分层构建&版本基线管控优化即将上线，里程�
 | delete                                     | 用于管控master下所有删除包，需要删除包时，只需将包名加入delete目录下的pckg-mgmt.yaml中 |
 | openEuler-Factory                          | 用于管控openEuler:Factory工程下所有包                        |
 | openEuler-Mainline                         | 用于管控openEuler:Mainline工程下所有包，主流用户态组件       |
-| openEuler-BaseTools                        | 用于管控openEuler:Epol工程下所有包，包含版本相关的基础信息组件，基础编译工具链组件 |
+| openEuler-BaseTools                        | 用于管控openEuler-BaseTools工程下所有包，包含版本相关的基础信息组件，基础编译工具链组件 |
 | openEuler-C                                | 用于管控openEuler:C工程下所有包，编译依赖C编程语言的组件、插件 |
 | openEuler-Common_Languages_Dependent_Tools | 用于管控openEuler:Common_Languages_Dependent_Tools工程下所有包，基础编译依赖组件 |
 | openEuler-Epol                             | 用于管控openEuler:Epol工程下所有包，多版本用户态组件         |
