@@ -4055,3 +4055,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:C
   date: '2023-07-26'
+- name: sysmonitor
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2023-11-14'

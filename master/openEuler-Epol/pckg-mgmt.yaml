@@ -5135,10 +5135,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-05-23'
-- name: sysmonitor
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-06-02'
 - name: gcc-7
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
