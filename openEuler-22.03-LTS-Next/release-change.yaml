@@ -497,3 +497,7 @@ release-change:
   description: d5569c86 !1371 Add packages to project Multi-Version_lustre_openEuler-22.03-LTS-Next
   changed_packages: lustre
   date: 2023-10-31-11-49-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1453
+  description: a9c6a6f7 !1453 move sysmonitor from Epol to everything
+  changed_packages: sysmonitor
+  date: 2023-11-14-18-53-15

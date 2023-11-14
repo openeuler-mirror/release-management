@@ -4,3 +4,7 @@ release-change:
   changed_packages: ft_flutter ft_multimedia ft_mmi ft_engine ft_wl_fwk arkui-linux
     ft_utils ft_surface
   date: 2023-11-10-09-17-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1453
+  description: a9c6a6f7 !1453 move sysmonitor from Epol to everything
+  changed_packages: sysmonitor
+  date: 2023-11-14-18-53-15

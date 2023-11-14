@@ -1302,3 +1302,7 @@ release-change:
     python-argon2-cffi python-prometheus_client python-Send2Trash python-anyio python-sniffio
     python-jupyter-sphinx
   date: 2023-11-14-18-52-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1453
+  description: a9c6a6f7 !1453 move sysmonitor from Epol to everything
+  changed_packages: sysmonitor
+  date: 2023-11-14-18-53-15
