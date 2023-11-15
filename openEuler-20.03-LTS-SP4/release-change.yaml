@@ -99,3 +99,7 @@ release-change:
   description: c0770921 !1450 rapidjson从epol移动至everything-exclude-baseos
   changed_packages: rapidjson
   date: 2023-11-15-14-15-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1447
+  description: cc04628c !1447 move python-elasticsearch7 to openEuler:20.03-LTS-SP4:Epol
+  changed_packages: python-elasticsearch7
+  date: 2023-11-15-15-05-24
