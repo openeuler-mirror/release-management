@@ -5927,3 +5927,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-14'
+- name: DDE-GoCode
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-15'
+- name: golang-deepin-go-lib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-15'
+- name: DDE-go-gir
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-15'
+- name:  DDE-go-x11-client
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-15'
+- name: DDE-go-dbus-factory
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-15'
