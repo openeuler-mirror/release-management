@@ -95,3 +95,7 @@ release-change:
   changed_packages: DDE-GoCode golang-deepin-go-lib DDE-go-gir DDE-go-x11-client DDE-go-dbus-factory
     cryfs
   date: 2023-11-15-11-17-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1450
+  description: c0770921 !1450 rapidjson从epol移动至everything-exclude-baseos
+  changed_packages: rapidjson
+  date: 2023-11-15-14-15-59

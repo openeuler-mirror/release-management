@@ -105,3 +105,7 @@ release-change:
     create openeuler20.03 LTS SP4 branch
   changed_packages: cryfs
   date: 2023-11-15-11-17-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1450
+  description: c0770921 !1450 rapidjson从epol移动至everything-exclude-baseos
+  changed_packages: rapidjson
+  date: 2023-11-15-14-15-59
