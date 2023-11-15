@@ -1306,3 +1306,8 @@ release-change:
   description: a9c6a6f7 !1453 move sysmonitor from Epol to everything
   changed_packages: sysmonitor
   date: 2023-11-14-18-53-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1456
+  description: d2504f66 !1456 DDE-GoCode golang-deepin-go-lib DDE-go-gir DDE-go-x11-client
+    DDE-go-dbus-factory  create openeuler20.03-SP4 branch
+  changed_packages: DDE-GoCode golang-deepin-go-lib DDE-go-gir DDE-go-x11-client DDE-go-dbus-factory
+  date: 2023-11-15-10-43-16
