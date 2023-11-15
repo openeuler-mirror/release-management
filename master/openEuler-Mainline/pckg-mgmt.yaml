@@ -6171,3 +6171,7 @@ packages:
   obs_from: 'openEuler:Epol'
   obs_to: openEuler:Mainline
   date: '2023-11-01'
+- name: secDetector
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2023-11-15'
