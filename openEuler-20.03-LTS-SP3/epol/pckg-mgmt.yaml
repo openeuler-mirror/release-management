@@ -8177,3 +8177,33 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:20.03:LTS:SP3:Epol
   date: '2023-11-06'
+- name: DDE-GoCode
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-11-15'
+- name: golang-deepin-go-lib
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-11-15'
+- name: DDE-go-gir
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-11-15'
+- name: DDE-go-x11-client
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-11-15'
+- name: DDE-go-dbus-factory
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP3:Epol
+  date: '2023-11-15'
