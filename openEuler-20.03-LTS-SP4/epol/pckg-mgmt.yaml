@@ -8027,3 +8027,9 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-11-15'
+- name: python-elasticsearch7
+  source_dir: openEuler-20.03-LTS-SP4
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP4
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-15'
