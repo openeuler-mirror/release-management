@@ -48,6 +48,7 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I8299Y](https://gitee.com/openeuler/release-management/issues/I8299Y)|增加 utshell 项目发布|Discussion|sig-memsafety|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
 |[I8DZVE](https://gitee.com/openeuler/release-management/issues/I8DZVE)|增加 utsudo 项目发布|Discussion|sig-memsafety|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
 |[I8ERGA](https://gitee.com/openeuler/release-management/issues/I8ERGA)|增加i3相关软件包发布 |Discussion|sig-infrastructure|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin/)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,dmenu|
+|[I8GQJE](https://gitee.com/openeuler/release-management/issues/I8GQJE)|支持入侵检测框架secDetector |Discussion|sig-security-facility|[@zcfsite](https://gitee.com/zcfsite/)|ISO|secDetector|
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
