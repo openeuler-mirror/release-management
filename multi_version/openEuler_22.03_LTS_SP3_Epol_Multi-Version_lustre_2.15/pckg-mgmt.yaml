@@ -1,0 +1,13 @@
+packages:
+- name: e2fsprogs
+  source_dir: Multi-Version_lustre-2.15_openEuler-22.03-LTS-Next
+  destination_dir: Multi-Version_lustre-2.15_openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:lustre:2.15
+  obs_to: openEuler:22.03:LTS:SP3:Epol:Multi-Version:lustre:2.15
+  date: '2023-11-16'
+- name: lustre
+  source_dir: Multi-Version_lustre-2.15_openEuler-22.03-LTS-Next
+  destination_dir: Multi-Version_lustre-2.15_openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next:Epol:Multi-Version:lustre:2.15
+  obs_to: openEuler:22.03:LTS:SP3:Epol:Multi-Version:lustre:2.15
+  date: '2023-11-16'
