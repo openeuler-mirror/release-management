@@ -4795,10 +4795,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-06'
-- name: oepkgs-release
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-14'
 - name: python-shtab
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -5864,19 +5860,19 @@ packages:
   obs_to: openEuler:Epol
   date: '2023-09-12'
 - name: x2nestos
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-09-13"
+  date: '2023-09-13'
 - name: anthy-unicode
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-09-14'
 - name: libchewing
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-09-14'
 - name: tinytoml
-  obs_from: "openEuler:Factory"
+  obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-09-20'
 - name: kf5-kirigami2-addons
@@ -5939,7 +5935,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-15'
-- name:  DDE-go-x11-client
+- name: DDE-go-x11-client
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-15'
