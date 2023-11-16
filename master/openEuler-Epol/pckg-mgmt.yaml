@@ -5943,3 +5943,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-15'
+- name: oepkgs-repos
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-11-16'
