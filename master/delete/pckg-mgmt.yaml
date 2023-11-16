@@ -38,3 +38,4 @@ packages:
   - name: iSulad-img
   - name: authz
   - name: kata-micro-kernel
+  - name: oepkgs-release
