@@ -25,3 +25,7 @@ release-change:
   description: 4e9220f2 !987 新增oepkgs-release到epol仓库
   changed_packages: oepkgs-release
   date: 2023-04-14-20-57-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1467
+  description: c9156378 !1467 add oepkgs-repos
+  changed_packages: oepkgs-repos
+  date: 2023-11-16-15-56-34

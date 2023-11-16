@@ -1319,3 +1319,7 @@ release-change:
   description: 9f6388b0 !1466 Remove oepkgs-release to prepare rename package
   changed_packages: oepkgs-release
   date: 2023-11-16-15-21-02
+- pr: https://gitee.com/openeuler/release-management/pulls/1467
+  description: c9156378 !1467 add oepkgs-repos
+  changed_packages: oepkgs-repos
+  date: 2023-11-16-15-56-34

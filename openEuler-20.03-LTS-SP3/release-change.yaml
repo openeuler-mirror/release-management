@@ -109,3 +109,7 @@ release-change:
   description: c0770921 !1450 rapidjson从epol移动至everything-exclude-baseos
   changed_packages: rapidjson
   date: 2023-11-15-14-15-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1467
+  description: c9156378 !1467 add oepkgs-repos
+  changed_packages: oepkgs-repos
+  date: 2023-11-16-15-56-34
