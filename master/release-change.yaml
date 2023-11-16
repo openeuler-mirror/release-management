@@ -1311,3 +1311,7 @@ release-change:
     DDE-go-dbus-factory  create openeuler20.03-SP4 branch
   changed_packages: DDE-GoCode golang-deepin-go-lib DDE-go-gir DDE-go-x11-client DDE-go-dbus-factory
   date: 2023-11-15-10-43-16
+- pr: https://gitee.com/openeuler/release-management/pulls/1459
+  description: 1cd58ebc !1459 将secDetector从Factory移动到mainline和2203-Next分支
+  changed_packages: secDetector
+  date: 2023-11-16-10-58-53
