@@ -51,3 +51,8 @@ release-change:
   description: 9175b55b !1268 PMC RAID卡驱动仓库新拉22.03LTS和SP2分支增加obs构建工程
   changed_packages: SmartHBA-2100-8i-driver
   date: 2023-08-26-11-11-35
+- pr: https://gitee.com/openeuler/release-management/pulls/1468
+  description: 5f26d162 !1468 添加 oepkgs-repos 到 openEuler 22.03-LTS 与openEuler 22.03-LTS-SP1
+    Epol 仓库
+  changed_packages: oepkgs-repos
+  date: 2023-11-16-17-13-31

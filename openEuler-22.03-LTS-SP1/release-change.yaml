@@ -153,3 +153,8 @@ release-change:
   description: 6b52cc05 !1342 [feature]:Add tinytoml to SP1
   changed_packages: tinytoml
   date: 2023-10-09-11-26-27
+- pr: https://gitee.com/openeuler/release-management/pulls/1468
+  description: 5f26d162 !1468 添加 oepkgs-repos 到 openEuler 22.03-LTS 与openEuler 22.03-LTS-SP1
+    Epol 仓库
+  changed_packages: oepkgs-repos
+  date: 2023-11-16-17-13-31
