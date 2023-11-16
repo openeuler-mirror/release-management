@@ -8,3 +8,7 @@ release-change:
   description: a9c6a6f7 !1453 move sysmonitor from Epol to everything
   changed_packages: sysmonitor
   date: 2023-11-14-18-53-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1457
+  description: 9d4a5ef6 !1457 add secDetector to 2203-lts-sp3
+  changed_packages: secDetector
+  date: 2023-11-16-15-19-00
