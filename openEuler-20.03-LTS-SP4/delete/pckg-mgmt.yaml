@@ -7,3 +7,4 @@ packages:
 - name: libdap
 - name: liberation-sans-fonts
 - name: drbd
+- name: lightdm-gtk-greeter
