@@ -16055,3 +16055,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: ghc-pandoc-lua-marshal
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
