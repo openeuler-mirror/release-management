@@ -1323,3 +1323,9 @@ release-change:
   description: c9156378 !1467 add oepkgs-repos
   changed_packages: oepkgs-repos
   date: 2023-11-16-15-56-34
+- pr: https://gitee.com/openeuler/release-management/pulls/1473
+  description: 7278b474 !1473 move python-bleach&tinycss2&wsproto and some deppkgs
+    from master:Epol and Factory to master:Python
+  changed_packages: python-tinycss2 python-bleach python-wsproto python-trio python-kaitaistruct
+    python-ablog python-myst-nb
+  date: 2023-11-17-17-04-56
