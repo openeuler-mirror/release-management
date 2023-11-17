@@ -15543,3 +15543,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: texmath
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
