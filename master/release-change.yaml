@@ -1329,3 +1329,8 @@ release-change:
   changed_packages: python-tinycss2 python-bleach python-wsproto python-trio python-kaitaistruct
     python-ablog python-myst-nb
   date: 2023-11-17-17-04-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1474
+  description: 7e1f2223 !1474 move python-feedgen&h11&outcome from master:Factory
+    and Epol to master:Python
+  changed_packages: python-h11 python-outcome python-feedgen
+  date: 2023-11-17-17-24-03
