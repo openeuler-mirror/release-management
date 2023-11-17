@@ -14367,10 +14367,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-20"
-    - name: python-myst-nb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-domdf-python-tools
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14388,10 +14384,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-pip-tools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-ablog
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
