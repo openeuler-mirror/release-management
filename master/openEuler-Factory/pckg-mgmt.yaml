@@ -15587,3 +15587,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: ghc-hslua-module-path
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
