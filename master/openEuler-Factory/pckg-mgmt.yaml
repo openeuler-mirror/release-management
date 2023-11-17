@@ -15983,3 +15983,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: ghc-streaming-commons
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
