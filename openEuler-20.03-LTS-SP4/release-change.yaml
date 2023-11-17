@@ -103,3 +103,7 @@ release-change:
   description: cc04628c !1447 move python-elasticsearch7 to openEuler:20.03-LTS-SP4:Epol
   changed_packages: python-elasticsearch7
   date: 2023-11-15-15-05-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1470
+  description: c408fba8 !1470 remove lightdm-gtk-greeter from openEuler-20.03-LTS-SP4
+  changed_packages: lightdm-gtk-greeter
+  date: 2023-11-17-09-27-18
