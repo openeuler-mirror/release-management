@@ -16287,3 +16287,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: ghc-commonmark-pandoc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
