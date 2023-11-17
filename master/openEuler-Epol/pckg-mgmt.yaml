@@ -1987,10 +1987,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-h11
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-hacking
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -3732,10 +3728,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: kiran-wallpapers
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-outcome
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
