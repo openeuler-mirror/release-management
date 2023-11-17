@@ -1747,10 +1747,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-bleach
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-blockdiag
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2072,10 +2068,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-jsonpath-rw-ext
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-kaitaistruct
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -2844,10 +2836,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-wsme
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-wsproto
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -3635,10 +3623,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-tinycss2
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: gnome-contacts
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4160,10 +4144,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-curio
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-trio
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
