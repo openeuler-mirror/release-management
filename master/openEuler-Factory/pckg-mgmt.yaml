@@ -15659,3 +15659,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: pandoc-cli
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
