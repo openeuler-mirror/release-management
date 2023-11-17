@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1469
+  description: f9079c7e !1469 【CICD】init multi version pkgs yaml openEuler-22.03-LTS-SP3
+  changed_packages: e2fsprogs lustre
+  date: 2023-11-17-09-24-56
