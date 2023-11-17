@@ -2491,3 +2491,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-17'
+- name: python-h11
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-17'
+- name: python-outcome
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-17'
+- name: python-feedgen
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-17'
