@@ -15483,3 +15483,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: ghc-regex-posix
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
