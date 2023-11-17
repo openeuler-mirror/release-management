@@ -16187,3 +16187,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-17"
+    - name: ghc-old-locale
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-17"
