@@ -107,3 +107,8 @@ release-change:
   description: c408fba8 !1470 remove lightdm-gtk-greeter from openEuler-20.03-LTS-SP4
   changed_packages: lightdm-gtk-greeter
   date: 2023-11-17-09-27-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1477
+  description: 1001914b !1477 zssh NetworkManager-l2tp deepin-screen-recorder qt-at-spi
+    cryptopp create openeuler20.03 sp4 branch
+  changed_packages: zssh NetworkManager-l2tp deepin-screen-recorder qt-at-spi cryptopp
+  date: 2023-11-20-16-57-45
