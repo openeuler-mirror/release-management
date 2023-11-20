@@ -8027,3 +8027,33 @@ packages:
   obs_from: openEuler:20.03:LTS:SP4
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-11-15'
+- name: zssh
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-20'
+- name: NetworkManager-l2tp
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-20'
+- name: deepin-screen-recorder
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-20'
+- name: qt-at-spi
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-20'
+- name: cryptopp
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-20'
