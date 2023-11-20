@@ -12,3 +12,7 @@ release-change:
   description: 9d4a5ef6 !1457 add secDetector to 2203-lts-sp3
   changed_packages: secDetector
   date: 2023-11-16-15-19-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1472
+  description: 6fbc5787 !1472 add utshell and utsudo to obs openEuler-22.03-LTS-SP3
+  changed_packages: utshell utsudo
+  date: 2023-11-20-09-28-00
