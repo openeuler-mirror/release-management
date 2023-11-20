@@ -5919,3 +5919,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-16'
+- name: lustre-release
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-11-20"
