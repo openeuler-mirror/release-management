@@ -3815,10 +3815,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: python-greenlet
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: python-gssapi
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -3952,10 +3948,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: python-slip
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: python-sqlalchemy
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
