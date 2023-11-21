@@ -14391,19 +14391,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-jupyterlab-server
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-sphinx-thebe
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-sphinx-book-theme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-notebook-shim
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14419,15 +14407,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-jupyterlab
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-numpydoc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-jupyter-lsp
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14448,10 +14428,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-zest.releaser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-jupytext
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14484,10 +14460,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-httpcore
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-nbdime
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14739,10 +14711,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-jupyter-server-mathjax
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-altair
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14792,10 +14760,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-blacken-docs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-pytest-check-links
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14984,10 +14948,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pytest-trio
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-ipyleaflet
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
