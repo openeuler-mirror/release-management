@@ -2503,3 +2503,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-17'
+- name: python-jupyter-cache
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-21'
+- name: python-tabulate
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-21'
+- name: python-sqlalchemy
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Python
+  date: '2023-11-21'
+- name: python-greenlet
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Python
+  date: '2023-11-21'
