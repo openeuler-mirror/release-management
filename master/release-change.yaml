@@ -1334,3 +1334,7 @@ release-change:
     and Epol to master:Python
   changed_packages: python-h11 python-outcome python-feedgen
   date: 2023-11-17-17-24-03
+- pr: https://gitee.com/openeuler/release-management/pulls/1479
+  description: 24b4a29b !1479 Move lustre-release to master Epol and 22.03 Next
+  changed_packages: lustre-release
+  date: 2023-11-21-09-44-57
