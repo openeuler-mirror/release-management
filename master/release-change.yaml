@@ -1338,3 +1338,9 @@ release-change:
   description: 24b4a29b !1479 Move lustre-release to master Epol and 22.03 Next
   changed_packages: lustre-release
   date: 2023-11-21-09-44-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1481
+  description: 70967af8 !1481 move python-jupyter-cache&tabulate&sqlalchemy&greenlet
+    from master:Factory Epol and Mainline to master:Python
+  changed_packages: bpftool python-jupyter-cache python-tabulate python-sqlalchemy
+    python-greenlet
+  date: 2023-11-21-16-35-50
