@@ -2559,3 +2559,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-11-22'
+- name: python-json5
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
