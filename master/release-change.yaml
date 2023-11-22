@@ -1344,3 +1344,10 @@ release-change:
   changed_packages: bpftool python-jupyter-cache python-tabulate python-sqlalchemy
     python-greenlet
   date: 2023-11-21-16-35-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1482
+  description: 9d80faa0 !1482 move python-jupyter pkgs from master:Factory to master:Python
+    and Epol
+  changed_packages: python-sphinx-book-theme python-jupytext python-nbdime python-notebook-shim
+    python-jupyter-lsp python-jupyterlab python-jupyterlab-server python-ipyleaflet
+    python-jupyter-server-mathjax python-pytest-check-links python-colorlog
+  date: 2023-11-22-10-45-06
