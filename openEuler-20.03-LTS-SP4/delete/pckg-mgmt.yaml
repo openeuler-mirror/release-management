@@ -8,3 +8,4 @@ packages:
 - name: liberation-sans-fonts
 - name: drbd
 - name: lightdm-gtk-greeter
+- name: python-feedparser
