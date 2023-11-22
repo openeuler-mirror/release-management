@@ -112,3 +112,7 @@ release-change:
     cryptopp create openeuler20.03 sp4 branch
   changed_packages: zssh NetworkManager-l2tp deepin-screen-recorder qt-at-spi cryptopp
   date: 2023-11-20-16-57-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1484
+  description: eea17e34 !1484 Remove python-feedparser from openEuler-20.03-LTS-SP4
+  changed_packages: python-feedparser
+  date: 2023-11-22-10-39-52
