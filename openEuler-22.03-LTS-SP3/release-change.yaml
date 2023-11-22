@@ -16,3 +16,7 @@ release-change:
   description: 6fbc5787 !1472 add utshell and utsudo to obs openEuler-22.03-LTS-SP3
   changed_packages: utshell utsudo
   date: 2023-11-20-09-28-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1487
+  description: '7129cdb3 !1487 bpftool: add 2203ltssp3'
+  changed_packages: bpftool
+  date: 2023-11-22-14-57-08
