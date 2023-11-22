@@ -8671,10 +8671,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-json5
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-jsonmodels
       obs_from: ""
       obs_to: openEuler:Factory
