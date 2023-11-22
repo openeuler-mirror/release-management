@@ -1351,3 +1351,7 @@ release-change:
     python-jupyter-lsp python-jupyterlab python-jupyterlab-server python-ipyleaflet
     python-jupyter-server-mathjax python-pytest-check-links python-colorlog
   date: 2023-11-22-10-45-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1486
+  description: '6324de44 !1486 bpftool: mv bpftool from factory to master/2203lts/2203ltssp3'
+  changed_packages: bpftool
+  date: 2023-11-22-14-43-44
