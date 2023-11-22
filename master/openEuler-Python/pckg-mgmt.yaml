@@ -2519,3 +2519,43 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2023-11-21'
+- name: python-jupytext
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-nbdime
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-notebook-shim
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-jupyter-lsp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-jupyterlab
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-jupyterlab-server
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-ipyleaflet
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-jupyter-server-mathjax
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-pytest-check-links
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-22'
+- name: python-colorlog
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-22'
