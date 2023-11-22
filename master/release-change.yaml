@@ -1355,3 +1355,7 @@ release-change:
   description: '6324de44 !1486 bpftool: mv bpftool from factory to master/2203lts/2203ltssp3'
   changed_packages: bpftool
   date: 2023-11-22-14-43-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1490
+  description: a1ff16e7 !1490 move python-json5 from master:Factory to master:Python
+  changed_packages: python-json5
+  date: 2023-11-22-18-50-42
