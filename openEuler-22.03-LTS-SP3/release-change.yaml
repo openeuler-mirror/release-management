@@ -20,3 +20,7 @@ release-change:
   description: '7129cdb3 !1487 bpftool: add 2203ltssp3'
   changed_packages: bpftool
   date: 2023-11-22-14-57-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1492
+  description: aad70888 !1492 【openeuler 22.03 SP3】支持 ub-lldpd和ub-dhcp 软件包
+  changed_packages: ub-lldpd ub-dhcp
+  date: 2023-11-23-16-23-51
