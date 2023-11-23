@@ -34,6 +34,8 @@ openEuler 20.03-LTS-SP4 版本基线继承openEuler 20.03-LTS-SP3分支 <br>
 |2|metalink|Discussion|Infrastructure|mywaaagh_admin|ISO|openEuler-repos|
 |3|OpenStack Train|Discussion|OpenStack|郑挺|EPOL|OpenStack-SIG|
 |4|DDE组件更新支持服务器场景优化|Discussion|sig-DDE|[@leeffo](https://gitee.com/leeffo)|EPOL||
+|5|aops漏洞管理等特性继承|Discussion|sig-Ops|@王记棒棒猪|Epol|aops-ceres,aops-hermes,aops-zeus,aops-apollo,aops-vulcanus,gala-ragdoll|
+|6|时延诊断工具da-tools|Discussion|sig-Ops|@LHesperus|Epol|aops-ceres|
 
 <br>
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br>
