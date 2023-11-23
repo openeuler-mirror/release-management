@@ -521,3 +521,9 @@ release-change:
   description: '6324de44 !1486 bpftool: mv bpftool from factory to master/2203lts/2203ltssp3'
   changed_packages: bpftool
   date: 2023-11-22-14-43-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1462
+  description: 168f56c3 !1462 add i3 to 22.03-lts-next
+  changed_packages: dmenu xcompmgr i3 perl-AnyEvent-I3 i3status i3blocks i3blocks-contrib
+    i3lock acpi perl-Glib perl-Task-Weaken perl-Guard perl-IO-Pipely perl-Curses perl-POE-Test-Loops
+    perl-Test-Command perl-Event perl-POE xcb-util-xrm perl-AnyEvent
+  date: 2023-11-23-09-25-07
