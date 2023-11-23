@@ -24,3 +24,9 @@ release-change:
   description: aad70888 !1492 【openeuler 22.03 SP3】支持 ub-lldpd和ub-dhcp 软件包
   changed_packages: ub-lldpd ub-dhcp
   date: 2023-11-23-16-23-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1455
+  description: 79b617c5 !1455 add i3 to 22.03-lts-sp3
+  changed_packages: i3blocks i3blocks-contrib i3lock acpi dmenu xcompmgr i3 perl-AnyEvent-I3
+    i3status xcb-util-xrm perl-AnyEvent perl-Glib perl-Task-Weaken perl-Guard perl-IO-Pipely
+    perl-Curses perl-POE-Test-Loops perl-Test-Command perl-Event perl-POE
+  date: 2023-11-23-19-21-52
