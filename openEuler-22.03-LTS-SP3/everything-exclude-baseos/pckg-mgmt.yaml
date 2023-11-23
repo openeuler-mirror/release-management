@@ -18245,6 +18245,18 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP3
   date: '2023-11-09'
+- name: ub-lldpd
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP3
+  date: '2023-11-23'
+- name: ub-dhcp
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP3
+  date: '2023-11-23'
 - name: sysmonitor
   source_dir: openEuler-22.03-LTS-SP3
   destination_dir: openEuler-22.03-LTS-SP3
