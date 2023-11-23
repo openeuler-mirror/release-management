@@ -116,3 +116,7 @@ release-change:
   description: eea17e34 !1484 Remove python-feedparser from openEuler-20.03-LTS-SP4
   changed_packages: python-feedparser
   date: 2023-11-22-10-39-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1488
+  description: 7106221d !1488 xl2tpd　byzanz　 申请建立openeuler 20.03 SP4 分支
+  changed_packages: xl2tpd byzanz
+  date: 2023-11-23-19-19-28
