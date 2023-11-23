@@ -27,6 +27,8 @@ branch:
   - openEuler-22.03-LTS-SP1
   - openEuler-22.03-LTS-SP2
   - openEuler-22.03-LTS-SP3
+  - Multi-Version_NestOS-For-Virt_openEuler-22.03-LTS-Next
+  - Multi-Version_NestOS-For-Container_openEuler-22.03-LTS-Next
   openEuler-22.03-LTS:
   - openEuler-22.03-LTS-LoongArch
   - Multi-Version_obs-server-2.10.11_openEuler-22.03-LTS
@@ -55,3 +57,8 @@ branch:
   - Multi-Version_OpenStack-Train_openEuler-22.03-LTS-SP3
   Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-Next:
   - Multi-Version_OpenStack-Wallaby_openEuler-22.03-LTS-SP3
+  Multi-Version_NestOS-For-Container_openEuler-22.03-LTS-Next:
+  - Multi-Version_NestOS-For-Container_openEuler-22.03-LTS-SP3
+  Multi-Version_NestOS-For-Virt_openEuler-22.03-LTS-Next:
+  - Multi-Version_NestOS-For-Virt_openEuler-22.03-LTS-SP3
+
