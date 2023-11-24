@@ -531,3 +531,9 @@ release-change:
   description: cf08cbe6 !1499 add migration-tools to obs openEuler-22.03-LTS-SP3
   changed_packages: migration-tools
   date: 2023-11-24-10-32-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1500
+  description: da94acb9 !1500 Add deepin-manual、deepin-music and dde buildrequires
+    to obs openEuler-22.03-LTS-SP3、openEuler-22.03-LTS-Next
+  changed_packages: libchardet deepin-screensaver deepin-proxy dde-manual-content
+    dde-network-core dareader docparser dde-app-services xscreensaver deepin-manual
+  date: 2023-11-24-16-57-57
