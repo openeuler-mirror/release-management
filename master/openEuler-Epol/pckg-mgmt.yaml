@@ -1895,10 +1895,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-dulwich
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-enmerkar
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2528,10 +2524,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-regex
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-reno
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
