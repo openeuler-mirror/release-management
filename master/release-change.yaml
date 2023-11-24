@@ -1367,3 +1367,10 @@ release-change:
     python-pytest-jupyter python-requests-cache python-hatch python-httpx python-userpath
     python-httpcore python-pandas python-url-normalize
   date: 2023-11-24-10-49-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1501
+  description: 94aea76e !1501 move python-nbsphinx and some deppkgs from master:Factory
+    to master:Python
+  changed_packages: python-numpydoc python-linkify-it-py python-sphinx-sitemap python-plotly
+    python-xarray python-sphinx-togglebutton python-sphinxcontrib-youtube python-sphinx-favicon
+    python-nbsphinx python-uc-micro-py python-tenacity
+  date: 2023-11-24-16-54-37
