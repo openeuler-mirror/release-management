@@ -527,3 +527,7 @@ release-change:
     i3lock acpi perl-Glib perl-Task-Weaken perl-Guard perl-IO-Pipely perl-Curses perl-POE-Test-Loops
     perl-Test-Command perl-Event perl-POE xcb-util-xrm perl-AnyEvent
   date: 2023-11-23-09-25-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1499
+  description: cf08cbe6 !1499 add migration-tools to obs openEuler-22.03-LTS-SP3
+  changed_packages: migration-tools
+  date: 2023-11-24-10-32-20
