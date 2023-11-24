@@ -30,3 +30,7 @@ release-change:
     i3status xcb-util-xrm perl-AnyEvent perl-Glib perl-Task-Weaken perl-Guard perl-IO-Pipely
     perl-Curses perl-POE-Test-Loops perl-Test-Command perl-Event perl-POE
   date: 2023-11-23-19-21-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1491
+  description: 8d3150f7 !1491 Add lustre-release to 22.03 sp3
+  changed_packages: lustre-release
+  date: 2023-11-24-10-28-50
