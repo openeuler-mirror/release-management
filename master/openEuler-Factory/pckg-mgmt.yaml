@@ -8967,10 +8967,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-nbsphinx
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-nbval
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10312,10 +10308,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-wxnatpy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-xarray
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14395,10 +14387,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-numpydoc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-jaraco.test
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14431,23 +14419,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-sphinx-togglebutton
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-sphinxcontrib-youtube
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-sphinx-automodapi
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-uvloop
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-plotly
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
@@ -14592,10 +14568,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pockets
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-sphinx-sitemap
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14819,10 +14791,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-uc-micro-py
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-Fiona
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14852,10 +14820,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-duty
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-linkify-it-py
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14908,10 +14872,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-mkdocstrings-python
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-sphinx-favicon
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

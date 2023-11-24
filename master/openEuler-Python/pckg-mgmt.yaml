@@ -2623,3 +2623,47 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-23'
+- name: python-numpydoc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-linkify-it-py
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-sphinx-sitemap
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-plotly
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-xarray
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-sphinx-togglebutton
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-sphinxcontrib-youtube
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-sphinx-favicon
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-nbsphinx
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-uc-micro-py
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-24'
+- name: python-tenacity
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-24'
