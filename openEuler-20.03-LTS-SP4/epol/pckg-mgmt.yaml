@@ -4655,12 +4655,6 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-10-09'
-- name: python-cassandra-driver
-  source_dir: openEuler-20.03-LTS-SP3
-  destination_dir: openEuler-20.03-LTS-SP4
-  obs_from: openEuler:20.03:LTS:SP3:Epol
-  obs_to: openEuler:20.03:LTS:SP4:Epol
-  date: '2023-10-09'
 - name: vhostmd
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
@@ -8057,7 +8051,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-11-22'
-- name: byzanz     
+- name: byzanz
   source_dir: master
   destination_dir: openEuler-20.03-LTS-SP4
   obs_from: openEuler:Epol

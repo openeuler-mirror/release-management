@@ -120,3 +120,7 @@ release-change:
   description: 7106221d !1488 xl2tpd　byzanz　 申请建立openeuler 20.03 SP4 分支
   changed_packages: xl2tpd byzanz
   date: 2023-11-23-19-19-28
+- pr: https://gitee.com/openeuler/release-management/pulls/1489
+  description: 33ce5aa7 !1489 add delete pkg
+  changed_packages: python-cassandra-driver
+  date: 2023-11-24-10-31-11
