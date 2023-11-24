@@ -1359,3 +1359,11 @@ release-change:
   description: a1ff16e7 !1490 move python-json5 from master:Factory to master:Python
   changed_packages: python-json5
   date: 2023-11-22-18-50-42
+- pr: https://gitee.com/openeuler/release-management/pulls/1494
+  description: c8363d67 !1494 move python-async-lru and some deppkgs from master:Factory
+    to master:Python
+  changed_packages: python-async-lru python-pytest-tornasync python-sphinxext-altair
+    python-altair python-jsx-lexer python-vega-datasets python-pytest-console-scripts
+    python-pytest-jupyter python-requests-cache python-hatch python-httpx python-userpath
+    python-httpcore python-pandas python-url-normalize
+  date: 2023-11-24-10-49-20
