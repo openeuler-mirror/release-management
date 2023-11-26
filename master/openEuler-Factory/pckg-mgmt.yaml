@@ -16251,3 +16251,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-22"
+    - name: evtest
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-26"
+    - name: can-utils
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-26"
