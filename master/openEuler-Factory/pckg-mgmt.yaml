@@ -16259,3 +16259,43 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-27"
+    - name: ghc-digits
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-toml-parser
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-text-iso8601
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-crypton-x509-validation
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-crypton
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-integer-conversion
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-crypton-x509-system
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-crypton-connection
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-crypton-x509
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
+    - name: ghc-crypton-x509-store
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-27"
