@@ -10,3 +10,4 @@ packages:
 - name: lightdm-gtk-greeter
 - name: python-feedparser
 - name: python-cassandra-driver
+- name: proselint
