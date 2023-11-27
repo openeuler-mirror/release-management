@@ -2667,3 +2667,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2023-11-24'
+- name: python-reno
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-27'
+- name: python-dulwich
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-11-27'
+- name: python-shellingham
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-11-27'
