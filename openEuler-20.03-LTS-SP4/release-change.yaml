@@ -128,3 +128,7 @@ release-change:
   description: 426ccf8b !1505 Remove proselint from openEuler-20.03-LTS-SP4:Epol
   changed_packages: proselint
   date: 2023-11-28-10-50-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1506
+  description: 0b7bbeb1 !1506 add python-bunch
+  changed_packages: python-bunch
+  date: 2023-11-28-10-52-18
