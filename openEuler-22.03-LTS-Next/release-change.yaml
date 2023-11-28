@@ -537,3 +537,8 @@ release-change:
   changed_packages: libchardet deepin-screensaver deepin-proxy dde-manual-content
     dde-network-core dareader docparser dde-app-services xscreensaver deepin-manual
   date: 2023-11-24-16-57-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1485
+  description: d7f282d0 !1485 move dependencies of gala from epol to master in 22.03
+    lts sp3/next
+  changed_packages: cadvisor python-libconf kafka-python pyArango flamegraph
+  date: 2023-11-28-10-54-35
