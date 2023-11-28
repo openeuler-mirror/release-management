@@ -8051,3 +8051,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2023-11-22'
+- name: python-bunch
+  source_dir: master
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2023-11-28'
