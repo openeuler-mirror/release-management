@@ -124,3 +124,7 @@ release-change:
   description: 33ce5aa7 !1489 add delete pkg
   changed_packages: python-cassandra-driver
   date: 2023-11-24-10-31-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1505
+  description: 426ccf8b !1505 Remove proselint from openEuler-20.03-LTS-SP4:Epol
+  changed_packages: proselint
+  date: 2023-11-28-10-50-07
