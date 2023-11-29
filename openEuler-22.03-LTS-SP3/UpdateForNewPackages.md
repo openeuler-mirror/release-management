@@ -5,7 +5,6 @@ openEuler 22.03-LTS-SP3分支将源于openEuler 22.03-LTS-Next拉取，现由工
 |-|-|-|-|-|-|-|  
 | native-turbo | everything | A-Tune | normal | success | JOB_FAILED | 否 |
 | optimized-routines | everything | Compiler | normal | success | JOB_EXCLUDED | 否 |
-| masstree | everything | db | normal | success | success | 否 |
 | umdk | everything | sig-high-performance-network | normal | success | JOB_EXCLUDED | 否 | 
 | containers-common | everything | sig-CloudNative | normal | success | success | 否 |
 | dim_tools | everything | sig-security-facility | normal | success | success | 否 |
