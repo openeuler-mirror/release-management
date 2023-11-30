@@ -16295,3 +16295,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-27"
+    - name: minizip-ng
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-11-30"
