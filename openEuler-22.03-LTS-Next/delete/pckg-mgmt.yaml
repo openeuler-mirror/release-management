@@ -34,3 +34,4 @@ packages:
 - name: iSulad-img
 - name: authz
 - name: lustre
+- name: masstree

@@ -462,11 +462,6 @@ release-change:
   description: 2428205a !1356 Add dim_tools and dim to openEuler 22.03-LTS-Next baseos
   changed_packages: dim_tools dim
   date: 2023-10-07-15-09-31
-- pr: https://gitee.com/openeuler/release-management/pulls/1376
-  description: 63290fb9 !1376 [openEuler 22.03-LTS-SP3] openEuler:masstree申请集成到22.03
-    LTS-SP3中
-  changed_packages: masstree
-  date: 2023-10-12-17-19-47
 - pr: https://gitee.com/openeuler/release-management/pulls/1364
   description: b40b537c !1364 【openeuler 22.03 SP3】支持 umdk 软件包
   changed_packages: umdk

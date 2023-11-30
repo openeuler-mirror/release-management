@@ -39,3 +39,4 @@ packages:
   - name: authz
   - name: kata-micro-kernel
   - name: oepkgs-release
+  - name: masstree

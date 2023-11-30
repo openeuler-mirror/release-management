@@ -41,7 +41,6 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 | [I83JRC](https://gitee.com/openeuler/release-management/issues/I83JRC) | eNFS特性合入 | Discussion | sig-kernel | [@mingqian218472](https://gitee.com/mingqian218472) | ISO | nfs,sunrpc |
 | [I82A5V](https://gitee.com/openeuler/release-management/issues/I82A5V) | DDE组件更新支持服务器场景优化 | Discussion | sig-DDE | [@leeffo](https://gitee.com/leeffo) | EPOL | |
 | [I84H9S](https://gitee.com/openeuler/release-management/issues/I84H9S) | FangTian视窗引擎特性合入 | Discussion | sig-FangTian | [@BruceXuXu](https://gitee.com/BruceXuXu) | EPOL | |
-| [I876AA](https://gitee.com/openeuler/release-management/issues/I876AA) | masstree特性合入 | Discussion | sig-DB | [@zhengshaoyu](https://gitee.com/zhengshaoyu) | ISO | masstree |
 | [I8AU51](https://gitee.com/openeuler/release-management/issues/I8AU51) | sysMaster支持虚机场景 | Discussion | dev-utils | [@openeuler-basic](https://gitee.com/openeuler-basic) | ISO | sysmaster |
 | [I8BKM5](https://gitee.com/openeuler/release-management/issues/I8BKM5) | 支持树莓派 | Discussion | sig-RaspberryPi | [@woqidaideshi](https://gitee.com/woqidaideshi) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom |
 |[I8CWV4](https://gitee.com/openeuler/release-management/issues/I8CWV4)|增加 migration-tools 项目发布|Discussion|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
