@@ -6127,10 +6127,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-09-13'
-- name: masstree
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2023-10-12'
 - name: umdk
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -6156,7 +6152,7 @@ packages:
   obs_to: openEuler:Mainline
   date: '2023-10-27'
 - name: hbase
-  obs_from: 'openEuler:Epol'
+  obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2023-11-01'
 - name: secDetector
@@ -6166,4 +6162,4 @@ packages:
 - name: bpftool
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-11-22"
+  date: '2023-11-22'
