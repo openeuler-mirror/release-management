@@ -132,3 +132,7 @@ release-change:
   description: 0b7bbeb1 !1506 add python-bunch
   changed_packages: python-bunch
   date: 2023-11-28-10-52-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1513
+  description: 8fcf91fe !1513 deepin-proxy create openeuler 20.03 SP4 branch
+  changed_packages: deepin-proxy
+  date: 2023-12-01-10-30-06
