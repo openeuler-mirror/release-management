@@ -16303,3 +16303,51 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-30"
+    - name: Skanpage
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: Sweeper
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: RSIBreak
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: ktrip
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: ktimer
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: TellySkout
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: kweather
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: notae
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: Vail
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: markdownpart
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: PlasmaMycroftApplet
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
+    - name: mangonel
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-02"
