@@ -11,3 +11,4 @@ packages:
 - name: python-feedparser
 - name: python-cassandra-driver
 - name: proselint
+- name: deepin-font-manager
