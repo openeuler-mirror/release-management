@@ -50,6 +50,20 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I8GQJE](https://gitee.com/openeuler/release-management/issues/I8GQJE)|支持入侵检测框架secDetector |Discussion|sig-security-facility|[@zcfsite](https://gitee.com/zcfsite/)|ISO|secDetector|
 |[I8I572](https://gitee.com/openeuler/release-management/issues/I8I572)|支持embedded版本|Accepted|sig-embedded||
 |[I8JQ3J](https://gitee.com/openeuler/release-management/issues/I8JQ3J)|NestOS For-Virt/For-Container多版本支持|Discussion|sig-CloudNative,sig-K8sDistro| [@ccdxx](https://gitee.com/ccdxx/) | EPOL |afterburn,bootupd,console-login-helper-messages,ignition.nestos-installer,zincati,nestos-kernel,openeuler-release-nestos-for-container,openeuler-release-nestos-for-virt|
+|[I8LBX0](https://gitee.com/openeuler/release-management/issues/I8LBX0?from=project-issue)|gazelle支持vlan收发|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
+|[I8LBW8](https://gitee.com/openeuler/release-management/issues/I8LBW8?from=project-issue)|gazelle支持网卡自愈|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
+|[I8LBW6](https://gitee.com/openeuler/release-management/issues/I8LBW6?from=project-issue)|gazelle支持netperf标准测试工具|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
+|[I8LBW5](https://gitee.com/openeuler/release-management/issues/I8LBW5?from=project-issue)|gazelle支持ipv6协议栈基本功能|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
+|[I8LBW4](https://gitee.com/openeuler/release-management/issues/I8LBW4?from=project-issue)|gazelle支持bond6模式|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
+|[I8LBV7](https://gitee.com/openeuler/release-management/issues/I8LBV7?from=project-issue)|grub2支持国密度量内核并上报度量信息|Accepted|sig-OS-Builder||EPOL|grub2|
+|[I8LBU8](https://gitee.com/openeuler/release-management/issues/I8LBU8?from=project-issue)|shim支持国密度量grub2并上报度量信息|Accepted|sig-Base-service||EPOL|shim|
+|[I8LBSO](https://gitee.com/openeuler/release-management/issues/I8LBSO?from=project-issue)|布式软总线功能增强，易用性提升|Accepted|sig-distributed-middleware||EPOL|dsoftbus_standard|
+|[I8LBR7](https://gitee.com/openeuler/release-management/issues/I8LBR7?from=project-issue)|分布式软总线容器适配，支持跨节点跨容器通信|Accepted|sig-distributed-middleware||EPOL|dsoftbus_standard|
+|[I8LBQS](https://gitee.com/openeuler/release-management/issues/I8LBQS?from=project-issue)|iSulad支持oci runtime并且切换默认runtime为runc|Accepted|sig-iSulad||EPOL|iSulad|
+|[I8LBQJ](https://gitee.com/openeuler/release-management/issues/I8LBQJ?from=project-issue)|syscare组件支持容器化热补丁制作场景|Accepted|sig-ops||EPOL|syscare|
+|[I8LBQE](https://gitee.com/openeuler/release-management/issues/I8LBQE?from=project-issue)|增加进程完整性防护特性|Accepted|sig-security-facility||EPOL|dim,dim-tools|
+
+
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
 
