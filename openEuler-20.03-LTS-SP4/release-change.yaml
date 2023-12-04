@@ -136,3 +136,7 @@ release-change:
   description: 8fcf91fe !1513 deepin-proxy create openeuler 20.03 SP4 branch
   changed_packages: deepin-proxy
   date: 2023-12-01-10-30-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1520
+  description: cbd5fcf2 !1520 【轻量级 PR】：remove deepin-font-manager from openEuler-20.03-LTS-SP4
+  changed_packages: deepin-font-manager
+  date: 2023-12-04-17-45-06
