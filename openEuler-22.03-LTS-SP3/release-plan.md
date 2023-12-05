@@ -62,7 +62,9 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I8LBQS](https://gitee.com/openeuler/release-management/issues/I8LBQS?from=project-issue)|iSulad支持oci runtime并且切换默认runtime为runc|Accepted|sig-iSulad||EPOL|iSulad|
 |[I8LBQJ](https://gitee.com/openeuler/release-management/issues/I8LBQJ?from=project-issue)|syscare组件支持容器化热补丁制作场景|Accepted|sig-ops||EPOL|syscare|
 |[I8LBQE](https://gitee.com/openeuler/release-management/issues/I8LBQE?from=project-issue)|增加进程完整性防护特性|Accepted|sig-security-facility||EPOL|dim,dim-tools|
-
+|[I8M0CB](https://gitee.com/openeuler/release-management/issues/I8M0CB?from=project-issue)|AOPS功能增强，支持任务粒度回退|Accepted|sig-ops|[@zhu-yuncheng](https://gitee.com/zhu-yuncheng/)|EPOL|aops-ceres，aops-apollo，aops-hermes，aops-zeus，aops-vulcanus|
+|[I8M02Y](https://gitee.com/openeuler/release-management/issues/I8M02Y?from=project-issue)|DPU直连聚合：虚拟机、容器管理面DPU卸载，业务无感知|Accepted|sig-DPU |[@minknov](https://gitee.com/minknov/)|EPOL|dpu-utilities|
+|[I8M02S](https://gitee.com/openeuler/release-management/issues/I8M02S?from=project-issue)|支持内核态vDPA框架实现网卡直通虚机可热迁移|Accepted|sig-Virt|[@JiaboFeng](https://gitee.com/JiaboFeng/)|EPOL|libvirt,qemu,kernel|
 
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
