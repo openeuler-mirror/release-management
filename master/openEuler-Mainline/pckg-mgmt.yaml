@@ -6167,3 +6167,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2023-11-30"
+- name: powerapi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2023-12-06'
