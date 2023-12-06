@@ -65,6 +65,10 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I8M0CB](https://gitee.com/openeuler/release-management/issues/I8M0CB?from=project-issue)|AOPS功能增强，支持任务粒度回退|Accepted|sig-ops|[@zhu-yuncheng](https://gitee.com/zhu-yuncheng/)|EPOL|aops-ceres，aops-apollo，aops-hermes，aops-zeus，aops-vulcanus|
 |[I8M02Y](https://gitee.com/openeuler/release-management/issues/I8M02Y?from=project-issue)|DPU直连聚合：虚拟机、容器管理面DPU卸载，业务无感知|Accepted|sig-DPU |[@minknov](https://gitee.com/minknov/)|EPOL|dpu-utilities|
 |[I8M02S](https://gitee.com/openeuler/release-management/issues/I8M02S?from=project-issue)|支持内核态vDPA框架实现网卡直通虚机可热迁移|Accepted|sig-Virt|[@JiaboFeng](https://gitee.com/JiaboFeng/)|EPOL|libvirt,qemu,kernel|
+|[I87J40](https://gitee.com/openeuler/release-management/issues/I87J40?from=project-issue)|支持safeguard软件包|Accepted|sig-ebpf|[@tongyx633](https://gitee.com/tongyx633/)|EPOL|safeguard|
+|[I8166Y](https://gitee.com/openeuler/release-management/issues/I8166Y?from=project-issue)|libtpms支持sm3算法|Accepted|sig-security-facility|[@zhujianwei001](https://gitee.com/zhujianwei001/)|EPOL|libtpms|
+|[I8GWHE](https://gitee.com/openeuler/release-management/issues/I8GWHE?from=project-issue)|增加安全启动签名|Accepted|sig-security-facility|[@huangzq6](https://gitee.com/huangzq6/)|EPOL|shim,grub2,kernel|
+|[I8M798](https://gitee.com/openeuler/release-management/issues/I8M798?from=project-issue)|负载算力协同|Accepted|sig-kernel|[@sereinInOpenEuler](https://gitee.com/sereinInOpenEuler/)|EPOL|kernel|
 
 
 现启动版本需求/特性收集，欢迎各sig maintainer和社区开发者们积极反馈和交流。
