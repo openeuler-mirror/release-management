@@ -18371,6 +18371,18 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next
   date: '2023-11-30'
+- name: buildah
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2023-12-13'
+- name: netavark
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2023-12-13'
 - name: powerapi
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
