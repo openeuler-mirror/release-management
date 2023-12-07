@@ -58,3 +58,7 @@ release-change:
   description: 311ba4db !1510 Create openEuler-22.03-LTS-SP3 for booth
   changed_packages: booth
   date: 2023-11-30-17-15-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1532
+  description: c4d3867c !1532 引入powerapi软件包到openEuler 22.03 LTS SP3
+  changed_packages: powerapi
+  date: 2023-12-07-21-00-22
