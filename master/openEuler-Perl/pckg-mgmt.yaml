@@ -103,3 +103,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: '2023-05-17'
+- name: perl-File-FcntlLock
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2023-12-8"
