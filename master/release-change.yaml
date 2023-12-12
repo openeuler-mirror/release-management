@@ -1407,3 +1407,8 @@ release-change:
     commonlibrary_c_utils communication_ipc systemabilitymgr_samgr systemabilitymgr_safwk
     notification_eventhandler
   date: 2023-12-12-17-52-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1511
+  description: 4bc17560 !1511 move qt6 some package form factory to Qt
+  changed_packages: qt6-qtconnectivity qt6-qtgrpc qt6-qtquick3dphysics qt6-qtquickeffectmaker
+    qt6-qtwebengine qt6-qtwebview
+  date: 2023-12-12-18-43-52
