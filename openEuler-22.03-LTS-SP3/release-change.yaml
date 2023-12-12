@@ -75,3 +75,10 @@ release-change:
   description: d885ddb2 !1537 创建gala-ragdoll 的openEuler-22.03-LTS-SP3工程，在openEuler-22.03-LTS-SP3移除A-Ops，且之后版本不编译A-Ops
   changed_packages: A-Ops gala-ragdoll
   date: 2023-12-12-17-03-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1540
+  description: fb509542 !1540 Add samgr and other distributed packages to 22.03-LTS-SP3:EPOL
+  changed_packages: distributedhardware_device_manager security_dataclassification
+    security_device_security_level security_device_auth security_huks distributed-beget
+    commonlibrary_c_utils communication_ipc systemabilitymgr_samgr systemabilitymgr_safwk
+    notification_eventhandler
+  date: 2023-12-12-20-55-05
