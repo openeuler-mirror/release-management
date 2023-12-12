@@ -16367,3 +16367,39 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-07"
+    - name: kairo
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: hash-o-matic
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: kcharselect
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: kalk
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: kclock
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: filelight
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: isoimagewriter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: fielding
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
+    - name: kdebugsettings
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
