@@ -1,8 +1,4 @@
 packages:
-- name: A-Ops
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: KubeOS
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5902,7 +5898,7 @@ packages:
 - name: lustre-release
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-11-20"
+  date: '2023-11-20'
 - name: python-sphinx-book-theme
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

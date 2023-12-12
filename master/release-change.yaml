@@ -1395,3 +1395,7 @@ release-change:
   description: b14d1149 !1533 move the perl-File-FcntlLock from factory to master
   changed_packages: perl-File-FcntlLock
   date: 2023-12-08-09-58-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1537
+  description: d885ddb2 !1537 创建gala-ragdoll 的openEuler-22.03-LTS-SP3工程，在openEuler-22.03-LTS-SP3移除A-Ops，且之后版本不编译A-Ops
+  changed_packages: A-Ops
+  date: 2023-12-12-17-03-56
