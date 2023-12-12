@@ -13975,47 +13975,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-24"
-    - name: security_device_auth
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
     - name: libcoap
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
-    - name: commonlibrary_c_utils
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: systemabilitymgr_safwk
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: notification_eventhandler
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: communication_ipc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: security_huks
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: security_dataclassification
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
     - name: customization_config_policy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: distributedhardware_device_manager
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-25"
-    - name: security_device_security_level
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-25"
@@ -14203,14 +14167,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: systemabilitymgr_samgr
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-21"
-    - name: distributed-beget
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-21"
     - name: python-Authlib
       obs_from: ""
       obs_to: openEuler:Factory
