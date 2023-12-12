@@ -40,3 +40,4 @@ packages:
   - name: kata-micro-kernel
   - name: oepkgs-release
   - name: masstree
+  - name: A-Ops
