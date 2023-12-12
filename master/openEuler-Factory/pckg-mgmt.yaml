@@ -16403,3 +16403,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-12"
+    - name: libguestfs-tools
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-12"
