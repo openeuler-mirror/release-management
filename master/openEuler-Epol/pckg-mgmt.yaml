@@ -5903,3 +5903,47 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-22'
+- name: distributedhardware_device_manager
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: security_dataclassification
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: security_device_security_level
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: security_device_auth
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: security_huks
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: distributed-beget
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: commonlibrary_c_utils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: communication_ipc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: systemabilitymgr_samgr
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: systemabilitymgr_safwk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
+- name: notification_eventhandler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2023-12-12'
