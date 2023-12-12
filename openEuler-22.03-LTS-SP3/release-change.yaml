@@ -66,3 +66,8 @@ release-change:
   description: 9f2017fa !1534 add libyang to openEuler 22.03 LTS SP3
   changed_packages: libyang
   date: 2023-12-11-16-21-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1536
+  description: 4e5ee539 !1536 添加 oepkgs-repos 到 openEuler 22.03-LTS-SP2 与openEuler
+    22.03-LTS-SP3 Epol 仓库
+  changed_packages: oepkgs-repos
+  date: 2023-12-12-11-27-42
