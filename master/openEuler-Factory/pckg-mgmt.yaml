@@ -12591,23 +12591,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-07"
-    - name: qt6-qtwebengine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
-    - name: qt6-qtconnectivity
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
-    - name: qt6-qtquick3dphysics
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
     - name: qt6-qtquickcontrols2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-03-16"
-    - name: qt6-qtwebview
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-03-16"
@@ -14719,10 +14703,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: qt6-qtgrpc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-traittypes
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14792,10 +14772,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pygments-ansi-color
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: qt6-qtquickeffectmaker
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
