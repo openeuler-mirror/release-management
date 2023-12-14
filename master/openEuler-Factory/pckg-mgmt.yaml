@@ -16339,3 +16339,35 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-12"
+    - name: libpgf
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: kweathercore
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: libheif
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: kpublictransport
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: kf5-libksane
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: ksanecore
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: liblqr-1
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
+    - name: marble
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-14"
