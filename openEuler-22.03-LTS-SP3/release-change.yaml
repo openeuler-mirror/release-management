@@ -82,3 +82,7 @@ release-change:
     commonlibrary_c_utils communication_ipc systemabilitymgr_samgr systemabilitymgr_safwk
     notification_eventhandler
   date: 2023-12-12-20-55-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1542
+  description: 8d5377cc !1542 hiviewdfx_hisysevent组件被拆分为若干个小组件，需要将原始组件的从sp3的源中删除
+  changed_packages: hiviewdfx_hisysevent
+  date: 2023-12-15-16-59-01
