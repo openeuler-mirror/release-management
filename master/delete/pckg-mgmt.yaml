@@ -41,3 +41,4 @@ packages:
   - name: oepkgs-release
   - name: masstree
   - name: A-Ops
+  - name: hiviewdfx_hisysevent
