@@ -1,3 +1,4 @@
 packages:
 - name: masstree
 - name: A-Ops
+- name: hiviewdfx_hisysevent
