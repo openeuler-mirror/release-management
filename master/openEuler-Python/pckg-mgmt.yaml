@@ -2679,3 +2679,47 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-27'
+- name: python-pydot
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-importlab
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-ninja
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-pycnite
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-traittypes
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-xyzservices
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-branca
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-pytype
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-pyperclip
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-beniget
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'
+- name: python-pythran
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-20'

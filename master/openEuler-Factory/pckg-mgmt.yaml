@@ -7619,10 +7619,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-beniget
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-bids-validator
       obs_from: ""
       obs_to: openEuler:Factory
@@ -7688,10 +7684,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-bottle-sqlite
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-branca
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14487,15 +14479,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-xyzservices
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-mkdocstrings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-pytype
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14700,10 +14684,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-scikit-build-core
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-traittypes
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -15019,10 +14999,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-20"
-    - name: python-pythran
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-21"
     - name: python-jupyter-console
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15115,10 +15091,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-importlab
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-binwalk
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15128,10 +15100,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-auditwheel
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-ninja
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15164,10 +15132,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-mkdocs-section-index
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-pycnite
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
