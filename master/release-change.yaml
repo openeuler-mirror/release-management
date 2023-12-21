@@ -1416,3 +1416,10 @@ release-change:
   description: 8d5377cc !1542 hiviewdfx_hisysevent组件被拆分为若干个小组件，需要将原始组件的从sp3的源中删除
   changed_packages: hiviewdfx_hisysevent
   date: 2023-12-15-16-59-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1514
+  description: c2bbd74f !1514 move pythone-pytype&hatch&ipyleaflet deppkgs from master:Epol+Mainline+Factory
+    to master:Python
+  changed_packages: python-pydot python-importlab python-ninja python-pycnite python-traittypes
+    python-xyzservices python-branca python-pytype python-pyperclip python-beniget
+    python-pythran
+  date: 2023-12-21-11-10-30
