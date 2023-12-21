@@ -118,3 +118,13 @@ release:
   - yaqiangchen
   - paul-huang
   - gitee-cmd
+
+- branch: openEuler-22.03-LTS-SP3
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
