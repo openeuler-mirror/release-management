@@ -16335,3 +16335,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-14"
+    - name: qingzhou
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-21"
