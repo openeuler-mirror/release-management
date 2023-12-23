@@ -16339,3 +16339,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-21"
+    - name: openjdk-21
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2023-12-23"
