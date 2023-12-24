@@ -37,19 +37,19 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-| [I80F3Y](https://gitee.com/openeuler/release-management/issues/I80F3Y) | 支持Lustre server软件包 | Discussion | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) | EPOL | lustre, lustre-release, e2fsprogs |
-| [I83JRC](https://gitee.com/openeuler/release-management/issues/I83JRC) | eNFS特性合入 | Discussion | sig-kernel | [@mingqian218472](https://gitee.com/mingqian218472) | ISO | nfs,sunrpc |
-| [I82A5V](https://gitee.com/openeuler/release-management/issues/I82A5V) | DDE组件更新支持服务器场景优化 | Discussion | sig-DDE | [@leeffo](https://gitee.com/leeffo) | EPOL | |
-| [I84H9S](https://gitee.com/openeuler/release-management/issues/I84H9S) | FangTian视窗引擎特性合入 | Discussion | sig-FangTian | [@BruceXuXu](https://gitee.com/BruceXuXu) | EPOL | |
-| [I8AU51](https://gitee.com/openeuler/release-management/issues/I8AU51) | sysMaster支持虚机场景 | Discussion | dev-utils | [@openeuler-basic](https://gitee.com/openeuler-basic) | ISO | sysmaster |
-| [I8BKM5](https://gitee.com/openeuler/release-management/issues/I8BKM5) | 支持树莓派 | Discussion | sig-RaspberryPi | [@woqidaideshi](https://gitee.com/woqidaideshi) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom |
-|[I8CWV4](https://gitee.com/openeuler/release-management/issues/I8CWV4)|增加 migration-tools 项目发布|Discussion|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
-|[I8299Y](https://gitee.com/openeuler/release-management/issues/I8299Y)|增加 utshell 项目发布|Discussion|sig-memsafety|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
-|[I8DZVE](https://gitee.com/openeuler/release-management/issues/I8DZVE)|增加 utsudo 项目发布|Discussion|sig-memsafety|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
-|[I8ERGA](https://gitee.com/openeuler/release-management/issues/I8ERGA)|增加i3相关软件包发布 |Discussion|sig-infrastructure|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin/)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,dmenu|
-|[I8GQJE](https://gitee.com/openeuler/release-management/issues/I8GQJE)|支持入侵检测框架secDetector |Discussion|sig-security-facility|[@zcfsite](https://gitee.com/zcfsite/)|ISO|secDetector|
+| [I80F3Y](https://gitee.com/openeuler/release-management/issues/I80F3Y) | 支持Lustre server软件包 | Accepted | sig-SDS | [@xin3liang](https://gitee.com/xin3liang) | EPOL | lustre, lustre-release, e2fsprogs |
+| [I83JRC](https://gitee.com/openeuler/release-management/issues/I83JRC) | eNFS特性合入 | Rejected | sig-kernel | [@mingqian218472](https://gitee.com/mingqian218472) | ISO | nfs,sunrpc |
+| [I82A5V](https://gitee.com/openeuler/release-management/issues/I82A5V) | DDE组件更新支持服务器场景优化 | Accepted | sig-DDE | [@leeffo](https://gitee.com/leeffo) | EPOL | |
+| [I84H9S](https://gitee.com/openeuler/release-management/issues/I84H9S) | FangTian视窗引擎特性合入 | Accepted | sig-FangTian | [@BruceXuXu](https://gitee.com/BruceXuXu) | EPOL | |
+| [I8AU51](https://gitee.com/openeuler/release-management/issues/I8AU51) | sysMaster支持虚机场景 | Accepted | dev-utils | [@openeuler-basic](https://gitee.com/openeuler-basic) | ISO | sysmaster |
+| [I8BKM5](https://gitee.com/openeuler/release-management/issues/I8BKM5) | 支持树莓派 | Accepted | sig-RaspberryPi | [@woqidaideshi](https://gitee.com/woqidaideshi) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom |
+|[I8CWV4](https://gitee.com/openeuler/release-management/issues/I8CWV4)|增加 migration-tools 项目发布|Accepted|sig-migration-tools|[@xingwei-liu](https://gitee.com/xingwei-liu/)|EPOL|migration-tools|
+|[I8299Y](https://gitee.com/openeuler/release-management/issues/I8299Y)|增加 utshell 项目发布|Accepted|sig-memsafety|[@tong2357](https://gitee.com/tong2357/)|EPOL|utshell|
+|[I8DZVE](https://gitee.com/openeuler/release-management/issues/I8DZVE)|增加 utsudo 项目发布|Accepted|sig-memsafety|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
+|[I8ERGA](https://gitee.com/openeuler/release-management/issues/I8ERGA)|增加i3相关软件包发布 |Accepted|sig-infrastructure|[@mywaaagh_admin](https://gitee.com/mywaaagh_admin/)|EPOL|i3,i3status,perl-AnyEvent-I3,perl-AnyEvent,xcb-util-xrm,xcompmgr,perl-IO-Pipely,dmenu|
+|[I8GQJE](https://gitee.com/openeuler/release-management/issues/I8GQJE)|支持入侵检测框架secDetector |Accepted|sig-security-facility|[@zcfsite](https://gitee.com/zcfsite/)|ISO|secDetector|
 |[I8I572](https://gitee.com/openeuler/release-management/issues/I8I572)|支持embedded版本|Accepted|sig-embedded||
-|[I8JQ3J](https://gitee.com/openeuler/release-management/issues/I8JQ3J)|NestOS For-Virt/For-Container多版本支持|Discussion|sig-CloudNative,sig-K8sDistro| [@ccdxx](https://gitee.com/ccdxx/) | EPOL |afterburn,bootupd,console-login-helper-messages,ignition.nestos-installer,zincati,nestos-kernel,openeuler-release-nestos-for-container,openeuler-release-nestos-for-virt|
+|[I8JQ3J](https://gitee.com/openeuler/release-management/issues/I8JQ3J)|NestOS For-Virt/For-Container多版本支持|Accepted|sig-CloudNative,sig-K8sDistro| [@ccdxx](https://gitee.com/ccdxx/) | EPOL |afterburn,bootupd,console-login-helper-messages,ignition.nestos-installer,zincati,nestos-kernel,openeuler-release-nestos-for-container,openeuler-release-nestos-for-virt|
 |[I8LBX0](https://gitee.com/openeuler/release-management/issues/I8LBX0?from=project-issue)|gazelle支持vlan收发|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
 |[I8LBW8](https://gitee.com/openeuler/release-management/issues/I8LBW8?from=project-issue)|gazelle支持网卡自愈|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
 |[I8LBW6](https://gitee.com/openeuler/release-management/issues/I8LBW6?from=project-issue)|gazelle支持netperf标准测试工具|Accepted|sig-high-performance-network|@kircher(https://gitee.com/ut-wanglujun/)|EPOL|gazelle|
@@ -66,7 +66,7 @@ openEuler 22.03 LTS SP3 是22.03-LTS版本增强扩展版本（参见[版本生�
 |[I8M02Y](https://gitee.com/openeuler/release-management/issues/I8M02Y?from=project-issue)|DPU直连聚合：虚拟机、容器管理面DPU卸载，业务无感知|Accepted|sig-DPU |[@minknov](https://gitee.com/minknov/)|EPOL|dpu-utilities|
 |[I8M02S](https://gitee.com/openeuler/release-management/issues/I8M02S?from=project-issue)|支持内核态vDPA框架实现网卡直通虚机可热迁移|Accepted|sig-Virt|[@JiaboFeng](https://gitee.com/JiaboFeng/)|EPOL|libvirt,qemu,kernel|
 |[I87J40](https://gitee.com/openeuler/release-management/issues/I87J40?from=project-issue)|支持safeguard软件包|Accepted|sig-ebpf|[@tongyx633](https://gitee.com/tongyx633/)|EPOL|safeguard|
-|[I8166Y](https://gitee.com/openeuler/release-management/issues/I8166Y?from=project-issue)|libtpms支持sm3算法|Accepted|sig-security-facility|[@zhujianwei001](https://gitee.com/zhujianwei001/)|EPOL|libtpms|
+|[I8166Y](https://gitee.com/openeuler/release-management/issues/I8166Y?from=project-issue)|libtpms支持sm3算法|Rejected|sig-security-facility|[@zhujianwei001](https://gitee.com/zhujianwei001/)|EPOL|libtpms|
 |[I8GWHE](https://gitee.com/openeuler/release-management/issues/I8GWHE?from=project-issue)|增加安全启动签名|Accepted|sig-security-facility|[@huangzq6](https://gitee.com/huangzq6/)|EPOL|shim,grub2,kernel|
 |[I8M798](https://gitee.com/openeuler/release-management/issues/I8M798?from=project-issue)|负载算力协同|Accepted|sig-kernel|[@sereinInOpenEuler](https://gitee.com/sereinInOpenEuler/)|EPOL|kernel|
 
