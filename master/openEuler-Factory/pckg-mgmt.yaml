@@ -14527,10 +14527,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-scikit-build
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-flake8-comprehensions
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14680,10 +14676,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-rinoh-typeface-texgyreheros
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-scikit-build-core
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

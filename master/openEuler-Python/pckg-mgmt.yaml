@@ -2723,3 +2723,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-12-20'
+- name: python-scikit-build
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-25'
+- name: python-scikit-build-core
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-25'
