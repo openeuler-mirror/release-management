@@ -1423,3 +1423,8 @@ release-change:
     python-xyzservices python-branca python-pytype python-pyperclip python-beniget
     python-pythran
   date: 2023-12-21-11-10-30
+- pr: https://gitee.com/openeuler/release-management/pulls/1553
+  description: 87ed1e41 !1553 Move python-scikit-build&scikit-build-core from mater:Factory
+    to master:Python for ninja obs&ebs
+  changed_packages: python-scikit-build python-scikit-build-core
+  date: 2023-12-26-12-17-28
