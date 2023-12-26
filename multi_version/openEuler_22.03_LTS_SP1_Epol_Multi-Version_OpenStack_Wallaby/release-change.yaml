@@ -11,3 +11,7 @@ release-change:
   description: b521869 !860 删除OpenStack无效项目
   changed_packages: python-tempest-lib python-feedparser python-pyxcli
   date: 2023-02-14-18-49-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1547
+  description: 7cc63b63 !1547 添加python-ceilometerclient软件包，解决openstak-aodh-evaluator服务报错
+  changed_packages: python-ceilometerclient
+  date: 2023-12-26-09-14-31
