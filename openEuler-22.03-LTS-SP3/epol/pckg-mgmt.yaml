@@ -1469,12 +1469,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP3:Epol
   date: '2023-11-06'
-- name: opencv
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP3
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP3:Epol
-  date: '2023-11-06'
 - name: deepin-shortcut-viewer
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP3
@@ -4452,18 +4446,6 @@ packages:
   obs_to: openEuler:22.03:LTS:SP3:Epol
   date: '2023-11-06'
 - name: kubernetes
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP3
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP3:Epol
-  date: '2023-11-06'
-- name: opencl-clhpp
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP3
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP3:Epol
-  date: '2023-11-06'
-- name: sentencepiece
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP3
   obs_from: openEuler:22.03:LTS:Next:Epol
