@@ -94,3 +94,8 @@ release-change:
   description: 880f558d !1549 Add appres to obs openEuler-22.03-LTS-SP3、openEuler-22.03-LTS-Next
   changed_packages: deepin-manual appres
   date: 2023-12-21-20-55-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1554
+  description: b06f8f6e !1554 move sentencepiece opencl-clhpp and opencv from epol
+    to everything
+  changed_packages: sentencepiece opencl-clhpp opencv
+  date: 2023-12-26-21-35-17
