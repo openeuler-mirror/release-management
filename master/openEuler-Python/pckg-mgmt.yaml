@@ -2731,3 +2731,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-12-25'
+- name: python-fsspec
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2023-12-28'
