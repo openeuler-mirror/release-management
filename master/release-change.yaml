@@ -1428,3 +1428,8 @@ release-change:
     to master:Python for ninja obs&ebs
   changed_packages: python-scikit-build python-scikit-build-core
   date: 2023-12-26-12-17-28
+- pr: https://gitee.com/openeuler/release-management/pulls/1555
+  description: 35cc4640 !1555 Move python-fsspec from master:Factory to master:Python
+    for pytorch upgrade
+  changed_packages: python-fsspec
+  date: 2023-12-29-09-49-04
