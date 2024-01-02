@@ -42,3 +42,5 @@ packages:
   - name: masstree
   - name: A-Ops
   - name: hiviewdfx_hisysevent
+  - name: sonatype-plugins-parent
+  - name: irclib
