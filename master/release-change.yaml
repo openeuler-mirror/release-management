@@ -1438,3 +1438,7 @@ release-change:
     tools and 22.03 Next
   changed_packages: openjdk-21
   date: 2023-12-29-11-44-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1557
+  description: 82f36c88 !1557 remove sonatype-plugins-parent form openEuler:Java
+  changed_packages: irclib sonatype-plugins-parent
+  date: 2024-01-03-09-30-52

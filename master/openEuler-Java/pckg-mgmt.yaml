@@ -975,10 +975,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: irclib
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: ironjacamar
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2532,10 +2528,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: sonatype-oss-parent
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: sonatype-plugins-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
