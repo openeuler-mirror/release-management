@@ -16339,3 +16339,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-28"
+    - name: zlib-ng
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-03"
