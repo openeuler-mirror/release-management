@@ -5939,3 +5939,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-12-12'
+- name: node_exporter
+  obs_from: openEuler:Golang
+  obs_to: openEuler:Epol
+  date: '2023-12-29'
