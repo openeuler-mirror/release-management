@@ -16343,3 +16343,75 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-03"
+    - name: kronometer
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kirigami-addons
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kteatime
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kfloppy
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kfind
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kregexpeditor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: keysmith
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kdialog
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kdf
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kookbook
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: krecorder
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: soprano
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: kongress
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: krename
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: klimbgrades
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: keurocalc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: krusader
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
+    - name: podofo
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-04"
