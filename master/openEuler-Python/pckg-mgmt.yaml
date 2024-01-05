@@ -2735,3 +2735,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-12-28'
+- name: python-toolz
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-04'
+- name: python-arrow
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-01-04'
