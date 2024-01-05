@@ -1446,3 +1446,8 @@ release-change:
   description: 628c9f58 !1556 Move node_exporter from golang to epol
   changed_packages: node_exporter
   date: 2024-01-04-11-32-32
+- pr: https://gitee.com/openeuler/release-management/pulls/1560
+  description: acb1b88e !1560 Move python3-toolz&arrow from master:Factory&Epol to
+    master:Python for obs&ebs
+  changed_packages: python-toolz python-arrow
+  date: 2024-01-05-14-46-35
