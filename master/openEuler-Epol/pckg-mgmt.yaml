@@ -2511,10 +2511,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-regex
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-repoze.sphinx.autointerface
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4100,10 +4096,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-curio
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-rst.linker
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'

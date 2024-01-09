@@ -8643,10 +8643,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-jsmin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-json2table
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14083,10 +14079,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-bracex
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-pydantic
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14112,10 +14104,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-20"
     - name: python-flake8-mutable
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-wcmatch
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
@@ -14307,10 +14295,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-jaraco.env
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-autodoc-traits
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14452,10 +14436,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pyee
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-csscompressor
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14672,10 +14652,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pyproj
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-htmlmin2
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

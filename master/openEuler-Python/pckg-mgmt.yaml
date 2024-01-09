@@ -2743,3 +2743,35 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2024-01-04'
+- name: python-regex
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-rst.linker
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-jaraco.env
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-csscompressor
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-htmlmin2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-jsmin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-wcmatch
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-05'
+- name: python-bracex
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-05'
