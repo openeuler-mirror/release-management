@@ -1455,3 +1455,9 @@ release-change:
   description: 4afc6450 !1564 Move python-pyodbc from Epol to Mainline
   changed_packages: python-pyodbc
   date: 2024-01-09-09-21-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1561
+  description: 16213089 !1561 Move python3-regex&rst.linker&some pkgs from master:Epol&Facotry
+    to master:Python for obs&ebs
+  changed_packages: python-regex python-rst.linker python-jaraco.env python-csscompressor
+    python-htmlmin2 python-jsmin python-wcmatch python-bracex
+  date: 2024-01-09-09-29-00
