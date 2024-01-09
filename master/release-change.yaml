@@ -1461,3 +1461,8 @@ release-change:
   changed_packages: python-regex python-rst.linker python-jaraco.env python-csscompressor
     python-htmlmin2 python-jsmin python-wcmatch python-bracex
   date: 2024-01-09-09-29-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1565
+  description: fad72bc9 !1565 Move python3-cattrs from master:Factory to master:Python
+    for obs&ebs
+  changed_packages: python-cattrs
+  date: 2024-01-09-16-32-54
