@@ -39,7 +39,10 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 
 | no   | feature | status | sig  | owner |
 | :--- | :------ | :----- | :--- | :---- |
-|      |         |        |      |       |
+|[I8UU1C](https://gitee.com/openeuler/release-management/issues/I8UU1C)|iSulad支持CRI v1.29|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
+|[I8UUCX](https://gitee.com/openeuler/release-management/issues/I8UUCX)|iSulad支持CDI|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
+|[I8UVAY](https://gitee.com/openeuler/release-management/issues/I8UVAY)|iSulad支持NRI|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
+|[I8W6CJ](https://gitee.com/openeuler/release-management/issues/I8W6CJ)|iSulad支持cgroup v2|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
