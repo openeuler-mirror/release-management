@@ -2775,3 +2775,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-01-05'
+- name: python-cattrs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-01-09'
