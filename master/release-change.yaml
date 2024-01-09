@@ -1451,3 +1451,7 @@ release-change:
     master:Python for obs&ebs
   changed_packages: python-toolz python-arrow
   date: 2024-01-05-14-46-35
+- pr: https://gitee.com/openeuler/release-management/pulls/1564
+  description: 4afc6450 !1564 Move python-pyodbc from Epol to Mainline
+  changed_packages: python-pyodbc
+  date: 2024-01-09-09-21-45
