@@ -16403,3 +16403,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-10"
+    - name: PilotGo-plugin-a-tune
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-11"
