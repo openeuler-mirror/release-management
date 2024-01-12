@@ -6171,3 +6171,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2024-01-08'
+- name: libmd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-12'
