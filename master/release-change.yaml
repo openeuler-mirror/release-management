@@ -1466,3 +1466,8 @@ release-change:
     for obs&ebs
   changed_packages: python-cattrs
   date: 2024-01-09-16-32-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1568
+  description: 55291ffb !1568 Move libmd from master:Factory to master:Mainline for
+    dpkg new version deps
+  changed_packages: libmd
+  date: 2024-01-12-09-51-19
