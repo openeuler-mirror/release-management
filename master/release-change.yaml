@@ -1471,3 +1471,7 @@ release-change:
     dpkg new version deps
   changed_packages: libmd
   date: 2024-01-12-09-51-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1570
+  description: 6a0fc0d8 !1570 从master移除衰退的软件包 python-google-apputils 和 python-gflags
+  changed_packages: python-google-apputils python-gflags
+  date: 2024-01-16-14-04-14
