@@ -44,3 +44,5 @@ packages:
   - name: hiviewdfx_hisysevent
   - name: sonatype-plugins-parent
   - name: irclib
+  - name: python-google-apputils
+  - name: python-gflags
