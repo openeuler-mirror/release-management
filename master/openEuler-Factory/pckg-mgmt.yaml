@@ -16407,3 +16407,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-16"
+    - name: alien
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-17"
+    - name: debhelper
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-17"
