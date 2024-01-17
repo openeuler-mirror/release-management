@@ -39,6 +39,7 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 
 | no   | feature | status | sig  | owner |
 | :--- | :------ | :----- | :--- | :---- |
+|[I8WG9C](https://gitee.com/openeuler/release-management/issues/I8WG9C) | 发布kiran-desktop 2.6版本 | Discussion | sig-KIRAN-DESKTOP | [@liubuguiii](https://gitee.com/liubuguiii) |
 |[I8UU1C](https://gitee.com/openeuler/release-management/issues/I8UU1C)|iSulad支持CRI v1.29|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
 |[I8UUCX](https://gitee.com/openeuler/release-management/issues/I8UUCX)|iSulad支持CDI|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
 |[I8UVAY](https://gitee.com/openeuler/release-management/issues/I8UVAY)|iSulad支持NRI|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
