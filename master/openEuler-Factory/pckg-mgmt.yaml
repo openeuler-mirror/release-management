@@ -16427,3 +16427,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-17"
+    - name: dh-autoreconf
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-23"
+    - name: sensible-utils
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-23"
+    - name: po-debconf
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-23"
+    - name: cdbs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-23"
