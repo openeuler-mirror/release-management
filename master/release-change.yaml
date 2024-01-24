@@ -1475,3 +1475,8 @@ release-change:
   description: 6a0fc0d8 !1570 从master移除衰退的软件包 python-google-apputils 和 python-gflags
   changed_packages: python-google-apputils python-gflags
   date: 2024-01-16-14-04-14
+- pr: https://gitee.com/openeuler/release-management/pulls/1576
+  description: 9698fe52 !1576 Move alien&debhelper and deppkgs from master:Factory
+    to master:Mainline
+  changed_packages: alien debhelper dh-autoreconf sensible-utils po-debconf cdbs perl-Regexp-Assemble
+  date: 2024-01-24-14-15-11
