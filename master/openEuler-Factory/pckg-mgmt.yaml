@@ -5579,10 +5579,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Regexp-Assemble
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Regexp-Assemble-Compressed
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16407,14 +16403,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-16"
-    - name: alien
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-17"
-    - name: debhelper
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-17"
     - name: opari2
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16427,19 +16415,3 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-17"
-    - name: dh-autoreconf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-23"
-    - name: sensible-utils
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-23"
-    - name: po-debconf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-23"
-    - name: cdbs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-23"

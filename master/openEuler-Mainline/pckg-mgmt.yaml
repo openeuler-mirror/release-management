@@ -6175,3 +6175,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-01-12'
+- name: alien
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: debhelper
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: dh-autoreconf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: sensible-utils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: po-debconf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: cdbs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: perl-Regexp-Assemble
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
