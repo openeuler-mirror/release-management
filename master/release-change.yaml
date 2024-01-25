@@ -1480,3 +1480,8 @@ release-change:
     to master:Mainline
   changed_packages: alien debhelper dh-autoreconf sensible-utils po-debconf cdbs perl-Regexp-Assemble
   date: 2024-01-24-14-15-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1578
+  description: 4b19941e !1578 Move perl-Image-ExifTool&Test-File-Contents from master:Factory
+    to master:Mainline for cdbs deps
+  changed_packages: perl-Image-ExifTool perl-Test-File-Contents
+  date: 2024-01-25-09-59-32
