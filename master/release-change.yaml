@@ -1485,3 +1485,8 @@ release-change:
     to master:Mainline for cdbs deps
   changed_packages: perl-Image-ExifTool perl-Test-File-Contents
   date: 2024-01-25-09-59-32
+- pr: https://gitee.com/openeuler/release-management/pulls/1577
+  description: 878aa87e !1577 Move powerpc-utils lsvpd opal-prd from master:Factory
+    to master:Mainline for new pkgs only in powerpc arch
+  changed_packages: powerpc-utils lsvpd opal-prd
+  date: 2024-01-25-18-00-16
