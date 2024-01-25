@@ -16375,18 +16375,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-05"
-    - name: powerpc-utils
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-09"
-    - name: lsvpd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-09"
-    - name: opal-prd
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-09"
     - name: PilotGo-plugin-a-tune
       obs_from: ""
       obs_to: openEuler:Factory
