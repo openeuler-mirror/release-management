@@ -4263,10 +4263,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Image-ExifTool
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Image-Info
       obs_from: ""
       obs_to: openEuler:Factory
@@ -6132,10 +6128,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Test-Expect
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Test-File-Contents
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"

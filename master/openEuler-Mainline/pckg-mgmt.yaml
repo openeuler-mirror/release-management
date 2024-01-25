@@ -6203,3 +6203,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-01-24'
+- name: perl-Image-ExifTool
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
+- name: perl-Test-File-Contents
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-24'
