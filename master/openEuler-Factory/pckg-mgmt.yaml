@@ -16395,3 +16395,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-17"
+    - name: ppc64-diag
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-27"
+    - name: Xen
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-27"
