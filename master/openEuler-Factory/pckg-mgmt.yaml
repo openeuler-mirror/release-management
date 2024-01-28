@@ -939,10 +939,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: gdal
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: gdcm
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14603,10 +14599,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-geopandas
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-rinohtype
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14640,10 +14632,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-descartes
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-Fiona
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
