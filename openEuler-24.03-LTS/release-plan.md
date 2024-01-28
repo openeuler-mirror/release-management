@@ -45,7 +45,7 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[I8UVAY](https://gitee.com/openeuler/release-management/issues/I8UVAY)|iSulad支持NRI|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
 |[I8W6CJ](https://gitee.com/openeuler/release-management/issues/I8W6CJ)|iSulad支持cgroup v2|Discussion|sig-iSulad|[@xuxuepeng](https://gitee.com/xuxuepeng)|
 |[I8Y48L](https://gitee.com/openeuler/release-management/issues/I8Y48L)|为 RISC-V 架构增加内核热补丁能力|Discussion|sig-RISC-V|[@laokz](https://gitee.com/laokz)|
-|[I8Y3WV](https://gitee.com/openeuler/release-management/issues/I8Y3WV)|为 RISC-V 架构引入 Penglai TEE 支持|sig-RISC-V|[@dongduResearcher](https://gitee.com/dongduResearcher)|
+|[I8Y3WV](https://gitee.com/openeuler/release-management/issues/I8Y3WV)|为 RISC-V 架构引入 Penglai TEE 支持|Discussion|sig-RISC-V|[@dongduResearcher](https://gitee.com/dongduResearcher)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
