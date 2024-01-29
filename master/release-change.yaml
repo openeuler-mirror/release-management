@@ -1495,3 +1495,8 @@ release-change:
     for new pkgs only in powerpc arch
   changed_packages: ppc64-diag
   date: 2024-01-29-18-10-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1583
+  description: 48ff9d67 !1583  Move python-geopandas&Fiona  and gdal from master:Factory
+    to master:MultiLanguage or Python for obs&ebs
+  changed_packages: gdal python-Fiona python-geopandas
+  date: 2024-01-29-18-38-05
