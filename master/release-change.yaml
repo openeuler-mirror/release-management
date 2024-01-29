@@ -1490,3 +1490,8 @@ release-change:
     to master:Mainline for new pkgs only in powerpc arch
   changed_packages: powerpc-utils lsvpd opal-prd
   date: 2024-01-25-18-00-16
+- pr: https://gitee.com/openeuler/release-management/pulls/1588
+  description: af23e690 !1588 Move ppc64-diag from master:Factory to master:Mainline
+    for new pkgs only in powerpc arch
+  changed_packages: ppc64-diag
+  date: 2024-01-29-18-10-05
