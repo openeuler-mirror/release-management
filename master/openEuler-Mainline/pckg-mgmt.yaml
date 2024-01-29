@@ -6223,3 +6223,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-01-25'
+- name: ppc64-diag
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-01-29'
