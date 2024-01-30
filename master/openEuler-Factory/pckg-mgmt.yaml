@@ -923,10 +923,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: g2clib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: gamemode
       obs_from: ""
       obs_to: openEuler:Factory
@@ -2180,10 +2176,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: neofetch
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: netcdf
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
