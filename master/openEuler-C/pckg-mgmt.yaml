@@ -4059,3 +4059,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:C
   date: '2023-11-14'
+- name: hdf
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2024-01-30'
+- name: g2clib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-01-30'
+- name: netcdf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-01-30'
