@@ -47,3 +47,5 @@ packages:
   - name: python-google-apputils
   - name: python-gflags
   - name: jspc
+  - name: tracker
+  - name: tracker-miners
