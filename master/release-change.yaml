@@ -1500,3 +1500,7 @@ release-change:
     to master:MultiLanguage or Python for obs&ebs
   changed_packages: gdal python-Fiona python-geopandas
   date: 2024-01-29-18-38-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1571
+  description: 2bfc20f7 !1571 从master移除衰退的软件包jspc
+  changed_packages: jspc
+  date: 2024-02-01-11-51-58
