@@ -1504,3 +1504,8 @@ release-change:
   description: 2bfc20f7 !1571 从master移除衰退的软件包jspc
   changed_packages: jspc
   date: 2024-02-01-11-51-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1589
+  description: 0599273d !1589 Move hdf(master:Epol)&netcdf(master:Factory)&g2clib(master:Factory)
+    to master:C for gdal obs&ebs
+  changed_packages: hdf g2clib netcdf
+  date: 2024-02-01-19-20-42
