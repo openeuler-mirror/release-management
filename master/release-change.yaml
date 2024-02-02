@@ -1490,3 +1490,22 @@ release-change:
     to master:Mainline for new pkgs only in powerpc arch
   changed_packages: powerpc-utils lsvpd opal-prd
   date: 2024-01-25-18-00-16
+- pr: https://gitee.com/openeuler/release-management/pulls/1588
+  description: af23e690 !1588 Move ppc64-diag from master:Factory to master:Mainline
+    for new pkgs only in powerpc arch
+  changed_packages: ppc64-diag
+  date: 2024-01-29-18-10-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1583
+  description: 48ff9d67 !1583  Move python-geopandas&Fiona  and gdal from master:Factory
+    to master:MultiLanguage or Python for obs&ebs
+  changed_packages: gdal python-Fiona python-geopandas
+  date: 2024-01-29-18-38-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1571
+  description: 2bfc20f7 !1571 从master移除衰退的软件包jspc
+  changed_packages: jspc
+  date: 2024-02-01-11-51-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1589
+  description: 0599273d !1589 Move hdf(master:Epol)&netcdf(master:Factory)&g2clib(master:Factory)
+    to master:C for gdal obs&ebs
+  changed_packages: hdf g2clib netcdf
+  date: 2024-02-01-19-20-42

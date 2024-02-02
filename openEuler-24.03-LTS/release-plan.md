@@ -47,6 +47,7 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[I8Y48L](https://gitee.com/openeuler/release-management/issues/I8Y48L)|为 RISC-V 架构增加内核热补丁能力|Discussion|sig-RISC-V|[@laokz](https://gitee.com/laokz)|
 |[I8Y3WV](https://gitee.com/openeuler/release-management/issues/I8Y3WV)|为 RISC-V 架构引入 Penglai TEE 支持|Discussion|sig-RISC-V|[@dongduResearcher](https://gitee.com/dongduResearcher)|
 |[I8YAGF](https://gitee.com/openeuler/release-management/issues/I8YAGF)|wine5.5升级到wine9.0，不需要linux32依赖库情况下支持win32程序|Discussion|sig-compat-winapp|[@niko_yhc](https://gitee.com/niko_yhc)|
+|[I8Y4I0](https://gitee.com/openeuler/release-management/issues/I8Y4I0)|支持树莓派|Discussion|sig-RaspberryPi|[@woqidaideshi](https://gitee.com/woqidaideshi/)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />

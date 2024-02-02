@@ -923,10 +923,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: g2clib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: gamemode
       obs_from: ""
       obs_to: openEuler:Factory
@@ -936,10 +932,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: gazelle-cni
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: gdal
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -2184,10 +2176,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: neofetch
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: netcdf
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -14603,10 +14591,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-geopandas
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-rinohtype
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14640,10 +14624,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-descartes
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-Fiona
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -16395,11 +16375,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-17"
-    - name: ppc64-diag
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-27"
     - name: Xen
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-27"
+    - name: python-types-python-dateutil
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-31"
+    - name: python-accessible-pygments
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-01-31"

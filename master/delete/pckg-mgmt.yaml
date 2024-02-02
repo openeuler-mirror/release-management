@@ -46,3 +46,4 @@ packages:
   - name: irclib
   - name: python-google-apputils
   - name: python-gflags
+  - name: jspc
