@@ -2779,3 +2779,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-01-29'
+- name: python-types-python-dateutil
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-02-04'
+- name: python-accessible-pygments
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-02-04'
