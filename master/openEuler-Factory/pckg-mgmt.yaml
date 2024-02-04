@@ -3,10 +3,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: CharLS
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: Control-FREEC
       obs_from: ""
       obs_to: openEuler:Factory
@@ -1412,10 +1408,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: jamm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: jasper
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -3060,10 +3052,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Clone-PP
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Color-Library
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -6216,10 +6204,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Test-More-UTF8
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Test-Most
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
