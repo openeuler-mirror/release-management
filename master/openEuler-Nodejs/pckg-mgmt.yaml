@@ -1343,3 +1343,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Nodejs
   date: '2022-07-26'
+- name: nodejs-yarn
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Nodejs
+  date: '2024-02-04'
