@@ -4563,10 +4563,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: tracker-miners
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: tracker3-miners
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6158,11 +6154,11 @@ packages:
 - name: bpftool
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-11-22"
+  date: '2023-11-22'
 - name: TSSE-driver
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2023-11-30"
+  date: '2023-11-30'
 - name: powerapi
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

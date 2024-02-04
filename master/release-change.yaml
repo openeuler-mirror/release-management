@@ -1509,3 +1509,7 @@ release-change:
     to master:C for gdal obs&ebs
   changed_packages: hdf g2clib netcdf
   date: 2024-02-01-19-20-42
+- pr: https://gitee.com/openeuler/release-management/pulls/1591
+  description: 963d7802 !1591 remove tracker tracker-miners from master
+  changed_packages: tracker-miners tracker
+  date: 2024-02-04-14-47-10

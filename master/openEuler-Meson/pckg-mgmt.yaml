@@ -199,10 +199,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
-- name: tracker
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
 - name: tracker3
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
