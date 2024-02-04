@@ -1219,10 +1219,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: nodejs-yarn
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: novnc
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5807,10 +5803,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-10-18'
-- name: python-furo
-  obs_from: openEuler:Python
-  obs_to: openEuler:Epol
-  date: '2023-10-23'
 - name: ft_flutter
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
