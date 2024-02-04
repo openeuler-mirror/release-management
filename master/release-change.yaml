@@ -1513,3 +1513,8 @@ release-change:
   description: 963d7802 !1591 remove tracker tracker-miners from master
   changed_packages: tracker-miners tracker
   date: 2024-02-04-14-47-10
+- pr: https://gitee.com/openeuler/release-management/pulls/1592
+  description: 24498658 !1592 Move python-accessible-pygments&types-python-dateutil
+    from master:Factory to master:Python
+  changed_packages: python-types-python-dateutil python-accessible-pygments
+  date: 2024-02-04-14-51-09
