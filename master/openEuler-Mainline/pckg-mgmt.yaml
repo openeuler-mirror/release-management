@@ -6223,3 +6223,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-01-29'
+- name: perl-Color-Library
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-04'
+- name: perl-Test-Most
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-04'

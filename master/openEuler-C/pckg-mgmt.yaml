@@ -4071,3 +4071,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-01-30'
+- name: CharLS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-02-04'
+- name: jasper
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-02-04'
