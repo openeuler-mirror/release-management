@@ -1518,3 +1518,8 @@ release-change:
     from master:Factory to master:Python
   changed_packages: python-types-python-dateutil python-accessible-pygments
   date: 2024-02-04-14-51-09
+- pr: https://gitee.com/openeuler/release-management/pulls/1594
+  description: ef2e460d !1594 Move python-furo from Epol to Python and move nodejs-yarn
+    from Epol to Nodejs for python-netaddr upgrade
+  changed_packages: nodejs-yarn python-furo
+  date: 2024-02-04-15-47-29
