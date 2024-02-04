@@ -1523,3 +1523,8 @@ release-change:
     from Epol to Nodejs for python-netaddr upgrade
   changed_packages: nodejs-yarn python-furo
   date: 2024-02-04-15-47-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1596
+  description: 04fe553b !1596 Move jasper&CharLS&perl-Test-Most from master:Factory
+    to master:C or master:mainline
+  changed_packages: CharLS jasper perl-Color-Library perl-Test-Most
+  date: 2024-02-04-17-43-29
