@@ -6231,3 +6231,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-04'
+- name: perl-Data-Dumper-Names
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-05'
+- name: perl-Test-Differences
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2024-02-05'
