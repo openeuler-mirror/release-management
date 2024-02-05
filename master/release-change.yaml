@@ -1528,3 +1528,8 @@ release-change:
     to master:C or master:mainline
   changed_packages: CharLS jasper perl-Color-Library perl-Test-Most
   date: 2024-02-04-17-43-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1597
+  description: c7ff5526 !1597 Move perl-Data-Dumper-Names(Factory) and perl-Test-Differences(Epol)
+    to master:Mainline for perl-Test-Most obs&ebs
+  changed_packages: perl-Data-Dumper-Names perl-Test-Differences
+  date: 2024-02-05-15-41-38
