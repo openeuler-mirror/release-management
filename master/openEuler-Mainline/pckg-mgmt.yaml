@@ -6239,3 +6239,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2024-02-05'
+- name: perl-Menlo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-06'
+- name: perl-Menlo-Legacy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-06'
