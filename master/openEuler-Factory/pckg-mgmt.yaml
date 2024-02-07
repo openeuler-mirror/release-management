@@ -16359,3 +16359,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-05"
+    - name: vs2qt
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-07"
