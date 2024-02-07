@@ -1533,3 +1533,8 @@ release-change:
     to master:Mainline for perl-Test-Most obs&ebs
   changed_packages: perl-Data-Dumper-Names perl-Test-Differences
   date: 2024-02-05-15-41-38
+- pr: https://gitee.com/openeuler/release-management/pulls/1600
+  description: 1ab03569 !1600 Move perl-Menlo&Menlo-Legacy from master:Factory to
+    master:Mainline
+  changed_packages: perl-Menlo perl-Menlo-Legacy
+  date: 2024-02-07-11-28-32
