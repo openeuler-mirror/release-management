@@ -2843,10 +2843,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-CPAN-Common-Index
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-CSS-DOM
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4116,10 +4112,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-HTTP-Tiny-Multipart
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-HTTP-Tinyish
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -6520,10 +6512,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Tie-EncryptedHash
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Tie-Handle-Offset
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
