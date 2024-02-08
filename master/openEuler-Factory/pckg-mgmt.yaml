@@ -16355,3 +16355,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-08"
+    - name: btop
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-08"
+    - name: qcoro
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-08"
+    - name: kquickimageeditor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-08"
