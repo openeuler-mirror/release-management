@@ -16351,3 +16351,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-07"
+    - name: guvcview
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-08"
