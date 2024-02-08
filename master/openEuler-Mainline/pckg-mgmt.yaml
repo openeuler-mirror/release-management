@@ -6247,3 +6247,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-06'
+- name: perl-CPAN-Common-Index
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-07'
+- name: perl-HTTP-Tinyish
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-07'
+- name: perl-Tie-Handle-Offset
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-07'
