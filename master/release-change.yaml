@@ -1538,3 +1538,8 @@ release-change:
     master:Mainline
   changed_packages: perl-Menlo perl-Menlo-Legacy
   date: 2024-02-07-11-28-32
+- pr: https://gitee.com/openeuler/release-management/pulls/1601
+  description: 272074a0 !1601 Move perl-CPAN-Common-Index&HTTP-Tinyish from master:Factory
+    to master:Mainline for Menlo obs&ebs
+  changed_packages: perl-CPAN-Common-Index perl-HTTP-Tinyish perl-Tie-Handle-Offset
+  date: 2024-02-08-08-49-36
