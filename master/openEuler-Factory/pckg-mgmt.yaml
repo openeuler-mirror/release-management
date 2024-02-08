@@ -4739,10 +4739,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Module-Signature
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Module-Starter
       obs_from: ""
       obs_to: openEuler:Factory
@@ -5312,10 +5308,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Parse-MIME
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Parse-PMFile
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
