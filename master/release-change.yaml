@@ -1543,3 +1543,8 @@ release-change:
     to master:Mainline for Menlo obs&ebs
   changed_packages: perl-CPAN-Common-Index perl-HTTP-Tinyish perl-Tie-Handle-Offset
   date: 2024-02-08-08-49-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1602
+  description: 8cc3170c !1602 Move perl-Module-Signature&Parse-PMFile from master:Factory
+    to master:Mainline
+  changed_packages: perl-Module-Signature perl-Parse-PMFile
+  date: 2024-02-08-17-22-47
