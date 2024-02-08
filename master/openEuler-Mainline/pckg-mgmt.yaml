@@ -6259,3 +6259,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-07'
+- name: perl-Module-Signature
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-08'
+- name: perl-Parse-PMFile
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-08'
