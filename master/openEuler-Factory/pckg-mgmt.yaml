@@ -16359,3 +16359,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-08"
+    - name: python-meson-python
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-19"
+    - name: python-tzdata
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-19"
