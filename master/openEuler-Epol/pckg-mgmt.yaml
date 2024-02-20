@@ -5911,3 +5911,7 @@ packages:
   obs_from: openEuler:Golang
   obs_to: openEuler:Epol
   date: '2023-12-29'
+- name: qcoro
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-02-20"
