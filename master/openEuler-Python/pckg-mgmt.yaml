@@ -2791,3 +2791,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2024-02-04'
+- name: python-meson-python
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: "2024-02-20"
+- name: python-tzdata
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: "2024-02-20"
+- name: python-versioneer
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: "2024-02-20"
