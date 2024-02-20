@@ -1548,3 +1548,8 @@ release-change:
     to master:Mainline
   changed_packages: perl-Module-Signature perl-Parse-PMFile
   date: 2024-02-08-17-22-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1607
+  description: 7f6a446d !1607 Move python-meson-python,python-tzdata,python-versioneer
+    from Factory to Python
+  changed_packages: python-meson-python python-tzdata python-versioneer
+  date: 2024-02-20-14-38-16
