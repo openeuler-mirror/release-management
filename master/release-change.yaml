@@ -1563,3 +1563,7 @@ release-change:
   changed_packages: perl-Crypt-GPG perl-File-Read perl-Hash-Merge-Simple perl-Config-Extend-MySQL
     perl-Config-ZOMG perl-Module-Install-ExtraTests
   date: 2024-02-21-14-17-34
+- pr: https://gitee.com/openeuler/release-management/pulls/1610
+  description: e0799387 !1610 Move python-pydantic from Factory to Python
+  changed_packages: python-pydantic
+  date: 2024-02-21-18-29-59
