@@ -1567,3 +1567,8 @@ release-change:
   description: e0799387 !1610 Move python-pydantic from Factory to Python
   changed_packages: python-pydantic
   date: 2024-02-21-18-29-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1612
+  description: 3c971d4a !1612 Move perl-Test-Distribution&Test-Portability-Files from
+    master:Factory to master:Mainline
+  changed_packages: perl-Test-Distribution perl-Test-Portability-Files
+  date: 2024-02-21-18-31-35
