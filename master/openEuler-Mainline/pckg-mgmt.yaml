@@ -6291,3 +6291,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-21'
+- name: perl-Test-Distribution
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
+- name: perl-Test-Portability-Files
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
