@@ -2803,3 +2803,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: "2024-02-20"
+- name: python-pydantic
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: "2024-02-21"
