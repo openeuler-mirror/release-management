@@ -3079,10 +3079,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Config-Extend-MySQL
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Config-GitLike
       obs_from: ""
       obs_to: openEuler:Factory
@@ -3108,10 +3104,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Config-Std
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Config-ZOMG
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -3176,10 +3168,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Crypt-ECB
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Crypt-GPG
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -3795,10 +3783,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-File-Read
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-File-SearchPath
       obs_from: ""
       obs_to: openEuler:Factory
@@ -4136,10 +4120,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Hash-Merge
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Hash-Merge-Simple
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -4692,10 +4672,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Module-Install-AutoManifest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Module-Install-ExtraTests
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"

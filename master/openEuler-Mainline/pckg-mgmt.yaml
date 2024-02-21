@@ -6267,3 +6267,27 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-08'
+- name: perl-Crypt-GPG
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
+- name: perl-File-Read
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
+- name: perl-Hash-Merge-Simple
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
+- name: perl-Config-Extend-MySQL
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
+- name: perl-Config-ZOMG
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
+- name: perl-Module-Install-ExtraTests
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-21'
