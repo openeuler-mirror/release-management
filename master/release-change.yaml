@@ -1557,3 +1557,9 @@ release-change:
   description: 473ccc2c !1608 mv qcoro from Factory to Epol
   changed_packages: qcoro
   date: 2024-02-21-09-44-53
+- pr: https://gitee.com/openeuler/release-management/pulls/1609
+  description: d9b9f87d !1609 Move perl-Crypt-GPG&File-Read&Hash-Merge-Simple&Config-Extend-MySQL&Config-ZOMG
+    from master:Factory to master:Mainline
+  changed_packages: perl-Crypt-GPG perl-File-Read perl-Hash-Merge-Simple perl-Config-Extend-MySQL
+    perl-Config-ZOMG perl-Module-Install-ExtraTests
+  date: 2024-02-21-14-17-34
