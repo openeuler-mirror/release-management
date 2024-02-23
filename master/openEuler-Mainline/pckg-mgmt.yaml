@@ -6299,3 +6299,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-21'
+- name: perl-Config-Tiny
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2024-02-22'
+- name: perl-Config-Any
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-22'
+- name: perl-UNIVERSAL-require
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-22'
