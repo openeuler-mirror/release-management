@@ -16319,3 +16319,23 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-26"
+    - name: spnav
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-26"
+    - name: irobot_create_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-26"
+    - name: libgpiod
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-26"
+    - name: websocketpp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-26"
+    - name: geographiclib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-26"
