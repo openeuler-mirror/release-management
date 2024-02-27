@@ -1577,3 +1577,7 @@ release-change:
     to master:Mainline
   changed_packages: perl-Config-Tiny perl-Config-Any perl-UNIVERSAL-require
   date: 2024-02-23-11-36-41
+- pr: https://gitee.com/openeuler/release-management/pulls/1617
+  description: 25325049 !1617 Move lld from Epol to MultiLanguage
+  changed_packages: lld
+  date: 2024-02-27-19-27-38
