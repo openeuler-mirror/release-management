@@ -487,3 +487,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
   date: "2024-01-29"
+- name: lld
+  obs_from: openEuler:Epol
+  obs_to: openEuler:MultiLanguage
+  date: '2024-02-27'
