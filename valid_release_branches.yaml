@@ -18,6 +18,8 @@ branch:
   - openEuler-23.03
   - humble
   - openEuler-23.09
+  - openEuler-24.03-LTS
+  - openEuler-24.03-LTS-Next
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
@@ -37,6 +39,8 @@ branch:
   openEuler-22.03-LTS:
   - openEuler-22.03-LTS-LoongArch
   - Multi-Version_obs-server-2.10.11_openEuler-22.03-LTS
+  openEuler-24.03-LTS-Next:
+  - openEuler-24.03-LTS
   openEuler-20.03-LTS-SP1:
   - Multi-Version_obs-server-2.10.11_openEuler-22.03-LTS
   - Multi-Version_obs-server-2.10.11_openEuler-22.09
