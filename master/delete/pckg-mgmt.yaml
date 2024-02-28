@@ -49,3 +49,13 @@ packages:
   - name: jspc
   - name: tracker
   - name: tracker-miners
+  - name: R-core
+  - name: adobe-source-code-pro-fonts
+  - name: libdap
+  - name: appstream-data
+  - name: python-crypto
+  - name: python-keyczar
+  - name: deepin-qml-widgets
+  - name: python-CouchDB
+  - name: python-django-babel
+  - name: python-unicodecsv
