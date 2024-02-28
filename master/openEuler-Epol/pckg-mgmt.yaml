@@ -19,10 +19,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: adobe-source-code-pro-fonts
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: alertmanager
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -308,10 +304,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: deepin-music
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: deepin-qml-widgets
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4203,14 +4195,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-03'
-- name: python-CouchDB
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-28'
-- name: python-django-babel
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-28'
 - name: python-fastavro
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4220,10 +4204,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-28'
 - name: python-scandir
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-28'
-- name: python-unicodecsv
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-28'
@@ -5906,4 +5886,4 @@ packages:
 - name: qcoro
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-02-20"
+  date: '2024-02-20'

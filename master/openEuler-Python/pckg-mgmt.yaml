@@ -827,10 +827,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
-- name: python-keyczar
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Python
-  date: '2022-07-26'
 - name: python-keyring
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
@@ -2794,16 +2790,16 @@ packages:
 - name: python-meson-python
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2024-02-20"
+  date: '2024-02-20'
 - name: python-tzdata
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2024-02-20"
+  date: '2024-02-20'
 - name: python-versioneer
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2024-02-20"
+  date: '2024-02-20'
 - name: python-pydantic
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2024-02-21"
+  date: '2024-02-21'

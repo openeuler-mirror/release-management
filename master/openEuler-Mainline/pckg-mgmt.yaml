@@ -95,10 +95,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: appstream-data
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: apr
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -3779,10 +3775,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: python-crypto
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: python-cups
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -5716,10 +5708,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2023-04-27'
 - name: perl-Text-BibTeX
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2023-04-27'
-- name: R-core
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2023-04-27'

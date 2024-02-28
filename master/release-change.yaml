@@ -1581,3 +1581,9 @@ release-change:
   description: 25325049 !1617 Move lld from Epol to MultiLanguage
   changed_packages: lld
   date: 2024-02-27-19-27-38
+- pr: https://gitee.com/openeuler/release-management/pulls/1624
+  description: 71b52ecf !1624 【轻量级 PR】：remove recycle sig packages
+  changed_packages: libdap python-crypto R-core appstream-data python-django-babel
+    deepin-qml-widgets adobe-source-code-pro-fonts python-unicodecsv python-CouchDB
+    python-keyczar
+  date: 2024-02-28-15-27-32
