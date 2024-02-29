@@ -16339,3 +16339,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-26"
+    - name: PilotGo-plugin-syscare
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-02-29"
