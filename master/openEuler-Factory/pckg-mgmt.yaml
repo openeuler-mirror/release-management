@@ -14279,10 +14279,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-10"
-    - name: kiran-manual
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-10"
     - name: ks-ssr
       obs_from: ""
       obs_to: openEuler:Factory
