@@ -58,4 +58,5 @@ packages:
   - name: deepin-qml-widgets
   - name: python-CouchDB
   - name: python-django-babel
+  - name: openstack-releases
   - name: python-unicodecsv
