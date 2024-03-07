@@ -5887,3 +5887,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-02-20'
+- name: nestos-kubernetes-deployer
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-03-05"
+- name: opentofu
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-03-05"
