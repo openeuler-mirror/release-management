@@ -1587,3 +1587,8 @@ release-change:
     deepin-qml-widgets adobe-source-code-pro-fonts python-unicodecsv python-CouchDB
     python-keyczar
   date: 2024-02-28-15-27-32
+- pr: https://gitee.com/openeuler/release-management/pulls/1633
+  description: ba280fa5 !1633 Move nestos-kubernetes-deployer & opentofu from factory
+    to epol
+  changed_packages: nestos-kubernetes-deployer opentofu
+  date: 2024-03-07-10-43-15
