@@ -1592,3 +1592,7 @@ release-change:
     to epol
   changed_packages: nestos-kubernetes-deployer opentofu
   date: 2024-03-07-10-43-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1628
+  description: c2a6fe5d !1628 move kiran-manual from openEuler-Factory to openEuler-Epol
+  changed_packages: kiran-manual
+  date: 2024-03-08-20-36-53
