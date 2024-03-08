@@ -3695,6 +3695,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: kiran-manual
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-03-01"
 - name: gnome-text-editor
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
