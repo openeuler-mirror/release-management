@@ -53,6 +53,38 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[I8ZJFG](https://gitee.com/openeuler/release-management/issues/I8ZJFG)|增加 utshell 项目发布|Discussion|sig-memsafety|[@wangmengc](https://gitee.com/wangmengc/)|EPOL|utshell|
 |[I8ZJGW](https://gitee.com/openeuler/release-management/issues/I8ZJGW)|增加 utsudo 项目发布|Discussion|sig-memsafety|[@ut-wanglujun](https://gitee.com/ut-wanglujun/)|EPOL|utsudo|
 |[I94ET0](https://gitee.com/openeuler/release-management/issues/I94ET0)|发布Nestos-kubernetes-deployer |Discussion|sig-K8sDistro|[@duyiwei7w](https://gitee.com/duyiwei7w)|
+|[I9780H](https://gitee.com/openeuler/release-management/issues/I9780H)| 支持vCPU热插拔 |Discussion|sig-kernel|[@JiaboFeng](https://gitee.com/JiaboFeng)|
+|[I9780Y](https://gitee.com/openeuler/release-management/issues/I9780Y)| A-Ops gala提供网络L4层TCP主流指标观测能力 |Discussion|sig-ops|[@MrRlu](https://gitee.com/MrRlu)|
+|[I97814](https://gitee.com/openeuler/release-management/issues/I97814)| A-Ops gala提供网络L7层RED指标观测能力 |Discussion|sig-ops |[@MrRlu](https://gitee.com/MrRlu)|
+|[I97817](https://gitee.com/openeuler/release-management/issues/I97817)| A-Ops gala提供应用粒度的I/O、CPU、MEM资源占用观测能力|Discussion|sig-ops |[@MrRlu](https://gitee.com/MrRlu)|
+|[I9781E](https://gitee.com/openeuler/release-management/issues/I9781E)| A-Ops gala支持可观测行为的动态变更 |Discussion|sig-ops |[@MrRlu](https://gitee.com/MrRlu)|
+|[I9781K](https://gitee.com/openeuler/release-management/issues/I9781K)|内存潮汐调度：支持serverless容器热备份 |Discussion|sig-kernel |[@ stkid](https://gitee.com/stkid)|
+|[I9782E](https://gitee.com/openeuler/release-management/issues/I9782E)| LLVM版本升级到17.0.6 |Discussion|sig-Compiler |[@ cf-zhao](https://gitee.com/cf-zhao)|
+|[I9784H](https://gitee.com/openeuler/release-management/issues/I9784H)| 支持系统运维套件x-diagnosis |Discussion|sig-ops ||
+|[ I9784N](https://gitee.com/openeuler/release-management/issues/I9784N)| 支持自动化热升级组件nvwa |Discussion|sig-ops ||
+|[ I9785W](https://gitee.com/openeuler/release-management/issues/I9785W)| 支持DPU直连聚合特性 |Discussion|sig-DPU ||
+|[ I9786D](https://gitee.com/openeuler/release-management/issues/I9786D)| 支持系统热修复组件syscare |Discussion|sig-ops ||
+|[ I9786H](https://gitee.com/openeuler/release-management/issues/I9786H)| 支持内存分级扩展组件etmem |Discussion|sig-Storage|[@swf504](https://gitee.com/swf504)|
+|[ I97878](https://gitee.com/openeuler/release-management/issues/I97878)| iSula容器镜像构建工具isula-build |Discussion|sig-iSulad||
+|[ I9787D](https://gitee.com/openeuler/release-management/issues/I9787D)| 一键式、轻量化、可配置集群部署工具eggo |Discussion|sig-isulad ||
+|[ I9787G](https://gitee.com/openeuler/release-management/issues/I9787G)| 支持容器引擎isulad |Discussion|sig-iSulad ||
+|[ I9787L](https://gitee.com/openeuler/release-management/issues/I9787L)| 支持进程完整性防护特性 |Discussion|sig-security-facility |[@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee)|
+|[ I9787O](https://gitee.com/openeuler/release-management/issues/I9787O)| 支持入侵检测框架secDetector|Discussion|sig-security-facility |[@zcfsite](https://gitee.com/zcfsite)|
+|[ I9787P](https://gitee.com/openeuler/release-management/issues/I9787P)| imageTailor支持树莓派镜像定制|Discussion|sig-OS-Builder |[@zhuchunyi](https://gitee.com/zhuchunyi)|
+|[ I9787U](https://gitee.com/openeuler/release-management/issues/I9787U)| 支持secPaver特性 |Discussion|sig-security-facility |[@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee)|
+|[ I9788R](https://gitee.com/openeuler/release-management/issues/I9788R)| 支持机密计算安全应用开发组件 secGear |Discussion|sig-confidential-computing |[@houmingyong](https://gitee.com/houmingyong)|
+|[ I9788S](https://gitee.com/openeuler/release-management/issues/I9788S)| 系统性能自优化组件A-Tune |Discussion|sig-A-Tune|[@ gaoruoshu](https://gitee.com/gaoruoshu)|
+|[ I9788W](https://gitee.com/openeuler/release-management/issues/I9788W)| isocut镜像裁剪易用性提升 |Discussion|sig-OS-Builder |[@zhuchunyi](https://gitee.com/zhuchunyi)|
+|[ I97890](https://gitee.com/openeuler/release-management/issues/I97890)| 支持devmaster组件 |Discussion|sig-dev-utils ||
+|[ I9789Q](https://gitee.com/openeuler/release-management/issues/I9789Q)| 支持TPCM特性 |Discussion|sig-Base-service|[@t_feng](https://gitee.com/t_feng)|
+|[ I9789U](https://gitee.com/openeuler/release-management/issues/I9789U)| 支持sysMaster组件 |Discussion|sig-dev-utils ||
+|[ I9789V](https://gitee.com/openeuler/release-management/issues/I9789V)| 安全配置规范框架设计及核心内容构建 |Discussion|sig-security-facility||
+|[ I9789Y](https://gitee.com/openeuler/release-management/issues/I9789Y)| A-OPS智能运维工具 |Discussion|sig-ops||
+|[ I978A1](https://gitee.com/openeuler/release-management/issues/I978A1)| 支持sysmonitor特性 |Discussion|sig-ops|[@foreson](https://gitee.com/foreson)|
+|[ I978A3](https://gitee.com/openeuler/release-management/issues/I978A3)| kmesh-bwm高性能网络带宽管理 |Discussion|sig-high-performance-network|[@yanan-rock](https://gitee.com/yanan-rock)|
+|[ I978A5](https://gitee.com/openeuler/release-management/issues/I978A5)| Gazelle用户态协议栈 |Discussion|sig-high-performance-network |[@yanan-rock](https://gitee.com/yanan-rock)|
+|[ I978A7](https://gitee.com/openeuler/release-management/issues/I978A7)| 混合部署rubik |Discussion|sig-CloudNative||
+|[ I978AC](https://gitee.com/openeuler/release-management/issues/I978A1)| isulad支持oci runtime并且切换默认runtime为runc |Discussion|sig-iSulad ||
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
