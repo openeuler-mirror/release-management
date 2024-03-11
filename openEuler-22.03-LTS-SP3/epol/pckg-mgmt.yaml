@@ -4925,24 +4925,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP3:Epol
   date: '2023-11-06'
-- name: libcxx
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP3
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP3:Epol
-  date: '2023-11-06'
-- name: libcxxabi
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP3
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP3:Epol
-  date: '2023-11-06'
-- name: llvm-libunwind
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP3
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP3:Epol
-  date: '2023-11-06'
 - name: perl-Linux-Pid
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP3
