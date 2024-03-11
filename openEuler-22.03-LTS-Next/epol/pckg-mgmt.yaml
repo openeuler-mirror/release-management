@@ -5573,12 +5573,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2023-08-29'
-- name: tinytoml
-  source_dir: master
-  destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:22.03:LTS:Next:Epol
-  date: '2023-09-20'
 - name: ft_flutter
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
