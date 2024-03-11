@@ -99,3 +99,7 @@ release-change:
     to everything
   changed_packages: sentencepiece opencl-clhpp opencv
   date: 2023-12-26-21-35-17
+- pr: https://gitee.com/openeuler/release-management/pulls/1647
+  description: b24a65cb !1647 Move kubeos from epol to everything
+  changed_packages: KubeOS
+  date: 2024-03-11-11-20-35
