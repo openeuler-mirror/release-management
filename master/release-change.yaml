@@ -1596,3 +1596,7 @@ release-change:
   description: c2a6fe5d !1628 move kiran-manual from openEuler-Factory to openEuler-Epol
   changed_packages: kiran-manual
   date: 2024-03-08-20-36-53
+- pr: https://gitee.com/openeuler/release-management/pulls/1619
+  description: 9fa0df1a !1619 Move HMCL from factory to mainline
+  changed_packages: HMCL
+  date: 2024-03-11-09-30-47
