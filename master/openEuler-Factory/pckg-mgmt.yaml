@@ -16303,10 +16303,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-21"
-    - name: HMCL
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-02-26"
     - name: ncnn
       obs_from: ""
       obs_to: openEuler:Factory

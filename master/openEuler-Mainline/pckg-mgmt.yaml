@@ -6299,3 +6299,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-02-22'
+- name: HMCL
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-02-27'
