@@ -85,6 +85,7 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[ I978A5](https://gitee.com/openeuler/release-management/issues/I978A5)| Gazelle用户态协议栈 |Discussion|sig-high-performance-network |[@yanan-rock](https://gitee.com/yanan-rock)|
 |[ I978A7](https://gitee.com/openeuler/release-management/issues/I978A7)| 混合部署rubik |Discussion|sig-CloudNative||
 |[ I978AC](https://gitee.com/openeuler/release-management/issues/I978A1)| isulad支持oci runtime并且切换默认runtime为runc |Discussion|sig-iSulad ||
+|[ I97DTY](https://gitee.com/openeuler/release-management/issues/I97DTY)| 支持embedded |Discussion|sig-embedded|[@fanglinxu](https://gitee.com/fanglinxu)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
