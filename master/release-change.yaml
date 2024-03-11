@@ -1610,3 +1610,8 @@ release-change:
     gdal deps
   changed_packages: libdap
   date: 2024-03-11-11-44-23
+- pr: https://gitee.com/openeuler/release-management/pulls/1650
+  description: 4a5681df !1650 Move libdap from master:Factory to master:C for gdal
+    deps
+  changed_packages: libdap
+  date: 2024-03-11-17-27-50
