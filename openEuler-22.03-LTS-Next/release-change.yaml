@@ -576,3 +576,7 @@ release-change:
     to openEuler-22.03-LTS-Next
   changed_packages: libcxx libcxxabi llvm-libunwind
   date: 2024-03-08-20-28-03
+- pr: https://gitee.com/openeuler/release-management/pulls/1605
+  description: 12bdc36e !1605 move tinytoml from epol to everything
+  changed_packages: tinytoml
+  date: 2024-03-11-09-29-48
