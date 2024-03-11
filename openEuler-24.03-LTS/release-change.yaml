@@ -3,3 +3,7 @@ release-change:
   description: b24a65cb !1647 Move kubeos from epol to everything
   changed_packages: KubeOS
   date: 2024-03-11-11-20-35
+- pr: https://gitee.com/openeuler/release-management/pulls/1645
+  description: af114e7e !1645 move tinytoml from epol to everything
+  changed_packages: tinytoml
+  date: 2024-03-11-11-43-30
