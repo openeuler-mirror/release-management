@@ -9703,10 +9703,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-semver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-sentry-sdk
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11619,10 +11615,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: dumb-init
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-pypiserver
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11676,10 +11668,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: marvelldriver
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: butane
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
