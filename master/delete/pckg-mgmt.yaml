@@ -51,7 +51,6 @@ packages:
   - name: tracker-miners
   - name: R-core
   - name: adobe-source-code-pro-fonts
-  - name: libdap
   - name: appstream-data
   - name: python-crypto
   - name: python-keyczar
