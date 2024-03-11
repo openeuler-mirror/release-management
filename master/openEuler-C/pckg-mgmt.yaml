@@ -4075,3 +4075,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-02-04'
+- name: libdap
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-03-11'
