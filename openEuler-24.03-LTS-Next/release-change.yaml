@@ -7,3 +7,7 @@ release-change:
   description: af114e7e !1645 move tinytoml from epol to everything
   changed_packages: tinytoml
   date: 2024-03-11-11-43-30
+- pr: https://gitee.com/openeuler/release-management/pulls/1649
+  description: f4035cde !1649 Move libcxx libcxxabi llvm-libunwind to everything
+  changed_packages: libcxx libcxxabi llvm-libunwind
+  date: 2024-03-11-17-32-14
