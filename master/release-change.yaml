@@ -1600,3 +1600,8 @@ release-change:
   description: 9fa0df1a !1619 Move HMCL from factory to mainline
   changed_packages: HMCL
   date: 2024-03-11-09-30-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1643
+  description: 94a87794 !1643 Move butane,dumb-init,python-semver from Factory to
+    Epol
+  changed_packages: dumb-init butane python-semver
+  date: 2024-03-11-09-37-12
