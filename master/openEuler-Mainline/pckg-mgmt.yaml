@@ -4947,10 +4947,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2022-07-28'
-- name: openstack-releases
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2022-07-28'
 - name: postgresql-odbc
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
