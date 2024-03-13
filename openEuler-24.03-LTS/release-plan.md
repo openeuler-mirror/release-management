@@ -87,6 +87,8 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[ I978AC](https://gitee.com/openeuler/release-management/issues/I978A1)| isulad支持oci runtime并且切换默认runtime为runc |Discussion|sig-iSulad ||
 |[ I97DTY](https://gitee.com/openeuler/release-management/issues/I97DTY)| 支持embedded |Discussion|sig-embedded|[@fanglinxu](https://gitee.com/fanglinxu)|
 |[I942Y9](https://gitee.com/openeuler/release-management/issues/I942Y9)|发布PilotGo及其插件特性新版本 |Discussion|sig-ops|[@yangzhao_kl](https://gitee.com/yangzhao_kl)|
+|[I95KTM](https://gitee.com/openeuler/release-management/issues/I95KTM)|UKUI支持|Discussion|sig-UKUI|[@hua_yadong](https://gitee.com/hua_yadong)|
+
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
