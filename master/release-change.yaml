@@ -1619,3 +1619,7 @@ release-change:
   description: f91ffca4 !1634 移除openstack-releases
   changed_packages: openstack-releases
   date: 2024-03-12-15-19-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1655
+  description: ed5341c3 !1655 Move libmysofa from openEuler:Factory to openEuler:C
+  changed_packages: libmysofa
+  date: 2024-03-15-14-33-28
