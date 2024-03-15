@@ -16343,3 +16343,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-14"
+    - name: nodejs-make-fetch-happen
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-15"
+    - name: nodejs-env-paths
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-15"
