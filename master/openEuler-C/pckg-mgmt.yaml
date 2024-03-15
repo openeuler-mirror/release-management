@@ -4079,3 +4079,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-03-11'
+- name: libmysofa
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-03-15'
