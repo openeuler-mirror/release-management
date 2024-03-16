@@ -16351,3 +16351,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-15"
+    - name: perl-DBIx-Class-Storage-Statistics
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-16"
