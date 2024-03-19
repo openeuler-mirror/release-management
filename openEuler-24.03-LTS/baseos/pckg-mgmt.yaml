@@ -575,12 +575,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: esc
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: ethtool
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -737,48 +731,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: gnome-getting-started-docs
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-icon-theme
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-keyring
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-online-accounts
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-themes-standard
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-user-docs
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-vfs2
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: gnu-free-fonts
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -828,12 +780,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: gsm
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gspell
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -1301,12 +1247,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: libbonoboui
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: libburn
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -1452,18 +1392,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: libglade2
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: libgnome
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: libgnomecanvas
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -3101,18 +3029,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: xdg-desktop-portal
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: xdg-desktop-portal-gtk
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: xdg-user-dirs
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -3893,12 +3809,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: cheese
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: cjkuni-ukai-fonts
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -4001,25 +3911,7 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: evince
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: evolution-data-server
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: fftw
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: file-roller
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -4073,12 +3965,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: gdm
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: gjs
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -4098,54 +3984,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: gnome-autoar
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-color-manager
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-control-center
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-font-viewer
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-menus
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-screenshot
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-session
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-settings-daemon
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-shell
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -4193,12 +4031,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: gvfs
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: http-parser
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -4218,12 +4050,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: ibus-table
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: initial-setup
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -4476,12 +4302,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: libosinfo
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: libpeas
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -4746,12 +4566,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: nafees-web-naskh-fonts
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: nautilus
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -5525,12 +5339,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: pipewire
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: pixman
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -6065,12 +5873,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: tracker3-miners
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: tzdata
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -6239,12 +6041,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: eog
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: gdk-pixbuf2
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -6258,18 +6054,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: geocode-glib
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-bluetooth
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gnome-desktop3
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -6294,12 +6078,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: gsettings-desktop-schemas
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: gsound
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -6330,12 +6108,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: libdazzle
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: libgdata
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next
@@ -6383,12 +6155,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: mutter
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: network-manager-applet
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -6402,12 +6168,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: totem-pl-parser
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: tracker3
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next

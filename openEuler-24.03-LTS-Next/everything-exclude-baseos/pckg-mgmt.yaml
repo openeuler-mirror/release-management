@@ -191,12 +191,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: brasero
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: bullet
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -1128,12 +1122,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: libgnome-keyring
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: libgnomeui
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:C
@@ -7565,12 +7553,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: blivet-gui
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: boom-boot
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7859,12 +7841,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: folks
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: fonts-tweak-tool
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7986,12 +7962,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: google-roboto-slab-fonts
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: grilo-plugins
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
@@ -11814,12 +11784,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: syslinux
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: system-config-printer
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
@@ -22193,4 +22157,15 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-11'
-
+- name: tracker3
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Meson
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-03-19'
+- name: pipewire
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-03-19'

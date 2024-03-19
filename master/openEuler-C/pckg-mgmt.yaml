@@ -235,10 +235,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: brasero
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: bubblewrap
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -667,10 +663,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: esc
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: espeak-ng
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -907,34 +899,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: gnome-getting-started-docs
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-icon-theme
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-keyring
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-online-accounts
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-themes-standard
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-user-docs
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gnome-vfs2
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: gnu-efi
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -980,10 +944,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: gsm
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gspell
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -1511,10 +1471,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: libbonoboui
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: libboundscheck
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -1687,23 +1643,11 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: libgnome
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: libgnome-keyring
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: libgnomecanvas
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: libgnomekbd
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: libgnomeui
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -3800,14 +3744,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: xdg-dbus-proxy
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: xdg-desktop-portal
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: xdg-desktop-portal-gtk
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'

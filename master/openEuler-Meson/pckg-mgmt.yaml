@@ -35,10 +35,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
-- name: eog
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
 - name: gcab
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
@@ -59,15 +55,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
-- name: gnome-bluetooth
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
 - name: gnome-calculator
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
-- name: gnome-desktop3
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
@@ -88,10 +76,6 @@ packages:
   obs_to: openEuler:Meson
   date: '2022-07-26'
 - name: gsettings-desktop-schemas
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
-- name: gsound
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
@@ -120,10 +104,6 @@ packages:
   obs_to: openEuler:Meson
   date: '2022-07-26'
 - name: libdazzle
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
-- name: libgdata
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
@@ -168,10 +148,6 @@ packages:
   obs_to: openEuler:Meson
   date: '2022-07-26'
 - name: mm-common
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Meson
-  date: '2022-07-26'
-- name: mutter
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'

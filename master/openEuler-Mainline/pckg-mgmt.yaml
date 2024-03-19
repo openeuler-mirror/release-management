@@ -175,10 +175,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: blivet-gui
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: blktrace
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -240,10 +236,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: cfitsio
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: cheese
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -447,14 +439,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: evince
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: evolution-data-server
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: fakechroot
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -479,10 +463,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: file-roller
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: filesystem
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -504,10 +484,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: fmpp
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: folks
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -559,10 +535,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: gdm
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: gegl04
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -607,39 +579,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: gnome-color-manager
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-control-center
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: gnome-doc-utils
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-font-viewer
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-menus
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-screenshot
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-session
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-settings-daemon
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnome-shell
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -683,10 +623,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: grilo-plugins
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: grpc
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -708,10 +644,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: gutenprint
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gvfs
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -1383,10 +1315,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: initial-setup
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: inst-source-utils
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -1688,10 +1616,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: libosinfo
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: libpeas
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -2072,10 +1996,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-09-07'
 - name: native-platform
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: nautilus
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -4383,10 +4303,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: system-config-printer
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: system-storage-manager
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -4552,10 +4468,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: tibetan-machine-uni-fonts
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: tracker3-miners
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
