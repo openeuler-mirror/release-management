@@ -7553,3 +7553,15 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
+- name: nestos-kubernetes-deployer
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-03-19'
+- name: opentofu
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-03-19'
