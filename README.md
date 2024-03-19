@@ -36,8 +36,13 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 | :-------------: |:--------:| :-----|
 |胡峰 | [@solarhu](https://gitee.com/solarhu)| solar.hu@huawei.com|
 |黄诚飘|[@paul-huang](https://gitee.com/paul-huang)|huangchengpiao@huawei.com|
-|陈亚强  | [@chenyaqiang](https://gitee.com/chenyaqiang)|  chen_yaqiang@foxmail.com|
+|陈亚强| [@chenyaqiang](https://gitee.com/chenyaqiang)|  chen_yaqiang@foxmail.com|
 |车明道| [@gitee-cmd](https://gitee.com/gitee-cmd) | chemingdao@huawei.com|
+|曾卫峰| [@zengwefeng](https://gitee.com/zengwefeng) | zwfeng@huawei.com |
+|林培峰| [@linfong](https://gitee.com/linfong) | linpeifeng@kylinos.cn |
+|何柯依| [@hekeyi](https://gitee.com/hekeyi) | hekeyi@uniontech.com |
+|叶青龙| [@yeqinglong01](https://gitee.com/yeqinglong01) | yeqinglong@kylinsec.com.cn |
+|侯芳东| [@SmallPegasus](https://gitee.com/SmallPegasus) | houfangdong@loongson.cn |
 
 **Commiter:**
 |团队| 姓名| GiteeID           | 邮件地址  |
@@ -46,16 +51,16 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |华为-openEuler|明沛| [@dolphin-m](https://gitee.com/dolphin-m) | mingpei@huawei.com|
 |麒麟|沈永康|	|	|
 |麒麟|刘涛|	|	|
+|麒麟|杨昭| [@yangzhao_kl](https://gitee.com/yangzhao_kl) | yangzhao1@kylinos.cn |
 |超聚变|徐磊|	|	|
 |超聚变|陈家龙|	|	|
 |SUSE|魏强|	|	|
 |SUSE|毛晨曦|	|	|
 |华为-庞加莱|廖清伟| [@liaoqingwei](https://gitee.com/liaoqingwei) | liaoqingwei@huawei.com |
-|华为-庞加莱|曾卫峰|	|	|
 |华为|王晔晖|    |    |
 |华为-openEuler|沐钰莹| [@muyuying1](https://gitee.com/muyuying1) | muyuying1@huawei.com |
 |统信|吕从庆|	|	|
-|统信|潘晨博|	|	|
+| 统信 | 杨飞 | [@yangfeiqqq](https://gitee.com/yangfeiqqq) | yangfei@uniontech.com |
 |拓林思|丁文龙|	[@dwl301](https://gitee.com/dwl301) | wenlong.ding@turbolinux.com.cn |
 |拓林思|庄小凡|	[@zxf-tl](https://gitee.com/zxf-tl) | xiaofan.zhuang@turbolinux.com.cn |
 |申威|倪杰|	|	|
@@ -63,17 +68,23 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |中科院-软件所|席静|	|	|
 |中科院-软件所|周嘉诚|	|	|
 |中科院-软件所|汪洋|	|	|
+|中科院-软件所|王经纬| [@Jingwiw](https://gitee.com/Jingwiw) | wangjingwei@iscas.ac.cn |
 |麒麟信安|周强|	|	|
 |麒麟信安|唐杰|	|	|
 |麒麟信安|柳鑫浩|	|	|
 |麒麟信安|罗清|	|	|
+|麒麟信安|潘晨博| [@panchenbo](https://gitee.com/panchenbo) | panchenbo@kylinsec.com.cn |
+|麒麟信安|廖卫| [@liao_wei000](https://gitee.com/liao_wei000) | liaowei@kylinsec.com.cn |
 |普华软件|刘家杰|	|	|
 |龙芯|李星|	|	|
-|龙芯|侯芳东|	|	|
+|龙芯|张文龙| [@zhangwenlong01](https://gitee.com/zhangwenlong01) | zhangwenlong@loongson.cn |
 |移动苏研|魏明江 |	|	|
 |电信天翼云|杨桃  |	|	|
 |联通数科|孙志刚   |	|	|
 |国创中心|王新发   |	|	|
+| Intel | 田俊 | [@juntianlinux](https://gitee.com/juntianlinux) | jun.j.tian@intel.com |
+| 华为 | 刘松灵 | [@songling-olk](https://gitee.com/songling-olk) | liusongling1@huawei.com |
+| 华为 | 范佳臣 | [@disnight](https://gitee.com/disnight) | fanjiachen3@huawei.com |
 
 
 **Honor Maintainer**
