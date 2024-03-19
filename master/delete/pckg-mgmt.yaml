@@ -59,3 +59,4 @@ packages:
   - name: python-django-babel
   - name: openstack-releases
   - name: python-unicodecsv
+  - name: rhnlib
