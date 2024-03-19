@@ -1623,3 +1623,14 @@ release-change:
   description: ed5341c3 !1655 Move libmysofa from openEuler:Factory to openEuler:C
   changed_packages: libmysofa
   date: 2024-03-15-14-33-28
+- pr: https://gitee.com/openeuler/release-management/pulls/1660
+  description: 4baf5ad2 !1660 move some gnome and desktop sig packages to epol or
+    everything
+  changed_packages: gnome-font-viewer gnome-screenshot eog file-roller gnome-getting-started-docs
+    gnome-user-docs gnome-color-manager gnome-icon-theme evince brasero nautilus libgnomeui
+    libbonoboui libgnome gnome-vfs2 gvfs gnome-session gdm gnome-shell system-config-printer
+    blivet-gui evolution-data-server folks esc mutter gnome-settings-daemon xdg-desktop-portal-gtk
+    cheese gnome-keyring grilo-plugins libgdata gnome-control-center gnome-online-accounts
+    gnome-themes-standard gsound gspell libgnomecanvas libpeas tracker3-miners gnome-bluetooth
+    gnome-desktop3 gnome-menus xdg-desktop-portal initial-setup
+  date: 2024-03-19-16-11-35
