@@ -11,3 +11,7 @@ release-change:
   description: f4035cde !1649 Move libcxx libcxxabi llvm-libunwind to everything
   changed_packages: libcxx libcxxabi llvm-libunwind
   date: 2024-03-11-17-32-14
+- pr: https://gitee.com/openeuler/release-management/pulls/1662
+  description: 9b555f44 !1662 Move nestos-kubernetes-deployer and opentofu to openEuler-24.03-LTS:epol
+  changed_packages: nestos-kubernetes-deployer opentofu
+  date: 2024-03-19-15-23-29
