@@ -89,7 +89,7 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[I942Y9](https://gitee.com/openeuler/release-management/issues/I942Y9)|发布PilotGo及其插件特性新版本 |Discussion|sig-ops|[@yangzhao_kl](https://gitee.com/yangzhao_kl)|
 |[I95KTM](https://gitee.com/openeuler/release-management/issues/I95KTM)|UKUI支持|Discussion|sig-UKUI|[@hua_yadong](https://gitee.com/hua_yadong)|
 |[I98UXD](https://gitee.com/openeuler/release-management/issues/I98UXD)|支持ROS2-humble和ROS1-noetic基础版|Discussion|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
-
+|[I985WB](https://gitee.com/openeuler/release-management/issues/I985WB) | 支持 OpenStack Wallaby、Antelope 多版本 | Discussion | sig-openstack | [@han-guangyu](https://gitee.com/han-guangyu) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
