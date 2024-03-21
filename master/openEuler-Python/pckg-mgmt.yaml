@@ -2803,3 +2803,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-02-21'
+- name: python-sphinxcontrib-jquery
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-03-21'
