@@ -1638,3 +1638,8 @@ release-change:
   description: 183ae5cd !1661 Remove recessionary package rhnlib
   changed_packages: rhnlib
   date: 2024-03-20-17-26-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1670
+  description: 039fe361 !1670 Move python-sphinxcontrib-jquery from openEuler:Factory
+    to openEuler:Python
+  changed_packages: python-sphinxcontrib-jquery
+  date: 2024-03-21-15-35-54
