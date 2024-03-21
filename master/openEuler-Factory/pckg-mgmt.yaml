@@ -14147,10 +14147,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-sphinxcontrib-jquery
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-uvicorn
       obs_from: ""
       obs_to: openEuler:Factory
