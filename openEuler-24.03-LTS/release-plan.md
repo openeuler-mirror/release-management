@@ -90,6 +90,13 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[I95KTM](https://gitee.com/openeuler/release-management/issues/I95KTM)|UKUI支持|Discussion|sig-UKUI|[@hua_yadong](https://gitee.com/hua_yadong)|
 |[I98UXD](https://gitee.com/openeuler/release-management/issues/I98UXD)|支持ROS2-humble和ROS1-noetic基础版|Discussion|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
 |[I985WB](https://gitee.com/openeuler/release-management/issues/I985WB) | 支持 OpenStack Wallaby、Antelope 多版本 | Discussion | sig-openstack | [@han-guangyu](https://gitee.com/han-guangyu) |
+|[I97AX0](https://gitee.com/openeuler/release-management/issues/I97AX0)| 社区签名体系建立 |Discussion|sig-security-facility |[@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee)|
+|[I97D8Z](https://gitee.com/openeuler/release-management/issues/I97D8Z)| 智能问答在线服务 |Discussion| |[@fromhsc](https://gitee.com/fromhsc)|
+|[I97IVO](https://gitee.com/openeuler/release-management/issues/I97IVO)| 支持国密特性 |Discussion|sig-security-facility |[@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee)|
+|[ I980D1](https://gitee.com/openeuler/release-management/issues/I980D1)| Gazelle支持UDP协议栈|Discussion|sig-high-performance-network |[@yanan-rock](https://gitee.com/yanan-rock)|
+|[I8ZTS2](https://gitee.com/openeuler/release-management/issues/I8ZTS2)| 增加 AO.space 项目发布 |Discussion|sig-RaspberryPi  |[@jianminw](https://gitee.com/jianminw)|
+|[I8XFUF](https://gitee.com/openeuler/release-management/issues/I8XFUF)| 合入GreatSQL 8.0.32-25及更高版本 |Discussion| |[@GreatSQL_admin](https://gitee.com/GreatSQL_admin)|
+|[I8YUI2](https://gitee.com/openeuler/release-management/issues/I8YUI2)| 发布elastisearch-py 7.13.4版本 |Discussion| |[@lin-shoubao](https://gitee.com/lin-shoubao)|
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
