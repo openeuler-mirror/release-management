@@ -97,6 +97,7 @@ openEuler 24.03 LTS是基于6.6内核的长周期LTS版本（参见[版本生命
 |[I8ZTS2](https://gitee.com/openeuler/release-management/issues/I8ZTS2)| 增加 AO.space 项目发布 |Discussion|sig-RaspberryPi  |[@jianminw](https://gitee.com/jianminw)|
 |[I8XFUF](https://gitee.com/openeuler/release-management/issues/I8XFUF)| 合入GreatSQL 8.0.32-25及更高版本 |Discussion| |[@GreatSQL_admin](https://gitee.com/GreatSQL_admin)|
 |[I8YUI2](https://gitee.com/openeuler/release-management/issues/I8YUI2)| 发布elastisearch-py 7.13.4版本 |Discussion| |[@lin-shoubao](https://gitee.com/lin-shoubao)|
+|[I9B6RR](https://gitee.com/openeuler/release-management/issues/I9B6RR)| ZGCLab 发布内核安全增强补丁 | Discussion | sig-kernel | [@amjac](https://gitee.com/amjac) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
