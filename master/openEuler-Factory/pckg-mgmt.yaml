@@ -16359,3 +16359,23 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-18"
+    - name: perl-SQL-Abstract-Classic
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-25"
+    - name: oeAware-scenario
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-25"
+    - name: oeAware-tune
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-25"
+    - name: oeAware-collector
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-25"
+    - name: oeAware-manager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-25"
