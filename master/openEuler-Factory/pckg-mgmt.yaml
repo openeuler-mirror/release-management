@@ -16379,3 +16379,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-25"
+    - name: ao.space
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-03-25"
