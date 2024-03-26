@@ -14,16 +14,15 @@ packages:
   - name: lustre-e2fsprogs
   - name: lldpd
   - name: eclipse-jgit
-  - name: python-Cython 
-  - name: PyPAM 
-  - name: python-wrapt-1.10 
-  - name: python-contextlib2 
-  - name: mozjs78 
+  - name: python-Cython
+  - name: PyPAM
+  - name: python-wrapt-1.10
+  - name: python-contextlib2
+  - name: mozjs78
   - name: dleyna-server
   - name: dleyna-renderer
   - name: dleyna-core
   - name: dleyna-connector-dbus
-  - name: optimized-routines
   - name: libkae
   - name: perl-Test-CPAN-Meta
   - name: perl-Test-CPAN-Meta-JSON
