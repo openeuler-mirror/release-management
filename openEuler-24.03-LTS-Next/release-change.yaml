@@ -30,3 +30,7 @@ release-change:
   description: 230f45ef !1668 Remove fence-virt from openEuler-24.03-LTS\Next
   changed_packages: fence-virt
   date: 2024-03-20-15-21-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1676
+  description: 686efb0a !1676 move kiran-manual to obs-openEuler:24.03:LTS:Epol
+  changed_packages: kiran-manual
+  date: 2024-03-26-20-40-37

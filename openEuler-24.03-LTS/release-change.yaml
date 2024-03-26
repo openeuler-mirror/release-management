@@ -35,3 +35,7 @@ release-change:
     PilotGo-plugin-a-tune PilotGo-plugin-topology
   changed_packages: PilotGo-plugin-topology PilotGo-plugin-a-tune prometheus-ha_cluster_exporter
   date: 2024-03-26-10-57-35
+- pr: https://gitee.com/openeuler/release-management/pulls/1676
+  description: 686efb0a !1676 move kiran-manual to obs-openEuler:24.03:LTS:Epol
+  changed_packages: kiran-manual
+  date: 2024-03-26-20-40-37
