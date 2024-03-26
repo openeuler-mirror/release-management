@@ -16319,10 +16319,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-04"
-    - name: poissonsearch-oss
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-07"
     - name: classic-flang
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16355,10 +16351,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-16"
-    - name: poissonsearch-py
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-18"
     - name: perl-SQL-Abstract-Classic
       obs_from: ""
       obs_to: openEuler:Factory
