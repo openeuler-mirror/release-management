@@ -1643,3 +1643,7 @@ release-change:
     to openEuler:Python
   changed_packages: python-sphinxcontrib-jquery
   date: 2024-03-21-15-35-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1677
+  description: 0084eb43 !1677 移动poissonsearch-oss poissonsearch-py到master:epol
+  changed_packages: poissonsearch-oss poissonsearch-py
+  date: 2024-03-26-12-32-00
