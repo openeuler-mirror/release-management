@@ -30,3 +30,8 @@ release-change:
   description: 230f45ef !1668 Remove fence-virt from openEuler-24.03-LTS\Next
   changed_packages: fence-virt
   date: 2024-03-20-15-21-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1675
+  description: 8f40048e !1675 Add openEuler-24.03-LTS\Next for prometheus-ha_cluster_exporter
+    PilotGo-plugin-a-tune PilotGo-plugin-topology
+  changed_packages: PilotGo-plugin-topology PilotGo-plugin-a-tune prometheus-ha_cluster_exporter
+  date: 2024-03-26-10-57-35
