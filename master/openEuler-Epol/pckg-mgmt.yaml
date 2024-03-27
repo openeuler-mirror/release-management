@@ -6095,3 +6095,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-03-26"
+- name: PilotGo-plugin-topology
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-03-27"
+- name: PilotGo-plugin-a-tune
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-03-27"
