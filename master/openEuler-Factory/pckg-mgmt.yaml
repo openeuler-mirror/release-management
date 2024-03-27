@@ -14831,10 +14831,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-08"
-    - name: PilotGo-plugin-topology
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-09"
     - name: software-package-server
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16039,10 +16035,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-12-02"
-    - name: prometheus-ha_cluster_exporter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-12-02"
     - name: doris
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16231,10 +16223,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-01-05"
-    - name: PilotGo-plugin-a-tune
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-01-11"
     - name: CyclOne
       obs_from: ""
       obs_to: openEuler:Factory
