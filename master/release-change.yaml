@@ -1647,3 +1647,8 @@ release-change:
   description: 0084eb43 !1677 移动poissonsearch-oss poissonsearch-py到master:epol
   changed_packages: poissonsearch-oss poissonsearch-py
   date: 2024-03-26-12-32-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1679
+  description: a84f0508 !1679 Move prometheus-ha_cluster_exporter PilotGo-plugin-a-tune
+    PilotGo-plugin-topology from Factory to Mainline\Epol
+  changed_packages: PilotGo-plugin-topology PilotGo-plugin-a-tune prometheus-ha_cluster_exporter
+  date: 2024-03-27-10-47-55
