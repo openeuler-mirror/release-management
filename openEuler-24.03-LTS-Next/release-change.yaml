@@ -39,3 +39,7 @@ release-change:
     PilotGo-plugin-a-tune PilotGo-plugin-topology
   changed_packages: PilotGo-plugin-topology PilotGo-plugin-a-tune prometheus-ha_cluster_exporter
   date: 2024-03-29-10-51-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1683
+  description: 0e2f1cc2 !1683 move syscare from epol to everything
+  changed_packages: syscare
+  date: 2024-03-29-19-17-57

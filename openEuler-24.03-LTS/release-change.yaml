@@ -39,3 +39,7 @@ release-change:
   description: 686efb0a !1676 move kiran-manual to obs-openEuler:24.03:LTS:Epol
   changed_packages: kiran-manual
   date: 2024-03-26-20-40-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1683
+  description: 0e2f1cc2 !1683 move syscare from epol to everything
+  changed_packages: syscare
+  date: 2024-03-29-19-17-57
