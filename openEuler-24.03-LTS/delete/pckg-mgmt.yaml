@@ -1,2 +1,8 @@
 packages:
 - name: fence-virt
+- name: clang-15
+- name: llvm-15
+- name: lld-15
+- name: llvm-bolt-15
+- name: libcxxabi
+- name: llvm-libunwind
