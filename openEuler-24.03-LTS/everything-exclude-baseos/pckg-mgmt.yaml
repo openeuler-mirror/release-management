@@ -22169,3 +22169,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-26'
+- name: syscare
+  source_dir: openEuler-24.03-LTS
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Epol
+  obs_to: openEuler:24.03:LTS
+  date: '2024-03-29'
