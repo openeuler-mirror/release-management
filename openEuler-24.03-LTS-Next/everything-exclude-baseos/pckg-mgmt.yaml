@@ -14585,30 +14585,6 @@ packages:
   obs_from: openEuler:MultiLanguage
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: clang-15
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: llvm-15
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: lld-15
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: llvm-bolt-15
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: gdal
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -22134,18 +22110,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-11'
 - name: libcxx
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-11'
-- name: libcxxabi
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-11'
-- name: llvm-libunwind
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:24.03:LTS:Next:Epol

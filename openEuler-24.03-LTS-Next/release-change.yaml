@@ -43,3 +43,7 @@ release-change:
   description: 0e2f1cc2 !1683 move syscare from epol to everything
   changed_packages: syscare
   date: 2024-03-29-19-17-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1681
+  description: 6cac4824 !1681 Remove some llvm packages from openEuler-24.03-LTS&openEuler-24.03-LTS-Next
+  changed_packages: llvm-15 llvm-bolt-15 clang-15 libcxxabi llvm-libunwind lld-15
+  date: 2024-03-30-10-37-49
