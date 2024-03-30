@@ -2567,3 +2567,39 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
   date: '2024-03-19'
+- name: openstack-macros
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-03-30'
+- name: ovn
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-03-30'
+- name: openstack-ironic-python-agent-builder
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-03-30'
+- name: python-txaio
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-03-30'
+- name: python-zVMCloudConnector
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-03-30'
+- name: python-cryptography-vectors
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-03-30'
