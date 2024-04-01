@@ -47,3 +47,7 @@ release-change:
   description: 6cac4824 !1681 Remove some llvm packages from openEuler-24.03-LTS&openEuler-24.03-LTS-Next
   changed_packages: llvm-15 llvm-bolt-15 clang-15 libcxxabi llvm-libunwind lld-15
   date: 2024-03-30-10-37-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1687
+  description: 0ad5eb27 !1687 add butane、python-semver、dumb-init to openEuler:24.03:LTS:Next:Epol
+  changed_packages: dumb-init python-semver butane
+  date: 2024-04-01-15-59-39
