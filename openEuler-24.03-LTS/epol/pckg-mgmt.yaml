@@ -7841,3 +7841,21 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-26'
+- name: dumb-init
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-04-01'
+- name: python-semver
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-04-01'
+- name: butane
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-04-01'
