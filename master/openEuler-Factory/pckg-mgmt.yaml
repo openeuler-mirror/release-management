@@ -16371,3 +16371,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-29"
+    - name: libservicelog
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-02"
+    - name: libvpd
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-02"
+    - name: librtas
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-02"
