@@ -22133,3 +22133,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-30'
+- name: optimized-routines
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2024-04-02'
