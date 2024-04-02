@@ -11999,12 +11999,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
-- name: drbd
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
 - name: python-pytest-xprocess
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -12354,12 +12348,6 @@ packages:
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
 - name: kafka
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS
-  date: '2024-03-08'
-- name: kmod-drbd90
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next

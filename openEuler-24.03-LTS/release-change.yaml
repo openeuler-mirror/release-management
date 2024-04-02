@@ -51,3 +51,7 @@ release-change:
   description: f643ca37 !1689 add butane、python-semver、dumb-init to openEuler:24.03:LTS:Epol
   changed_packages: dumb-init python-semver butane
   date: 2024-04-02-14-30-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1691
+  description: f42dcd3b !1691 Remove drbd kmod-drbd90 from openEuler-24.03-LTS
+  changed_packages: drbd kmod-drbd90
+  date: 2024-04-02-18-45-33
