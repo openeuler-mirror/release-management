@@ -1656,3 +1656,7 @@ release-change:
   description: 8af57503 !1674 Reintroduce deleted optimized-routines.
   changed_packages: optimized-routines
   date: 2024-04-02-19-40-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1684
+  description: e3d36167 !1684 poissonsearch-oss和poissonsearch-py从22.03-LTS-SP3 epol挪到everything
+  changed_packages: poissonsearch-oss poissonsearch-py
+  date: 2024-04-03-18-22-37
