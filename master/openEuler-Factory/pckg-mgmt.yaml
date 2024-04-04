@@ -16387,3 +16387,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-02"
+    - name: servicelog
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-04"
