@@ -6211,3 +6211,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-03-27'
+- name: libservicelog
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-04-07'
+- name: libvpd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-04-07'
+- name: librtas
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-04-07'
+- name: servicelog
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-04-07'
