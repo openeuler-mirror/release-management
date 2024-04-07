@@ -51,3 +51,7 @@ release-change:
   description: 0ad5eb27 !1687 add butane、python-semver、dumb-init to openEuler:24.03:LTS:Next:Epol
   changed_packages: dumb-init python-semver butane
   date: 2024-04-01-15-59-39
+- pr: https://gitee.com/openeuler/release-management/pulls/1692
+  description: 687913c8 !1692 Add branches for optimized routines.
+  changed_packages: optimized-routines
+  date: 2024-04-07-15-18-43

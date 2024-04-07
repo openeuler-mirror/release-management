@@ -55,3 +55,7 @@ release-change:
   description: f42dcd3b !1691 Remove drbd kmod-drbd90 from openEuler-24.03-LTS
   changed_packages: drbd kmod-drbd90
   date: 2024-04-02-18-45-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1692
+  description: 687913c8 !1692 Add branches for optimized routines.
+  changed_packages: optimized-routines
+  date: 2024-04-07-15-18-43
