@@ -2603,3 +2603,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
   date: '2024-03-30'
+- name: python-sphinxcontrib-devhelp
+  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Wallaby
+  date: '2024-04-03'
