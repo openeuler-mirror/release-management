@@ -6095,3 +6095,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-03-27"
+- name: ao.space
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-04-08"
