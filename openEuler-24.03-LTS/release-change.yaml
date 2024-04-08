@@ -59,3 +59,7 @@ release-change:
   description: 687913c8 !1692 Add branches for optimized routines.
   changed_packages: optimized-routines
   date: 2024-04-07-15-18-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1696
+  description: fe6881a9 !1696 将ao.space移到epol下同时添加到 24.03-LTS/24.03-LTS-Next
+  changed_packages: ao.space
+  date: 2024-04-08-16-19-00

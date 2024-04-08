@@ -1665,3 +1665,7 @@ release-change:
     to master:Mainline for new pkgs only in powerpc arch
   changed_packages: libservicelog libvpd librtas servicelog
   date: 2024-04-07-15-17-27
+- pr: https://gitee.com/openeuler/release-management/pulls/1696
+  description: fe6881a9 !1696 将ao.space移到epol下同时添加到 24.03-LTS/24.03-LTS-Next
+  changed_packages: ao.space
+  date: 2024-04-08-16-19-00
