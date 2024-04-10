@@ -16375,3 +16375,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-07"
+    - name: penglai-enclave-driver
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-10"
+    - name: penglai-enclave-demo
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-10"
+    - name: penglai-enclave-sdk
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-10"
