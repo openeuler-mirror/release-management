@@ -6,3 +6,4 @@ packages:
 - name: llvm-bolt-15
 - name: libcxxabi
 - name: llvm-libunwind
+- name: mysql5
