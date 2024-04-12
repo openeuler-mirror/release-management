@@ -8,3 +8,4 @@ packages:
 - name: llvm-libunwind
 - name: drbd
 - name: kmod-drbd90
+- name: mysql5

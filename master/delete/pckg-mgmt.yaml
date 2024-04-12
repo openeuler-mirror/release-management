@@ -59,3 +59,4 @@ packages:
   - name: openstack-releases
   - name: python-unicodecsv
   - name: rhnlib
+  - name: mysql5
