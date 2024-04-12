@@ -59,3 +59,7 @@ release-change:
   description: fe6881a9 !1696 将ao.space移到epol下同时添加到 24.03-LTS/24.03-LTS-Next
   changed_packages: ao.space
   date: 2024-04-08-16-19-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1700
+  description: 4bf78bd9 !1700 Remove mysql5 from master and openEuler-24.03-LTS/Next
+  changed_packages: mysql5
+  date: 2024-04-12-09-22-08
