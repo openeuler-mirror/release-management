@@ -16391,3 +16391,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-13"
+    - name: AFLplusplus
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-13"
