@@ -1673,3 +1673,7 @@ release-change:
   description: 4bf78bd9 !1700 Remove mysql5 from master and openEuler-24.03-LTS/Next
   changed_packages: mysql5
   date: 2024-04-12-09-22-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1710
+  description: e131d117 !1710 Move AFLplusplus from Factory to Mainline
+  changed_packages: AFLplusplus
+  date: 2024-04-16-19-33-30
