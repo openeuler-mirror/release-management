@@ -2387,3 +2387,39 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
   date: '2024-04-03'
+- name: python-DateTimeRange
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-mbstrdecoder
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-ncclient
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-typepy
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-wsme
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-sphinxcontrib-qthelp
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
