@@ -16475,7 +16475,3 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-15"
-    - name: oceanbase-ce
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-04-16"
