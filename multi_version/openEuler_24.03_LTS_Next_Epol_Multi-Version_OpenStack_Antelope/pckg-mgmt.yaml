@@ -2387,3 +2387,39 @@ packages:
   obs_from: openEuler:22.03:LTS:SP3
   obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   date: '2024-04-03'
+- name: python-DateTimeRange
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-mbstrdecoder
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-ncclient
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-typepy
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-wsme
+  source_dir: openEuler-22.09
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  obs_from: openEuler:22.09:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
+- name: python-sphinxcontrib-qthelp
+  source_dir: openEuler-22.09
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  obs_from: openEuler:22.09:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-04-16'
