@@ -16455,22 +16455,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-15"
-    - name: python-typepy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-04-15"
-    - name: python-mbstrdecoder
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-04-15"
-    - name: python-ncclient
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-04-15"
-    - name: python-DateTimeRange
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-04-15"
     - name: perl-Hash-Ordered
       obs_from: ""
       obs_to: openEuler:Factory
