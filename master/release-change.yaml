@@ -1677,3 +1677,7 @@ release-change:
   description: e131d117 !1710 Move AFLplusplus from Factory to Mainline
   changed_packages: AFLplusplus
   date: 2024-04-16-19-33-30
+- pr: https://gitee.com/openeuler/release-management/pulls/1711
+  description: 4f68b07d !1711 add oceanbase-ce to EPOL
+  changed_packages: oceanbase-ce
+  date: 2024-04-17-15-39-58
