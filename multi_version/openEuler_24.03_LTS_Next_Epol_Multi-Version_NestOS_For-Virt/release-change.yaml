@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1706
+  description: 8ba78355 !1706 Add nestos 2403 multiversion project software package
+  changed_packages: nestos-kernel openEuler-release-nestos-for-virt
+  date: 2024-04-17-15-42-34
