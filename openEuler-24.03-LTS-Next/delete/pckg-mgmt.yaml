@@ -7,3 +7,8 @@ packages:
 - name: libcxxabi
 - name: llvm-libunwind
 - name: mysql5
+- name: openresty-openssl111
+- name: openresty-pcre
+- name: openresty-valgrind
+- name: openresty-zlib
+- name: openresty
