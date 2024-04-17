@@ -6099,3 +6099,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-04-08"
+- name: oceanbase-ce
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-04-17'
