@@ -1871,18 +1871,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: openresty-pcre
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: openresty-zlib
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: opensp
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -9708,18 +9696,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: openpgm
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: openresty
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: openresty-openssl111
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline

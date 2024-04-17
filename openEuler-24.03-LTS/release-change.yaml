@@ -75,3 +75,9 @@ release-change:
   description: 168d782e !1698 add unizip to openEuler:24.03:LTS:Next:Epol and openEuler:24.03:LTS:Epol
   changed_packages: unizip
   date: 2024-04-15-14-35-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1713
+  description: f3abb700 !1713 【轻量级 PR】：删除 openEuler-24.03-LTS openEuler-24.03-LTS-Next
+    openResty 相关软件包的
+  changed_packages: openresty-valgrind openresty openresty-openssl111 openresty-zlib
+    openresty-pcre
+  date: 2024-04-17-18-11-33
