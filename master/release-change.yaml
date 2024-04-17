@@ -1681,3 +1681,8 @@ release-change:
   description: 4f68b07d !1711 add oceanbase-ce to EPOL
   changed_packages: oceanbase-ce
   date: 2024-04-17-15-39-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1707
+  description: 01be353d !1707 Move typepy mbstrdecoder ncclient DateTimeRange from
+    master:Factory to master:Epol
+  changed_packages: python-typepy python-mbstrdecoder python-ncclient python-DateTimeRange
+  date: 2024-04-17-17-15-43
