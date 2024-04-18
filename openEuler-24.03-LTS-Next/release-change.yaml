@@ -77,3 +77,7 @@ release-change:
   changed_packages: openresty-valgrind openresty openresty-openssl111 openresty-zlib
     openresty-pcre
   date: 2024-04-17-18-11-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1709
+  description: c645a23f !1709 add ukui packages to EPOL
+  changed_packages: nautilus-python
+  date: 2024-04-18-15-13-57
