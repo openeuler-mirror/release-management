@@ -89,3 +89,8 @@ release-change:
   description: 25f7be83 !1716 move oceanbase from 24.03 LTS NEXT to 24.03 LTS
   changed_packages: oceanbase-ce
   date: 2024-04-18-15-46-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1718
+  description: 237a5f0c !1718  add oeAware-manager,oeAware-collector,oeAware-scenario
+    to openEuler:24.03:LTS:Next:Epol,openEuler:24.03:LTS:Epol
+  changed_packages: oeAware-manager oeAware-collector oeAware-scenario
+  date: 2024-04-18-21-28-54
