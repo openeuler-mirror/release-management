@@ -81,3 +81,7 @@ release-change:
   description: c645a23f !1709 add ukui packages to EPOL
   changed_packages: nautilus-python
   date: 2024-04-18-15-13-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1715
+  description: edd32ea4 !1715 move oceanbase from master to 24.03 LTS NEXT
+  changed_packages: oceanbase-ce
+  date: 2024-04-18-15-34-08
