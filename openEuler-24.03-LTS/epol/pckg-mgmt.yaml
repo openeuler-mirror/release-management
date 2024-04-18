@@ -7877,3 +7877,21 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-04-18'
+- name: oeAware-manager
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-04-18'
+- name: oeAware-collector
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-04-18'
+- name: oeAware-scenario
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-04-18'
