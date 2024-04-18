@@ -16467,3 +16467,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-17"
+    - name: virtCCA_sdk
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-18"
+    - name: virtCCA_driver
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-18"
