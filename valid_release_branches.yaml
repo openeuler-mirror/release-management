@@ -24,6 +24,8 @@ branch:
   - noetic
   - Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-Next
   - Multi-Version_NestOS-For-Container_openEuler-24.03-LTS-Next
+  - Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  - Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
@@ -65,6 +67,10 @@ branch:
   - Multi-Version_kubernetes-1.20.2_openEuler-23.09
   openEuler-22.03-LTS-SP3:
   - Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  - Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  openEuler-23.03:
+  - Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
+  - Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   humble:
   - Multi-Version_ros-humble_openEuler-22.03-LTS-Next
   - Multi-Version_ros-humble_openEuler-23.09
