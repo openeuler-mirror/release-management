@@ -38,7 +38,7 @@ openEuler 22.03 LTS SP4是基于5.10内核的22.03-LTS版本增强扩展版本�
 
 | no   | feature | status | sig  | owner |
 | :--- | :------ | :----- | :--- | :---- |
-
+|[I9IHTX](https://gitee.com/openeuler/release-management/issues/I9IHTX)| 提交内核安全增强补丁 HAOC | Discussion | sig-kernel | [@amjac](https://gitee.com/amjac) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
