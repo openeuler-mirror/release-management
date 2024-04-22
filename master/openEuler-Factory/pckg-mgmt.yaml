@@ -16415,3 +16415,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-18"
+    - name: rubygem-multi_xml
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-22"
+    - name: rubygem-ox
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-22"
