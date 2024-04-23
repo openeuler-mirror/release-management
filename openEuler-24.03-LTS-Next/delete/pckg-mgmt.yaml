@@ -12,3 +12,4 @@ packages:
 - name: openresty-valgrind
 - name: openresty-zlib
 - name: openresty
+- name: perl-Math-BigRat

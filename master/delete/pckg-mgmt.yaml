@@ -60,3 +60,4 @@ packages:
   - name: python-unicodecsv
   - name: rhnlib
   - name: mysql5
+  - name: perl-Math-BigRat
