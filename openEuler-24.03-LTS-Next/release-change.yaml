@@ -90,3 +90,8 @@ release-change:
     to openEuler:24.03:LTS:Next:Epol,openEuler:24.03:LTS:Epol
   changed_packages: oeAware-manager oeAware-collector oeAware-scenario
   date: 2024-04-18-21-28-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1723
+  description: 6d023e4b !1723 delete perl-Math-BigRat in openEuler-24.03-LTS and openEuler-24.03-LTS-Next
+    and master
+  changed_packages: perl-Math-BigRat
+  date: 2024-04-23-20-14-11

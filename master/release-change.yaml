@@ -1698,3 +1698,8 @@ release-change:
     to Python(Everything) for pydantic ebs
   changed_packages: python-email-validator python-dnspython python-ujson
   date: 2024-04-23-10-14-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1723
+  description: 6d023e4b !1723 delete perl-Math-BigRat in openEuler-24.03-LTS and openEuler-24.03-LTS-Next
+    and master
+  changed_packages: perl-Math-BigRat
+  date: 2024-04-23-20-14-11
