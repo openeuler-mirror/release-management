@@ -16419,3 +16419,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-23"
+    - name: flameshot
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-04-23"
