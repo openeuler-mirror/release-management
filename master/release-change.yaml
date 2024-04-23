@@ -1693,3 +1693,8 @@ release-change:
     libkylin-nm-base libqaccessibilityclient ukui-kwin-effects ukui-wayland-panel
     nautilus-python qaccessibilityclient
   date: 2024-04-18-15-13-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1686
+  description: 6b7828b7 !1686 Move pythone3-ujson(Epol)&email-validator&dnspython(Factory)
+    to Python(Everything) for pydantic ebs
+  changed_packages: python-email-validator python-dnspython python-ujson
+  date: 2024-04-23-10-14-19
