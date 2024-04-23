@@ -2811,3 +2811,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: "2024-03-30"
+- name: python-email-validator
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-04-23'
+- name: python-dnspython
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-04-23'
+- name: python-ujson
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-04-23'

@@ -8019,10 +8019,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-dnspython
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-docker-squash
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14055,10 +14051,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-27"
-    - name: python-email-validator
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-30"
     - name: python-py3dns
       obs_from: ""
       obs_to: openEuler:Factory
