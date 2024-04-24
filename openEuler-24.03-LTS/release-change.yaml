@@ -99,3 +99,7 @@ release-change:
     and master
   changed_packages: perl-Math-BigRat
   date: 2024-04-23-20-14-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1724
+  description: ced2aba2 !1724 remove gdal from 24.03-LTS
+  changed_packages: gdal
+  date: 2024-04-24-12-15-16
