@@ -1703,3 +1703,7 @@ release-change:
     and master
   changed_packages: perl-Math-BigRat
   date: 2024-04-23-20-14-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1730
+  description: 6370a049 !1730 将raspberrypi-utils移到epol下同时添加到 24.03-LTS/24.03-LTS-Next
+  changed_packages: raspberrypi-utils
+  date: 2024-04-29-01-20-53
