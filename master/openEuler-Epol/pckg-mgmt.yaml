@@ -6175,3 +6175,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-04-18"
+- name: raspberrypi-utils
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-04-29"
