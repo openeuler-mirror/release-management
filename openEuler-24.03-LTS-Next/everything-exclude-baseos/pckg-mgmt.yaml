@@ -22121,3 +22121,15 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-04-13'
+- name: python-email-validator
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Python
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-04-30'
+- name: python-ujson
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-04-30'
