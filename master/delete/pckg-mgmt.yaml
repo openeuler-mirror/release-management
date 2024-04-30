@@ -61,3 +61,5 @@ packages:
   - name: rhnlib
   - name: mysql5
   - name: perl-Math-BigRat
+  - name: hmdfs
+  - name: filemanagement_dfs_service
