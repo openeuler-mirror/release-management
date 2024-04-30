@@ -600,3 +600,8 @@ release-change:
   description: 4f68b07d !1711 add oceanbase-ce to EPOL
   changed_packages: oceanbase-ce
   date: 2024-04-17-15-39-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1732
+  description: ef2a07a0 !1732 add oeAware-manager,oeAware-collector,oeAware-scenario
+    to openEuler:22.03:LTS:Next:Epol,openEuler:22.03:LTS:SP3:Epol
+  changed_packages: oeAware-manager oeAware-collector oeAware-scenario
+  date: 2024-04-30-15-42-05
