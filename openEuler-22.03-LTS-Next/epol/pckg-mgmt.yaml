@@ -5831,3 +5831,21 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2024-04-17'
+- name: oeAware-manager
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2024-04-30'
+- name: oeAware-collector
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2024-04-30'
+- name: oeAware-scenario
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2024-04-30'
