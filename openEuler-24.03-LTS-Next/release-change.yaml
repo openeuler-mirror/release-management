@@ -108,3 +108,7 @@ release-change:
     for pydantic ebs
   changed_packages: python-email-validator python-ujson
   date: 2024-04-30-10-00-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1722
+  description: 91da59e2 !1722 将hmdfs软件包从24.03分支移除
+  changed_packages: hmdfs filemanagement_dfs_service
+  date: 2024-04-30-10-16-43

@@ -3694,7 +3694,7 @@ packages:
 - name: kiran-manual
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-01"
+  date: '2024-03-01'
 - name: gnome-text-editor
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4182,15 +4182,15 @@ packages:
 - name: dumb-init
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-08"
+  date: '2024-03-08'
 - name: butane
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-08"
+  date: '2024-03-08'
 - name: python-semver
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-08"
+  date: '2024-03-08'
 - name: xclip
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4999,10 +4999,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-05-11'
-- name: hmdfs
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-05-15'
 - name: tpm2-tss-engine
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -5028,10 +5024,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2023-06-21'
 - name: distributed-build_lite
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-06-21'
-- name: filemanagement_dfs_service
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-06-21'
@@ -5902,11 +5894,11 @@ packages:
 - name: nestos-kubernetes-deployer
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-05"
+  date: '2024-03-05'
 - name: opentofu
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-05"
+  date: '2024-03-05'
 - name: gnome-font-viewer
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
@@ -6086,15 +6078,15 @@ packages:
 - name: PilotGo-plugin-topology
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-27"
+  date: '2024-03-27'
 - name: PilotGo-plugin-a-tune
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-03-27"
+  date: '2024-03-27'
 - name: ao.space
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-08"
+  date: '2024-04-08'
 - name: oceanbase-ce
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -6102,80 +6094,80 @@ packages:
 - name: python-typepy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-17"
+  date: '2024-04-17'
 - name: python-mbstrdecoder
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-17"
+  date: '2024-04-17'
 - name: python-ncclient
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-17"
+  date: '2024-04-17'
 - name: python-DateTimeRange
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-17"
+  date: '2024-04-17'
 - name: ukui-quick
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-touch-settings-plugin
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-sni
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-globaltheme
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-menu-extensions
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-notification
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-app-widget
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-input-gather
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: kylin-nm-plugin
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: libkylin-nm-base
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: libqaccessibilityclient
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-kwin-effects
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: ukui-wayland-panel
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: nautilus-python
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: qaccessibilityclient
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-18"
+  date: '2024-04-18'
 - name: raspberrypi-utils
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-04-29"
+  date: '2024-04-29'

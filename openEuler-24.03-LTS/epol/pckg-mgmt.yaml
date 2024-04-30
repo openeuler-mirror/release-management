@@ -6299,12 +6299,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: hmdfs
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: kylin-weather
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -6336,12 +6330,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: distributed-build_lite
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: filemanagement_dfs_service
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol
