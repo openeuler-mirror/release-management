@@ -16,3 +16,5 @@ packages:
 - name: openresty
 - name: perl-Math-BigRat
 - name: gdal
+- name: hmdfs
+- name: filemanagement_dfs_service
