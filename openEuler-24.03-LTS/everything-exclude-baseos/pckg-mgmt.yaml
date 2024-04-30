@@ -7313,6 +7313,12 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
+- name: libguestfs-tools
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2024-04-30'
 - name: libnetfilter_cthelper
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
