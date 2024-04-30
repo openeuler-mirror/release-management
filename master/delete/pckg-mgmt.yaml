@@ -63,3 +63,4 @@ packages:
   - name: perl-Math-BigRat
   - name: hmdfs
   - name: filemanagement_dfs_service
+  - name: raspberrypi-kernel

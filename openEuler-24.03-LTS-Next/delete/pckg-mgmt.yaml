@@ -16,3 +16,4 @@ packages:
 - name: gdal
 - name: hmdfs
 - name: filemanagement_dfs_service
+- name: raspberrypi-kernel
