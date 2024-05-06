@@ -1711,3 +1711,7 @@ release-change:
   description: 91da59e2 !1722 将hmdfs软件包从24.03分支移除
   changed_packages: hmdfs filemanagement_dfs_service
   date: 2024-04-30-10-16-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1737
+  description: 577f4334 !1737 Move virtiofsd from factory to epol
+  changed_packages: virtiofsd
+  date: 2024-05-06-19-13-25
