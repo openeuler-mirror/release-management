@@ -121,3 +121,7 @@ release-change:
     to openEuler-24.03-LTS-Next
   changed_packages: libguestfs-tools
   date: 2024-05-06-14-25-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1738
+  description: a21c1372 !1738 Add virtiofsd to openEuler:24.03:LTS:Epol and openEuler:24.03:LTS:Next:Epol
+  changed_packages: virtiofsd
+  date: 2024-05-06-19-41-48
