@@ -605,3 +605,7 @@ release-change:
     to openEuler:22.03:LTS:Next:Epol,openEuler:22.03:LTS:SP3:Epol
   changed_packages: oeAware-manager oeAware-collector oeAware-scenario
   date: 2024-04-30-15-42-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1531
+  description: 3f3c4003 !1531 引入buildah、dumb-init、netavark 至openEuler 22.03 LTS Next
+  changed_packages: dumb-init buildah netavark
+  date: 2024-05-06-17-24-47
