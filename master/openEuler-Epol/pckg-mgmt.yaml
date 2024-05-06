@@ -5839,6 +5839,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-11-22'
+- name: dumb-init
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-12-13"
 - name: distributedhardware_device_manager
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
