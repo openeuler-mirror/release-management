@@ -116,3 +116,8 @@ release-change:
   description: '70672937 !1729 xdp-tools: add 24.03-LTS/24.03-LTS-NEXT'
   changed_packages: xdp-tools
   date: 2024-05-06-14-24-14
+- pr: https://gitee.com/openeuler/release-management/pulls/1734
+  description: 98df99c6 !1734 Add guestfs-tools to openEuler-24.03-LTS and Add guestfs-tools
+    to openEuler-24.03-LTS-Next
+  changed_packages: libguestfs-tools
+  date: 2024-05-06-14-25-29
