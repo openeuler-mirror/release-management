@@ -2471,3 +2471,15 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
   date: '2024-04-24'
+- name: python-os-xenapi
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-05-06'
+- name: python-setuptools-rust
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-05-06'
