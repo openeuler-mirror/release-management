@@ -116,3 +116,7 @@ release-change:
   description: 91da59e2 !1722 将hmdfs软件包从24.03分支移除
   changed_packages: hmdfs filemanagement_dfs_service
   date: 2024-04-30-10-16-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1729
+  description: '70672937 !1729 xdp-tools: add 24.03-LTS/24.03-LTS-NEXT'
+  changed_packages: xdp-tools
+  date: 2024-05-06-14-24-14
