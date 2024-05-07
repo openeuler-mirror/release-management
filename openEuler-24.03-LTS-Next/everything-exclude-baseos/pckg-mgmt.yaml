@@ -7310,9 +7310,9 @@ packages:
 - name: libguestfs
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:KernelSpace
+  obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
+  date: '2024-05-07'
 - name: libguestfs-tools
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
