@@ -125,3 +125,7 @@ release-change:
   description: a21c1372 !1738 Add virtiofsd to openEuler:24.03:LTS:Epol and openEuler:24.03:LTS:Next:Epol
   changed_packages: virtiofsd
   date: 2024-05-06-19-41-48
+- pr: https://gitee.com/openeuler/release-management/pulls/1735
+  description: e452ecf3 !1735 delete raspberrypi-kernel repository
+  changed_packages: raspberrypi-kernel
+  date: 2024-05-08-10-39-57

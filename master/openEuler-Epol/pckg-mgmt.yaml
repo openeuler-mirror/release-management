@@ -2867,10 +2867,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: raspberrypi-kernel
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: raspberrypi-userland
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5838,7 +5834,7 @@ packages:
 - name: dumb-init
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-12-13"
+  date: '2023-12-13'
 - name: distributedhardware_device_manager
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -6174,4 +6170,4 @@ packages:
 - name: virtiofsd
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-05-06"
+  date: '2024-05-06'
