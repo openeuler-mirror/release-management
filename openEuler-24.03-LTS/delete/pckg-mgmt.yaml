@@ -17,5 +17,7 @@ packages:
 - name: perl-Math-BigRat
 - name: gdal
 - name: hmdfs
+- name: python-async-generator
+- name: python-suds-jurko
 - name: filemanagement_dfs_service
 - name: raspberrypi-kernel

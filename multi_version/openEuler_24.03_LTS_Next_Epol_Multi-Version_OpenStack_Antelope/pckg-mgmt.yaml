@@ -401,12 +401,6 @@ packages:
   obs_from: openEuler:22.09:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   date: '2024-03-19'
-- name: python-typed-ast
-  source_dir: openEuler-22.09
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  obs_from: openEuler:22.09:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  date: '2024-03-19'
 - name: pytest
   source_dir: openEuler-22.09
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
