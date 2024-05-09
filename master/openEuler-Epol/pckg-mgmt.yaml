@@ -6174,4 +6174,4 @@ packages:
 - name: epiphany
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
-  date: '2024-05-08'
+  date: '2024-05-09'
