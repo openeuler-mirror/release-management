@@ -133,3 +133,7 @@ release-change:
   description: e452ecf3 !1735 delete raspberrypi-kernel repository
   changed_packages: raspberrypi-kernel
   date: 2024-05-08-10-39-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1740
+  description: 9db62bba !1740 移除不支持软件包
+  changed_packages: python-suds-jurko python-async-generator
+  date: 2024-05-09-10-14-55
