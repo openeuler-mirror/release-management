@@ -7871,3 +7871,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-05-06'
+- name: epiphany
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2024-05-09'
