@@ -21,3 +21,4 @@ packages:
 - name: python-suds-jurko
 - name: filemanagement_dfs_service
 - name: raspberrypi-kernel
+- name: setuptool
