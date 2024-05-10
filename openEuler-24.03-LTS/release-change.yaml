@@ -141,3 +141,7 @@ release-change:
   description: 4ef6de7b !1744 Move epiphany from openEuler:24.03:LTS to openEuler:24.03:LTS:Epol
   changed_packages: epiphany
   date: 2024-05-10-08-58-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1743
+  description: 28156c39 !1743 【轻量级 PR】：remove setuptool from 24.03-LTS
+  changed_packages: setuptool
+  date: 2024-05-10-09-49-25
