@@ -137,3 +137,7 @@ release-change:
   description: 9db62bba !1740 移除不支持软件包
   changed_packages: python-suds-jurko python-async-generator
   date: 2024-05-09-10-14-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1744
+  description: 4ef6de7b !1744 Move epiphany from openEuler:24.03:LTS to openEuler:24.03:LTS:Epol
+  changed_packages: epiphany
+  date: 2024-05-10-08-58-00

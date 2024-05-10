@@ -1719,3 +1719,7 @@ release-change:
   description: e452ecf3 !1735 delete raspberrypi-kernel repository
   changed_packages: raspberrypi-kernel
   date: 2024-05-08-10-39-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1744
+  description: 4ef6de7b !1744 Move epiphany from openEuler:24.03:LTS to openEuler:24.03:LTS:Epol
+  changed_packages: epiphany
+  date: 2024-05-10-08-58-00
