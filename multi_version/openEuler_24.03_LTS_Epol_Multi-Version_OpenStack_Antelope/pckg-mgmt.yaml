@@ -977,12 +977,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
   date: '2024-03-19'
-- name: krb5
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
-  date: '2024-03-19'
 - name: python-ruamel-yaml
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
@@ -2477,3 +2471,15 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
   date: '2024-05-06'
+- name: python-pycadf
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-05-11'
+- name: python-scciclient
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:OpenStack:Antelope
+  date: '2024-05-11'
