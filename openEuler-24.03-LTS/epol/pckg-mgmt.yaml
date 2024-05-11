@@ -2513,12 +2513,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: python-cursive
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: python-daemon
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -3023,12 +3017,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: python-pycadf
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: python-pycares
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -3186,12 +3174,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: python-robotframework
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: python-scciclient
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol

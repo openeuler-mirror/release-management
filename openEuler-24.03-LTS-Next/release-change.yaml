@@ -137,3 +137,7 @@ release-change:
   description: 4ef6de7b !1744 Move epiphany from openEuler:24.03:LTS to openEuler:24.03:LTS:Epol
   changed_packages: epiphany
   date: 2024-05-10-08-58-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1745
+  description: 8b75efc7 !1745 移动软件包和初始化工程
+  changed_packages: python-cursive python-scciclient python-pycadf
+  date: 2024-05-11-10-10-51

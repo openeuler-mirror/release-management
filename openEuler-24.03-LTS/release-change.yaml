@@ -145,3 +145,7 @@ release-change:
   description: 28156c39 !1743 【轻量级 PR】：remove setuptool from 24.03-LTS
   changed_packages: setuptool
   date: 2024-05-10-09-49-25
+- pr: https://gitee.com/openeuler/release-management/pulls/1745
+  description: 8b75efc7 !1745 移动软件包和初始化工程
+  changed_packages: python-cursive python-scciclient python-pycadf
+  date: 2024-05-11-10-10-51
