@@ -16427,3 +16427,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-28"
+    - name: kylin-device-daemon
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-11"
