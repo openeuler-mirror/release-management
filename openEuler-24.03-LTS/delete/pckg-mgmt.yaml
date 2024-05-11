@@ -19,6 +19,9 @@ packages:
 - name: hmdfs
 - name: python-async-generator
 - name: python-suds-jurko
+- name: python-pycadf
+- name: python-scciclient
+- name: python-cursive
 - name: filemanagement_dfs_service
 - name: raspberrypi-kernel
 - name: setuptool
