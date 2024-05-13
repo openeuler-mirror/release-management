@@ -128,3 +128,20 @@ release:
   - yaqiangchen
   - paul-huang
   - gitee-cmd
+
+- branch: openEuler-24.03-LTS
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - linfong
+  - hekeyi
+  - yeqinglong01
+  - KylinSec
+  - SmallPegasus
+  - disnight
