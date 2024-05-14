@@ -4541,12 +4541,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: system-config-users
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: glade3
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -4818,12 +4812,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: python-plum-py
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: system-config-users-docs
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol
@@ -5976,12 +5964,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: ceph-deploy
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: Kmesh
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol

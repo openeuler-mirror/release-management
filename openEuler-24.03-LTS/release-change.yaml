@@ -149,3 +149,8 @@ release-change:
   description: 8b75efc7 !1745 移动软件包和初始化工程
   changed_packages: python-cursive python-scciclient python-pycadf
   date: 2024-05-11-10-10-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1750
+  description: 13ba9f18 !1750 【轻量级 PR】：remove hsak、system-config-users、 system-config-users-docs、Kmesh
+    from 24.03-LTS
+  changed_packages: hsak Kmesh system-config-users system-config-users-docs
+  date: 2024-05-14-17-28-53
