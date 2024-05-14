@@ -25,3 +25,7 @@ packages:
 - name: filemanagement_dfs_service
 - name: raspberrypi-kernel
 - name: setuptool
+- name: hsak
+- name: system-config-users
+- name: system-config-users-docs
+- name: Kmesh
