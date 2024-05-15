@@ -30,3 +30,10 @@ packages:
 - name: system-config-users-docs
 - name: Kmesh
 - name: arangodb
+- name: qla2xxx
+- name: dde-network-utils
+- name: deepin-movie
+- name: dde-introduction
+- name: deepin-music
+- name: lustre
+- name: lustre-release
