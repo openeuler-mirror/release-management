@@ -16435,3 +16435,39 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-14"
+    - name: google-crosextra-caladea-fonts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: google-rubik-fonts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: zxcvbn-c
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: dragonbox
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: frozen
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: libreoffice
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: google-carlito-fonts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: amiri-fonts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
+    - name: liberation-narrow-fonts
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-15"
