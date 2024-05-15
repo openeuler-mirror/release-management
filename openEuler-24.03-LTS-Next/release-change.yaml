@@ -141,3 +141,7 @@ release-change:
   description: 8b75efc7 !1745 移动软件包和初始化工程
   changed_packages: python-cursive python-scciclient python-pycadf
   date: 2024-05-11-10-10-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1749
+  description: 469157aa !1749 move stress-ng to epol and add to 2403-LTS-Next
+  changed_packages: stress-ng
+  date: 2024-05-15-11-17-15

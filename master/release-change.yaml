@@ -1723,3 +1723,7 @@ release-change:
   description: 4ef6de7b !1744 Move epiphany from openEuler:24.03:LTS to openEuler:24.03:LTS:Epol
   changed_packages: epiphany
   date: 2024-05-10-08-58-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1749
+  description: 469157aa !1749 move stress-ng to epol and add to 2403-LTS-Next
+  changed_packages: stress-ng
+  date: 2024-05-15-11-17-15
