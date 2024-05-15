@@ -158,3 +158,9 @@ release-change:
   description: 4e5af169 !1755 delete package arangodb from openEuler-24.03-LTS
   changed_packages: arangodb
   date: 2024-05-15-18-21-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1756
+  description: 064b8524 !1756 【轻量级 PR】：delete package qla2xxx/dde-network-utils/deepin-movie/dde-introduction/deepin-music/lustre/lustre-release
+    from openEuler-24.03-LTS
+  changed_packages: dde-network-utils dde-introduction lustre qla2xxx deepin-movie
+    lustre-release deepin-music
+  date: 2024-05-15-18-53-46

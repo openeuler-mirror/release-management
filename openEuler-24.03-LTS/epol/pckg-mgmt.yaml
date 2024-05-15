@@ -275,12 +275,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: dde-introduction
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: dde-kwin
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -288,12 +282,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: dde-launcher
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: dde-network-utils
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol
@@ -438,18 +426,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: deepin-menu
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: deepin-movie
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: deepin-music
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol
@@ -5771,12 +5747,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: qla2xxx
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: libkysdk-applications
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
@@ -6174,12 +6144,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: perl-Test-MinimumVersion
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: lustre
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol
@@ -7386,12 +7350,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
 - name: qcoro
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
-- name: lustre-release
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
   obs_from: openEuler:24.03:LTS:Next:Epol
