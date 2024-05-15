@@ -164,3 +164,11 @@ release-change:
   changed_packages: dde-network-utils dde-introduction lustre qla2xxx deepin-movie
     lustre-release deepin-music
   date: 2024-05-15-18-53-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1757
+  description: 2467c54f !1757 【轻量级 PR】：delete package of sig-cinnamon from openEuler-24.03-LTS
+  changed_packages: python-pam cinnamon-themes muffin mintlocale mint-x-icons cinnamon-screensaver
+    cinnamon-menu python-plum-py cinnamon-settings-daemon xdotool cinnamon-session
+    cinnamon-translations cinnamon-desktop inxi cinnamon tint2 python-xapp caribou
+    perl-XML-Dumper xapps cjs cinnamon-control-center mint-y-icons cinnamon-mozjs78
+    nemo python-tinycss2
+  date: 2024-05-15-19-53-04
