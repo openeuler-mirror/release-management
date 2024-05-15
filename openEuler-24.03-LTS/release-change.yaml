@@ -154,3 +154,7 @@ release-change:
     from 24.03-LTS
   changed_packages: hsak Kmesh system-config-users system-config-users-docs
   date: 2024-05-14-17-28-53
+- pr: https://gitee.com/openeuler/release-management/pulls/1755
+  description: 4e5af169 !1755 delete package arangodb from openEuler-24.03-LTS
+  changed_packages: arangodb
+  date: 2024-05-15-18-21-59
