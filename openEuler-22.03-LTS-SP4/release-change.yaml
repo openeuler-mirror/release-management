@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1760
+  description: 312e7d3c !1760 Add eagle packages to openEuler-22.03-LTS-SP4
+  changed_packages: eagle
+  date: 2024-05-16-17-29-48

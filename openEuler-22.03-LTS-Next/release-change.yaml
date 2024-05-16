@@ -609,3 +609,7 @@ release-change:
   description: 3f3c4003 !1531 引入buildah、dumb-init、netavark 至openEuler 22.03 LTS Next
   changed_packages: dumb-init buildah netavark
   date: 2024-05-06-17-24-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1760
+  description: 312e7d3c !1760 Add eagle packages to openEuler-22.03-LTS-SP4
+  changed_packages: eagle
+  date: 2024-05-16-17-29-48
