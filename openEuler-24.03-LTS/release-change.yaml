@@ -172,3 +172,7 @@ release-change:
     perl-XML-Dumper xapps cjs cinnamon-control-center mint-y-icons cinnamon-mozjs78
     nemo python-tinycss2
   date: 2024-05-15-19-53-04
+- pr: https://gitee.com/openeuler/release-management/pulls/1754
+  description: c7a12880 !1754 【轻量级 PR】：add stress-ng to openEuler-24.03-LTS epol
+  changed_packages: stress-ng
+  date: 2024-05-16-11-41-52
