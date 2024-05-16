@@ -39,6 +39,10 @@ openEuler 22.03 LTS SP4是基于5.10内核的22.03-LTS版本增强扩展版本�
 | no   | feature | status | sig  | owner |
 | :--- | :------ | :----- | :--- | :---- |
 |[I9IHTX](https://gitee.com/openeuler/release-management/issues/I9IHTX)| 提交内核安全增强补丁 HAOC | Discussion | sig-kernel | [@amjac](https://gitee.com/amjac) |
+|[I9PTJ9](https://gitee.com/openeuler/release-management/issues/I9PTJ9?from=project-issue)| 机密计算远程证明服务：远程证明TEE插件框架 | Discussion | sig-confidential computing | [@houmingyong](https://gitee.com/houmingyong) |
+|[I9PUSQ](https://gitee.com/openeuler/release-management/issues/I9PUSQ?from=project-issue)| DPU场景vDPA新增支持磁盘，并支持配置vDPA网卡和磁盘的虚机热迁移 | Discussion | virt SIG | [@frankneo](https://gitee.com/frankneo) |
+|[I96OAX](https://gitee.com/openeuler/release-management/issues/I96OAX?from=project-issue)| virtCCA机密虚机特性合入 | Discussion | SIG-Kernel/SIG-Virt | [@luoyukai](https://gitee.com/luoyukai) |
+|[I9PSTH](https://gitee.com/openeuler/release-management/issues/I9PSTH?from=project-issue)| openSSL支持SM4-CE指令集，提升SM4运算速度 | Discussion | sig-security-facility | [@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
