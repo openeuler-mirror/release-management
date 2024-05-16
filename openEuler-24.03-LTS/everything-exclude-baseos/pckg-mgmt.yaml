@@ -22115,3 +22115,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-05-06'
+- name: python-tinycss2
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2024-05-16'
