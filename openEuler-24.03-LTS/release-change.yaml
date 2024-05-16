@@ -176,3 +176,7 @@ release-change:
   description: c7a12880 !1754 【轻量级 PR】：add stress-ng to openEuler-24.03-LTS epol
   changed_packages: stress-ng
   date: 2024-05-16-11-41-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1759
+  description: ab52e1aa !1759 【轻量级 PR】：恢复openEuler-24.03-LTS基线上 python-tinycss2、python-plum-py包
+  changed_packages: python-plum-py python-tinycss2
+  date: 2024-05-16-12-06-44
