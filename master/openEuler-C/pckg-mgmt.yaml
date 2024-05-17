@@ -4019,3 +4019,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-03-15'
+- name: virtCCA_sdk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-05-17'
+- name: virtCCA_driver
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-05-17'
