@@ -613,3 +613,7 @@ release-change:
   description: 312e7d3c !1760 Add eagle packages to openEuler-22.03-LTS-SP4
   changed_packages: eagle
   date: 2024-05-16-17-29-48
+- pr: https://gitee.com/openeuler/release-management/pulls/1762
+  description: d1b61826 !1762 add virtCCA_sdk virtCCA_driver to obs openEuler-22.03-LTS-Next
+  changed_packages: virtCCA_sdk virtCCA_driver
+  date: 2024-05-20-09-56-00
