@@ -16507,3 +16507,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-22"
+    - name: perl-match-simple-XS
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-22"
