@@ -16495,3 +16495,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-20"
+    - name: perl-Test-CheckManifest
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-22"
+    - name: perl-Test-DistManifest
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-22"
+    - name: perl-Test-Version
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-22"
