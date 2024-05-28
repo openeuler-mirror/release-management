@@ -180,3 +180,7 @@ release-change:
   description: ab52e1aa !1759 【轻量级 PR】：恢复openEuler-24.03-LTS基线上 python-tinycss2、python-plum-py包
   changed_packages: python-plum-py python-tinycss2
   date: 2024-05-16-12-06-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1766
+  description: 9a205828 !1766 申请24.03中移除删除ros_comm和ros2_base两个包
+  changed_packages: ros_comm ros2_base
+  date: 2024-05-28-14-45-59
