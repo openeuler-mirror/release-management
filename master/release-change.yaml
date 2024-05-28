@@ -1731,3 +1731,7 @@ release-change:
   description: d1b61826 !1762 add virtCCA_sdk virtCCA_driver to obs openEuler-22.03-LTS-Next
   changed_packages: virtCCA_sdk virtCCA_driver
   date: 2024-05-20-09-56-00
+- pr: https://gitee.com/openeuler/release-management/pulls/1768
+  description: 4e719cb4 !1768 【轻量级 PR】：remove liberation-sans-fonts from master:factory
+  changed_packages: liberation-sans-fonts
+  date: 2024-05-28-15-59-30
