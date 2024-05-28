@@ -22,3 +22,5 @@ packages:
 - name: python-cursive
 - name: filemanagement_dfs_service
 - name: raspberrypi-kernel
+- name: ros2_base
+- name: ros_comm
