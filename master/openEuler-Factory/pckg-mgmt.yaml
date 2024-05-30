@@ -16515,3 +16515,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-29"
+    - name: fast-https
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-30"
