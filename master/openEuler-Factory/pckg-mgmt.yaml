@@ -16519,3 +16519,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-30"
+    - name: python-elasticsearch8
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-05-30"
