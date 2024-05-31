@@ -45,6 +45,8 @@ openEuler 22.03 LTS SP4是基于5.10内核的22.03-LTS版本增强扩展版本�
 |[I9PSTH](https://gitee.com/openeuler/release-management/issues/I9PSTH?from=project-issue)| openSSL支持SM4-CE指令集，提升SM4运算速度 | Discussion | sig-security-facility | [@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee) |
 |[I9TI38](https://gitee.com/openeuler/release-management/issues/I9TI38?from=project-issue)| PowerAPI功耗管理统一API | Discussion | sig-power-efficient | [@heppen](https://gitee.com/heppen) |
 |[I9THX9](https://gitee.com/openeuler/release-management/issues/I9THX9?from=project-issue)| eagle实现整机能耗管理 | Discussion | sig-power-efficient | [@heppen](https://gitee.com/heppen) |
+|[I9SSLS](https://gitee.com/openeuler/release-management/issues/I9SSLS?from=project-issue)| gala-ragdoll支持实时监控文件变更信息 | Discussion | sig-ops | [@zhangdaolong](https://gitee.com/zhangdaolong) |
+|[I9TNWE](https://gitee.com/openeuler/release-management/issues/I9TNWE?from=project-issue)| 支持sysSentry故障管理框架| Discussion | sig-Base-service | [@huangduirong](https://gitee.com/huangduirong) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
