@@ -5855,3 +5855,9 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2024-04-30'
+- name: oeAware-tune
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2024-06-01'
