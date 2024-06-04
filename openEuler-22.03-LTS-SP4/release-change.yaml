@@ -12,3 +12,7 @@ release-change:
   description: 7bb3f766 !1767 add virtCCA_sdk virtCCA_driver to openEuler-22.03-LTS-SP4
   changed_packages: virtCCA_sdk virtCCA_driver
   date: 2024-05-28-14-42-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1777
+  description: e9a1176e !1777 add oeAware-tune to openEuler:22.03:LTS:Next:Epol,openEuler:22.03:LTS:SP3:Epol,openEuler:22.03:LTS:SP4:Epol
+  changed_packages: oeAware-tune
+  date: 2024-06-04-09-43-57
