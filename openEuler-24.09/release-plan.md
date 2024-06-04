@@ -38,6 +38,7 @@ openEuler 24.09 LTS是基于6.6内核的创新版本（参见[版本生命周期
 
 | no   | feature | status | sig  | owner |
 | :--- | :------ | :----- | :--- | :---- |
+|[I9UYO9](https://gitee.com/openeuler/release-management/issues/I9UYO9?from=project-issue)| virtCCA机密虚机特性合入 | Discussion | SIG-Kernel/SIG-Virt | [@luoyukai](https://gitee.com/luoyukai) |
 
 
 <br />
