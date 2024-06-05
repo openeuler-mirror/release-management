@@ -16507,10 +16507,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-22"
-    - name: AI4C
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-25"
     - name: ois
       obs_from: ""
       obs_to: openEuler:Factory
