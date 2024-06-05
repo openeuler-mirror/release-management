@@ -6219,3 +6219,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-04-16'
+- name: AI4C
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-06-05'
