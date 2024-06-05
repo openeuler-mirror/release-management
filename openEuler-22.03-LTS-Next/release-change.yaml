@@ -621,3 +621,8 @@ release-change:
   description: e9a1176e !1777 add oeAware-tune to openEuler:22.03:LTS:Next:Epol,openEuler:22.03:LTS:SP3:Epol,openEuler:22.03:LTS:SP4:Epol
   changed_packages: oeAware-tune
   date: 2024-06-04-09-43-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1781
+  description: 512625cd !1781 Move AI4C from Factory to Mainline and ddd AI4C for
+    22.03-LTS-SP4/22.03-LTS-Next
+  changed_packages: AI4C
+  date: 2024-06-05-15-11-56

@@ -1735,3 +1735,8 @@ release-change:
   description: 4e719cb4 !1768 【轻量级 PR】：remove liberation-sans-fonts from master:factory
   changed_packages: liberation-sans-fonts
   date: 2024-05-28-15-59-30
+- pr: https://gitee.com/openeuler/release-management/pulls/1781
+  description: 512625cd !1781 Move AI4C from Factory to Mainline and ddd AI4C for
+    22.03-LTS-SP4/22.03-LTS-Next
+  changed_packages: AI4C
+  date: 2024-06-05-15-11-56
