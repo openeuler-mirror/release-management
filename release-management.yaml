@@ -144,3 +144,19 @@ release:
   - yeqinglong01
   - SmallPegasus
   - disnight
+
+- branch: openEuler-22.03-LTS-SP4
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - linfong
+  - hekeyi
+  - yeqinglong01
+  - SmallPegasus
+  - disnight
