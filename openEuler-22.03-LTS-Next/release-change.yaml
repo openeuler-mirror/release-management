@@ -626,3 +626,7 @@ release-change:
     22.03-LTS-SP4/22.03-LTS-Next
   changed_packages: AI4C
   date: 2024-06-05-15-11-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1793
+  description: 23d42e8d !1793 add butane and python-semver to 2203-LTS-Next
+  changed_packages: python-semver butane
+  date: 2024-06-13-16-14-35
