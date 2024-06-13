@@ -5861,3 +5861,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:22.03:LTS:Next:Epol
   date: '2024-06-01'
+- name: python-semver
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2024-06-13'
+- name: butane
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2024-06-13'
