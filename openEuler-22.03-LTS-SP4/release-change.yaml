@@ -25,3 +25,7 @@ release-change:
   description: 2651e659 !1785 Add sdma-dk for openeuler-22.03-SP4
   changed_packages: sdma-dk
   date: 2024-06-11-11-35-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1794
+  description: b4fe5452 !1794 add butane、buildah、python-semver to 2203-LTS-SP4
+  changed_packages: butane buildah python-semver
+  date: 2024-06-13-16-37-51
