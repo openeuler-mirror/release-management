@@ -16527,3 +16527,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-06-04"
+    - name: rapidyaml
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-06-18"
