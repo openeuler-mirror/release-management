@@ -35,3 +35,9 @@ packages:
 - name: authz
 - name: lustre
 - name: masstree
+- name: zincati
+- name: afterburn
+- name: bootupd
+- name: console-login-helper-messages
+- name: ignition
+- name: nestos-installer

@@ -1,3 +1,9 @@
 packages: 
 - name: TSSE-driver
 - name: deepin-manual
+- name: zincati
+- name: afterburn
+- name: bootupd
+- name: console-login-helper-messages
+- name: ignition
+- name: nestos-installer

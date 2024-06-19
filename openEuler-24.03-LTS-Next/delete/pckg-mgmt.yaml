@@ -24,3 +24,9 @@ packages:
 - name: raspberrypi-kernel
 - name: ros2_base
 - name: ros_comm
+- name: zincati
+- name: afterburn
+- name: bootupd
+- name: console-login-helper-messages
+- name: ignition
+- name: nestos-installer
