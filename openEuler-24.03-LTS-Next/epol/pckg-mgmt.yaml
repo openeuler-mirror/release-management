@@ -4589,12 +4589,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: bootupd
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: gnome-contacts
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4763,12 +4757,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: ignition
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: python-croniter
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4925,12 +4913,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: afterburn
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: mintlocale
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5027,12 +5009,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: zincati
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: xapps
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5123,12 +5099,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: console-login-helper-messages
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: python-pycountry
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5214,12 +5184,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: zram-generator
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: nestos-installer
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol

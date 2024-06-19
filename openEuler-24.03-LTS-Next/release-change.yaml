@@ -149,3 +149,8 @@ release-change:
   description: 9a205828 !1766 申请24.03中移除删除ros_comm和ros2_base两个包
   changed_packages: ros_comm ros2_base
   date: 2024-05-28-14-45-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1797
+  description: dfbf5362 !1797 从主干分支移除6个应在multi_version分支发布的包
+  changed_packages: nestos-installer zincati console-login-helper-messages afterburn
+    ignition bootupd
+  date: 2024-06-19-13-58-30

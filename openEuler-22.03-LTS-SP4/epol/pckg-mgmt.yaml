@@ -4625,24 +4625,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP4:Epol
   date: '2024-05-15'
-- name: afterburn
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP4:Epol
-  date: '2024-05-15'
-- name: bootupd
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP4:Epol
-  date: '2024-05-15'
-- name: console-login-helper-messages
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP4:Epol
-  date: '2024-05-15'
 - name: cri-o
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP4
@@ -4667,19 +4649,7 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol
   obs_to: openEuler:22.03:LTS:SP4:Epol
   date: '2024-05-15'
-- name: ignition
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP4:Epol
-  date: '2024-05-15'
 - name: libvarlink
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP4:Epol
-  date: '2024-05-15'
-- name: nestos-installer
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP4
   obs_from: openEuler:22.03:LTS:Next:Epol
@@ -4716,12 +4686,6 @@ packages:
   obs_to: openEuler:22.03:LTS:SP4:Epol
   date: '2024-05-15'
 - name: zchunk
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
-  obs_from: openEuler:22.03:LTS:Next:Epol
-  obs_to: openEuler:22.03:LTS:SP4:Epol
-  date: '2024-05-15'
-- name: zincati
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP4
   obs_from: openEuler:22.03:LTS:Next:Epol

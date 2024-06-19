@@ -45,3 +45,8 @@ release-change:
   description: 02244792 !1798 delete deepin-manual
   changed_packages: deepin-manual
   date: 2024-06-19-11-34-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1797
+  description: dfbf5362 !1797 从主干分支移除6个应在multi_version分支发布的包
+  changed_packages: nestos-installer zincati console-login-helper-messages afterburn
+    ignition bootupd
+  date: 2024-06-19-13-58-30

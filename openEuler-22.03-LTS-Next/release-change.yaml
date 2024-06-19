@@ -634,3 +634,8 @@ release-change:
   description: ffec2808 !1792 add sysSentry to openEuler:22.03:LTS:SP4
   changed_packages: sysSentry
   date: 2024-06-14-21-10-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1797
+  description: dfbf5362 !1797 从主干分支移除6个应在multi_version分支发布的包
+  changed_packages: nestos-installer zincati console-login-helper-messages afterburn
+    ignition bootupd
+  date: 2024-06-19-13-58-30
