@@ -16531,3 +16531,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-06-18"
+    - name: ollama
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-06-20"
