@@ -7,3 +7,10 @@ packages:
 - name: console-login-helper-messages
 - name: ignition
 - name: nestos-installer
+- name: arkui-linux
+- name: ft_engine
+- name: ft_flutter
+- name: ft_mmi
+- name: ft_multimedia
+- name: ft_utils
+- name: ft_wl_fwk
