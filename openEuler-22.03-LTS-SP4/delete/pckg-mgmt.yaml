@@ -14,3 +14,4 @@ packages:
 - name: ft_multimedia
 - name: ft_utils
 - name: ft_wl_fwk
+- name: libomp
