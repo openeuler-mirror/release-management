@@ -58,3 +58,7 @@ release-change:
   description: 4a0e96f6 !1800 【轻量级 PR】：delete package from openEuler-22.03-LTS-SP4
   changed_packages: ft_engine arkui-linux ft_utils ft_flutter ft_mmi ft_wl_fwk ft_multimedia
   date: 2024-06-21-14-51-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1801
+  description: 08f2a62a !1801 【轻量级 PR】：delete package  libomp from openEuler-22.03-LTS-SP4
+  changed_packages: libomp
+  date: 2024-06-21-15-34-58
