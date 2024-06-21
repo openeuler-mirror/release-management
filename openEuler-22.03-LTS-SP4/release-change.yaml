@@ -54,3 +54,7 @@ release-change:
   description: 986d3f00 !1799 add dumb-init and netavark to 2203-LTS-SP4
   changed_packages: dumb-init netavark
   date: 2024-06-19-17-33-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1800
+  description: 4a0e96f6 !1800 【轻量级 PR】：delete package from openEuler-22.03-LTS-SP4
+  changed_packages: ft_engine arkui-linux ft_utils ft_flutter ft_mmi ft_wl_fwk ft_multimedia
+  date: 2024-06-21-14-51-54
