@@ -16535,3 +16535,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-06-20"
+    - name: iverilog
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-03"
+    - name: hmpi
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-03"
+    - name: gtkwave
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-03"
