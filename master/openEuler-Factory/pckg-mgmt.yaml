@@ -16547,3 +16547,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-03"
+    - name: python-pygraphviz
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-04"
