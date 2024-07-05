@@ -7507,10 +7507,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-billiard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-binaryornot
       obs_from: ""
       obs_to: openEuler:Factory
@@ -7616,10 +7612,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-ceilometermiddleware
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-celery
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -12039,18 +12031,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-09"
-    - name: python-click-didyoumean
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-15"
-    - name: python-click-repl
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-15"
-    - name: python-click-plugins
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-15"
     - name: python-fastecdsa
       obs_from: ""
       obs_to: openEuler:Factory
