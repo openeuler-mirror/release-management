@@ -118,3 +118,7 @@ release-change:
   changed_packages: python-billiard python-click-didyoumean python-click-plugins python-click-repl
     python-celery
   date: 2024-07-05-15-18-02
+- pr: https://gitee.com/openeuler/release-management/pulls/1812
+  description: 5eca330c !1812 add python-prompt-toolkit to 2003-LTS-SP4
+  changed_packages: python-prompt-toolkit
+  date: 2024-07-08-09-43-41
