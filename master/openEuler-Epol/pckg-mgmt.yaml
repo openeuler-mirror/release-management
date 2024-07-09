@@ -6199,3 +6199,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-05'
+- name: gtk-layer-shell
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-07-09'
