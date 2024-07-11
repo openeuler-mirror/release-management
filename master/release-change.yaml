@@ -1745,3 +1745,7 @@ release-change:
   changed_packages: python-billiard python-click-didyoumean python-click-plugins python-click-repl
     python-celery
   date: 2024-07-05-15-18-02
+- pr: https://gitee.com/openeuler/release-management/pulls/1817
+  description: c6289ddd !1817 Add gtk-layer-shell to Epol
+  changed_packages: gtk-layer-shell
+  date: 2024-07-11-17-39-45
