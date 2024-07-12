@@ -16539,3 +16539,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-11"
+    - name: kmod-dinghai
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-12"
