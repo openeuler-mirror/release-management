@@ -16579,3 +16579,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-12"
+    - name: liblc3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-15"
+    - name: svt-av1
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-15"
