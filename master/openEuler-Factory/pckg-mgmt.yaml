@@ -16511,22 +16511,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-06-20"
-    - name: iverilog
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-03"
-    - name: hmpi
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-03"
-    - name: gtkwave
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-03"
-    - name: python-pygraphviz
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-04"
     - name: openstack-sig-tool
       obs_from: ""
       obs_to: openEuler:Factory
