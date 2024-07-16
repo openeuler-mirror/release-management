@@ -1749,3 +1749,8 @@ release-change:
   description: c6289ddd !1817 Add gtk-layer-shell to Epol
   changed_packages: gtk-layer-shell
   date: 2024-07-11-17-39-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1821
+  description: 5a21ec37 !1821 add gtkwave hmpi iverilog python-pygraphviz to openEuler-22.03-LTS-Next
+    epol
+  changed_packages: gtkwave hmpi iverilog python-pygraphviz
+  date: 2024-07-16-15-45-22
