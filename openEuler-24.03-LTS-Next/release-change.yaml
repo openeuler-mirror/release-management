@@ -154,3 +154,7 @@ release-change:
   changed_packages: nestos-installer zincati console-login-helper-messages afterburn
     ignition bootupd
   date: 2024-06-19-13-58-30
+- pr: https://gitee.com/openeuler/release-management/pulls/1820
+  description: f2e19d08 !1820 add python-pam to 24.03-LTS  24.03-LTS-NEXT everything-exclude-baseos
+  changed_packages: python-pam
+  date: 2024-07-16-16-03-46

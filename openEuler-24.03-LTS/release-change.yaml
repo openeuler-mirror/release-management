@@ -184,3 +184,7 @@ release-change:
   description: 9a205828 !1766 申请24.03中移除删除ros_comm和ros2_base两个包
   changed_packages: ros_comm ros2_base
   date: 2024-05-28-14-45-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1820
+  description: f2e19d08 !1820 add python-pam to 24.03-LTS  24.03-LTS-NEXT everything-exclude-baseos
+  changed_packages: python-pam
+  date: 2024-07-16-16-03-46
