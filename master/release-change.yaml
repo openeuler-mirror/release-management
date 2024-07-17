@@ -1754,3 +1754,7 @@ release-change:
     epol
   changed_packages: gtkwave hmpi iverilog python-pygraphviz
   date: 2024-07-16-15-45-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1703
+  description: 6e550aa5 !1703 移动 xcb-util-cursor 从 Epol 仓库至 everything 仓库
+  changed_packages: xcb-util-cursor
+  date: 2024-07-17-09-21-20

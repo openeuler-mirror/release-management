@@ -188,3 +188,7 @@ release-change:
   description: f2e19d08 !1820 add python-pam to 24.03-LTS  24.03-LTS-NEXT everything-exclude-baseos
   changed_packages: python-pam
   date: 2024-07-16-16-03-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1703
+  description: 6e550aa5 !1703 移动 xcb-util-cursor 从 Epol 仓库至 everything 仓库
+  changed_packages: xcb-util-cursor
+  date: 2024-07-17-09-21-20
