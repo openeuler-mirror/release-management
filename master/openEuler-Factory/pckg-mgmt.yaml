@@ -12051,10 +12051,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-17"
-    - name: mold
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-21"
     - name: nvidia-gpu-kernel-modules
       obs_from: ""
       obs_to: openEuler:Factory
