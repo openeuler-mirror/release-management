@@ -192,3 +192,7 @@ release-change:
   description: 6e550aa5 !1703 移动 xcb-util-cursor 从 Epol 仓库至 everything 仓库
   changed_packages: xcb-util-cursor
   date: 2024-07-17-09-21-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1803
+  description: 99e7c146 !1803 add oeAware-tune to openEuler:24.03:LTS:Next:Epol,openEuler:24.03:LTS:Epol
+  changed_packages: oeAware-tune
+  date: 2024-07-17-09-22-59
