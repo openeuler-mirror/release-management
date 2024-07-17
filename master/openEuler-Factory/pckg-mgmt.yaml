@@ -16267,10 +16267,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-04"
-    - name: classic-flang
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-08"
     - name: ifm_nettle
       obs_from: ""
       obs_to: openEuler:Factory

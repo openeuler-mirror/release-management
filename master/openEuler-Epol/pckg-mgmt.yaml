@@ -6259,3 +6259,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-07-17"
+- name: classic-flang
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-07-17"
