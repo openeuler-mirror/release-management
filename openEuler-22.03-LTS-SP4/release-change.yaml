@@ -62,3 +62,7 @@ release-change:
   description: 08f2a62a !1801 【轻量级 PR】：delete package  libomp from openEuler-22.03-LTS-SP4
   changed_packages: libomp
   date: 2024-06-21-15-34-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1816
+  description: 5c6a1f63 !1816 ROS2 humble版本软件包合入22.03-LTS-SP4 EPOL下
+  changed_packages: oepkgs-release
+  date: 2024-07-17-09-11-18
