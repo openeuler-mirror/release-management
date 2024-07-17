@@ -3723,6 +3723,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: xcb-util-cursor
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2024-04-13'
 - name: xcb-util-image
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
