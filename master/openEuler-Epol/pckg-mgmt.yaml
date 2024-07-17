@@ -6215,3 +6215,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-16'
+- name: BiSheng-opentuner
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-07-17"
+- name: BiSheng-Autotuner
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-07-17"

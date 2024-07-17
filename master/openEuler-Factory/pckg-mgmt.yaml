@@ -16319,14 +16319,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-25"
-    - name: BiSheng-opentuner
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-29"
-    - name: BiSheng-Autotuner
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-29"
     - name: optimized-routines
       obs_from: ""
       obs_to: openEuler:Factory
