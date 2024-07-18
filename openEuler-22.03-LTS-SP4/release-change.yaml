@@ -66,3 +66,10 @@ release-change:
   description: 5c6a1f63 !1816 ROS2 humble版本软件包合入22.03-LTS-SP4 EPOL下
   changed_packages: oepkgs-release
   date: 2024-07-17-09-11-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1827
+  description: f256b8d6 !1827 add Gazebo Packages and Gazebo Dependency Packages to
+    openEuler-22.03-LTS-SP4 epol
+  changed_packages: gdal g2clib jasper libdap gazebo gts gz-cmake gz-common gz-fuel-tools
+    gz-math gz-msgs gz-tools gz-transport gz-utils ogre ois qwt rubygem-multi_xml
+    rubygem-ox sdformat python-PyOpenGL
+  date: 2024-07-18-14-17-05
