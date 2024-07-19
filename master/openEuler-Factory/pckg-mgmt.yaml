@@ -16267,10 +16267,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-04"
-    - name: classic-flang
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-08"
     - name: ifm_nettle
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16319,14 +16315,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-03-25"
-    - name: BiSheng-opentuner
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-29"
-    - name: BiSheng-Autotuner
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-03-29"
     - name: optimized-routines
       obs_from: ""
       obs_to: openEuler:Factory
@@ -16524,42 +16512,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2024-07-11"
     - name: kmod-dinghai
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: openmp-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: lldb-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: libcxx-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: lld-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: llvm-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: compiler-rt-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: llvm-bolt-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: clang-latest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-12"
-    - name: flang-latest
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-12"
