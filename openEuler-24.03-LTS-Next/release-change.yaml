@@ -171,3 +171,7 @@ release-change:
   changed_packages: openmp-latest lldb-latest libcxx-latest lld-latest llvm-latest
     compiler-rt-latest llvm-bolt-latest clang-latest flang-latest
   date: 2024-07-19-16-04-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1831
+  description: e2fcf29 !1831 创建tcolorpy仓库的构建工程
+  changed_packages: python-tcolorpy
+  date: 2024-07-19-16-43-06
