@@ -73,3 +73,8 @@ release-change:
     gz-math gz-msgs gz-tools gz-transport gz-utils ogre ois qwt rubygem-multi_xml
     rubygem-ox sdformat python-PyOpenGL
   date: 2024-07-18-14-17-05
+- pr: https://gitee.com/openeuler/release-management/pulls/1830
+  description: 7525648 !1830 add gtkwave hmpi iverilog python-pygraphviz to openEuler-22.03-LTS-SP4
+    epol
+  changed_packages: gtkwave hmpi iverilog python-pygraphviz
+  date: 2024-07-19-14-37-07
