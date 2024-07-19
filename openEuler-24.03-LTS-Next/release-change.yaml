@@ -166,3 +166,8 @@ release-change:
   description: 99e7c146 !1803 add oeAware-tune to openEuler:24.03:LTS:Next:Epol,openEuler:24.03:LTS:Epol
   changed_packages: oeAware-tune
   date: 2024-07-17-09-22-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1825
+  description: d9e754d !1825 Move some compiler-sig packages from factory to epol
+  changed_packages: openmp-latest lldb-latest libcxx-latest lld-latest llvm-latest
+    compiler-rt-latest llvm-bolt-latest clang-latest flang-latest
+  date: 2024-07-19-16-04-51

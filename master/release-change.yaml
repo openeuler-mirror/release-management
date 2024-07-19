@@ -1758,3 +1758,9 @@ release-change:
   description: 6e550aa5 !1703 移动 xcb-util-cursor 从 Epol 仓库至 everything 仓库
   changed_packages: xcb-util-cursor
   date: 2024-07-17-09-21-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1825
+  description: d9e754d !1825 Move some compiler-sig packages from factory to epol
+  changed_packages: BiSheng-opentuner BiSheng-Autotuner openmp-latest lldb-latest
+    libcxx-latest lld-latest llvm-latest compiler-rt-latest llvm-bolt-latest clang-latest
+    flang-latest classic-flang
+  date: 2024-07-19-16-04-51
