@@ -5933,3 +5933,27 @@ packages:
   obs_from: openEuler:22.03:LTS:Next:Epol                                                                                                                    
   obs_to: openEuler:22.03:LTS:SP4:Epol                                                                                                                       
   date: '2024-07-18'
+- name: gtkwave
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP4:Epol
+  date: '2024-07-19'
+- name: hmpi
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP4:Epol
+  date: '2024-07-19'
+- name: iverilog
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP4:Epol
+  date: '2024-07-19'
+- name: python-pygraphviz
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_to: openEuler:22.03:LTS:SP4:Epol
+  date: '2024-07-19'
