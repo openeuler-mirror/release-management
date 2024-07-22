@@ -6223,3 +6223,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-06-05'
+- name: mold
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2024-07-17"
