@@ -1764,3 +1764,7 @@ release-change:
     libcxx-latest lld-latest llvm-latest compiler-rt-latest llvm-bolt-latest clang-latest
     flang-latest classic-flang
   date: 2024-07-19-16-04-51
+- pr: https://gitee.com/openeuler/release-management/pulls/1824
+  description: d0d233a !1824 Move mold from factory to mainline
+  changed_packages: mold
+  date: 2024-07-22-17-23-27
