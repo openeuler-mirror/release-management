@@ -26,6 +26,7 @@ branch:
   - Multi-Version_NestOS-For-Container_openEuler-24.03-LTS-Next
   - Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
   - Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
+  - openEuler-24.09
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
