@@ -65,3 +65,10 @@ packages:
   - name: filemanagement_dfs_service
   - name: raspberrypi-kernel
   - name: liberation-sans-fonts
+  - name: ghc-x509-store
+  - name: ghc-cryptonite
+  - name: ghc-x509-validation
+  - name: ghc-foldable1-classes-compat
+  - name: ghc-x509-system
+  - name: ghc-connection
+  - name: ghc-x509
