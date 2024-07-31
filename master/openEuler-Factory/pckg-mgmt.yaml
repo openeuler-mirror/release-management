@@ -16559,3 +16559,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-31"
+    - name: python-docopt-ng
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-07-31"
