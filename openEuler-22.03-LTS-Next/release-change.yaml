@@ -644,3 +644,8 @@ release-change:
     epol
   changed_packages: gtkwave hmpi iverilog python-pygraphviz
   date: 2024-07-16-15-45-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1837
+  description: 377ca89 !1837 [openEuler-24.09] 添加支持树莓派
+  changed_packages: python-click-plugins python-billiard python-click-repl python-click-didyoumean
+    python-prompt-toolkit python-celery python-kazoo
+  date: 2024-07-31-14-14-45
