@@ -2139,10 +2139,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: ncdu
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: neXtaw
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15275,10 +15271,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-02-21"
-    - name: ncnn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-02-26"
     - name: spnav
       obs_from: ""
       obs_to: openEuler:Factory
