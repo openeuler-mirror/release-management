@@ -3011,6 +3011,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: swoole
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-08'
 - name: syscare
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
