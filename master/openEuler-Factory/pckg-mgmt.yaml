@@ -14643,83 +14643,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-14"
-    - name: mdds
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libzmf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: lpsolve
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: zxing-cpp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: linux-libertine-fonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libstaroffice
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libqxp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libnumbertext
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libmspub
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libmwaw
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libfreehand
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libwps
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libpagemaker
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
     - name: google-benchmark
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libabw
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libcdr
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libepubgen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libeot
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libexttextcat
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: Box2D
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
@@ -14727,34 +14651,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-18"
-    - name: liblangtag
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: libodfgen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-18"
-    - name: mythes-en
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-20"
-    - name: liborcus
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-20"
-    - name: libetonyek
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-20"
-    - name: libvisio
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-20"
-    - name: wordnet
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-20"
     - name: python-jupyter-console
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14963,10 +14859,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-11-21"
-    - name: libcmis
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-11-22"
     - name: evtest
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15423,42 +15315,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-14"
-    - name: google-crosextra-caladea-fonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: google-rubik-fonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: zxcvbn-c
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: dragonbox
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: frozen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: libreoffice
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: google-carlito-fonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: amiri-fonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
-    - name: liberation-narrow-fonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-15"
     - name: youqu
       obs_from: ""
       obs_to: openEuler:Factory
