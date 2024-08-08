@@ -1772,3 +1772,11 @@ release-change:
   description: d4d0e47 !1833 Move 2 packages from Factory to Epol
   changed_packages: ncdu ncnn
   date: 2024-08-06-09-27-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1834
+  description: aa880cc !1834 Move libreoffice and dependencies from Factory to Epol
+  changed_packages: Box2D amiri-fonts dragonbox frozen google-carlito-fonts google-crosextra-caladea-fonts
+    google-rubik-fonts libabw libcdr libcmis libeot libepubgen liberation-narrow-fonts
+    libetonyek libexttextcat libfreehand liblangtag libmspub libmwaw libnumbertext
+    libodfgen liborcus libpagemaker libqxp libreoffice libstaroffice libvisio libwps
+    libzmf linux-libertine-fonts lpsolve mdds mythes-en wordnet zxcvbn-c zxing-cpp
+  date: 2024-08-08-23-18-40
