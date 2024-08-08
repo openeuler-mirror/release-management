@@ -1780,3 +1780,7 @@ release-change:
     libodfgen liborcus libpagemaker libqxp libreoffice libstaroffice libvisio libwps
     libzmf linux-libertine-fonts lpsolve mdds mythes-en wordnet zxcvbn-c zxing-cpp
   date: 2024-08-08-23-18-40
+- pr: https://gitee.com/openeuler/release-management/pulls/1850
+  description: cb1cb9a !1850 Move swoole from Factory to Epol
+  changed_packages: swoole
+  date: 2024-08-08-23-21-11
