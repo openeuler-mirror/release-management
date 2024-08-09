@@ -15351,10 +15351,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-11"
-    - name: isula-rust-extensions
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-11"
     - name: damo
       obs_from: ""
       obs_to: openEuler:Factory
