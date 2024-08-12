@@ -2227,10 +2227,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: python-suds-jurko
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-supervisor
   source_dir: master
   destination_dir: openEuler-24.09
