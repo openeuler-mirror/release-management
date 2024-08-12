@@ -1784,3 +1784,7 @@ release-change:
   description: cb1cb9a !1850 Move swoole from Factory to Epol
   changed_packages: swoole
   date: 2024-08-08-23-21-11
+- pr: https://gitee.com/openeuler/release-management/pulls/1852
+  description: 77fd1da !1852 Move secureguardian from Factory to Epol
+  changed_packages: secureguardian
+  date: 2024-08-12-09-32-26
