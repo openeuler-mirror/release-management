@@ -22151,3 +22151,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-07-16'
+- name: PyPAM
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-08-14'
