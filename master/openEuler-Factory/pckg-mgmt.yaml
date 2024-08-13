@@ -15459,3 +15459,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-01"
+    - name: clickhouse
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-13"
