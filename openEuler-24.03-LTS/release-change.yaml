@@ -196,3 +196,7 @@ release-change:
   description: 99e7c146 !1803 add oeAware-tune to openEuler:24.03:LTS:Next:Epol,openEuler:24.03:LTS:Epol
   changed_packages: oeAware-tune
   date: 2024-07-17-09-22-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1857
+  description: 55e1d3d !1857 add PyPam package
+  changed_packages: PyPAM
+  date: 2024-08-14-11-27-06

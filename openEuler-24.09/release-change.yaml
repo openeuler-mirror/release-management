@@ -3,3 +3,7 @@ release-change:
   description: 951b80e !1856 移除24.09不支持软件包
   changed_packages: python-suds-jurko
   date: 2024-08-12-19-37-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1857
+  description: 55e1d3d !1857 add PyPam package
+  changed_packages: PyPAM
+  date: 2024-08-14-11-27-06
