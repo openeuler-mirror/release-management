@@ -7,3 +7,7 @@ release-change:
   description: 55e1d3d !1857 add PyPam package
   changed_packages: PyPAM
   date: 2024-08-14-11-27-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1859
+  description: f487878 !1859 24.09 epol仓增加secureguardian 包
+  changed_packages: secureguardian
+  date: 2024-08-14-15-13-31
