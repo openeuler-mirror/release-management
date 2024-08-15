@@ -11,3 +11,7 @@ release-change:
   description: f487878 !1859 24.09 epol仓增加secureguardian 包
   changed_packages: secureguardian
   date: 2024-08-14-15-13-31
+- pr: https://gitee.com/openeuler/release-management/pulls/1861
+  description: c7a897a !1861 【openEuler-24.09】补充 mold 软件包到 everything
+  changed_packages: mold
+  date: 2024-08-15-17-45-59
