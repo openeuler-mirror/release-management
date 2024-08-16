@@ -649,3 +649,8 @@ release-change:
   changed_packages: python-click-plugins python-billiard python-click-repl python-click-didyoumean
     python-prompt-toolkit python-celery python-kazoo
   date: 2024-07-31-14-14-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1862
+  description: 0a96367 !1862 Add qt5-qtwebengine to 22.03-LTS  for some apps(mtxx
+    etc.) deps
+  changed_packages: qt5-qtwebengine
+  date: 2024-08-16-14-43-55
