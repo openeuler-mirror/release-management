@@ -15423,3 +15423,23 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-15"
+    - name: gtkglext
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-16"
+    - name: OpenSceneGraph
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-16"
+    - name: liblas
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-16"
+    - name: laszip
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-16"
+    - name: collada-dom
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-16"
