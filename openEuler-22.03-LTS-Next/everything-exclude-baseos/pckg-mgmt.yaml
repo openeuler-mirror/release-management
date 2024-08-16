@@ -18473,3 +18473,9 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:22.03:LTS:Next
   date: '2024-06-14'
+- name: qt5-qtwebengine
+  source_dir: openEuler-21.09
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:21.09
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2024-08-16'
