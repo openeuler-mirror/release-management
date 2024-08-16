@@ -7383,4 +7383,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-08-15"
-
+- name: liblc3
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-16'
+- name: svt-av1
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-16'
