@@ -6231,3 +6231,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: "2024-08-15"
+- name: BiSheng-opentuner
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-16'
+- name: BiSheng-Autotuner
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-16'
+- name: classic-flang
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-16'
