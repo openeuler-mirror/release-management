@@ -42,6 +42,7 @@ openEuler 24.09 LTS是基于6.6内核的创新版本（参见[版本生命周期
 |[IAFDNQ](https://gitee.com/openeuler/release-management/issues/IAFDNQ)| 支持树莓派 | Discussion | SIG-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
 |[IADBJG](https://gitee.com/openeuler/release-management/issues/IADBJG)| 继承特性：发布Nestos-kubernetes-deployer | Discussion | SIG-CN | [@weihuanhuan_ky](https://gitee.com/weihuanhuan_ky) |
 |[IAHMJ1](https://gitee.com/openeuler/release-management/issues/IAHMJ1)| 新增基于《openEuler 安全配置基线》检测工具 | Discussion | SIG-security-facility | [@chaomingmeng](https://gitee.com/chaomingmeng) |
+|[IAJ6C4](https://gitee.com/openeuler/release-management/issues/IAJ6C4)|支持ROS2-humble和ROS1-noetic基础版|Discussion|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
