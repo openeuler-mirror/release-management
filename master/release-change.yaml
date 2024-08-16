@@ -1788,3 +1788,8 @@ release-change:
   description: 77fd1da !1852 Move secureguardian from Factory to Epol
   changed_packages: secureguardian
   date: 2024-08-12-09-32-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1836
+  description: ae79347 !1836 Move vlc and dependencies from Factory to Epol
+  changed_packages: asdcplib libcddb libdc1394 libebml live555 libmicrodns schroedinger
+    utf8cpp vlc
+  date: 2024-08-16-09-01-46
