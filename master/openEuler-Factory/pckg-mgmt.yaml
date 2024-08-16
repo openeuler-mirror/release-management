@@ -259,10 +259,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: asdcplib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: aspell-en
       obs_from: ""
       obs_to: openEuler:Factory
@@ -1639,19 +1635,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: libcddb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: libcec
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: libcyaml
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: libdc1394
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -1664,10 +1652,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: libdvbpsi
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: libebml
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -1732,10 +1716,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: libmaus2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: libmicrodns
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -1844,10 +1824,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: lirc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: live555
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -10987,10 +10963,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: schroedinger
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: scotch
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11387,10 +11359,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: utf8cpp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: v2v-conversion-host
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11424,10 +11392,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: vkd3d
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: vlc
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"

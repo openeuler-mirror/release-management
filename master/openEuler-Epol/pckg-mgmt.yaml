@@ -7347,3 +7347,40 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-08-10"
+- name: asdcplib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: libcddb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: libdc1394
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: libebml
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: live555
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: libmicrodns
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: schroedinger
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: utf8cpp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+- name: vlc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-15"
+
