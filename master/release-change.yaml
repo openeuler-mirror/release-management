@@ -1793,3 +1793,7 @@ release-change:
   changed_packages: asdcplib libcddb libdc1394 libebml live555 libmicrodns schroedinger
     utf8cpp vlc
   date: 2024-08-16-09-01-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1822
+  description: f76d17b !1822 移动liblc3 svt-av1从Factory到Epol
+  changed_packages: liblc3 svt-av1
+  date: 2024-08-16-10-08-44
