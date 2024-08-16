@@ -14799,3 +14799,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-15'
+- name: gcc-14
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-16'
+- name: binutils-2.42 
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-16'
