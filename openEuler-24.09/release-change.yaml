@@ -19,3 +19,7 @@ release-change:
   description: b446ffd !1845 同步compiler-sig部分软件包从master/epol到2409/epol
   changed_packages: BiSheng-opentuner BiSheng-Autotuner classic-flang
   date: 2024-08-16-17-10-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1855
+  description: 82b9ce1 !1855 GCC-14多版本编译工具链申请加入24.09
+  changed_packages: gcc-14 binutils-2.42
+  date: 2024-08-16-17-49-09
