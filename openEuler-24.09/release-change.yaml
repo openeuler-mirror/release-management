@@ -15,3 +15,7 @@ release-change:
   description: c7a897a !1861 【openEuler-24.09】补充 mold 软件包到 everything
   changed_packages: mold
   date: 2024-08-15-17-45-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1845
+  description: b446ffd !1845 同步compiler-sig部分软件包从master/epol到2409/epol
+  changed_packages: BiSheng-opentuner BiSheng-Autotuner classic-flang
+  date: 2024-08-16-17-10-59
