@@ -1,2 +1,5 @@
 packages:
 - name: python-suds-jurko
+- name: fence-virt
+- name: drbd
+- name: kmod-drbd90
