@@ -23,3 +23,7 @@ release-change:
   description: 82b9ce1 !1855 GCC-14多版本编译工具链申请加入24.09
   changed_packages: gcc-14 binutils-2.42
   date: 2024-08-16-17-49-09
+- pr: https://gitee.com/openeuler/release-management/pulls/1863
+  description: bb0a169 !1863 Remove some packages from openEuler-24.09
+  changed_packages: fence-virt kmod-drbd90 drbd
+  date: 2024-08-19-09-33-15

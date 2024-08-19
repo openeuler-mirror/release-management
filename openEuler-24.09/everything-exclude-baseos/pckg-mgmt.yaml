@@ -7991,10 +7991,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: drbd
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-pytest-xprocess
   source_dir: master
   destination_dir: openEuler-24.09
@@ -8123,10 +8119,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: fence-virt
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: libldac
   source_dir: master
   destination_dir: openEuler-24.09
@@ -8232,10 +8224,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: kafka
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: kmod-drbd90
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -14803,7 +14791,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-16'
-- name: binutils-2.42 
+- name: binutils-2.42
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-16'
