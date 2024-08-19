@@ -27,3 +27,7 @@ release-change:
   description: bb0a169 !1863 Remove some packages from openEuler-24.09
   changed_packages: fence-virt kmod-drbd90 drbd
   date: 2024-08-19-09-33-15
+- pr: https://gitee.com/openeuler/release-management/pulls/1851
+  description: dbf7208 !1851 add isula-rust-extensions to master/mainline and 24.09/everything
+  changed_packages: isula-rust-extensions
+  date: 2024-08-19-14-55-21

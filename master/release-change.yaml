@@ -1797,3 +1797,7 @@ release-change:
   description: f76d17b !1822 移动liblc3 svt-av1从Factory到Epol
   changed_packages: liblc3 svt-av1
   date: 2024-08-16-10-08-44
+- pr: https://gitee.com/openeuler/release-management/pulls/1851
+  description: dbf7208 !1851 add isula-rust-extensions to master/mainline and 24.09/everything
+  changed_packages: isula-rust-extensions
+  date: 2024-08-19-14-55-21
