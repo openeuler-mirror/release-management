@@ -31,3 +31,7 @@ release-change:
   description: dbf7208 !1851 add isula-rust-extensions to master/mainline and 24.09/everything
   changed_packages: isula-rust-extensions
   date: 2024-08-19-14-55-21
+- pr: https://gitee.com/openeuler/release-management/pulls/1860
+  description: eee860d !1860 Add libkperf to openEuler 24.09
+  changed_packages: libkperf
+  date: 2024-08-19-15-57-59
