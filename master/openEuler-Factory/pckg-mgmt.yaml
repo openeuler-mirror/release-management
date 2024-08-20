@@ -15439,3 +15439,39 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-16"
+    - name: fcitx5-gtk
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: fcitx5-lua
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: fcitx5
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: fcitx5-configtool
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: fcitx5-qt
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: kylin-virtual-keyboard
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: fcitx5-chinese-addons
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: xcb-imdkit
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
+    - name: libime
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-20"
