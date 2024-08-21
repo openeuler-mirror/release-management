@@ -6247,3 +6247,19 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-17'
+- name: oeAware-manager
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-21'
+- name: oeAware-collector
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-21'
+- name: oeAware-scenario
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-21'
+- name: oeAware-tune
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-21'
