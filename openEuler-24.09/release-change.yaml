@@ -35,3 +35,7 @@ release-change:
   description: eee860d !1860 Add libkperf to openEuler 24.09
   changed_packages: libkperf
   date: 2024-08-19-15-57-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1865
+  description: 862457f !1865 add oeAware to 24.09 epol
+  changed_packages: oeAware-manager oeAware-collector oeAware-scenario oeAware-tune
+  date: 2024-08-21-10-45-49
