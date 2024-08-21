@@ -15431,3 +15431,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-16"
+    - name: sly
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-08-21"
