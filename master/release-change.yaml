@@ -1801,3 +1801,9 @@ release-change:
   description: dbf7208 !1851 add isula-rust-extensions to master/mainline and 24.09/everything
   changed_packages: isula-rust-extensions
   date: 2024-08-19-14-55-21
+- pr: https://gitee.com/openeuler/release-management/pulls/1868
+  description: 392652c !1868 create 24.09 epol for ukui new package
+  changed_packages: ukui-tablet-desktop ukui-system-appwidget kylin-virtual-keyboard
+    fcitx5-chinese-addons fcitx5-configtool fcitx5-gtk fcitx5-lua fcitx5-qt fcitx5
+    libime xcb-imdkit
+  date: 2024-08-21-14-00-29
