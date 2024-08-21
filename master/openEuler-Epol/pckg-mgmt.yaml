@@ -7435,3 +7435,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-21'
+- name: oeAware-scenario
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-21"
+- name: oeAware-tune
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-21"
+- name: oeAware-collector
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-21"
+- name: oeAware-manager
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-21"
