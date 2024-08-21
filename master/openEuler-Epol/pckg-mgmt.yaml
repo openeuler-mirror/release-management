@@ -7391,3 +7391,47 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-16'
+- name: ukui-tablet-desktop
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: ukui-system-appwidget
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: kylin-virtual-keyboard
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: fcitx5-chinese-addons
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: fcitx5-configtool
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: fcitx5-gtk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: fcitx5-lua
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: fcitx5-qt
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: fcitx5
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: libime
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
+- name: xcb-imdkit
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-08-21'
