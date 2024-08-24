@@ -6323,3 +6323,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-21'
+- name: authHub
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-24'
