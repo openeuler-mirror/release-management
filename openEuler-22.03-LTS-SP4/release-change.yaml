@@ -83,3 +83,7 @@ release-change:
   changed_packages: python-click-plugins python-billiard python-click-repl python-click-didyoumean
     python-prompt-toolkit python-celery python-kazoo
   date: 2024-07-31-14-14-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1849
+  description: b3e897f !1849 添加 kmod-dinghai 软件包移入 epol 同时引入 22.03 sp4
+  changed_packages: kmod-dinghai
+  date: 2024-08-26-14-07-23
