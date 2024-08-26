@@ -8371,10 +8371,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: eagle
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: moby
   source_dir: master
   destination_dir: openEuler-24.09
@@ -9380,10 +9376,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: bpftool
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: powerapi
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'

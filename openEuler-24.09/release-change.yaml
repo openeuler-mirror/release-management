@@ -45,3 +45,7 @@ release-change:
     ukui-menu-extensions ukui-system-appwidget kylin-virtual-keyboard fcitx5-chinese-addons
     fcitx5-configtool fcitx5-gtk fcitx5-lua fcitx5-qt fcitx5 libime xcb-imdkit
   date: 2024-08-21-14-00-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1872
+  description: a27642c !1872 【轻量级 PR】：remove powerapi and eagle from openEuler-24.09
+  changed_packages: eagle powerapi
+  date: 2024-08-26-09-36-24
