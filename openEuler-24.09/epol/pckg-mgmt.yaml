@@ -6331,3 +6331,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-26'
+- name: python-Authlib
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-26'
