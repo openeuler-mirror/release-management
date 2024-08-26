@@ -1811,3 +1811,7 @@ release-change:
   description: 0fb6cc1 !1866 move oeawre from factory to epol for auto create branch
   changed_packages: oeAware-scenario oeAware-tune oeAware-collector oeAware-manager
   date: 2024-08-21-19-17-27
+- pr: https://gitee.com/openeuler/release-management/pulls/1875
+  description: e94aa0e !1875 remove atk and at-spi2-atk from master&openEuler-24.09&openEuler-24.03-LTS-Next
+  changed_packages: at-spi2-atk atk
+  date: 2024-08-26-10-17-47

@@ -179,3 +179,7 @@ release-change:
   description: 55e1d3d !1857 add PyPam package
   changed_packages: PyPAM
   date: 2024-08-14-11-27-06
+- pr: https://gitee.com/openeuler/release-management/pulls/1875
+  description: e94aa0e !1875 remove atk and at-spi2-atk from master&openEuler-24.09&openEuler-24.03-LTS-Next
+  changed_packages: atk at-spi2-atk
+  date: 2024-08-26-10-17-47

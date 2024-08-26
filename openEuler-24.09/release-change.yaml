@@ -49,3 +49,7 @@ release-change:
   description: a27642c !1872 【轻量级 PR】：remove powerapi and eagle from openEuler-24.09
   changed_packages: eagle powerapi
   date: 2024-08-26-09-36-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1875
+  description: e94aa0e !1875 remove atk and at-spi2-atk from master&openEuler-24.09&openEuler-24.03-LTS-Next
+  changed_packages: atk at-spi2-atk
+  date: 2024-08-26-10-17-47

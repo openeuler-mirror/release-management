@@ -3713,12 +3713,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: at-spi2-atk
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: authselect
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -6012,12 +6006,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: at-spi2-core
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Meson
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: atk
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Meson

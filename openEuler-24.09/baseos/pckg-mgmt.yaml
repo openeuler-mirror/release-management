@@ -2475,10 +2475,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: at-spi2-atk
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: authselect
   source_dir: master
   destination_dir: openEuler-24.09
@@ -4012,10 +4008,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: at-spi2-core
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: atk
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'

@@ -115,10 +115,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: at-spi2-atk
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: atkmm
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6226,8 +6222,8 @@ packages:
 - name: mold
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: isula-rust-extensions
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
-  date: "2024-08-19"
+  date: '2024-08-19'
