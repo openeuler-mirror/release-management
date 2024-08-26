@@ -57,3 +57,7 @@ release-change:
   description: 50ede1d !1876 Remove AI4C from openEuler-24.09.
   changed_packages: AI4C
   date: 2024-08-26-14-51-46
+- pr: https://gitee.com/openeuler/release-management/pulls/1873
+  description: a69cf24 !1873 add authHub to openEuler:24.09:Epol
+  changed_packages: authHub
+  date: 2024-08-26-14-53-33
