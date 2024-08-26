@@ -53,3 +53,7 @@ release-change:
   description: e94aa0e !1875 remove atk and at-spi2-atk from master&openEuler-24.09&openEuler-24.03-LTS-Next
   changed_packages: atk at-spi2-atk
   date: 2024-08-26-10-17-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1876
+  description: 50ede1d !1876 Remove AI4C from openEuler-24.09.
+  changed_packages: AI4C
+  date: 2024-08-26-14-51-46
