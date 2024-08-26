@@ -61,3 +61,7 @@ release-change:
   description: a69cf24 !1873 add authHub to openEuler:24.09:Epol
   changed_packages: authHub
   date: 2024-08-26-14-53-33
+- pr: https://gitee.com/openeuler/release-management/pulls/1877
+  description: 039de47 !1877 add sly to openEuler:24.09:Epol
+  changed_packages: sly
+  date: 2024-08-26-17-07-08
