@@ -3,3 +3,5 @@ packages:
 - name: fence-virt
 - name: drbd
 - name: kmod-drbd90
+- name: powerapi
+- name: eagle
