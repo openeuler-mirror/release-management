@@ -5,3 +5,5 @@ packages:
 - name: kmod-drbd90
 - name: powerapi
 - name: eagle
+- name: atk
+- name: at-spi2-atk
