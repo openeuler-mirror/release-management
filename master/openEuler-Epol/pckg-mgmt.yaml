@@ -4467,10 +4467,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-11-10'
-- name: ros_comm
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-11-14'
 - name: ros2_base
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -6222,1167 +6218,1167 @@ packages:
 - name: BiSheng-opentuner
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: BiSheng-Autotuner
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: openmp-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: lldb-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: libcxx-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: lld-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: llvm-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: compiler-rt-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: llvm-bolt-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: clang-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: flang-latest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: classic-flang
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-17"
+  date: '2024-07-17'
 - name: alex
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-module-doclayout
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-regex-posix
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pandoc-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-vector-algorithms
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-data-default-instances-old-locale
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-packaging
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-tasty
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-skylighting-format-ansi
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pandoc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-asn1-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-integer-logarithms
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-OneTuple
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-Only
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-colour
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-cookie
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: texmath
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pandoc-lua-engine
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-typing
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-call-stack
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-asn1-encoding
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-cassava
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http-date
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-wai-extra
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-string-conversions
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-strict
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-dlist
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-module-path
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-asn1-parse
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-attoparsec-iso8601
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-data-default-class
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-temporary
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-tls
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-lpeg
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-bitvec
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-file-embed
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-bootstrap-tools
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-async
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-HUnit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base64-bytestring
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-wai
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-zip-archive
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base16-bytestring
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http2
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: pandoc-cli
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-aeson
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-iproute
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hourglass
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-indexed-traversable
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-split
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unordered-containers
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-haddock-library
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-xml-conduit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pandoc-server
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-aeson-pretty
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-blaze-html
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-marshalling
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-classes
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-isocline
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-utf8-string
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-prettyprinter
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-jira-wiki-markup
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-resourcet
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-these
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-vector
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-blaze-builder
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-some
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-regex-tdfa
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-appar
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-network-uri
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-uniplate
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-fast-logger
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http-api-data
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-monad-control
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-mmorph
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-byteorder
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-semialign
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unliftio-core
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-ordered-containers
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-attoparsec
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-commonmark
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-doctemplates
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-repl
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base-unicode-symbols
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-network
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-yaml
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-type-equality
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-simple-sendfile
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-warp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-th-abstraction
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-xml-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-regex-compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-SHA
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-distributive
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-QuickCheck
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-rpm-macros
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-gridtables
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-scientific
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-text-conversions
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-primitive
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-time-manager
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pretty-show
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-data-default
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-zlib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-semigroupoids
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-conduit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-word8
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-ipynb
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unicode-collation
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unix-compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-wai-cors
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-singleton-bool
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base64
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-skylighting-format-context
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-skylighting-core
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-mono-traversable
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-module-version
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: happy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-skylighting-format-latex
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-typed-process
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unicode-data
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http-media
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-streaming-commons
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-typst-symbols
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-data-default-instances-dlist
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-data-fix
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unicode-transforms
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-objectorientation
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-JuicyPixels
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-optparse-applicative
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-transformers-compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-module-text
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-time-compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-cli
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-socks
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-xml
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-safe-exceptions
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-th-lift-instances
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-recv
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pandoc-lua-marshal
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-th-lift
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-transformers-base
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-sop-core
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-vector-stream
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-libyaml
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-tasty-hunit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-skylighting-format-blaze-html
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-cabal-doctest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-th-compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-wai-app-static
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-ansi-terminal-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-psqueues
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http-client-tls
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-assoc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-syb
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-contravariant
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-boring
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-servant-server
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-Glob
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-prettyprinter-ansi-terminal
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base-orphans
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-unliftio
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-lua
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base-compat-batteries
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-cryptohash-md5
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-conduit-extra
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-network-byte-order
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-tagsoup
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-comonad
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-old-time
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-old-locale
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-emojis
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-case-insensitive
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-text-short
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-skylighting
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-list
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-vault
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-module-zip
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-typst
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-uuid-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-auto-update
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-aeson
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-tagged
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-module-system
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-cereal
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-haskell-lexer
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-generically
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-servant
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-ansi-terminal
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hashable
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-commonmark-extensions
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-constraints
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-pem
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-bootstrap
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-commonmark-pandoc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-base-compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-mime-types
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-basement
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-easy-file
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-wai-logger
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-digest
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-splitmix
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-StateVar
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-blaze-markup
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-indexed-traversable-instances
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-witherable
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-http-client
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-safe
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-doclayout
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-hslua-core
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-citeproc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-bsb-http-chunked
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-data-default-instances-containers
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-bifunctors
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-memory
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-Diff
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-regex-base
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-random
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-digits
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-toml-parser
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-text-iso8601
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-crypton-x509-validation
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-crypton
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-integer-conversion
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-crypton-x509-system
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-crypton-connection
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-crypton-x509
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ghc-crypton-x509-store
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-07-28"
+  date: '2024-07-28'
 - name: ncdu
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-02"
+  date: '2024-08-02'
 - name: ncnn
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-02"
+  date: '2024-08-02'
 - name: Box2D
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: amiri-fonts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: dragonbox
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: frozen
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: google-carlito-fonts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: google-crosextra-caladea-fonts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: google-rubik-fonts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libabw
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libcdr
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libcmis
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libeot
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libepubgen
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: liberation-narrow-fonts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libetonyek
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libexttextcat
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libfreehand
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: liblangtag
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libmspub
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libmwaw
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libnumbertext
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libodfgen
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: liborcus
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libpagemaker
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libqxp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libreoffice
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libstaroffice
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libvisio
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libwps
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: libzmf
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: linux-libertine-fonts
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: lpsolve
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: mdds
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: mythes-en
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: wordnet
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: zxcvbn-c
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: zxing-cpp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-06"
+  date: '2024-08-06'
 - name: secureguardian
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-10"
+  date: '2024-08-10'
 - name: asdcplib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: libcddb
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: libdc1394
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: libebml
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: live555
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: libmicrodns
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: schroedinger
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: utf8cpp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: vlc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: liblc3
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7438,28 +7434,28 @@ packages:
 - name: oeAware-scenario
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-21"
+  date: '2024-08-21'
 - name: oeAware-tune
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-21"
+  date: '2024-08-21'
 - name: oeAware-collector
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-21"
+  date: '2024-08-21'
 - name: oeAware-manager
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-21"
+  date: '2024-08-21'
 - name: python-Authlib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-26"
+  date: '2024-08-26'
 - name: authHub
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-27"
+  date: '2024-08-27'
 - name: meld
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-27"
+  date: '2024-08-27'

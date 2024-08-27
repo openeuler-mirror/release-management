@@ -69,3 +69,8 @@ release-change:
   description: 04b1233 !1870 move python-Authlib to epol and add it to openEuler-24.09
   changed_packages: python-Authlib
   date: 2024-08-27-09-44-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1882
+  description: dba843b !1882  ros_comm和nodelet_core在MultiVersion版本中发布,将这两个包从24.09
+    epol中移除
+  changed_packages: ros_comm nodelet_core
+  date: 2024-08-27-21-41-37

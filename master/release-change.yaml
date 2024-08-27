@@ -1828,3 +1828,8 @@ release-change:
     for desktop apps added
   changed_packages: meld
   date: 2024-08-27-17-33-17
+- pr: https://gitee.com/openeuler/release-management/pulls/1882
+  description: dba843b !1882  ros_comm和nodelet_core在MultiVersion版本中发布,将这两个包从24.09
+    epol中移除
+  changed_packages: nodelet_core ros_comm
+  date: 2024-08-27-21-41-37
