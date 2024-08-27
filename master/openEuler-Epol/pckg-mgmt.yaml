@@ -7455,3 +7455,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-08-26"
+- name: authHub
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-27"
