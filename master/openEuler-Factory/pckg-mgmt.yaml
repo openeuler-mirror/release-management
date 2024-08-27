@@ -13911,10 +13911,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-Authlib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-25"
     - name: nosync
       obs_from: openEuler:Mainline
       obs_to: openEuler:Factory
