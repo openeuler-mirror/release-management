@@ -1823,3 +1823,8 @@ release-change:
   description: f3327ae !1878 move authHub to Epol
   changed_packages: authHub
   date: 2024-08-27-10-13-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1871
+  description: 3254bff !1871 Move app(meld) from matser:Factory to master&openEuler-22.03-LTS-Next:Mainline
+    for desktop apps added
+  changed_packages: meld
+  date: 2024-08-27-17-33-17
