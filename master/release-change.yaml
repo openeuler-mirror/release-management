@@ -1815,3 +1815,7 @@ release-change:
   description: e94aa0e !1875 remove atk and at-spi2-atk from master&openEuler-24.09&openEuler-24.03-LTS-Next
   changed_packages: at-spi2-atk atk
   date: 2024-08-26-10-17-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1870
+  description: 04b1233 !1870 move python-Authlib to epol and add it to openEuler-24.09
+  changed_packages: python-Authlib
+  date: 2024-08-27-09-44-57

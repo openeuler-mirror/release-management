@@ -65,3 +65,7 @@ release-change:
   description: 039de47 !1877 add sly to openEuler:24.09:Epol
   changed_packages: sly
   date: 2024-08-26-17-07-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1870
+  description: 04b1233 !1870 move python-Authlib to epol and add it to openEuler-24.09
+  changed_packages: python-Authlib
+  date: 2024-08-27-09-44-57
