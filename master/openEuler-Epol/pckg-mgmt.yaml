@@ -7459,3 +7459,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-08-27"
+- name: meld
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-27"
