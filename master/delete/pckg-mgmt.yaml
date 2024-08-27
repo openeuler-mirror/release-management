@@ -73,3 +73,4 @@ packages:
   - name: ghc-x509
   - name: atk
   - name: at-spi2-atk
+  - name: arangodb

@@ -8,3 +8,4 @@ packages:
 - name: atk
 - name: at-spi2-atk
 - name: AI4C
+- name: arangodb
