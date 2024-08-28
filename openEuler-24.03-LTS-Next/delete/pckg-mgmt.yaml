@@ -13,7 +13,6 @@ packages:
 - name: openresty-zlib
 - name: openresty
 - name: perl-Math-BigRat
-- name: gdal
 - name: hmdfs
 - name: python-async-generator
 - name: python-suds-jurko
