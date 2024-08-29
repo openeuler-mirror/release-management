@@ -45,7 +45,22 @@ openEuler 24.09 LTS是基于6.6内核的创新版本（参见[版本生命周期
 |[IAJ6C4](https://gitee.com/openeuler/release-management/issues/IAJ6C4)|支持ROS2-humble和ROS1-noetic基础版|Discussion|sig-ROS|[@davidhan008](https://gitee.com/davidhan008/)|
 |[IAJVVH](https://gitee.com/openeuler/release-management/issues/IAJVVH)|增加 utshell 项目发布|Discussion|sig-memsafety|[@wangmengc](https://gitee.com/wangmengc/)|EPOL|utshell|
 |[IAJQIB](https://gitee.com/openeuler/release-management/issues/IAJQIB)|增加 utsudo 项目发布|Discussion|sig-memsafety|[@trackers-love](https://gitee.com/trackers-love/)|EPOL|utsudo|
-
+|[IAMSTO](https://gitee.com/openeuler/release-management/issues/IAMSTO?from=project-issue)| epkg新型软件包的OS镜像构建 | Discussion | cicd-sig | [@duan_pj](https://gitee.com/duan_pj) |
+|[IAMSQP](https://gitee.com/openeuler/release-management/issues/IAMSQP?from=project-issue)| DevStation 开发者工作站支持 | Discussion | desktop sig | [@superninesun](https://gitee.com/superninesun) |
+|[IAMLWI](https://gitee.com/openeuler/release-management/issues/IAMLWI?from=project-issue)| 微服务性能问题分钟级定界/定位（TCP，IO，调度等） | Discussion | A-OPS sig | [@yangyongguang](https://gitee.com/yangyongguang) |
+|[IAMLGE](https://gitee.com/openeuler/release-management/issues/IAMLGE?from=project-issue)| Aops支持智能运维助手 | Discussion | sig-ops/ sig-AI | [@solarhu](https://gitee.com/solarhu) |
+|[IAMLAK](https://gitee.com/openeuler/release-management/issues/IAMLAK?from=project-issue)| 容器干扰检测，分钟级完成业务干扰源（CPU/IO）识别与干扰源发现 | Discussion | sig-ops| [@wo_cow](https://gitee.com/wo_cow) |
+|[IAML7Y](https://gitee.com/openeuler/release-management/issues/IAML7Y?from=project-issue)| 构建远程证明统一框架，支持部署远程证明服务 | Discussion | sig-confidential-computing| [@houmingyong](https://gitee.com/houmingyong) |
+|[IAML6V](https://gitee.com/openeuler/release-management/issues/IAML6V?from=project-issue)| IMA摘要列表支持三方PKI证书导入 | Discussion | sig-security-facility| [@HuaxinLuGitee](https://gitee.com/HuaxinLuGitee) |
+|[IAML3W](https://gitee.com/openeuler/release-management/issues/IAML3W?from=project-issue)| KubeOS支持串、并行多种升级策略、状态更新等声明式API | Discussion | SIG-CloudNative-KubeOS| [@liyuanr](https://gitee.com/liyuanr) |
+|[IAMKXU](https://gitee.com/openeuler/release-management/issues/IAMKXU?from=project-issue)| etmem内存扩展，实现虚机内存超分 | Discussion | storage sig| [@liubo254](https://gitee.com/liubo254) |
+|[IAMKUJ](https://gitee.com/openeuler/release-management/issues/IAMKUJ?from=project-issue)| 构建双内核（5.10+6.6内核），完成基本功能验证 | Discussion | QA Sig | [@duan_pj](https://gitee.com/duan_pj) |
+|[IAMKQL](https://gitee.com/openeuler/release-management/issues/IAMKQL?from=project-issue)| oeAware 支持本地网络加速 | Discussion | A-Tune sig | [@Lostwayzxc](https://gitee.com/Lostwayzxc) |
+|[IAMKHS](https://gitee.com/openeuler/release-management/issues/IAMKHS?from=project-issue)| iSula支持NRI插件式扩展 | Discussion | sig-iSulad | [@xuxuepeng](https://gitee.com/xuxuepeng) |
+|[IAMKB1](https://gitee.com/openeuler/release-management/issues/IAMKB1?from=project-issue)| 支持GCC 14多版本使能多样算力新特性 | Discussion | sig-Compiler | [@zhaoshujian](https://gitee.com/zhaoshujian) |
+|[IAMK8J](https://gitee.com/openeuler/release-management/issues/IAMK8J?from=project-issue)| secGear功能优化 | Discussion | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong) |
+|[IAMK2Q](https://gitee.com/openeuler/release-management/issues/IAMK2Q?from=project-issue)| syscare特性增强：用户态热补丁支持栈检测 | Discussion | sig-ops | [@bb-cat](https://gitee.com/bb-cat) |
+|[IAMJYQ](https://gitee.com/openeuler/release-management/issues/IAMJYQ?from=project-issue)| syscare特性增强：用户态热补丁支持容器化制作 | Discussion | sig-ops | [@luanjianhai](https://gitee.com/luanjianhai) |
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
