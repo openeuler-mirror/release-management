@@ -1833,3 +1833,7 @@ release-change:
     epol中移除
   changed_packages: nodelet_core ros_comm
   date: 2024-08-27-21-41-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1883
+  description: 34f6647 !1883 Move gpsbabel from master:Factory to master:MultiLanguage&24.09:Everything&24.03-LTS-Next:Everything
+  changed_packages: gpsbabel
+  date: 2024-08-29-09-38-08

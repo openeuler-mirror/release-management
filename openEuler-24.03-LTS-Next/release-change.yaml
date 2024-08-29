@@ -183,3 +183,7 @@ release-change:
   description: e94aa0e !1875 remove atk and at-spi2-atk from master&openEuler-24.09&openEuler-24.03-LTS-Next
   changed_packages: atk at-spi2-atk
   date: 2024-08-26-10-17-47
+- pr: https://gitee.com/openeuler/release-management/pulls/1883
+  description: 34f6647 !1883 Move gpsbabel from master:Factory to master:MultiLanguage&24.09:Everything&24.03-LTS-Next:Everything
+  changed_packages: gdal gpsbabel
+  date: 2024-08-29-09-38-08
