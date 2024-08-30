@@ -1837,3 +1837,8 @@ release-change:
   description: 34f6647 !1883 Move gpsbabel from master:Factory to master:MultiLanguage&24.09:Everything&24.03-LTS-Next:Everything
   changed_packages: gpsbabel
   date: 2024-08-29-09-38-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1885
+  description: 819ffe8 !1885 【轻量级 PR】：add ghc-dec，ghc-unix-time，ghc-tasty-quickcheck
+    to factory
+  changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
+  date: 2024-08-30-08-35-01
