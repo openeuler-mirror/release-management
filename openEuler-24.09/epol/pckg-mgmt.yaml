@@ -1,8 +1,4 @@
 packages:
-- name: KubeOS
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: Lmod
   source_dir: master
   destination_dir: openEuler-24.09

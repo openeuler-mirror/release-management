@@ -6223,3 +6223,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2024-08-19'
+- name: KubeOS
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2024-08-30'
