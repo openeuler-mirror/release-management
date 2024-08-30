@@ -187,3 +187,8 @@ release-change:
   description: 34f6647 !1883 Move gpsbabel from master:Factory to master:MultiLanguage&24.09:Everything&24.03-LTS-Next:Everything
   changed_packages: gdal gpsbabel
   date: 2024-08-29-09-38-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1886
+  description: 3268223 !1886 add BiSheng-opentuner/BiSheng-Autotuner to 24.03-LTS
+    update EPOL
+  changed_packages: BiSheng-opentuner BiSheng-Autotuner
+  date: 2024-08-30-10-30-25
