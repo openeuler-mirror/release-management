@@ -14783,3 +14783,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-19'
+- name: gpsbabel
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-30'
