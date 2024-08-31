@@ -15415,18 +15415,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-29"
-    - name: ghc-dec
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-08-29"
-    - name: ghc-unix-time
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-08-29"
-    - name: ghc-tasty-quickcheck
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-08-29"
     - name: vscode
       obs_from: ""
       obs_to: openEuler:Factory

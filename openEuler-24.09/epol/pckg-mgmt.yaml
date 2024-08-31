@@ -6331,3 +6331,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-26'
+- name: ghc-dec
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: "2024-08-30"
+- name: ghc-unix-time
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: "2024-08-30"
+- name: ghc-tasty-quickcheck
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: "2024-08-30"

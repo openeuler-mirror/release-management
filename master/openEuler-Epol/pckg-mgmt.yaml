@@ -7459,3 +7459,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-27'
+- name: ghc-dec
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-30"
+- name: ghc-unix-time
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-30"
+- name: ghc-tasty-quickcheck
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-08-30"
