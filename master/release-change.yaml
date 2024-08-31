@@ -1842,3 +1842,8 @@ release-change:
     to factory
   changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
   date: 2024-08-30-08-35-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1887
+  description: e056225 !1887 Move ghc-dec, ghc-unix-time, ghc-tasty-quickcheck from
+    factory to epol & 24.09 epol
+  changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
+  date: 2024-08-31-09-30-54

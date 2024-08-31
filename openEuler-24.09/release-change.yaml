@@ -78,3 +78,8 @@ release-change:
   description: 31496cf !1888 Add gpsbabel to branch openEuler-24.09 for gdal upgrade
   changed_packages: gpsbabel
   date: 2024-08-30-16-12-25
+- pr: https://gitee.com/openeuler/release-management/pulls/1887
+  description: e056225 !1887 Move ghc-dec, ghc-unix-time, ghc-tasty-quickcheck from
+    factory to epol & 24.09 epol
+  changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
+  date: 2024-08-31-09-30-54
