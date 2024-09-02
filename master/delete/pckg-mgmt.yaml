@@ -75,3 +75,4 @@ packages:
   - name: at-spi2-atk
   - name: ros_comm
   - name: nodelet_core
+  - name: svnkit

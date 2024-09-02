@@ -10,3 +10,4 @@ packages:
 - name: AI4C
 - name: ros_comm
 - name: nodelet_core
+- name: svnkit
