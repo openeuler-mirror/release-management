@@ -61,6 +61,7 @@ openEuler 24.09 LTS是基于6.6内核的创新版本（参见[版本生命周期
 |[IAMK8J](https://gitee.com/openeuler/release-management/issues/IAMK8J?from=project-issue)| secGear功能优化 | Discussion | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong) |
 |[IAMK2Q](https://gitee.com/openeuler/release-management/issues/IAMK2Q?from=project-issue)| syscare特性增强：用户态热补丁支持栈检测 | Discussion | sig-ops | [@bb-cat](https://gitee.com/bb-cat) |
 |[IAMJYQ](https://gitee.com/openeuler/release-management/issues/IAMJYQ?from=project-issue)| syscare特性增强：用户态热补丁支持容器化制作 | Discussion | sig-ops | [@luanjianhai](https://gitee.com/luanjianhai) |
+|[IADN2N](https://gitee.com/openeuler/release-management/issues/IADN2N?from=project-issue)| 支持embedded版本 | Discussion | sig-ops | [@fanglinxu](https://gitee.com/fanglinxu) |
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
