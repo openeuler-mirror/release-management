@@ -1847,3 +1847,7 @@ release-change:
     factory to epol & 24.09 epol
   changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
   date: 2024-08-31-09-30-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1889
+  description: 66e2682 !1889 move KubeOS from EPOL to Everything
+  changed_packages: KubeOS
+  date: 2024-09-02-11-00-55
