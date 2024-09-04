@@ -8,5 +8,6 @@ packages:
 - name: atk
 - name: at-spi2-atk
 - name: AI4C
+- name: arangodb
 - name: ros_comm
 - name: nodelet_core
