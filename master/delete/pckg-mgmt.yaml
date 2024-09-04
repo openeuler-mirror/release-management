@@ -76,3 +76,4 @@ packages:
   - name: arangodb
   - name: ros_comm
   - name: nodelet_core
+  - name: svnkit
