@@ -28,7 +28,6 @@ packages:
 - name: hsak
 - name: system-config-users
 - name: system-config-users-docs
-- name: Kmesh
 - name: arangodb
 - name: qla2xxx
 - name: dde-network-utils
