@@ -13359,10 +13359,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: python-tinycss2
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-bleach
   source_dir: master
   destination_dir: openEuler-24.09

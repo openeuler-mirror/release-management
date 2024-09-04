@@ -2963,10 +2963,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: cinnamon-mozjs78
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: deepin-pw-check
   source_dir: master
   destination_dir: openEuler-24.09
@@ -2995,14 +2991,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: cinnamon-settings-daemon
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: cjs
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-exif
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3027,15 +3015,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: nemo
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: glade3
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: cinnamon
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3111,15 +3091,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: cinnamon-themes
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: mate-session-manager
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: perl-XML-Dumper
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3199,10 +3171,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: cinnamon-translations
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: gnome-software
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3212,10 +3180,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: mate-backgrounds
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: python-plum-py
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3232,10 +3196,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: caja-actions
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: mint-x-icons
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3287,15 +3247,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: mintlocale
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: mate-icon-theme
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: python-xapp
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3303,15 +3255,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: tint2
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: zchunk
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: caribou
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3355,10 +3299,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: xapps
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-jose
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3384,10 +3324,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: cri-tools
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: muffin
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3463,10 +3399,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: cinnamon-menu
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: mate-control-center
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3531,10 +3463,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: inxi
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: totem
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3575,18 +3503,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: cinnamon-session
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: mint-y-icons
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: cinnamon-desktop
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: toolbox
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3620,14 +3536,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: python-flaky
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: cinnamon-screensaver
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: cinnamon-control-center
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3952,10 +3860,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: stb
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: xdotool
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'

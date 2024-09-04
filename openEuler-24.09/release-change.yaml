@@ -97,3 +97,10 @@ release-change:
   changed_packages: lustre system-config-users ceres-solver qla2xxx dde-introduction
     deepin-movie dde-network-utils
   date: 2024-09-04-18-47-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1900
+  description: e309ad3 !1900 【轻量级 PR】：delete package of sig-cinnamon from openEuler-24.09
+  changed_packages: mint-y-icons cinnamon-control-center xdotool cinnamon-themes cinnamon-session
+    nemo mintlocale cinnamon-menu cinnamon-translations cjs cinnamon-desktop xapps
+    cinnamon cinnamon-settings-daemon python-xapp inxi python-plum-py cinnamon-mozjs78
+    muffin caribou perl-XML-Dumper mint-x-icons tint2 cinnamon-screensaver python-tinycss2
+  date: 2024-09-04-19-16-37
