@@ -7643,3 +7643,15 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-07-12'
+- name: BiSheng-opentuner
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-08-29'
+- name: BiSheng-Autotuner
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-08-29'

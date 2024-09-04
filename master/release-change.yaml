@@ -1823,3 +1823,31 @@ release-change:
   description: f3327ae !1878 move authHub to Epol
   changed_packages: authHub
   date: 2024-08-27-10-13-57
+- pr: https://gitee.com/openeuler/release-management/pulls/1871
+  description: 3254bff !1871 Move app(meld) from matser:Factory to master&openEuler-22.03-LTS-Next:Mainline
+    for desktop apps added
+  changed_packages: meld
+  date: 2024-08-27-17-33-17
+- pr: https://gitee.com/openeuler/release-management/pulls/1882
+  description: dba843b !1882  ros_comm和nodelet_core在MultiVersion版本中发布,将这两个包从24.09
+    epol中移除
+  changed_packages: nodelet_core ros_comm
+  date: 2024-08-27-21-41-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1883
+  description: 34f6647 !1883 Move gpsbabel from master:Factory to master:MultiLanguage&24.09:Everything&24.03-LTS-Next:Everything
+  changed_packages: gpsbabel
+  date: 2024-08-29-09-38-08
+- pr: https://gitee.com/openeuler/release-management/pulls/1885
+  description: 819ffe8 !1885 【轻量级 PR】：add ghc-dec，ghc-unix-time，ghc-tasty-quickcheck
+    to factory
+  changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
+  date: 2024-08-30-08-35-01
+- pr: https://gitee.com/openeuler/release-management/pulls/1887
+  description: e056225 !1887 Move ghc-dec, ghc-unix-time, ghc-tasty-quickcheck from
+    factory to epol & 24.09 epol
+  changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
+  date: 2024-08-31-09-30-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1889
+  description: 66e2682 !1889 move KubeOS from EPOL to Everything
+  changed_packages: KubeOS
+  date: 2024-09-02-11-00-55

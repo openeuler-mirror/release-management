@@ -6355,10 +6355,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: nodelet_core
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: nvmetcli
   source_dir: master
   destination_dir: openEuler-24.09
@@ -14787,3 +14783,13 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-19'
+- name: gpsbabel
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-08-30'
+- name: KubeOS
+  source_dir: openEuler-24.09
+  destination_dir: openEuler-24.09
+  obs_from: openEuler:24.09:Epol
+  obs_to: openEuler:24.09
+  date: '2024-08-30'

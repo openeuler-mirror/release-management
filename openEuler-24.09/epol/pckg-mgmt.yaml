@@ -1,8 +1,4 @@
 packages:
-- name: KubeOS
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: Lmod
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3875,10 +3871,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: ros_comm
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: ros2_base
   source_dir: master
   destination_dir: openEuler-24.09
@@ -5310,927 +5302,927 @@ packages:
 - name: alex
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-module-doclayout
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-regex-posix
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pandoc-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-vector-algorithms
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-data-default-instances-old-locale
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-packaging
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-tasty
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-skylighting-format-ansi
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pandoc
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-asn1-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-integer-logarithms
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-OneTuple
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-Only
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-colour
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-cookie
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: texmath
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pandoc-lua-engine
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-typing
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-call-stack
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-asn1-encoding
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-cassava
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http-date
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-wai-extra
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-string-conversions
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-strict
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-dlist
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-module-path
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-asn1-parse
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-attoparsec-iso8601
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-data-default-class
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-temporary
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-tls
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-lpeg
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-bitvec
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-file-embed
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-bootstrap-tools
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-async
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-HUnit
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base64-bytestring
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-wai
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-zip-archive
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base16-bytestring
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http2
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: pandoc-cli
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-aeson
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-iproute
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hourglass
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-indexed-traversable
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-split
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unordered-containers
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-haddock-library
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-xml-conduit
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pandoc-server
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-aeson-pretty
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-blaze-html
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-marshalling
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-classes
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-isocline
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-utf8-string
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-prettyprinter
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-jira-wiki-markup
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-resourcet
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-these
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-vector
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-blaze-builder
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-some
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-regex-tdfa
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-appar
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-network-uri
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-uniplate
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-fast-logger
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http-api-data
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-monad-control
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-mmorph
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-byteorder
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-semialign
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unliftio-core
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-ordered-containers
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-attoparsec
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-commonmark
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-doctemplates
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-repl
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base-unicode-symbols
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-network
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-yaml
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-type-equality
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-simple-sendfile
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-warp
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-th-abstraction
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-xml-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-regex-compat
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-SHA
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-distributive
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-QuickCheck
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-rpm-macros
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-gridtables
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-scientific
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-text-conversions
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-primitive
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-time-manager
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pretty-show
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-data-default
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-zlib
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-semigroupoids
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-conduit
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-word8
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-ipynb
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unicode-collation
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unix-compat
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-wai-cors
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-singleton-bool
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base64
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-skylighting-format-context
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-skylighting-core
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-mono-traversable
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-module-version
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: happy
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-skylighting-format-latex
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-typed-process
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unicode-data
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http-media
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-streaming-commons
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-typst-symbols
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-data-default-instances-dlist
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-data-fix
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unicode-transforms
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-objectorientation
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-JuicyPixels
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-optparse-applicative
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-transformers-compat
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-module-text
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-time-compat
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-cli
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-socks
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-xml
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-safe-exceptions
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-th-lift-instances
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-recv
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pandoc-lua-marshal
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-th-lift
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-transformers-base
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-sop-core
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-vector-stream
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-libyaml
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-tasty-hunit
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-skylighting-format-blaze-html
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-cabal-doctest
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-th-compat
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-wai-app-static
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-ansi-terminal-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-psqueues
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http-client-tls
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-assoc
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-syb
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-contravariant
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-boring
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-servant-server
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-Glob
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-prettyprinter-ansi-terminal
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base-orphans
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-unliftio
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-lua
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base-compat-batteries
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-cryptohash-md5
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-conduit-extra
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-network-byte-order
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-tagsoup
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-comonad
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-old-time
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-old-locale
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-emojis
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-case-insensitive
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-text-short
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-skylighting
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-list
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-vault
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-module-zip
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-typst
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-uuid-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-auto-update
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-aeson
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-tagged
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-module-system
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-cereal
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-haskell-lexer
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-generically
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-servant
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-ansi-terminal
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hashable
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-commonmark-extensions
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-constraints
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-pem
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-bootstrap
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-commonmark-pandoc
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-base-compat
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-mime-types
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-basement
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-easy-file
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-wai-logger
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-digest
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-splitmix
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-StateVar
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-blaze-markup
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-indexed-traversable-instances
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-witherable
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-http-client
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-safe
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-doclayout
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-hslua-core
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-citeproc
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-bsb-http-chunked
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-data-default-instances-containers
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-bifunctors
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-memory
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-Diff
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-regex-base
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-random
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-digits
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-toml-parser
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-text-iso8601
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-crypton-x509-validation
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-crypton
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-integer-conversion
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-crypton-x509-system
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-crypton-connection
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-crypton-x509
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: ghc-crypton-x509-store
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-15"
+  date: '2024-08-15'
 - name: BiSheng-opentuner
   source_dir: master
   destination_dir: openEuler-24.09
@@ -6243,7 +6235,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-16'
-- name: 'libkperf'
+- name: libkperf
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-17'
@@ -6335,3 +6327,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-08-26'
+- name: ghc-dec
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: "2024-08-30"
+- name: ghc-unix-time
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: "2024-08-30"
+- name: ghc-tasty-quickcheck
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: "2024-08-30"

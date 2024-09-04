@@ -74,3 +74,5 @@ packages:
   - name: atk
   - name: at-spi2-atk
   - name: arangodb
+  - name: ros_comm
+  - name: nodelet_core

@@ -2051,10 +2051,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: nodelet_core
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: ntp
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6227,3 +6223,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2024-08-19'
+- name: KubeOS
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2024-08-30'
