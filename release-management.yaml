@@ -160,3 +160,20 @@ release:
   - yeqinglong01
   - SmallPegasus
   - disnight
+
+- branch: openEuler-24.09
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - linfong
+  - hekeyi
+  - yeqinglong01
+  - SmallPegasus
+  - disnight
+  - wangjingwei
