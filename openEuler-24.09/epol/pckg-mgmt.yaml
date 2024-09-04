@@ -3735,10 +3735,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: arangodb
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: NetworkManager-l2tp
   source_dir: master
   destination_dir: openEuler-24.09
@@ -6330,12 +6326,12 @@ packages:
 - name: ghc-dec
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-30"
+  date: '2024-08-30'
 - name: ghc-unix-time
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-30"
+  date: '2024-08-30'
 - name: ghc-tasty-quickcheck
   source_dir: master
   destination_dir: openEuler-24.09
-  date: "2024-08-30"
+  date: '2024-08-30'

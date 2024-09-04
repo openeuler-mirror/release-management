@@ -4303,10 +4303,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-29'
-- name: arangodb
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-30'
 - name: NetworkManager-l2tp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7458,12 +7454,12 @@ packages:
 - name: ghc-dec
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-30"
+  date: '2024-08-30'
 - name: ghc-unix-time
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-30"
+  date: '2024-08-30'
 - name: ghc-tasty-quickcheck
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-08-30"
+  date: '2024-08-30'

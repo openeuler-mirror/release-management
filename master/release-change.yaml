@@ -1851,3 +1851,7 @@ release-change:
   description: 66e2682 !1889 move KubeOS from EPOL to Everything
   changed_packages: KubeOS
   date: 2024-09-02-11-00-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1881
+  description: e0bbed5 !1881 delete package arangodb from openEuler-24.09&master
+  changed_packages: arangodb
+  date: 2024-09-04-15-52-21

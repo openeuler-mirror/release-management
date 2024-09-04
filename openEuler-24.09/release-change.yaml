@@ -83,3 +83,7 @@ release-change:
     factory to epol & 24.09 epol
   changed_packages: ghc-dec ghc-unix-time ghc-tasty-quickcheck
   date: 2024-08-31-09-30-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1881
+  description: e0bbed5 !1881 delete package arangodb from openEuler-24.09&master
+  changed_packages: arangodb
+  date: 2024-09-04-15-52-21
