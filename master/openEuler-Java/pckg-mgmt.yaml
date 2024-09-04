@@ -2583,10 +2583,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: svnkit
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: swt-chart
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2882,4 +2878,4 @@ packages:
 - name: poissonsearch-oss
   obs_from: openEuler:Epol
   obs_to: openEuler:Java
-  date: "2024-03-30"
+  date: '2024-03-30'

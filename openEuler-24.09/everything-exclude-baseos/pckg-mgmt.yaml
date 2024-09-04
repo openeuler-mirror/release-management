@@ -4575,10 +4575,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: svnkit
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: swt-chart
   source_dir: master
   destination_dir: openEuler-24.09

@@ -87,3 +87,7 @@ release-change:
   description: e0bbed5 !1881 delete package arangodb from openEuler-24.09&master
   changed_packages: arangodb
   date: 2024-09-04-15-52-21
+- pr: https://gitee.com/openeuler/release-management/pulls/1891
+  description: bd9dc75 !1891 【轻量级 PR】：update openEuler-24.09/release-plan.md.
+  changed_packages: svnkit
+  date: 2024-09-04-15-54-43
