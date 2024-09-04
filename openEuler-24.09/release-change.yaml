@@ -91,3 +91,9 @@ release-change:
   description: bd9dc75 !1891 【轻量级 PR】：update openEuler-24.09/release-plan.md.
   changed_packages: svnkit
   date: 2024-09-04-15-54-43
+- pr: https://gitee.com/openeuler/release-management/pulls/1895
+  description: 220d459 !1895 【轻量级 PR】：delete package ceres-solver/some dde/lustre/qla2xxx/system-config-users
+    from openEuler-24.09
+  changed_packages: lustre system-config-users ceres-solver qla2xxx dde-introduction
+    deepin-movie dde-network-utils
+  date: 2024-09-04-18-47-54

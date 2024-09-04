@@ -183,19 +183,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: dde-introduction
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: dde-kwin
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: dde-launcher
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: dde-network-utils
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -292,10 +284,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: deepin-menu
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: deepin-movie
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -3043,10 +3031,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: system-config-users
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: glade3
   source_dir: master
   destination_dir: openEuler-24.09
@@ -3875,10 +3859,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: qla2xxx
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: libkysdk-applications
   source_dir: master
   destination_dir: openEuler-24.09
@@ -4152,10 +4132,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: perl-Test-MinimumVersion
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: lustre
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
@@ -4748,10 +4724,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: python-catkin_pkg
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: ceres-solver
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
