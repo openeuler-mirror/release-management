@@ -12,3 +12,10 @@ packages:
 - name: ros_comm
 - name: nodelet_core
 - name: svnkit
+- name: ceres-solver
+- name: dde-network-utils
+- name: deepin-movie
+- name: dde-introduction
+- name: lustre
+- name: qla2xxx
+- name: system-config-users
