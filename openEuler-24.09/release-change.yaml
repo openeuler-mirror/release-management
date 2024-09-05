@@ -104,3 +104,7 @@ release-change:
     cinnamon cinnamon-settings-daemon python-xapp inxi python-plum-py cinnamon-mozjs78
     muffin caribou perl-XML-Dumper mint-x-icons tint2 cinnamon-screensaver python-tinycss2
   date: 2024-09-04-19-16-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1902
+  description: adbbfed !1902 【轻量级 PR】：重新引入openEuler-24.09基线上 python-tinycss2、python-plum-py包
+  changed_packages: python-tinycss2 python-plum-py
+  date: 2024-09-05-11-10-49
