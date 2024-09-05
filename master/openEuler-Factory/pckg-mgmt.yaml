@@ -15419,3 +15419,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-30"
+    - name: intel-qatzip
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-05"
+    - name: intel-qatengine
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-05"
+    - name: intel-ipsec-mb
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-05"
+    - name: intel-ipp-crypto-mb
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-05"
