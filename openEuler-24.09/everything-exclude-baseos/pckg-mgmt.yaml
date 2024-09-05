@@ -14785,3 +14785,7 @@ packages:
   obs_from: openEuler:24.09:Epol
   obs_to: openEuler:24.09
   date: '2024-08-30'
+- name: python-tinycss2
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-09-05'
