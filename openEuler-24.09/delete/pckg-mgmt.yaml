@@ -37,11 +37,9 @@ packages:
 - name: mint-x-icons
 - name: mint-y-icons
 - name: mintlocale
-- name: python-plum-py
 - name: caribou
 - name: cinnamon-mozjs78
 - name: python-xapp
 - name: tint2
 - name: xdotool
-- name: python-tinycss2
 
