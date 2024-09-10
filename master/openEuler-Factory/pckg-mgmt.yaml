@@ -15439,3 +15439,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-10"
+    - name: pkgs-categorizer
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-10"
