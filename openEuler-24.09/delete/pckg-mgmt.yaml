@@ -42,4 +42,6 @@ packages:
 - name: python-xapp
 - name: tint2
 - name: xdotool
+- name: gnuplot
+- name: cim-schema
 
