@@ -235,10 +235,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: cim-schema
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: cjkuni-ukai-fonts
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -576,10 +572,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: gnulib
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: gnuplot
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'

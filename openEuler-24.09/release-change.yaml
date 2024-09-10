@@ -108,3 +108,8 @@ release-change:
   description: adbbfed !1902 【轻量级 PR】：重新引入openEuler-24.09基线上 python-tinycss2、python-plum-py包
   changed_packages: python-tinycss2 python-plum-py
   date: 2024-09-05-11-10-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1904
+  description: d378c1b !1904 delete package gnuplot,cim-schema from openEuler-24.09&master(not
+    allow license:gnuplot,DMTF)
+  changed_packages: cim-schema gnuplot
+  date: 2024-09-10-11-04-22
