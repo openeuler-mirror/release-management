@@ -14781,3 +14781,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-09-05'
+- name: python-statsmodels
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-09-11'
