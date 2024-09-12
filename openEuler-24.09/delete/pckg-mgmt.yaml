@@ -44,4 +44,5 @@ packages:
 - name: xdotool
 - name: gnuplot
 - name: cim-schema
+- name: libvma
 
