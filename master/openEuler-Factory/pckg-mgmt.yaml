@@ -15447,3 +15447,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-12"
+    - name: botron-hard-realtime-plugin
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-12"
+    - name: botron-platform
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-12"
+    - name: botron-hybrid-deployment-plugin
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-12"
+    - name: botron-soft-reattime-plugin
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-12"
