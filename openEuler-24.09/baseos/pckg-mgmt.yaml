@@ -1211,10 +1211,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: libvma
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: libvorbis
   source_dir: master
   destination_dir: openEuler-24.09

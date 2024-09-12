@@ -113,3 +113,7 @@ release-change:
     allow license:gnuplot,DMTF)
   changed_packages: cim-schema gnuplot
   date: 2024-09-10-11-04-22
+- pr: https://gitee.com/openeuler/release-management/pulls/1907
+  description: e70331b !1907 【轻量级 PR】：delete package libvma from openEuler-24.09
+  changed_packages: libvma
+  date: 2024-09-12-14-32-34
