@@ -117,3 +117,7 @@ release-change:
   description: e70331b !1907 【轻量级 PR】：delete package libvma from openEuler-24.09
   changed_packages: libvma
   date: 2024-09-12-14-32-34
+- pr: https://gitee.com/openeuler/release-management/pulls/1909
+  description: 5a09267 !1909 delete package sblim-sfcb from openEuler-24.09&master
+  changed_packages: sblim-sfcb
+  date: 2024-09-18-11-28-24

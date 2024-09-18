@@ -7755,10 +7755,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: sblim-sfcb
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: sbt
   source_dir: master
   destination_dir: openEuler-24.09

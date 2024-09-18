@@ -4111,10 +4111,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: sblim-sfcb
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: sbt
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
