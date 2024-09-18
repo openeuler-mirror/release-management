@@ -1,6 +1,6 @@
 # openEuler 维护版本特性管理规范
 
-Update版本发布更新基于 openEuler 各个生命周期内的 LTS 版本分支的CVE漏洞修复和BUGFIX。版本计划、需求管理、特性开发及代码检测等均通过release-manangement SIG 完成。
+Update版本发布更新基于 openEuler 各个生命周期内的 LTS 版本分支的CVE漏洞修复和BUGFIX。版本计划、需求管理、特性开发及代码检测等均通过release-management SIG 完成。
 
 ## 新引入特性
 
@@ -22,7 +22,7 @@ openEuler LTS（长周期支持）版本旨在为社区用户提供稳定、高�
 
 目前在维护的版本有openEuler-20.03-LTS-SP1、openEuler-20.03-LTS-SP3、openEuler-22.03-LTS、openEuler-22.03-LTS-SP1。
 
-到发布issue: https://gitee.com/openeuler/release-management/issues/I6G5JO?from=project-issue 相应的分支issue下评论标题、issue、pr链接。需要注意，如果需要在该周发布，则需要在当周的周三中午前完成评论。一般会在周五晚完成发布。
+发布issue: https://gitee.com/openeuler/release-management/issues/I6G5JO?from=project-issue 相应的分支issue下评论标题、issue、pr链接。需要注意，如果需要在该周发布，则需要在当周的周三中午前完成评论。一般会在周五晚完成发布。
 
 - 开发者基于src-openEuler 组织下各软件包issue提交pr完成CVE漏洞修复和BUGFIX，并在OBS编译出包
 
