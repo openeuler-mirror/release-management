@@ -1663,10 +1663,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: python-cursive
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-daemon
   source_dir: master
   destination_dir: openEuler-24.09
@@ -2003,10 +1999,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: python-pycadf
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
 - name: python-pycares
   source_dir: master
   destination_dir: openEuler-24.09
@@ -2112,10 +2104,6 @@ packages:
   destination_dir: openEuler-24.09
   date: '2024-07-30'
 - name: python-robotframework
-  source_dir: master
-  destination_dir: openEuler-24.09
-  date: '2024-07-30'
-- name: python-scciclient
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'

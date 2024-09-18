@@ -121,3 +121,8 @@ release-change:
   description: 5a09267 !1909 delete package sblim-sfcb from openEuler-24.09&master
   changed_packages: sblim-sfcb
   date: 2024-09-18-11-28-24
+- pr: https://gitee.com/openeuler/release-management/pulls/1911
+  description: 5fb1f1c !1911 【轻量级 PR】：delete package python-cursive/python-scciclient/python-pycadf
+    from openEuler-24.09
+  changed_packages: python-scciclient python-cursive python-pycadf
+  date: 2024-09-18-18-40-09
