@@ -46,4 +46,7 @@ packages:
 - name: cim-schema
 - name: libvma
 - name: sblim-sfcb
+- name: python-pycadf
+- name: python-scciclient
+- name: python-cursive
 
