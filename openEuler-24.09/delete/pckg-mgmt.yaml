@@ -45,4 +45,5 @@ packages:
 - name: gnuplot
 - name: cim-schema
 - name: libvma
+- name: sblim-sfcb
 
