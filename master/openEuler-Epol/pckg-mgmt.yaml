@@ -7491,3 +7491,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-09-23"
+- name: kylin-installer
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-09-23"

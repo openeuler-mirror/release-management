@@ -1575,10 +1575,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: kylin-installer
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: kylin-printer
       obs_from: ""
       obs_to: openEuler:Factory
