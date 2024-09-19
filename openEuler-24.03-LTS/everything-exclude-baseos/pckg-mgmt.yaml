@@ -22139,3 +22139,7 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-08-14'
+- name: etipc
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS
+  date: '2024-09-19'
