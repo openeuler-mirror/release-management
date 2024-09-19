@@ -15467,3 +15467,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-14"
+    - name: fpchecker
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-19"
