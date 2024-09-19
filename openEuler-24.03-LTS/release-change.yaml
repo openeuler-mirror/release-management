@@ -205,3 +205,7 @@ release-change:
     update EPOL
   changed_packages: BiSheng-opentuner BiSheng-Autotuner
   date: 2024-08-30-10-30-25
+- pr: https://gitee.com/openeuler/release-management/pulls/1912
+  description: e0b14f1 !1912 add etipc to 24.03 LTS
+  changed_packages: etipc
+  date: 2024-09-19-15-58-56
