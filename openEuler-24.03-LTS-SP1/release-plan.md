@@ -38,6 +38,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 
 | no   | feature | status | sig  | owner |
 | :--- | :------ | :----- | :--- | :---- |
+|[IASH0C](https://gitee.com/openeuler/release-management/issues/IASH0C)|wine5.5升级到wine9.17，不需要linux32依赖库情况下支持win32程序|Discussion|sig-compat-winapp|[@itisyang](https://gitee.com/itisyang)|
 
 
 <br />
