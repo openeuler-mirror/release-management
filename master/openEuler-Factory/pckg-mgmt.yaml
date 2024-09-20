@@ -15471,3 +15471,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-19"
+    - name: v4l2loopback
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-20"
+    - name: kmod-v4l2loopback
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-20"
