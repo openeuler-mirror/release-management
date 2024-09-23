@@ -196,3 +196,8 @@ release-change:
   description: 7d273f0 !1910 【轻量级 PR】：Fixed some doc errors
   changed_packages: libdap
   date: 2024-09-18-22-38-48
+- pr: https://gitee.com/openeuler/release-management/pulls/1916
+  description: aac87b4 !1916 move wine and wine's depends to openEuler:Epol/openEuler:24.03:LTS:Next:Epol
+  changed_packages: wine mingw-binutils mingw-crt mingw-gcc mingw-headers mingw-wine-gecko
+    mingw-winpthreads
+  date: 2024-09-23-12-10-25
