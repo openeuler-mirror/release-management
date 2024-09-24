@@ -15451,3 +15451,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-23"
+    - name: CronTick
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-24"
