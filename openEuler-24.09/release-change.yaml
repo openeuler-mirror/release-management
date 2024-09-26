@@ -126,3 +126,7 @@ release-change:
     from openEuler-24.09
   changed_packages: python-scciclient python-cursive python-pycadf
   date: 2024-09-18-18-40-09
+- pr: https://gitee.com/openeuler/release-management/pulls/1921
+  description: de974c0 !1921 add vscode to openEuler:24.09:Epol
+  changed_packages: vscode
+  date: 2024-09-26-17-35-40
