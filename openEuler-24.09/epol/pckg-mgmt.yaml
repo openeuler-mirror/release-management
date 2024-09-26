@@ -6195,3 +6195,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-09-05'
+- name: vscode
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-09-26'
