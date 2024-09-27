@@ -15455,3 +15455,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-24"
+    - name: calamares
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-27"
+    - name: kpmcore
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-27"
+    - name: devstation-config
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-27"
