@@ -15471,3 +15471,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-27"
+    - name: python-frontmatter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-09-28"
