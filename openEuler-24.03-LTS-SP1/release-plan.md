@@ -40,7 +40,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | :--- | :------ | :----- | :--- | :---- |
 |[IASH0C](https://gitee.com/openeuler/release-management/issues/IASH0C)|wine5.5升级到wine9.17，不需要linux32依赖库情况下支持win32程序|Discussion|sig-compat-winapp|[@itisyang](https://gitee.com/itisyang)|
 | [IATGD8](https://gitee.com/openeuler/release-management/issues/IATGD8)   | Add compatibility patches for Zhaoxin processors | Discussion | kernel            | [leoliu-oc](https://gitee.com/leoliu-oc) |
-|[IAUPHP](https://gitee.com/openeuler/release-management/issues/IAUPHP?from=project-issue)|virtCCA机密虚机特性合入|Discussion|SIG=Kernel/SIG-Virt|[@luoyukai(https://gitee.com/luoyukai)]
+|[IAUPHP](https://gitee.com/openeuler/release-management/issues/IAUPHP?from=project-issue)|virtCCA机密虚机特性合入|Discussion|SIG=Kernel/SIG-Virt|[@luoyukai](https://gitee.com/luoyukai)|
 
 
 <br />
