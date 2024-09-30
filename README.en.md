@@ -17,7 +17,7 @@ conference time: BiWednesday 9:30~11:30 a.m (GMT+8)，please subscribe to the [r
 ## Meeting minutes
 You can find [Release management SIG meeting minutes](https://gitee.com/openeuler/release-management/wikis) at the openEuler wiki site as well as posted to the link:release@openeuler.org mail list after each meeting.
 
-## Release managerment SIG member
+## Release management SIG member
 ** Maintainer: **
 |   Name |GiteeID| Email   |
 |----------|--------------|------------|
