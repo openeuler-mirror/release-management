@@ -6199,3 +6199,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-09-26'
+- name: calamares
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-10-09'
+- name: devstation-config
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-10-09'
+- name: kpmcore
+  source_dir: master
+  destination_dir: openEuler-24.09
+  date: '2024-10-09'
