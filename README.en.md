@@ -31,7 +31,7 @@ You can find [Release management SIG meeting minutes](https://gitee.com/openeule
 |Ye Qinglong| [@yeqinglong01](https://gitee.com/yeqinglong01) | yeqinglong@kylinsec.com.cn |
 |Hou Fangdong| [@SmallPegasus](https://gitee.com/SmallPegasus) | houfangdong@loongson.cn |
 
-**Commiter:**
+**Committer:**
 |团队| 姓名| GiteeID           | 邮件地址  |
 | :-------------: | :-------------: |:--------:| :-----|
 |Huawei|Wang Bo| [@Forestrunner](https://gitee.com/forestrunner)|scaol@foxmail.com|
@@ -83,7 +83,7 @@ You can find [Release management SIG meeting minutes](https://gitee.com/openeule
 |Liu Bo| [@boliurise](https://gitee.com/boliurise) | liubo79@huawei.com|
 |Zhu Yanpeng| [@zyp-rock](https://gitee.com/zyp-rock)|  zhuyanpeng@huawei.com|
 
-**Honor Commiter**
+**Honor Committer**
 | 姓名| GiteeID           | 邮件地址  |
 | :-------------: |:--------:| :-----|
 |Wang Xun| |dream.wang@huawei.com|

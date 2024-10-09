@@ -44,7 +44,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |叶青龙| [@yeqinglong01](https://gitee.com/yeqinglong01) | yeqinglong@kylinsec.com.cn |
 |侯芳东| [@SmallPegasus](https://gitee.com/SmallPegasus) | houfangdong@loongson.cn |
 
-**Commiter:**
+**Committer:**
 |团队| 姓名| GiteeID           | 邮件地址  |
 | :-------------: | :-------------: |:--------:| :-----|
 |华为-openEuler|王博| [@Forestrunner](https://gitee.com/forestrunner)|scaol@foxmail.com|
@@ -96,7 +96,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 |刘博| [@boliurise](https://gitee.com/boliurise) | liubo79@huawei.com|
 |朱延朋  | [@zyp-rock](https://gitee.com/zyp-rock)|  zhuyanpeng@huawei.com|
 
-**Honor Commiter**
+**Honor Committer**
 | 姓名| GiteeID           | 邮件地址  |
 | :-------------: |:--------:| :-----|
 |王勋| |dream.wang@huawei.com|
