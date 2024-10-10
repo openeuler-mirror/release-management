@@ -7495,3 +7495,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-09-23"
+- name: vscode
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-10-10'
+- name: calamares
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-10-10'
+- name: devstation-config
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-10-10'
+- name: kpmcore
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-10-10'
