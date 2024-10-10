@@ -130,3 +130,7 @@ release-change:
   description: de974c0 !1921 add vscode to openEuler:24.09:Epol
   changed_packages: vscode
   date: 2024-09-26-17-35-40
+- pr: https://gitee.com/openeuler/release-management/pulls/1930
+  description: 611a159 !1930 add calamares devstation-config kpmcore to openEuler:24.09:Epol
+  changed_packages: calamares devstation-config kpmcore
+  date: 2024-10-10-09-28-29
