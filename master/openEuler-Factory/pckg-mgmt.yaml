@@ -15383,10 +15383,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-29"
-    - name: vscode
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-08-30"
     - name: intel-qatzip
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15455,18 +15451,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-24"
-    - name: calamares
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-27"
-    - name: kpmcore
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-27"
-    - name: devstation-config
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-27"
     - name: cockpit-machines
       obs_from: ""
       obs_to: openEuler:Factory
