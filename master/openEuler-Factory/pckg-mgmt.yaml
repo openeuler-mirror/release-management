@@ -15487,3 +15487,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-10-12"
+    - name: mate-menu
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-10-12"
+    - name: mate-user-admin
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-10-12"
