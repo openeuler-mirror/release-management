@@ -15483,3 +15483,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-10-01"
+    - name: python-bitarray
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-10-12"
