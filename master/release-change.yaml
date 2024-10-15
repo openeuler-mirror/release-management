@@ -1881,3 +1881,7 @@ release-change:
   description: 068be84 !1932 add vscode calamares devstation-config kpmcore to master
   changed_packages: vscode calamares devstation-config kpmcore
   date: 2024-10-10-20-42-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1928
+  description: 67e5478 !1928 update README
+  changed_packages: bdftopcf fonttosfnt mkfontscale
+  date: 2024-10-15-16-32-54
