@@ -1885,3 +1885,9 @@ release-change:
   description: 67e5478 !1928 update README
   changed_packages: bdftopcf fonttosfnt mkfontscale
   date: 2024-10-15-16-32-54
+- pr: https://gitee.com/openeuler/release-management/pulls/1931
+  description: fd5c7d7 !1931 Move Intel QuickAssist Technology(QAT) packages from
+    Factory to Mainline and add to openEuler-24.03-LTS-Next and release plan of openEuler-24.03-LTS-SP1
+  changed_packages: intel-qatlib intel-qatzip intel-qatengine intel-ipp-crypto-mb
+    intel-ipsec-mb
+  date: 2024-10-15-16-37-18

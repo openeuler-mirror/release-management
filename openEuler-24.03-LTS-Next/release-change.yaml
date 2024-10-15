@@ -201,3 +201,9 @@ release-change:
   changed_packages: wine mingw-binutils mingw-crt mingw-gcc mingw-headers mingw-wine-gecko
     mingw-winpthreads
   date: 2024-09-23-12-10-25
+- pr: https://gitee.com/openeuler/release-management/pulls/1931
+  description: fd5c7d7 !1931 Move Intel QuickAssist Technology(QAT) packages from
+    Factory to Mainline and add to openEuler-24.03-LTS-Next and release plan of openEuler-24.03-LTS-SP1
+  changed_packages: intel-qatlib intel-qatzip intel-qatengine intel-ipp-crypto-mb
+    intel-ipsec-mb
+  date: 2024-10-15-16-37-18
