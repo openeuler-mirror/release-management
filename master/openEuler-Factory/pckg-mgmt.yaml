@@ -15327,10 +15327,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-24"
-    - name: intel-qatlib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-30"
     - name: litehtml
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15383,22 +15379,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-08-29"
-    - name: intel-qatzip
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-05"
-    - name: intel-qatengine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-05"
-    - name: intel-ipsec-mb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-05"
-    - name: intel-ipp-crypto-mb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-05"
     - name: A-SysArmor
       obs_from: ""
       obs_to: openEuler:Factory

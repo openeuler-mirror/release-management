@@ -6215,3 +6215,23 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2024-08-30'
+- name: intel-qatlib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-10-14'
+- name: intel-qatzip
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-10-14'
+- name: intel-qatengine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-10-14'
+- name: intel-ipp-crypto-mb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-10-14'
+- name: intel-ipsec-mb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-10-14'
