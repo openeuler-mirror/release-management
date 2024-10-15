@@ -15463,18 +15463,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-28"
-    - name: fonttosfnt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-28"
-    - name: mkfontscale
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-28"
-    - name: bdftopcf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-28"
     - name: llvm-libc
       obs_from: ""
       obs_to: openEuler:Factory
