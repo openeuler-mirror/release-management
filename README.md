@@ -120,7 +120,7 @@ release management sig历次会议纪要均做归档，详情请查询历史[会
 - 对release sig/社区版本运作有突出贡献者个人和组织自我推荐（贡献内容自我举证，贡献形式不限）
 
 
-## release maintianer变更流程及原则
+## release maintainer变更流程及原则
 - 主动退出或者release提议退出，release sig评审后发起更新
 - 主动退出或者连续6次以上无故不参与release sig例会
 - 个人或者所属团队，连续6个月无社区贡献
