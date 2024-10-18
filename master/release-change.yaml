@@ -1891,3 +1891,8 @@ release-change:
   changed_packages: intel-qatlib intel-qatzip intel-qatengine intel-ipp-crypto-mb
     intel-ipsec-mb
   date: 2024-10-15-16-37-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1925
+  description: 1389ffd !1925 mv minizip-ng shaderc cockpit-machines from Factory to
+    Epol
+  changed_packages: minizip-ng shaderc cockpit-machines
+  date: 2024-10-18-14-54-36
