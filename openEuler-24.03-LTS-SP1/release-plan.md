@@ -43,6 +43,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAUPHP](https://gitee.com/openeuler/release-management/issues/IAUPHP) | virtCCA机密虚机特性合入|Discussion|SIG-Kernel/SIG-Virt|[@luoyukai](https://gitee.com/luoyukai)|
 | [IAWIGO](https://gitee.com/openeuler/release-management/issues/IAWIGO) | virtCCA+kata机密容器特性合入版本|Discussion|机密计算SIG/云原生SIG|[@luoyukai](https://gitee.com/luoyukai)|
 | [IATGD8](https://gitee.com/openeuler/release-management/issues/IAW0BK) | Add Intel QAT packages support | Discussion |sig-Intel-Arch| [@allen-shi](https://gitee.com/allen-shi) |
+| [IAYKG8](https://gitee.com/openeuler/release-management/issues/IAYKG8) | 支持plasma5桌面环境 | Discussion |sig-KDE| [@tangjie02](https://gitee.com/tangjie02) |
 
 
 <br />
