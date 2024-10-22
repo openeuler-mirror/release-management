@@ -13823,10 +13823,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-14"
-    - name: libtracefs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-14"
     - name: python-flake8-builtins
       obs_from: ""
       obs_to: openEuler:Factory
