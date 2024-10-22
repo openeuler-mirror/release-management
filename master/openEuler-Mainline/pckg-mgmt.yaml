@@ -6235,3 +6235,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-10-14'
+- name: python-backoff
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2022-10-23"
+- name: python-rpmautospec-core
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2024-10-23"

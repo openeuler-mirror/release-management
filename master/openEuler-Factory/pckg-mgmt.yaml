@@ -7407,10 +7407,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-backoff
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-backports
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15379,10 +15375,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-09-10"
-    - name: python-rpmautospec-core
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-09-12"
     - name: botron-hard-realtime-plugin
       obs_from: ""
       obs_to: openEuler:Factory
