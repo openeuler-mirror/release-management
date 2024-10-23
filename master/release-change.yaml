@@ -1896,3 +1896,8 @@ release-change:
     Epol
   changed_packages: minizip-ng shaderc cockpit-machines
   date: 2024-10-18-14-54-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1942
+  description: bbd163f !1942 Move backoff and rpmautospec-core from master:factory
+    to everyghing Merge pull request !1942 from shafeipaozi/master
+  changed_packages: python-backoff python-rpmautospec-core
+  date: 2024-10-23-10-08-29
