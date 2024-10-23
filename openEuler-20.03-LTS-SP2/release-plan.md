@@ -19,7 +19,7 @@
 - Testing(测试中)
 - Accepted(已验收)
 
-|no|fetur|status|sig|owner|
+|no|feature|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |1|[【openEuler 20.03 LTS SP2】【虚拟化】回合openEuler 21.03，vmtop支持x86](https://gitee.com/openeuler/release-management/issues/I3NLWF?from=project-issue)|Accepted|virt|@alexchen|
 |2|[openEuler 20.03-LTS-SP2支持内存分级扩展特性](https://gitee.com/openeuler/release-management/issues/I2C2NI?from=project-issue)|Accepted|storage|[liuzhiqiang26](https://gitee.com/liuzhiqiang26)|
