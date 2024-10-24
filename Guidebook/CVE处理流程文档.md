@@ -8,7 +8,7 @@ CVE对每一个漏洞都赋予一个专属的编号，格式为CVE-YYYY-NNNN。�
 
 openEuler的CVE信息来源为NVD，NVD是一个美国政府基于安全内容自动化协议（SCAP）标准的漏洞管理数据的存储库，可实现漏洞管理、安全性度量和合规性的自动化。NVD的官方网址为https://nvd.nist.gov/。
 
-​漏洞严重程度通常通过CVSS来衡量，CVSS是一个开放框架，用于传达软件漏洞的特征和严重性。CVSS由三个度量标准组组成：基础，时间和环境。基本指标产生的分数介于0到10之间，然后可以通过对时间和环境指标进行评分来进行修改。openEuler根据CVSS评分将漏洞严重程度分为四个等级：严重为9分以上，主要为7.0–8.9分，次要为4.0 – 6.9，不重要为0.1 – 3.9。
+漏洞严重程度通常通过CVSS来衡量，CVSS是一个开放框架，用于传达软件漏洞的特征和严重性。CVSS由三个度量标准组组成：基础，时间和环境。基本指标产生的分数介于0到10之间，然后可以通过对时间和环境指标进行评分来进行修改。openEuler根据CVSS评分将漏洞严重程度分为四个等级：严重为9分以上，主要为7.0–8.9分，次要为4.0 – 6.9，不重要为0.1 – 3.9。
 
 openEuler安全委员会（Security Committee, SC）过接收和响应openEuler产品安全问题报告、提供社区安全指导，开展安全治理等活动提升社区产品的安全性。SC在openEuler社区官网发布了漏洞管理策略，包括如何上报安全问题、获取SA和安全补丁等信息，详见 https://openeuler.org/zh/security/vulnerability-reporting/
 
@@ -48,17 +48,29 @@ CVE处理流程图：
 
 #### 2.3.2 通过obs或eulermaker确认
 
+2.3.2.1 通过Eulermaker确认 （当前在Eulermaker平台构建软件包）
+
+1）登录地址：https://eulermaker.compass-ci.openeuler.openatom.cn/projects 
+
+2）默认为“公有工程”，在右侧搜索框中快速搜索对应分支，查找对应软件包，如下所示：
+
+![输入图片说明](Pictures/CVE/all_project_find_pkg.png)
+
+![输入图片说明](Pictures/CVE/project_find_pkg.png)
+
+3）进入软件包，在“下载“页面找到对应架构的src.rpm包，在右侧”下载“字段单击鼠标右键复制下载链接;
+
+4）进入本地虚拟机环境，使用”wget  xxx.src.rpm下载地址“ 将源代码下载到本地，再通过“rpm2cpio haproxy-xxx.src.rpm | cpio -id”，解压源码后查看补丁，确定是否已修复。CVE已在当前版本修复，如下所示：
+
+![输入图片说明](Pictures/CVE/patch_pass.png)
+
+2.3.2.2 通过obs确认 （OBS平台已下线）
+
 登录OBS或EBS网页查看haproxy的spec及对应的补丁，确定是否已修复
 
 OBS：https://build.openeuler.openatom.cn/project
 
 ![输入图片说明](Pictures/CVE/%E5%88%86%E6%9E%90CVE-%E7%A1%AE%E8%AE%A4%E4%BF%AE%E5%A4%8D%E6%83%85%E5%86%B5-OBS.png)
-
-EBS：https://eulermaker.compass-ci.openeuler.openatom.cn/projects
-
-下载haproxy-2.6.6-3.oe2203sp1.src.rpm包到本地环境，使用“rpm2cpio haproxy-2.6.6-3.oe2203sp1.src.rpm | cpio -id”，解压源码后查看补丁，确定是否已修复
-
-![输入图片说明](Pictures/CVE/%E5%88%86%E6%9E%90CVE-%E7%A1%AE%E8%AE%A4%E4%BF%AE%E5%A4%8D%E6%83%85%E5%86%B5-%E6%9C%AC%E5%9C%B0%E8%A7%A3%E5%8E%8B%E6%BA%90%E7%A0%81.png)
 
 #### 2.3.3 查看源码，进行二次确认
 
@@ -110,7 +122,73 @@ https://github.com/haproxy/haproxy/commit/d6fb7a0e0f3a79afa1f4b6fc7b62053c3955dc
 
 由图知补丁修改的两处位置仅有行差，可正常回合。 
 
-2、OBS验证编译和安装
+2、Eulermaker平台验证编译和安装
+
+1）验证编译：
+
+- 参考1步骤，确保修复补丁可以直接回合进源码
+
+- 将gitee平台的src-openeuler/haproxy 仓库fork到个人仓库
+
+![输入图片说明](Pictures/CVE/%E6%8F%90%E4%BA%A4pr%E4%BF%AE%E5%A4%8D-1.png)
+
+-  将远程 fork的haproxy仓库clone到本地环境
+
+​       git clone https://gitee.com/starlet-dx/haproxy.git
+
+- 进入本地clone下来的haproxy目录，切换到需要提交的分支
+
+​       git checkout -b openEuler-22.03-LTS-SP3
+
+- 将修改验证后的CVE修复补丁拷贝到当前目录下，并在spec中添加补丁声明并确保执行了打patch的操作，见：
+
+![输入图片说明](Pictures/CVE/%E8%A1%A5%E4%B8%81%E9%AA%8C%E8%AF%81-OBS%E9%AA%8C%E8%AF%814-2.png)
+
+**由于该包spec的%prep阶段使用了%autosetup，无需在此阶段执行打补丁的操作，补丁就会自动被读取并打上**
+
+- 之后执行“git add -A & git commit -m ’提交信息‘ ”命令，将修改后的代码上传gitee个人仓库下
+
+- 从Eulermaker对应工程haproxy的“软件包详情”页面，点击“软件包继承”，即可将haproxy拉取到个人工程
+
+
+![输入图片说明](Pictures/CVE/add_pkg_to_mypro.png)
+
+- 进入haproxy软件包页面，编辑"git地址"，修改为个人仓库软件包地址，见：
+
+![输入图片说明](Pictures/CVE/modify_giturl.png)
+
+- 点击“开始构建”，构建软件包，见：
+
+![输入图片说明](Pictures/CVE/mypro_building.png)
+
+- 构建成功，则编译通过。（若构建失败，可点击“查看”按钮浏览构建日志报错）
+
+![输入图片说明](Pictures/CVE/build_done.png)
+
+2）验证安装：
+
+1）参考[EulerMaker用户指南.html#基于命令行](https://docs.openeuler.org/zh/docs/22.03_LTS_SP4/docs/EulerMaker/EulerMaker%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.html#%E5%9F%BA%E4%BA%8E%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%BF%9B%E8%A1%8C%E6%9E%84%E5%BB%BA)进行构建，熟悉ccb命令的配置及基本操作
+
+2）使用"ccb download" 命令，下载编译出的二进制rpm包到本地环境，如下所示：
+
+![输入图片说明](Pictures/CVE/ccb_download_b.png)
+
+3）配置工程repo，用工程源为安装测试做准备。配置步骤如下所示：
+
+![输入图片说明](Pictures/CVE/set_repo.png)
+
+![输入图片说明](Pictures/CVE/etc_repo.png)
+
+4）进入下载好的目录，安装二进制子包。安装成功，如下所示：
+
+![输入图片说明](Pictures/CVE/dnf_install_mypkg_b.png)
+
+```
+EulerMaker用户指南：
+https://docs.openeuler.org/zh/docs/22.03_LTS_SP4/docs/EulerMaker/EulerMaker%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.html
+```
+
+2、OBS验证编译和安装 （OBS平台已下线）
 
 1）找到要构建的包所在的工程，搜索该软件包，并单击“branch package”将公有工程的包拉到个人工程；
 
@@ -124,13 +202,7 @@ https://github.com/haproxy/haproxy/commit/d6fb7a0e0f3a79afa1f4b6fc7b62053c3955dc
 
 ![输入图片说明](Pictures/CVE/%E8%A1%A5%E4%B8%81%E9%AA%8C%E8%AF%81-OBS%E9%AA%8C%E8%AF%813.png)
 
-4）将修复CVE的补丁拷贝到当前目录下，在spec中添加补丁声明并确保执行了打patch的操作，具体参考如下：
-
-![输入图片说明](Pictures/CVE/%E8%A1%A5%E4%B8%81%E9%AA%8C%E8%AF%81-OBS%E9%AA%8C%E8%AF%814-1.png)
-
-![输入图片说明](Pictures/CVE/%E8%A1%A5%E4%B8%81%E9%AA%8C%E8%AF%81-OBS%E9%AA%8C%E8%AF%814-2.png)
-
-**由于该包spec的%prep阶段使用了%autosetup，无需在此阶段执行打补丁的操作，补丁就会自动被读取并打上**
+4）将修复CVE的补丁拷贝到当前目录下，在spec中添加补丁声明并确保执行了打patch的操作（参考上述Eulermaker中spec修改）
 
 5） 执行osc addremove & osc update & osc commit ，将修改后的代码上传到OBS个人工程软件包下
 
@@ -271,7 +343,7 @@ patch回合checklist，如下所示：
 
 | 场景   | 相关步骤说明 | 检查项                                                       | 是否有门禁拦截 | 备注 |
 | ------ | ------------ | ------------------------------------------------------------ | -------------- | ---- |
-| 打补丁  | 自验证      | 1、CVE的补丁，补丁以CVE-编号命名     <br />2、参考上游的补丁，标注补丁来源链接     <br />3、spec中需关注prep阶段是否为自动回合方式，确保patch打入     <br />4、适配的补丁与原补丁文件对比是否有缺失，错改情况，并在补丁commit信息中标注参考链接地址     <br />5、版本跨度较大的补丁，需关注高低版本补丁代码逻辑是否合理且一致，再考虑能否进行适配     <br />6、本地验证paych是否生效 | 否             |      |
+| 打补丁  | 自验证      | 1、CVE的补丁，补丁以CVE-编号命名     <br />2、参考上游的补丁，标注补丁来源链接     <br />3、spec中需关注prep阶段是否为自动回合方式，确保patch打入     <br />4、适配的补丁与原补丁文件对比是否有缺失，错改情况，并在补丁commit信息中标注参考链接地址     <br />5、版本跨度较大的补丁，需关注高低版本补丁代码逻辑是否合理且一致，再考虑能否进行适配     <br />6、本地验证patch是否生效 | 否             |      |
 
 
 ## 四、未修复，升级修复
@@ -387,7 +459,15 @@ issue链接：https://gitee.com/src-openeuler/gradle/issues/I6S7QB
 
 ### 7.1 不受影响的CVE
 
-在Issue中评论不受影响原因及影响分析后，关闭issue。
+在Issue中评论不受影响原因及影响分析后，关闭issue。如下所示：
+
+1）分析不受影响原因，进行评论：
+
+![输入图片说明](Pictures/CVE/unaffected_reason.png)
+
+2）引用模板进行影响分析评论：
+
+![输入图片说明](Pictures/CVE/unaffected_analysis.png)
 
 ### 7.2 受影响的CVE
 
@@ -414,6 +494,6 @@ https://gitee.com/openeuler/cve-manager/blob/master/cve-vulner-manager/doc/md/ma
 
 ### 8.2 历史挂起CVE需定时复盘上游的修复情况
 
-历史挂起的CVE需每隔半年，重新排查上游是否已修复或社区当前版本是否仍涉及
+历史挂起的CVE每三个月核查一次，重新排查上游是否已修复或社区当前版本是否仍涉及
 
 NVD及上游社区明确漏洞的受影响范围，社区当前版本在漏洞影响的临界版本，若开发人员定位为不受影响，需要在issue中详细阐述不受此漏洞影响的具体原因。
