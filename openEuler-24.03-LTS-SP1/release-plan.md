@@ -44,7 +44,11 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAWIGO](https://gitee.com/openeuler/release-management/issues/IAWIGO) | virtCCA+kata机密容器特性合入版本|Discussion|机密计算SIG/云原生SIG|[@luoyukai](https://gitee.com/luoyukai)|
 | [IATGD8](https://gitee.com/openeuler/release-management/issues/IAW0BK) | Add Intel QAT packages support | Discussion |sig-Intel-Arch| [@allen-shi](https://gitee.com/allen-shi) |
 | [IAYKG8](https://gitee.com/openeuler/release-management/issues/IAYKG8) | 支持plasma5桌面环境 | Discussion |sig-KDE| [@tangjie02](https://gitee.com/tangjie02) |
-
+| [IAZNCN](https://gitee.com/openeuler/release-management/issues/IAZNCN) | 增加YouQu自动化测试平台支持 | Discussion |sig-QA| [@mikigo](https://gitee.com/mikigo) |
+| [IAZNA8](https://gitee.com/openeuler/release-management/issues/IAZNA8) | 增加migration-tools支持 | Discussion |sig-migration| [@xingwei-liu](https://gitee.com/xingwei-liu/) |
+| [IAZN8U](https://gitee.com/openeuler/release-management/issues/IAZN8U?from=project-issue) | 增加 utsudo 支持 | Discussion |sig-memsafety| [@wangmengc](https://gitee.com/wangmengc/) |
+| [IAZN7K](https://gitee.com/openeuler/release-management/issues/IAZN7K?from=project-issue) | 增加 utshell支持 | Discussion |sig-memsafety| [@ut-wanglujun](https://gitee.com/ut-wanglujun) |
+| [IAZN4N](https://gitee.com/openeuler/release-management/issues/IAZN4N?from=project-issue) | 增加DDE支持                                                  | Discussion |sig-DDE| [@ut-layne-yang](https://gitee.com/ut-layne-yang) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
