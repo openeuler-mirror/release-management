@@ -1901,3 +1901,7 @@ release-change:
     to everyghing Merge pull request !1942 from shafeipaozi/master
   changed_packages: python-backoff python-rpmautospec-core
   date: 2024-10-23-10-08-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1935
+  description: b0ecba0 !1935 Move splitted xorg-x11-utils packages into C
+  changed_packages: xlsatoms xprop xdpyinfo xlsfonts xvinfo xlsclients xev xwininfo
+  date: 2024-10-26-10-10-55
