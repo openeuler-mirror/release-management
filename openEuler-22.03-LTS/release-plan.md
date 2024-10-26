@@ -61,5 +61,5 @@ openEuler 22.03 LTS是基于5.10内核的长周期LTS版本（参见[版本生�
 <br />
 由于openEuler 21.09版本是在8月11号从Master拉分支（https://gitee.com/openeuler/community/pulls/2567）<br />
 因此2021/8/11这个时间点之后的Master PR，可能需要回合到22.03-LTS-Next分支。<br />
-请各sig maintainer、开发者们知悉此情况，做好相关代码的回合（可利用/sync命令做分支代码同步），确保22.03-LTS-Next分支上的代码版本符合预期（最新？）。
+请各sig maintainer、开发者们知悉此情况，做好相关代码的合入（可利用/sync命令做分支代码同步），确保22.03-LTS-Next分支上的代码版本符合预期（最新？）。
 <br /><br />
