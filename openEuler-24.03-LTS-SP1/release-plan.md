@@ -50,6 +50,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAZN7K](https://gitee.com/openeuler/release-management/issues/IAZN7K?from=project-issue) | 增加 utshell支持 | Discussion |sig-memsafety| [@ut-wanglujun](https://gitee.com/ut-wanglujun) |
 | [IAZN4N](https://gitee.com/openeuler/release-management/issues/IAZN4N?from=project-issue) | 增加DDE支持                                                  | Discussion |sig-DDE| [@ut-layne-yang](https://gitee.com/ut-layne-yang) |
 | [IAYGKY](https://gitee.com/openeuler/kernel/issues/IAYGKY) | 海光CSV3支持（支持主机创建CSV3虚拟机，支持虚拟机中运行内核） | Discussion |sig-kernel| [@hanliyang](https://gitee.com/hanliyang) |
+| [IAZ4SZ](https://gitee.com/openeuler/release-management/issues/IAZ4SZ) | enable the SEV-SNP | Discussion |kernel| [@kile2009](https://gitee.com/kile2009) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
