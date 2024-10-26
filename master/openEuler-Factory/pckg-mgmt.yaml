@@ -15459,38 +15459,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-10-16"
-    - name: xlsatoms
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xprop
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xdpyinfo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xlsfonts
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xvinfo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xlsclients
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xev
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
-    - name: xwininfo
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
     - name: openvino
       obs_from: ""
       obs_to: openEuler:Factory

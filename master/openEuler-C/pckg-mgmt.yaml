@@ -3915,6 +3915,38 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: xlsatoms
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xprop
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xdpyinfo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xlsfonts
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xvinfo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xlsclients
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xev
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
+- name: xwininfo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-10-17"
 - name: yajl
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
