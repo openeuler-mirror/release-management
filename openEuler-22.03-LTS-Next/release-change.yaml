@@ -567,7 +567,7 @@ release-change:
   changed_packages: appres
   date: 2023-12-21-20-55-58
 - pr: https://gitee.com/openeuler/release-management/pulls/1552
-  description: 94ec305c !1552 Move openjdk21 to master Common Languanges Dependent
+  description: 94ec305c !1552 Move openjdk21 to master Common Languages Dependent
     tools and 22.03 Next
   changed_packages: openjdk-21
   date: 2023-12-29-11-44-26
@@ -659,7 +659,7 @@ release-change:
   changed_packages: kmod-dinghai
   date: 2024-08-26-14-07-23
 - pr: https://gitee.com/openeuler/release-management/pulls/1871
-  description: 3254bff !1871 Move app(meld) from matser:Factory to master&openEuler-22.03-LTS-Next:Mainline
+  description: 3254bff !1871 Move app(meld) from master:Factory to master&openEuler-22.03-LTS-Next:Mainline
     for desktop apps added
   changed_packages: meld
   date: 2024-08-27-17-33-17
