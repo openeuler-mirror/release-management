@@ -65,6 +65,7 @@ openEuler 24.09 是基于6.6内核的创新版本（参见[版本生命周期](h
 |[IAOLZ3](https://gitee.com/openeuler/release-management/issues/IAOLZ3?from=project-issue)|  增加pandoc 项目发布 | Discussion | sig-haskell | [@lrzlin](https://gitee.com/lrzlin) |
 |[IAPEKI](https://gitee.com/ncti-gba-ide/release-management/issues/IAPEKI?from=project-issue)|  增加国创OS开发工具 | Discussion | sig-ide | [@ncti-gba-ide](https://gitee.com/ncti-gba-ide) |
 |[IAT24U](https://gitee.com/openeuler/release-management/issues/IAT24U?from=project-issue)|  为 RISC-V 架构引入 Penglai TEE 支持 | Discussion | sig-RISC-V | [ @Jingwiw ](https://gitee.com/Jingwiw) |
+|[IATWZR](https://gitee.com/openeuler/release-management/issues/IATWZR?from=project-issue)|  平行宇宙计划 增加 24.09 RISC-V 架构 Preview 版本 | Discussion | sig-RISC-V | [ @jchzhou ](https://gitee.com/jchzhou) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
