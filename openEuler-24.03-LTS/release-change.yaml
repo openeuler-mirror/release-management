@@ -209,3 +209,7 @@ release-change:
   description: e0b14f1 !1912 add etipc to 24.03 LTS
   changed_packages: etipc
   date: 2024-09-19-15-58-56
+- pr: https://gitee.com/openeuler/release-management/pulls/1940
+  description: e932145 !1940 Move libtracefs from master:factory to everyghing
+  changed_packages: libtracefs
+  date: 2024-10-28-14-46-50
