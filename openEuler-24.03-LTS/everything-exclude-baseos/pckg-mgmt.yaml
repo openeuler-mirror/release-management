@@ -22143,3 +22143,9 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS
   date: '2024-09-19'
+- name: libtracefs
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2024-10-28'

@@ -4075,3 +4075,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-05-17'
+- name: libtracefs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2024-10-28'
