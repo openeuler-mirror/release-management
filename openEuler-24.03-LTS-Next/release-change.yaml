@@ -211,3 +211,7 @@ release-change:
   description: e932145 !1940 Move libtracefs from master:factory to everyghing
   changed_packages: libtracefs
   date: 2024-10-28-14-46-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1939
+  description: 6206587 !1939 [openEuler-24.03-LTS-Next] Add mold as a dependency
+  changed_packages: mold
+  date: 2024-10-28-14-52-07
