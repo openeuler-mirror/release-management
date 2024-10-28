@@ -1905,3 +1905,7 @@ release-change:
   description: b0ecba0 !1935 Move splitted xorg-x11-utils packages into C
   changed_packages: xlsatoms xprop xdpyinfo xlsfonts xvinfo xlsclients xev xwininfo
   date: 2024-10-26-10-10-55
+- pr: https://gitee.com/openeuler/release-management/pulls/1950
+  description: 1bdeaf4 !1950 move mock-core-configs to mainline
+  changed_packages: mock-core-configs
+  date: 2024-10-28-09-46-14
