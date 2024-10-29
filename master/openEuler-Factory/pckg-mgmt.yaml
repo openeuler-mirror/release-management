@@ -15283,10 +15283,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-10-16"
-    - name: openvino
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-17"
     - name: vllm
       obs_from: ""
       obs_to: openEuler:Factory
