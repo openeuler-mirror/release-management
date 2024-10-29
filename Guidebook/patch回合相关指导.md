@@ -65,7 +65,7 @@ diff命令制作补丁步骤：
 1. CVE补丁，补丁以CVE-补丁编号命令
 2. 参考上游的补丁，通过Reference标注补丁来源
 
-![输入图片说明](./Pictures/patch%E5%9B%9E%E5%90%88/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230619161112.png)
+![输入图片说明](./Pictures/patch%E5%9B%9E%E5%90%88/%E9%80%9A%E8%BF%87Reference%E6%A0%87%E6%B3%A8%E8%A1%A5%E4%B8%81%E6%9D%A5%E6%BA%90.png)
 
 ## 3.  回合补丁
 ### 3.1  验证补丁是否能正常回合
