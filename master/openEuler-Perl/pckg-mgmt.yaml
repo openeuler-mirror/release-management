@@ -107,3 +107,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: "2023-12-8"
+- name: perl-Convert-Base32
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2024-10-29"
+- name: perl-Crypt-URandom
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2024-10-29"
