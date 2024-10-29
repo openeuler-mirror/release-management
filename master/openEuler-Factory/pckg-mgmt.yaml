@@ -3047,10 +3047,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Convert-Base32
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Convert-Base64
       obs_from: ""
       obs_to: openEuler:Factory
@@ -3132,10 +3128,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-Crypt-ScryptKDF
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Crypt-URandom
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
