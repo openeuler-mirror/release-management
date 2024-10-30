@@ -53,6 +53,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAZ4SZ](https://gitee.com/openeuler/release-management/issues/IAZ4SZ) | enable the SEV-SNP | Discussion |kernel| [@kile2009](https://gitee.com/kile2009) |
 | [IAZOCV](https://gitee.com/openeuler/release-management/issues/IAZOCV) | LLVM多版本实现 | Discussion | sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 | [IAWKJV](https://gitee.com/openeuler/release-management/issues/IAWKJV) | 支持树莓派 | Discussion | SIG-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
+| [IAZOCV](https://gitee.com/openeuler/release-management/issues/IB0JOU) | 新增密码套件openHiTLS | Discussion | sig-security-facility | [@xuhuiyue](https://gitee.com/xuhuiyue) |
 
 
 <br />
