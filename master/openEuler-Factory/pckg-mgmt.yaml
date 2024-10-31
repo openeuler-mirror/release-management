@@ -14403,10 +14403,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-pytest-flake8
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-git-changelog
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14428,10 +14424,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-oldest-supported-numpy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-pytest-trio
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

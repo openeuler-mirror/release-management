@@ -2823,3 +2823,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2024-04-23'
+- name: python-pytest-flake8
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-10-31'
+- name: python-pytest-trio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-10-31'
