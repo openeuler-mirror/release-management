@@ -1918,3 +1918,8 @@ release-change:
     to openEuler:Perl
   changed_packages: perl-Convert-Base32 perl-Crypt-URandom
   date: 2024-10-29-17-43-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1958
+  description: 64e7ee2 !1958 Move python-pytest-flake8 and python-pytest-trio from
+    master:Factory to master:Python for python-werkzeug upgrade and test
+  changed_packages: python-pytest-flake8 python-pytest-trio
+  date: 2024-10-31-16-05-38
