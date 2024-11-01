@@ -1923,3 +1923,8 @@ release-change:
     master:Factory to master:Python for python-werkzeug upgrade and test
   changed_packages: python-pytest-flake8 python-pytest-trio
   date: 2024-10-31-16-05-38
+- pr: https://gitee.com/openeuler/release-management/pulls/1959
+  description: fa4cc63 !1959 Move python-pydoctor and deps(lunr&cachecontrol) from
+    master:Factory to master:Python
+  changed_packages: python-pydoctor python-lunr python-cachecontrol
+  date: 2024-11-01-10-37-37
