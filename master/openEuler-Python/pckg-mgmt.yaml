@@ -2831,3 +2831,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-10-31'
+- name: python-pydoctor
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-01'
+- name: python-lunr
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-01'
+- name: python-cachecontrol
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-01'
