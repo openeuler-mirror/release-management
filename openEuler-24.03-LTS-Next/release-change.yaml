@@ -215,3 +215,7 @@ release-change:
   description: 6206587 !1939 [openEuler-24.03-LTS-Next] Add mold as a dependency
   changed_packages: mold
   date: 2024-10-28-14-52-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1951
+  description: 98182ba !1951 【轻量级 PR】：update openEuler-22.03-LTS-Next/release-change.yaml.
+  changed_packages: isula-rust-extensions
+  date: 2024-11-01-10-13-07
