@@ -13815,10 +13815,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-cachecontrol
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-docformatter
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13831,10 +13827,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
-    - name: python-lunr
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
     - name: python-flake8-mutable
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13844,10 +13836,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-06-20"
     - name: python-codespell
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-06-20"
-    - name: python-pydoctor
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-06-20"
