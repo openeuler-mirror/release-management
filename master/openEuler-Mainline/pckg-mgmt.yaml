@@ -6247,3 +6247,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2024-12-26"
+- name: intel-gsc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
+- name: level-zero
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
+- name: intel-graphics-compiler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
+- name: intel-compute-runtime
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
+- name: intel-metee
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
+- name: intel-gmmlib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
+- name: intel-cm-compiler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-11-27'
