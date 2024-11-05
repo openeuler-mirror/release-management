@@ -18443,3 +18443,11 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP4
   date: '2024-06-14'
+- name: python-statsmodels
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-SP4
+  date: '2024-11-05'
+- name: python-patsy
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-SP4
+  date: '2024-11-05'
