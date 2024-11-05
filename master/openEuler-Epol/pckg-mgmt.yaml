@@ -2079,10 +2079,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-lockfile
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-lz4
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -2124,10 +2120,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-moto
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: python-msgpack
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
