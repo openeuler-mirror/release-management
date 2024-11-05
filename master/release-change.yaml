@@ -1928,3 +1928,8 @@ release-change:
     master:Factory to master:Python
   changed_packages: python-pydoctor python-lunr python-cachecontrol
   date: 2024-11-01-10-37-37
+- pr: https://gitee.com/openeuler/release-management/pulls/1962
+  description: 204c003 !1962 Move python-lockfile&python-msgpack from master:Epol
+    to master:Python for python-cachecontrol ebs
+  changed_packages: python-lockfile python-msgpack
+  date: 2024-11-05-15-32-49
