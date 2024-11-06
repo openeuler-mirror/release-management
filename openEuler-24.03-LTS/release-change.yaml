@@ -213,3 +213,7 @@ release-change:
   description: e932145 !1940 Move libtracefs from master:factory to everyghing
   changed_packages: libtracefs
   date: 2024-10-28-14-46-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1936
+  description: 7af734a !1936 创建pyproject-rpm-macros/rust-srpm-macros/cargo2rpm仓库的构建工程
+  changed_packages: rust-srpm-macros cargo2rpm
+  date: 2024-11-06-16-25-35

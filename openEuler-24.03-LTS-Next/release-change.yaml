@@ -219,3 +219,7 @@ release-change:
   description: 98182ba !1951 【轻量级 PR】：update openEuler-22.03-LTS-Next/release-change.yaml.
   changed_packages: isula-rust-extensions
   date: 2024-11-01-10-13-07
+- pr: https://gitee.com/openeuler/release-management/pulls/1936
+  description: 7af734a !1936 创建pyproject-rpm-macros/rust-srpm-macros/cargo2rpm仓库的构建工程
+  changed_packages: pyproject-rpm-macros rust-srpm-macros cargo2rpm
+  date: 2024-11-06-16-25-35
