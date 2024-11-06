@@ -7913,3 +7913,21 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-09-23'
+- name: pyproject-rpm-macros
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2024-11-06'
+- name: rust-srpm-macros
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2024-11-06'
+- name: cargo2rpm
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2024-11-06'
