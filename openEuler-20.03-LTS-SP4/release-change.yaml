@@ -149,3 +149,7 @@ release-change:
   description: 5eca330c !1812 add python-prompt-toolkit to 2003-LTS-SP4
   changed_packages: python-prompt-toolkit
   date: 2024-07-08-09-43-41
+- pr: https://gitee.com/openeuler/release-management/pulls/1965
+  description: 551bf11 !1965 add sysSentry to 2003-LTS-SP4
+  changed_packages: sysSentry
+  date: 2024-11-07-11-17-40
