@@ -22225,3 +22225,12 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-NEXT
   date: '2024-11-05'
+- name: virtCCA_sdk
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  date: '2024-11-11'
+- name: virtCCA_driver
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  date: '2024-11-11'
+  
