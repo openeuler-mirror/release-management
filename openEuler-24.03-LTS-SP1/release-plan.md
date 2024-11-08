@@ -49,7 +49,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAZN8U](https://gitee.com/openeuler/release-management/issues/IAZN8U?from=project-issue) | 增加 utsudo 支持 | Discussion |sig-memsafety| [@wangmengc](https://gitee.com/wangmengc/) |
 | [IAZN7K](https://gitee.com/openeuler/release-management/issues/IAZN7K?from=project-issue) | 增加 utshell支持 | Discussion |sig-memsafety| [@ut-wanglujun](https://gitee.com/ut-wanglujun) |
 | [IAZN4N](https://gitee.com/openeuler/release-management/issues/IAZN4N?from=project-issue) | 增加DDE支持                                                  | Discussion |sig-DDE| [@ut-layne-yang](https://gitee.com/ut-layne-yang) |
-| [IAYGKY](https://gitee.com/openeuler/kernel/issues/IAYGKY) | 海光CSV3支持（支持主机创建CSV3虚拟机，支持虚拟机中运行内核） | Discussion |sig-kernel| [@hanliyang](https://gitee.com/hanliyang) |
+| [IAYGKY](https://gitee.com/openeuler/kernel/issues/IAYGKY) | 海光CSV3支持（支持主机创建CSV3虚拟机，支持虚拟机中运行内核） | Developing |sig-kernel| [@hanliyang](https://gitee.com/hanliyang) |
 | [IAZ4SZ](https://gitee.com/openeuler/release-management/issues/IAZ4SZ) | enable the SEV-SNP | Discussion |kernel| [@kile2009](https://gitee.com/kile2009) |
 | [IAZOCV](https://gitee.com/openeuler/release-management/issues/IAZOCV) | LLVM多版本实现 | Discussion | sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 | [IAWKJV](https://gitee.com/openeuler/release-management/issues/IAWKJV) | 支持树莓派 | Discussion | SIG-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
