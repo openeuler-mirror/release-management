@@ -7515,3 +7515,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-10-16"
+- name: fisher
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2023-11-09"
