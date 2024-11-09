@@ -1,1 +1,6 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/1971
+  description: 3cb445c !1971 【轻量级 PR】：add isula-rust-extension to openEuler:24.03:LTS:Next
+    baseos
+  changed_packages: isula-rust-extensions
+  date: 2024-11-09-13-06-40
