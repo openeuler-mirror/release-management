@@ -8,3 +8,8 @@ release-change:
   description: e3e0609 !1968 Add virtCCA_sdk、virtCCA_driver to openEuler-24.03-LTS-NEXT/SP1
   changed_packages: virtCCA_sdk virtCCA_driver
   date: 2024-11-11-15-44-42
+- pr: https://gitee.com/openeuler/release-management/pulls/1972
+  description: de95758 !1972 [openEuler-24.03-LTS-Next and SP1] Add gcc-14 and binutils-2.42
+    multi-version toolset
+  changed_packages: gcc-14 binutils-2.42
+  date: 2024-11-13-11-43-19
