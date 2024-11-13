@@ -55,7 +55,28 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAZOCV](https://gitee.com/openeuler/release-management/issues/IAZOCV) | LLVM多版本实现 | Discussion | sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 | [IAWKJV](https://gitee.com/openeuler/release-management/issues/IAWKJV) | 支持树莓派 | Discussion | SIG-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
 | [IAZOCV](https://gitee.com/openeuler/release-management/issues/IB0JOU) | 新增密码套件openHiTLS | Discussion | sig-security-facility | [@xuhuiyue](https://gitee.com/xuhuiyue) |
-
+| IB43SI(https://gitee.com/openeuler/release-management/issues/IB43SI?from=project-issue) | AI流水线oeDeloy 提升kubeflow部署效率 | Discussion | cicd-sig | [@superninesun](https://gitee.com/superninesun) |
+| IB43MJ(https://gitee.com/openeuler/release-management/issues/IB43SI?from=project-issue) | iSula支持NRI插件式扩展（继承） | Discussion | sig-iSulad | [@xuxuepeng](https://gitee.com/xuxuepeng) |
+|[IB43D0](https://gitee.com/openeuler/release-management/issues/IB43D0?from=project-issue)| epkg新型软件包及包管理器功能增强 | Discussion | cicd-sig | [@duan_pj](https://gitee.com/duan_pj) |
+|[IB43AM](https://gitee.com/openeuler/release-management/issues/IB43AM?from=project-issue)| oeAware采集、调优插件等功能增强 | Discussion | A-Tune sig | [@Lostwayzxc](https://gitee.com/Lostwayzxc) |
+|[IB433E](https://gitee.com/openeuler/release-management/issues/IB433E?from=project-issue)| Gazelle特性增强 | Discussion | A-Tune sig | [@nlgwcy](https://gitee.com/nlgwcy) |
+|[IB431M](https://gitee.com/openeuler/release-management/issues/IB431M?from=project-issue)| syscare热补丁特性增强（继承） | Discussion | sig-ops | [@luanjianhai](https://gitee.com/luanjianhai) |
+|[IB430C](https://gitee.com/openeuler/release-management/issues/IB430C?from=project-issue)| secGear功能优化（继承）| Discussion | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong) |
+|[IB42WR](https://gitee.com/openeuler/release-management/issues/IB42WR?from=project-issue)| 微服务性能问题分钟级定界/定位（TCP，IO，调度等）继承） | Discussion | A-OPS sig | [@yangyongguang](https://gitee.com/yangyongguang) |
+|[IB42TS](https://gitee.com/openeuler/release-management/issues/IB42TS?from=project-issue)| 容器干扰检测，分钟级完成业务干扰源（CPU/IO）识别与干扰源发现（继承） | Discussion | sig-ops| [@wo_cow](https://gitee.com/wo_cow) |
+|[IB42PR](https://gitee.com/openeuler/release-management/issues/IB42PR?from=project-issue)| DevStation 开发者工作站支持(继承) | Discussion | desktop sig | [@superninesun](https://gitee.com/superninesun) |
+|[IB42MO](https://gitee.com/openeuler/release-management/issues/IB42MO?from=project-issue)| AI集群慢节点快速发现 Add Fail-slow Detection | Discussion | desktop sig | [@webankto](https://gitee.com/webankto) |
+|[IB42M9](https://gitee.com/openeuler/release-management/issues/IB42M9?from=project-issue)| KubeOS支持集群参数统一配置、镜像定制化和静态完整性保护 | Discussion | SIG-CloudNative-KubeOS| [@liyuanr](https://gitee.com/liyuanr) |
+|[IB42HF](https://gitee.com/openeuler/release-management/issues/IB42HF?from=project-issue)| rubik在离线混部调度协同增强 | Discussion | SIG-CloudNative-KubeOS| [@jingwoo](https://gitee.com/jingwoo) |
+|[IB3ZVI](https://gitee.com/openeuler/release-management/issues/IB3ZVI?from=project-issue)| 提供GCC-14的多版本编译工具链 | Discussion | sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
+|[IB3ZRQ](https://gitee.com/openeuler/release-management/issues/IB3ZRQ?from=project-issue)| AI4C编译选项调优和AI编译优化提升典型应用性能 | Discussion | sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
+|[IB3ZL2](https://gitee.com/openeuler/release-management/issues/IB3ZL2?from=project-issue)| GCC结合sysboost实现无感知使能反馈优化 | Discussion | sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
+|[IB3ZG8](https://gitee.com/openeuler/release-management/issues/IB3ZG8?from=project-issue)| RPM国密签名支持 | Discussion | sig-security-facility| [@zhujianwei001](https://gitee.com/zhujianwei001) |
+|[IB3ZDN](https://gitee.com/openeuler/release-management/issues/IB3ZDN?from=project-issue)| IMA度量通过异构可信根框架使能TPM/virtCCA信任根 | Discussion | sig-security-facility| [@zhujianwei001](https://gitee.com/zhujianwei001) |
+|[IB3ZB1](https://gitee.com/openeuler/release-management/issues/IB3ZB1?from=project-issue)| IMA完整性保护增强，支持对解释器运行的脚本类应用程序使能完整性保护机制 | Discussion | sig-security-facility| [@zhujianwei001](https://gitee.com/zhujianwei001) |
+|[IB3X9W](https://gitee.com/openeuler/release-management/issues/IB3X9W?from=project-issue)| 鲲鹏KAE加速器驱动安装包合入 | Discussion | sig-Kernel| [@H_jianmin](https://gitee.com/H_jianmin) |
+|[IAZQYW](https://gitee.com/openeuler/release-management/issues/IAZQYW?from=project-issue)| Add OpenVINO packages native support | Discussion | sig-Intel-Arch/sig-intelligence| [@juntianlinux](https://gitee.com/juntianlinux) |
+|[IAZQXO](https://gitee.com/openeuler/release-management/issues/IAZQXO?from=project-issue)| Add oneAPI low level native support | Discussion | sig-Intel-Arch/sig-intelligenc| [@juntianlinux](https://gitee.com/juntianlinux) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
