@@ -55,8 +55,8 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 | [IAZOCV](https://gitee.com/openeuler/release-management/issues/IAZOCV) | LLVM多版本实现 | Discussion | sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 | [IAWKJV](https://gitee.com/openeuler/release-management/issues/IAWKJV) | 支持树莓派 | Discussion | SIG-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
 | [IAZOCV](https://gitee.com/openeuler/release-management/issues/IB0JOU) | 新增密码套件openHiTLS | Discussion | sig-security-facility | [@xuhuiyue](https://gitee.com/xuhuiyue) |
-| IB43SI(https://gitee.com/openeuler/release-management/issues/IB43SI?from=project-issue) | AI流水线oeDeloy 提升kubeflow部署效率 | Discussion | cicd-sig | [@superninesun](https://gitee.com/superninesun) |
-| IB43MJ(https://gitee.com/openeuler/release-management/issues/IB43SI?from=project-issue) | iSula支持NRI插件式扩展（继承） | Discussion | sig-iSulad | [@xuxuepeng](https://gitee.com/xuxuepeng) |
+| [IB43SI](https://gitee.com/openeuler/release-management/issues/IB43SI?from=project-issue) | AI流水线oeDeloy 提升kubeflow部署效率 | Discussion | cicd-sig | [@superninesun](https://gitee.com/superninesun) |
+| [IB43MJ](https://gitee.com/openeuler/release-management/issues/IB43SI?from=project-issue) | iSula支持NRI插件式扩展（继承） | Discussion | sig-iSulad | [@xuxuepeng](https://gitee.com/xuxuepeng) |
 |[IB43D0](https://gitee.com/openeuler/release-management/issues/IB43D0?from=project-issue)| epkg新型软件包及包管理器功能增强 | Discussion | cicd-sig | [@duan_pj](https://gitee.com/duan_pj) |
 |[IB43AM](https://gitee.com/openeuler/release-management/issues/IB43AM?from=project-issue)| oeAware采集、调优插件等功能增强 | Discussion | A-Tune sig | [@Lostwayzxc](https://gitee.com/Lostwayzxc) |
 |[IB433E](https://gitee.com/openeuler/release-management/issues/IB433E?from=project-issue)| Gazelle特性增强 | Discussion | A-Tune sig | [@nlgwcy](https://gitee.com/nlgwcy) |
