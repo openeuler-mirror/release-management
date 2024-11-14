@@ -1933,3 +1933,8 @@ release-change:
     to master:Python for python-cachecontrol ebs
   changed_packages: python-lockfile python-msgpack
   date: 2024-11-05-15-32-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1977
+  description: 6b226de !1977 Move python-oldest-support-numpy&pyproj&shapely from
+    master:Facotry to master:Python for new deps
+  changed_packages: python-oldest-supported-numpy python-pyproj python-shapely
+  date: 2024-11-14-16-22-34
