@@ -14339,15 +14339,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-shapely
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-rinoh-typeface-texgyreheros
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-pyproj
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14408,10 +14400,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pytest-dependency
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-oldest-supported-numpy
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"

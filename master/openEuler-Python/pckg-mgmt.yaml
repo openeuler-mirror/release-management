@@ -2851,3 +2851,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2024-11-05'
+- name: python-oldest-supported-numpy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-14'
+- name: python-pyproj
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-14'
+- name: python-shapely
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-14'
