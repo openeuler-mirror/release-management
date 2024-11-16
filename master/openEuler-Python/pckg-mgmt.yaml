@@ -871,6 +871,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-magic
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-11-16'
 - name: python-mako
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
