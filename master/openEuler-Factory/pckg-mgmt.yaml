@@ -15435,3 +15435,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-13"
+    - name: ocaml-augeas
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-17"
