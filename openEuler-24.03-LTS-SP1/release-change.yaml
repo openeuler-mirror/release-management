@@ -13,3 +13,8 @@ release-change:
     multi-version toolset
   changed_packages: gcc-14 binutils-2.42
   date: 2024-11-13-11-43-19
+- pr: https://gitee.com/openeuler/release-management/pulls/1973
+  description: aa9955a !1973 [openEuler-24.03-LTS-Next and SP1] Add python-Authlib,
+    authHub
+  changed_packages: authHub python-Authlib
+  date: 2024-11-18-09-36-29
