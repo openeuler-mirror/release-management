@@ -237,3 +237,7 @@ release-change:
     authHub
   changed_packages: authHub python-Authlib
   date: 2024-11-18-09-36-29
+- pr: https://gitee.com/openeuler/release-management/pulls/1976
+  description: daa0693 !1976 [openEuler-24.03-LTS-Next and SP1] Add openHiTLS to everything
+  changed_packages: openHiTLS
+  date: 2024-11-18-14-23-20
