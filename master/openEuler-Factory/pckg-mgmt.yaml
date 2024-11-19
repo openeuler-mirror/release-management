@@ -15435,3 +15435,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-19"
+    - name: resaware_nri_plugins
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-19"
