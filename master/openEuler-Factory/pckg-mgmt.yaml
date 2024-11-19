@@ -15255,14 +15255,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-23"
-    - name: gcc-14
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-24"
-    - name: binutils-2.42
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-24"
     - name: litehtml
       obs_from: ""
       obs_to: openEuler:Factory

@@ -39,3 +39,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:BaseTools
   date: '2022-08-10'
+- name: gcc-14
+  obs_from: openEuler:Factory
+  obs_to: openEuler:BaseTools
+  date: '2024-11-15'
+- name: binutils-2.42
+  obs_from: openEuler:Factory
+  obs_to: openEuler:BaseTools
+  date: '2024-11-15'
