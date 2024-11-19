@@ -11823,10 +11823,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-08-30"
-    - name: kio-extras
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: khelpcenter
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11847,23 +11843,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: plasma-desktop
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: sddm-kcm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: plasma-integration
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kmenuedit
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: kdsoap
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -11883,18 +11863,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: kwrited
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: plasma-pa
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: dolphin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: plasma-systemmonitor
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11907,10 +11875,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
-    - name: plasma-systemsettings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
     - name: plasma-vault
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11920,10 +11884,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-09-02"
     - name: plasma-oxygen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-09-02"
-    - name: plasma-discover
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-09-02"
@@ -11967,10 +11927,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-10-30"
-    - name: scim
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-10-31"
     - name: kcalc
       obs_from: ""
       obs_to: openEuler:Factory
@@ -11984,10 +11940,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-11-10"
     - name: plasma-milou
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-11-14"
-    - name: plasma-nm
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-11-14"
@@ -15411,14 +15363,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-12"
-    - name: kscreen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-13"
-    - name: powerdevil
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-13"
     - name: ocaml-augeas
       obs_from: ""
       obs_to: openEuler:Factory
