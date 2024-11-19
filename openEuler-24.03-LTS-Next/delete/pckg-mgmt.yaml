@@ -31,3 +31,7 @@ packages:
 - name: nestos-installer
 - name: atk
 - name: at-spi2-atk
+- name: svnkit
+- name: gnuplot
+- name: cim-schema
+- name: sblim-sfcb
