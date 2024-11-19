@@ -5119,3 +5119,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-19'
+- name: resaware_nri_plugins
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2024-11-19'
