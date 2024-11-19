@@ -1,1 +1,5 @@
-packages: []
+packages:
+- name: svnkit
+- name: gnuplot
+- name: cim-schema
+- name: sblim-sfcb
