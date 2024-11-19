@@ -241,3 +241,7 @@ release-change:
   description: daa0693 !1976 [openEuler-24.03-LTS-Next and SP1] Add openHiTLS to everything
   changed_packages: openHiTLS
   date: 2024-11-18-14-23-20
+- pr: https://gitee.com/openeuler/release-management/pulls/1986
+  description: f990029 !1986 Move ACPO compiler-sig packages from factory to epol
+  changed_packages: ACPO
+  date: 2024-11-19-16-18-45
