@@ -77,6 +77,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 |[IB3X9W](https://gitee.com/openeuler/release-management/issues/IB3X9W?from=project-issue)| 鲲鹏KAE加速器驱动安装包合入 | Discussion | sig-Kernel| [@H_jianmin](https://gitee.com/H_jianmin) |
 |[IAZQYW](https://gitee.com/openeuler/release-management/issues/IAZQYW?from=project-issue)| Add OpenVINO packages native support | Discussion | sig-Intel-Arch/sig-intelligence| [@juntianlinux](https://gitee.com/juntianlinux) |
 |[IAZQXO](https://gitee.com/openeuler/release-management/issues/IAZQXO?from=project-issue)| Add oneAPI low level native support | Discussion | sig-Intel-Arch/sig-intelligenc| [@juntianlinux](https://gitee.com/juntianlinux) |
+|[IB5AK4](https://gitee.com/openeuler/release-management/issues/IB5AK4) | 版本引入ACPO包 | Discussion | sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
