@@ -254,3 +254,9 @@ release-change:
     openEuler-24.03-LTS-SP1&openEuler-24.03-LTS-Next(not allow license:gnuplot,DMTF,TMate)
   changed_packages: gnuplot cim-schema sblim-sfcb svnkit
   date: 2024-11-19-20-39-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1978
+  description: 87d446e !1978 为plasma5相关包创建openeuler2403-LTS-Next分支
+  changed_packages: dolphin kdsoap kio-extras kmenuedit kscreen kwrited plasma-desktop
+    plasma-discover plasma-integration plasma-nm plasma-pa plasma-systemsettings powerdevil
+    scim
+  date: 2024-11-19-21-46-18
