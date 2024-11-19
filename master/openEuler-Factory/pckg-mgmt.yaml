@@ -13671,10 +13671,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-11"
-    - name: fisher
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-23"
     - name: EulerMonitor
       obs_from: ""
       obs_to: openEuler:Factory
