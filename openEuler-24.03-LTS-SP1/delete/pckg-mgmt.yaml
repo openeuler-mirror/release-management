@@ -3,3 +3,6 @@ packages:
 - name: gnuplot
 - name: cim-schema
 - name: sblim-sfcb
+- name: oeAware-scenario
+- name: oeAware-tune
+- name: oeAware-collector
