@@ -6845,12 +6845,6 @@ packages:
   obs_from: openEuler:Java
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: svnkit
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Java
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: swt-chart
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7595,12 +7589,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: cim-schema
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: cjkuni-uming-fonts
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7926,12 +7914,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: gnulib
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: gnuplot
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
@@ -11640,12 +11622,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: rubygem-websocket-driver
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: sblim-sfcb
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
@@ -22245,4 +22221,3 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   date: '2024-11-14'
-

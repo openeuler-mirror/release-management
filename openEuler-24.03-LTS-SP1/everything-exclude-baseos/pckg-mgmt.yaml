@@ -4559,10 +4559,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: svnkit
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: swt-chart
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -5059,10 +5055,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: cim-schema
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: cjkuni-uming-fonts
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -5280,10 +5272,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: gnulib
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: gnuplot
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -7756,10 +7744,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: rubygem-websocket-driver
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: sblim-sfcb
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -14811,4 +14795,3 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-14'
-

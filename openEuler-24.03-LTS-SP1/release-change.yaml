@@ -30,3 +30,8 @@ release-change:
   description: 70ad168 !1987 resaware_nri_plugins 合入 24.03-LTS-SP1
   changed_packages: resaware_nri_plugins
   date: 2024-11-19-19-31-36
+- pr: https://gitee.com/openeuler/release-management/pulls/1985
+  description: f07cc69 !1985 delete package svnkit,gnuplot,cim-schema,sblim-sfcb from
+    openEuler-24.03-LTS-SP1&openEuler-24.03-LTS-Next(not allow license:gnuplot,DMTF,TMate)
+  changed_packages: gnuplot cim-schema sblim-sfcb svnkit
+  date: 2024-11-19-20-39-26
