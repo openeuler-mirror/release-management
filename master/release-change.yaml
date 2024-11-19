@@ -1938,3 +1938,8 @@ release-change:
     master:Facotry to master:Python for new deps
   changed_packages: python-oldest-supported-numpy python-pyproj python-shapely
   date: 2024-11-14-16-22-34
+- pr: https://gitee.com/openeuler/release-management/pulls/1980
+  description: d35befa !1980 move python-magic from epol to python due to required
+    by new rpmlint
+  changed_packages: fisher
+  date: 2024-11-19-10-14-00
