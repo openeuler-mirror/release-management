@@ -26,3 +26,7 @@ release-change:
   description: f990029 !1986 Move ACPO compiler-sig packages from factory to epol
   changed_packages: ACPO
   date: 2024-11-19-16-18-45
+- pr: https://gitee.com/openeuler/release-management/pulls/1987
+  description: 70ad168 !1987 resaware_nri_plugins 合入 24.03-LTS-SP1
+  changed_packages: resaware_nri_plugins
+  date: 2024-11-19-19-31-36
