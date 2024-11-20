@@ -7,3 +7,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Ocaml
   date: '2022-07-26'
+- name: ocaml-augeas
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ocaml
+  date: '2024-11-20'
