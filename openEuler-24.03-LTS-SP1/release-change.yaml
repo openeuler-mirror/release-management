@@ -35,3 +35,7 @@ release-change:
     openEuler-24.03-LTS-SP1&openEuler-24.03-LTS-Next(not allow license:gnuplot,DMTF,TMate)
   changed_packages: gnuplot cim-schema sblim-sfcb svnkit
   date: 2024-11-19-20-39-26
+- pr: https://gitee.com/openeuler/release-management/pulls/1984
+  description: a2973ae !1984 libkperf 合入24.03-sp1
+  changed_packages: libkperf
+  date: 2024-11-20-10-26-52
