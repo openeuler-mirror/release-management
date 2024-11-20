@@ -6163,10 +6163,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-05'
-- name: python-click-plugins
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-05'
 - name: python-click-repl
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
