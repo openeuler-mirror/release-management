@@ -39,3 +39,8 @@ release-change:
   description: a2973ae !1984 libkperf 合入24.03-sp1
   changed_packages: libkperf
   date: 2024-11-20-10-26-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1990
+  description: 7df1bb0 !1990 add python-celery及其依赖 to openEuler-24.03-LTS-Next,openEuler-24.03-LTS-SP1
+  changed_packages: python-celery python-click-didyoumean python-click-repl python-click-plugins
+    python-billiard
+  date: 2024-11-20-15-35-59
