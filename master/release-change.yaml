@@ -1953,3 +1953,8 @@ release-change:
     plasma-discover plasma-integration plasma-nm plasma-pa plasma-systemsettings powerdevil
     scim
   date: 2024-11-19-21-46-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1992
+  description: bb4f68c !1992 Move python-sphinx-autoapi&cligj and click-plugins from
+    master:Factory&Epol to master:Python for pydata_sphinx_theme&Fiona deps upgrad
+  changed_packages: python-sphinx-autoapi python-cligj python-click-plugins
+  date: 2024-11-21-09-18-58
