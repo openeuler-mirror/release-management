@@ -1958,3 +1958,7 @@ release-change:
     master:Factory&Epol to master:Python for pydata_sphinx_theme&Fiona deps upgrad
   changed_packages: python-sphinx-autoapi python-cligj python-click-plugins
   date: 2024-11-21-09-18-58
+- pr: https://gitee.com/openeuler/release-management/pulls/1996
+  description: 292d4a2 !1996 add libkperf to epol to 2403- lts-next and master
+  changed_packages: libkperf
+  date: 2024-11-21-11-14-18

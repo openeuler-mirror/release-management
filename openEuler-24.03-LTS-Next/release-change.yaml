@@ -265,3 +265,7 @@ release-change:
   changed_packages: python-celery python-click-didyoumean python-click-repl python-click-plugins
     python-billiard
   date: 2024-11-20-15-35-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1996
+  description: 292d4a2 !1996 add libkperf to epol to 2403- lts-next and master
+  changed_packages: libkperf
+  date: 2024-11-21-11-14-18
