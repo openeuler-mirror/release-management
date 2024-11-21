@@ -2867,3 +2867,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-11-14'
+- name: python-sphinx-autoapi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-21'
+- name: python-cligj
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-11-21'
+- name: python-click-plugins
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-11-21'
