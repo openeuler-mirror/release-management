@@ -7571,3 +7571,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-11-19"
+- name: libkperf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2024-11-21"

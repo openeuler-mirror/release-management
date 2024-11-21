@@ -15043,10 +15043,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-04-10"
-    - name: libkperf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-04-13"
     - name: perl-Code-TidyAll
       obs_from: ""
       obs_to: openEuler:Factory
