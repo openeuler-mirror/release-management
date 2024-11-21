@@ -3,7 +3,7 @@
 - 锁库功能是在PR合入流程中通过对分支状态（冻结与否）判断实现拒绝合入；
 - 分支状态由release-management仓库中release-management.yaml(https://gitee.com/openeuler/release-management/blob/release-management.yaml)文件记录；
 - 社区机器人ci-bot实时监控分支状态文件，并确认版本特殊权限名单；
-- 若分支为冻结状态，PR除满足原本合入条件外还需指定权限人同意才可合入；
+- 若分支为冻结状态，PR除了满足原本合入条件外，还需指定权限人同意才可合入；
 
 ## 操作方法
 ### 锁库
