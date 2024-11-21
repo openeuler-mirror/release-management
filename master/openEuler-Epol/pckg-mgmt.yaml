@@ -4295,6 +4295,34 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-01'
+- name: NetworkManager-pptp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
+- name: NetworkManager-iodine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
+- name: NetworkManager-openconnect
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
+- name: NetworkManager-vpnc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
+- name: NetworkManager-openvpn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
+- name: NetworkManager-ssh
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
+- name: NetworkManager-fortisslvpn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-11-21'
 - name: restic
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
