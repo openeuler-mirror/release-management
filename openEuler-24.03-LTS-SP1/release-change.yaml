@@ -48,3 +48,7 @@ release-change:
   description: 1b8b46f !1999 Add AI4C to 24.03-LTS-SP1
   changed_packages: AI4C
   date: 2024-11-22-12-59-48
+- pr: https://gitee.com/openeuler/release-management/pulls/1988
+  description: 918f73b !1988 remove oeaware plugin repo
+  changed_packages: oeAware-collector oeAware-scenario oeAware-tune
+  date: 2024-11-22-16-25-46

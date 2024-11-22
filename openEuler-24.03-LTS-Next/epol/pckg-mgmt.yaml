@@ -7757,24 +7757,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-04-18'
-- name: oeAware-collector
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Factory
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-04-18'
-- name: oeAware-scenario
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Factory
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-04-18'
-- name: oeAware-tune
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Factory
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-06-22'
 - name: raspberrypi-utils
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next

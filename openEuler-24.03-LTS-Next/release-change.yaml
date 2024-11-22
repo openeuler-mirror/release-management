@@ -269,3 +269,7 @@ release-change:
   description: 292d4a2 !1996 add libkperf to epol to 2403- lts-next and master
   changed_packages: libkperf
   date: 2024-11-21-11-14-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1988
+  description: 918f73b !1988 remove oeaware plugin repo
+  changed_packages: oeAware-collector oeAware-scenario oeAware-tune
+  date: 2024-11-22-16-25-46
