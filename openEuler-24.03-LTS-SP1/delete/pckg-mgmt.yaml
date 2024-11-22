@@ -6,3 +6,4 @@ packages:
 - name: oeAware-scenario
 - name: oeAware-tune
 - name: oeAware-collector
+- name: cinnamon
