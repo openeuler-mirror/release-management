@@ -4439,12 +4439,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: cinnamon-mozjs78
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: deepin-pw-check
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4487,18 +4481,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: cinnamon-settings-daemon
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: cjs
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: python-exif
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4535,12 +4517,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: nemo
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: system-config-users
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4548,12 +4524,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: glade3
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: cinnamon
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4661,19 +4631,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: cinnamon-themes
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: mate-session-manager
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: perl-XML-Dumper
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4781,12 +4739,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: cinnamon-translations
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: gnome-software
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4830,12 +4782,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: caja-actions
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: mint-x-icons
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4901,19 +4847,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: mintlocale
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: mate-icon-theme
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: python-xapp
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4925,19 +4859,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: tint2
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: zchunk
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: caribou
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4997,12 +4919,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: xapps
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: python-jose
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5040,12 +4956,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: cri-tools
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: muffin
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -5153,12 +5063,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: cinnamon-menu
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: mate-control-center
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5249,12 +5153,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: inxi
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: totem
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5315,24 +5213,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: cinnamon-session
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: mint-y-icons
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: cinnamon-desktop
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: toolbox
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5382,18 +5262,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: python-flaky
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: cinnamon-screensaver
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: cinnamon-control-center
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -5868,12 +5736,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: stb
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xdotool
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol

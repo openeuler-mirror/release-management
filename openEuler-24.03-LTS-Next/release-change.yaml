@@ -273,3 +273,10 @@ release-change:
   description: 918f73b !1988 remove oeaware plugin repo
   changed_packages: oeAware-collector oeAware-scenario oeAware-tune
   date: 2024-11-22-16-25-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2003
+  description: 05879ff !2003 【轻量级 PR】：delete package of sig-cinnamon from openEuler-24.03-LTS-SP1&Next
+  changed_packages: xapps cinnamon-themes cinnamon-settings-daemon cjs inxi mint-y-icons
+    cinnamon-desktop cinnamon-mozjs78 cinnamon-session nemo cinnamon xdotool cinnamon-menu
+    perl-XML-Dumper cinnamon-control-center tint2 cinnamon-translations python-xapp
+    muffin cinnamon-screensaver mint-x-icons mintlocale caribou python-pam
+  date: 2024-11-22-20-02-25
