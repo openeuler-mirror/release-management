@@ -22221,3 +22221,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   date: '2024-11-14'
+- name: aws-sdk-cpp
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  date: '2024-11-25'
