@@ -44,3 +44,7 @@ release-change:
   changed_packages: python-celery python-click-didyoumean python-click-repl python-click-plugins
     python-billiard
   date: 2024-11-20-15-35-59
+- pr: https://gitee.com/openeuler/release-management/pulls/1999
+  description: 1b8b46f !1999 Add AI4C to 24.03-LTS-SP1
+  changed_packages: AI4C
+  date: 2024-11-22-12-59-48
