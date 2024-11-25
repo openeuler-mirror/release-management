@@ -56,3 +56,7 @@ release-change:
   description: 05879ff !2003 【轻量级 PR】：delete package of sig-cinnamon from openEuler-24.03-LTS-SP1&Next
   changed_packages: cinnamon
   date: 2024-11-22-20-02-25
+- pr: https://gitee.com/openeuler/release-management/pulls/2001
+  description: 848b92c !2001 添加aws-sdk-cpp依赖到openEuler-24.03-LTS-Next,openEuler-24.03-LTS-SP1
+  changed_packages: aws-sdk-cpp
+  date: 2024-11-25-20-51-00
