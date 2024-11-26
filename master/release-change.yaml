@@ -1962,3 +1962,8 @@ release-change:
   description: 292d4a2 !1996 add libkperf to epol to 2403- lts-next and master
   changed_packages: libkperf
   date: 2024-11-21-11-14-18
+- pr: https://gitee.com/openeuler/release-management/pulls/1981
+  description: 0563b04 !1981 move ocamlaugeas from factory to ocaml, due to required
+    by new libguestfs
+  changed_packages: ocaml-augeas
+  date: 2024-11-26-14-35-42
