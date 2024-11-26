@@ -1967,3 +1967,9 @@ release-change:
     by new libguestfs
   changed_packages: ocaml-augeas
   date: 2024-11-26-14-35-42
+- pr: https://gitee.com/openeuler/release-management/pulls/1995
+  description: 87ffa44 !1995 Move NetworkManager plugins from master:Factory to master:Epol
+    because of other packages are required
+  changed_packages: NetworkManager-pptp NetworkManager-iodine NetworkManager-openconnect
+    NetworkManager-vpnc NetworkManager-openvpn NetworkManager-ssh NetworkManager-fortisslvpn
+  date: 2024-11-26-14-37-38
