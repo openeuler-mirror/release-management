@@ -11579,10 +11579,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: NetworkManager-pptp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-sshpubkeys
       obs_from: ""
       obs_to: openEuler:Factory
@@ -12011,30 +12007,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-12-30"
-    - name: NetworkManager-iodine
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: NetworkManager-openconnect
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: NetworkManager-vpnc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: NetworkManager-openvpn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: NetworkManager-ssh
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
-    - name: NetworkManager-fortisslvpn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-01-19"
     - name: lcov
       obs_from: ""
       obs_to: openEuler:Factory
