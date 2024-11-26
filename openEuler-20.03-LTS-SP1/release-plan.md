@@ -2,8 +2,8 @@
 |Stange name|Begin time|End time|
 |:----------|:---------|:-------|
 |Develop|2020-10-12|2020-11-7|
-|Comptibility|2020-11-8|2020-11-18|
-|Buil|2020-11-19|2020-11-21|
+|Compatibility|2020-11-8|2020-11-18|
+|Build|2020-11-19|2020-11-21|
 |Test round 1|2020-11-23|2020-11-28|
 |Test round 2|2020-11-30|2020-12-5|
 |Test round 3|2020-12-7|2020-12-12|
@@ -13,7 +13,7 @@
 
 # Feture list
 ## 状态说明：discussion(方案讨论，需求未接受)，developing(开发中)，Testing(测试中)，Accepted(已验收)
-|no|fetur|status|sig|owner|
+|no|feature|status|sig|owner|
 |:----|:---|:---|:--|:----|
 |1|[openEuler 20.03 LTS SP1支持高可用pacemaker](https://gitee.com/openeuler/release-management/issues/I23GH2?from=project-issue)|Accepted|sig-HA|yangzhao_kl|
 |2|[openEuler 20.03 LTS SP1支持openGauss版本](https://gitee.com/openeuler/release-management/issues/I23GGW?from=project-issue)|Accepted| | |

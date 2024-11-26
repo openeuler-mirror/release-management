@@ -9,7 +9,7 @@ Release Manager的主要工作职责是在社区协调各SIG的Maintainer、QA�
 - 负责openEuler项目的交付过程协调
 - 版本评审发布决策（GO/NO GO）
 
-**Committer职责包括但不限于以下几点：**
+**Committer职责包括待不限于以下几点：**
 - 同步版本规划/计划
 - 提名/推荐新特性
 - 跟踪特性交付进度
