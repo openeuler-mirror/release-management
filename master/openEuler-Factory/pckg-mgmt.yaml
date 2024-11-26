@@ -15351,10 +15351,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-12"
-    - name: ocaml-augeas
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-17"
     - name: aws-sdk-cpp
       obs_from: ""
       obs_to: openEuler:Factory
