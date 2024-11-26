@@ -217,3 +217,7 @@ release-change:
   description: 7af734a !1936 创建pyproject-rpm-macros/rust-srpm-macros/cargo2rpm仓库的构建工程
   changed_packages: rust-srpm-macros cargo2rpm
   date: 2024-11-06-16-25-35
+- pr: https://gitee.com/openeuler/release-management/pulls/2004
+  description: 0c4aed2 !2004 添加cockpit-machiens组件包到openEuler-24.03-LTS和openEuler-24.03-LTS-Next版本
+  changed_packages: cockpit-machines
+  date: 2024-11-26-14-39-34

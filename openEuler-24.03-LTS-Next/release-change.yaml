@@ -284,3 +284,7 @@ release-change:
   description: 848b92c !2001 添加aws-sdk-cpp依赖到openEuler-24.03-LTS-Next,openEuler-24.03-LTS-SP1
   changed_packages: aws-sdk-cpp
   date: 2024-11-25-20-51-00
+- pr: https://gitee.com/openeuler/release-management/pulls/2004
+  description: 0c4aed2 !2004 添加cockpit-machiens组件包到openEuler-24.03-LTS和openEuler-24.03-LTS-Next版本
+  changed_packages: cockpit-machines
+  date: 2024-11-26-14-39-34
