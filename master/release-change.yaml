@@ -1973,3 +1973,7 @@ release-change:
   changed_packages: NetworkManager-pptp NetworkManager-iodine NetworkManager-openconnect
     NetworkManager-vpnc NetworkManager-openvpn NetworkManager-ssh NetworkManager-fortisslvpn
   date: 2024-11-26-14-37-38
+- pr: https://gitee.com/openeuler/release-management/pulls/2008
+  description: dfdf5fa !2008 将master分支上的aws-sdk-cpp从factory移出来
+  changed_packages: openhitls
+  date: 2024-11-27-10-28-17
