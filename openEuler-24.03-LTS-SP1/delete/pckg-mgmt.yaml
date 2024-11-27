@@ -9,3 +9,4 @@ packages:
 - name: cinnamon
 - name: mingw-wine-gecko
 - name: python-parse-type
+- name: libnetwork
