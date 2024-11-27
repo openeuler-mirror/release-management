@@ -15323,10 +15323,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-12"
-    - name: aws-sdk-cpp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-19"
     - name: safeguard
       obs_from: ""
       obs_to: openEuler:Factory
