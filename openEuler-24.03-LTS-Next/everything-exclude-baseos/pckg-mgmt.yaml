@@ -22223,3 +22223,45 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   date: '2024-11-26'
+- name: intel-gsc
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'
+- name: level-zero
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'
+- name: intel-graphics-compiler
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'
+- name: intel-compute-runtime
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'
+- name: intel-metee
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'
+- name: intel-gmmlib
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'
+- name: intel-cm-compiler
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2024-11-27'

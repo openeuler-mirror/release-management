@@ -15059,34 +15059,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-05-16"
-    - name: intel-gsc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
-    - name: level-zero
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
-    - name: intel-graphics-compiler
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
-    - name: intel-compute-runtime
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
-    - name: intel-metee
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
-    - name: intel-gmmlib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
-    - name: intel-cm-compiler
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-05-20"
     - name: perl-Test-CheckManifest
       obs_from: ""
       obs_to: openEuler:Factory
