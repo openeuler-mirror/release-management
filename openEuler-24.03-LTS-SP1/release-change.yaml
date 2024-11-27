@@ -69,3 +69,7 @@ release-change:
   changed_packages: intel-gsc level-zero intel-graphics-compiler intel-compute-runtime
     intel-metee intel-gmmlib intel-cm-compiler
   date: 2024-11-27-11-03-52
+- pr: https://gitee.com/openeuler/release-management/pulls/1956
+  description: cd7cb93 !1956 Add OpenVINO packages in openEuler-24.03-LTS-SP1
+  changed_packages: openvino
+  date: 2024-11-27-11-37-30
