@@ -4079,3 +4079,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-10-28'
+- name: aws-sdk-cpp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: "2024-11-27"
