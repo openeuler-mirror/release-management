@@ -15363,3 +15363,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
+    - name: c-blosc2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
