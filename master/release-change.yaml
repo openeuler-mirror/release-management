@@ -1986,3 +1986,7 @@ release-change:
   description: cd7cb93 !1956 Add OpenVINO packages in openEuler-24.03-LTS-SP1
   changed_packages: openvino
   date: 2024-11-27-11-37-30
+- pr: https://gitee.com/openeuler/release-management/pulls/2012
+  description: c2ba14c !2012 Move perl-HTTP-CookieJar from openEuler:Factory to openEuler:Mainline
+  changed_packages: perl-HTTP-CookieJar
+  date: 2024-11-28-16-14-14
