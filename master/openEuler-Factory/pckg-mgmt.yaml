@@ -15323,3 +15323,35 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
+    - name: python-jupyterlite-core
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-python-multipart
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-ruamel-yaml-split
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-jupyter-leaflet
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-pydantic-core
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-mkdocs-get-deps
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-safety-schemas
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
+    - name: python-immutabledict
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-11-28"
