@@ -73,3 +73,7 @@ release-change:
   description: cd7cb93 !1956 Add OpenVINO packages in openEuler-24.03-LTS-SP1
   changed_packages: openvino
   date: 2024-11-27-11-37-30
+- pr: https://gitee.com/openeuler/release-management/pulls/2011
+  description: 9e78d71 !2011 delete mingw-wine-gecko from openEuler-24.03-LTS-SP1&Next
+  changed_packages: mingw-wine-gecko
+  date: 2024-11-28-14-27-14
