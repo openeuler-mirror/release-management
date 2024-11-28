@@ -13843,10 +13843,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-03"
-    - name: perl-HTTP-CookieJar
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-06"
     - name: sssnic-driver
       obs_from: ""
       obs_to: openEuler:Factory
