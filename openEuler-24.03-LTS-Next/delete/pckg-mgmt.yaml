@@ -62,3 +62,4 @@ packages:
 - name: python-xapp
 - name: tint2
 - name: xdotool
+- name: mingw-wine-gecko
