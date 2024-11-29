@@ -80,6 +80,8 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 |[IB5AK4](https://gitee.com/openeuler/release-management/issues/IB5AK4) | 版本引入ACPO包 | Developing| sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 |[IAJSGA](https://gitee.com/openeuler/release-management/issues/IAJSGA) | 内核TCP/IP协议栈支持CAQM拥塞 | Developing| sig-Kernel| [@helloworldze](https://gitee.com/helloworldze) |
 |[IB4E8P](https://gitee.com/openeuler/release-management/issues/IB4E8P?from=project-issue) | blk-io-hierarchy 特性 | Developing| sig-Kernel| [@hailan94](https://gitee.com/hailan94) |
+|[IB742K](https://gitee.com/openeuler/release-management/issues/IB742K?from=project-issue) | 支持virtCCA_KAE特性 | Developing| sig-confidential-computing| [@guangwei-zhou](https://gitee.com/guangwei-zhou) |
+
 <br />
 现启动版本需求收集，欢迎各sig maintainer和社区开发者们积极反馈和交流，<br />
 <br />
