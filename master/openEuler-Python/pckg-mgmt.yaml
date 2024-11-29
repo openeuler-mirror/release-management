@@ -831,10 +831,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
-- name: python-kitchen
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Python
-  date: '2022-07-26'
 - name: python-kubernetes
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
@@ -2814,7 +2810,7 @@ packages:
 - name: poissonsearch-py
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
-  date: "2024-03-30"
+  date: '2024-03-30'
 - name: python-email-validator
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
