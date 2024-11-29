@@ -1994,3 +1994,7 @@ release-change:
   description: 0ada64a !2013 Remove python-kitchen package from openEuler-master:everything
   changed_packages: python-kitchen
   date: 2024-11-29-11-58-01
+- pr: https://gitee.com/openeuler/release-management/pulls/2015
+  description: d3284a0 !2015 Remove python-parse-type package from openEuler-master:everything
+  changed_packages: python-parse-type
+  date: 2024-11-29-17-58-19

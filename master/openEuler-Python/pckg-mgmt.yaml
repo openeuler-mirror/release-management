@@ -2151,10 +2151,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-08'
-- name: python-parse-type
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Python
-  date: '2023-11-08'
 - name: python-yaspin
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
