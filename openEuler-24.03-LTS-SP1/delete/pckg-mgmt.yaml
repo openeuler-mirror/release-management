@@ -8,3 +8,4 @@ packages:
 - name: oeAware-collector
 - name: cinnamon
 - name: mingw-wine-gecko
+- name: python-parse-type

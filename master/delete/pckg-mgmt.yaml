@@ -81,3 +81,4 @@ packages:
   - name: cim-schema
   - name: sblim-sfcb
   - name: python-kitchen
+  - name: python-parse-type
