@@ -126,6 +126,8 @@ branch:
   - Multi-Version_NestOS-For-Virt_openEuler-22.03-LTS-SP4
   Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-Next:
   - Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS
+  - Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-SP1
   Multi-Version_NestOS-For-Container_openEuler-24.03-LTS-Next:
   - Multi-Version_NestOS-For-Container_openEuler-24.03-LTS
+  - Multi-Version_NestOS-For-Container_openEuler-24.03-LTS-SP1
 
