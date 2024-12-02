@@ -7667,3 +7667,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-11-06'
+- name: kmod-dinghai
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol
+  obs_to: openEuler:24.03:LTS:Epol
+  date: '2024-12-02'
