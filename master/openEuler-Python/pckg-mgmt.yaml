@@ -2871,3 +2871,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2024-11-21'
+- name: python-pyogrio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-03'
