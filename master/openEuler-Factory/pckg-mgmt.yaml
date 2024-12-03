@@ -15331,10 +15331,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
-    - name: python-jupyter-leaflet
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
     - name: python-pydantic-core
       obs_from: ""
       obs_to: openEuler:Factory
