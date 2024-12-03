@@ -4323,6 +4323,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-11-21'
+- name: iodine
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-12-03'
 - name: restic
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
