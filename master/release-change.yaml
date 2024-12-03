@@ -2003,3 +2003,8 @@ release-change:
     for python-geopandas upgrade
   changed_packages: python-pyogrio
   date: 2024-12-03-11-43-44
+- pr: https://gitee.com/openeuler/release-management/pulls/2024
+  description: e195ea2 !2024 Move python-jupyter-leaflet from master:Factory to master:Python
+    for python-ipyleaflet upgrade
+  changed_packages: python-jupyter-leaflet
+  date: 2024-12-03-16-40-42
