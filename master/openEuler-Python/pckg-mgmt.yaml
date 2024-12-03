@@ -2875,3 +2875,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-03'
+- name: python-jupyter-leaflet
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-03'
