@@ -1998,3 +1998,8 @@ release-change:
   description: d3284a0 !2015 Remove python-parse-type package from openEuler-master:everything
   changed_packages: python-parse-type
   date: 2024-11-29-17-58-19
+- pr: https://gitee.com/openeuler/release-management/pulls/2021
+  description: a16e287 !2021 Move python-pyogrio from master:Factory to master:Python
+    for python-geopandas upgrade
+  changed_packages: python-pyogrio
+  date: 2024-12-03-11-43-44
