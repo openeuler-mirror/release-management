@@ -153,3 +153,8 @@ release-change:
   description: 551bf11 !1965 add sysSentry to 2003-LTS-SP4
   changed_packages: sysSentry
   date: 2024-11-07-11-17-40
+- pr: https://gitee.com/openeuler/release-management/pulls/2023
+  description: 4aafd40 !2023 2003sp4 baseos add libkperf and oeAware, 2203sp4 add
+    libkperf
+  changed_packages: oeAware-manager libkperf
+  date: 2024-12-03-17-18-50
