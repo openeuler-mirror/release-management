@@ -2008,3 +2008,8 @@ release-change:
     for python-ipyleaflet upgrade
   changed_packages: python-jupyter-leaflet
   date: 2024-12-03-16-40-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2029
+  description: c01797e !2029 Move python-sphinx-autobuild&starlette&python-multipart
+    from master:Factory to master:Python from pkg import
+  changed_packages: python-sphinx-autobuild python-starlette python-python-multipart
+  date: 2024-12-05-16-09-47
