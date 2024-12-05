@@ -92,3 +92,7 @@ release-change:
     libkperf
   changed_packages: libkperf
   date: 2024-12-03-17-18-50
+- pr: https://gitee.com/openeuler/release-management/pulls/1997
+  description: 48cd286 !1997 add D-FOT to 22.03sp4
+  changed_packages: D-FOT
+  date: 2024-12-05-15-25-46
