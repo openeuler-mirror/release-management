@@ -15323,10 +15323,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
-    - name: python-mkdocs-get-deps
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
     - name: python-safety-schemas
       obs_from: ""
       obs_to: openEuler:Factory
