@@ -82,3 +82,4 @@ packages:
   - name: sblim-sfcb
   - name: python-kitchen
   - name: python-parse-type
+  - name: xorg-x11-utils
