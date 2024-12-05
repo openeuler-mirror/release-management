@@ -64,3 +64,4 @@ packages:
 - name: xdotool
 - name: mingw-wine-gecko
 - name: python-parse-type
+- name: libnetwork
