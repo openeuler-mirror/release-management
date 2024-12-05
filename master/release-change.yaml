@@ -2018,3 +2018,7 @@ release-change:
     of NetworkManager-iodine required
   changed_packages: docbook5-schemas
   date: 2024-12-05-20-48-49
+- pr: https://gitee.com/openeuler/release-management/pulls/1991
+  description: 5395558 !1991 xorg-x11-utils was dropped in favour of separated packages
+  changed_packages: xorg-x11-utils
+  date: 2024-12-05-20-51-37
