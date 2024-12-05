@@ -2022,3 +2022,8 @@ release-change:
   description: 5395558 !1991 xorg-x11-utils was dropped in favour of separated packages
   changed_packages: xorg-x11-utils
   date: 2024-12-05-20-51-37
+- pr: https://gitee.com/openeuler/release-management/pulls/2030
+  description: ea1e7c7 !2030 Move python-mkdocs-get-deps from master:Factory to master:Python
+    for mkdocs upgrade
+  changed_packages: python-mkdocs-get-deps
+  date: 2024-12-05-20-52-36
