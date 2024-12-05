@@ -2013,3 +2013,8 @@ release-change:
     from master:Factory to master:Python from pkg import
   changed_packages: python-sphinx-autobuild python-starlette python-python-multipart
   date: 2024-12-05-16-09-47
+- pr: https://gitee.com/openeuler/release-management/pulls/2022
+  description: 34efadf !2022 Move iodine from master-Factory to master-Epol because
+    of NetworkManager-iodine required
+  changed_packages: docbook5-schemas
+  date: 2024-12-05-20-48-49
