@@ -81,3 +81,8 @@ release-change:
   description: d3284a0 !2015 Remove python-parse-type package from openEuler-master:everything
   changed_packages: python-parse-type
   date: 2024-11-29-17-58-19
+- pr: https://gitee.com/openeuler/release-management/pulls/2009
+  description: bbc3497 !2009 drop separated libnetwork package, as it was built by
+    moby package now
+  changed_packages: libnetwork
+  date: 2024-12-05-20-47-13
