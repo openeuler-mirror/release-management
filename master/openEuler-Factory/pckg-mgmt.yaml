@@ -7939,10 +7939,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-doit
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-dpath
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14491,14 +14487,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-empack
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-jupyterlite-sphinx
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-binwalk
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14516,10 +14504,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-playwright
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-jupyterlite-xeus
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -14560,10 +14544,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-10-25"
     - name: python-tlsh
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-jupyterlite
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -15304,10 +15284,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2024-11-28"
     - name: python-nh3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
-    - name: python-jupyterlite-core
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"

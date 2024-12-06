@@ -2899,3 +2899,27 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-06'
+- name: python-jupyterlite
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-jupyterlite-core
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-jupyterlite-sphinx
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-jupyterlite-xeus
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-doit
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-empack
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
