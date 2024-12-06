@@ -2027,3 +2027,8 @@ release-change:
     for mkdocs upgrade
   changed_packages: python-mkdocs-get-deps
   date: 2024-12-05-20-52-36
+- pr: https://gitee.com/openeuler/release-management/pulls/2032
+  description: aa1fb23 !2032 Move python-paginate from master:Factory to master:Python
+    for mkdocs-material upgrade
+  changed_packages: python-paginate
+  date: 2024-12-06-11-05-24
