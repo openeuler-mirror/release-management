@@ -2895,3 +2895,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-05'
+- name: python-paginate
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
