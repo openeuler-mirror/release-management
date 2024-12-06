@@ -2032,3 +2032,9 @@ release-change:
     for mkdocs-material upgrade
   changed_packages: python-paginate
   date: 2024-12-06-11-05-24
+- pr: https://gitee.com/openeuler/release-management/pulls/2033
+  description: a1e4aa1 !2033 Move python-jupyterlite&doit&empack from master:Factory
+    to master:Python for pydata-sphinx-theme upgrade
+  changed_packages: python-jupyterlite python-jupyterlite-core python-jupyterlite-sphinx
+    python-jupyterlite-xeus python-doit python-empack
+  date: 2024-12-06-14-04-58
