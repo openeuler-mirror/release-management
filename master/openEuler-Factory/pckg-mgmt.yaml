@@ -15275,15 +15275,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
-    - name: python-msgspec
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
     - name: python-deepdiff
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
-    - name: python-nh3
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
@@ -15291,15 +15283,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
-    - name: python-pydantic-core
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
     - name: python-safety-schemas
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
-    - name: python-immutabledict
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"

@@ -2923,3 +2923,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-06'
+- name: python-pydantic-core
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-msgspec
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-immutabledict
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
+- name: python-nh3
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-06'
