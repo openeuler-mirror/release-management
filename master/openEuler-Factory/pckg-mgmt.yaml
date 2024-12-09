@@ -14531,10 +14531,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-typer
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-cyclic
       obs_from: ""
       obs_to: openEuler:Factory

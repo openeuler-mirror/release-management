@@ -2939,3 +2939,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-06'
+- name: python-typer
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-09'
