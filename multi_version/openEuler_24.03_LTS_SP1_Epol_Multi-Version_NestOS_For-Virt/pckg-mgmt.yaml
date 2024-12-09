@@ -1,0 +1,13 @@
+packages:
+- name: nestos-kernel
+  source_dir: Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-SP1
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:NestOS:For-Virt
+  obs_to: openEuler:24.03:LTS:SP1:Epol:Multi-Version:NestOS:For-Virt
+  date: '2024-12-09'
+- name: openEuler-release-nestos-for-virt
+  source_dir: Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_NestOS-For-Virt_openEuler-24.03-LTS-SP1
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:NestOS:For-Virt
+  obs_to: openEuler:24.03:LTS:SP1:Epol:Multi-Version:NestOS:For-Virt
+  date: '2024-12-09'
