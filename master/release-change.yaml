@@ -2043,3 +2043,8 @@ release-change:
     master:Factory to master:Python for pkg upgrade
   changed_packages: python-pydantic-core python-msgspec python-immutabledict python-nh3
   date: 2024-12-06-17-32-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2037
+  description: cdeb8d5 !2037 Move python-typer from master:Factory to master:Python
+    for empack deps
+  changed_packages: python-typer
+  date: 2024-12-09-12-33-15
