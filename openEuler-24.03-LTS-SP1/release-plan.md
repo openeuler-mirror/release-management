@@ -70,7 +70,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 |[IB42HF](https://gitee.com/openeuler/release-management/issues/IB42HF?from=project-issue)| rubik在离线混部调度协同增强 | Developing| SIG-CloudNative-KubeOS| [@jingwoo](https://gitee.com/jingwoo) |
 |[IB3ZVI](https://gitee.com/openeuler/release-management/issues/IB3ZVI?from=project-issue)| 提供GCC-14的多版本编译工具链 | Developing| sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
 |[IB3ZRQ](https://gitee.com/openeuler/release-management/issues/IB3ZRQ?from=project-issue)| AI4C编译选项调优和AI编译优化提升典型应用性能 | Developing| sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
-|[IB3ZL2](https://gitee.com/openeuler/release-management/issues/IB3ZL2?from=project-issue)| GCC结合sysboost实现无感知使能反馈优化 | Developing| sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
+|[IB3ZL2](https://gitee.com/openeuler/release-management/issues/IB3ZL2?from=project-issue)| GCC结合sysboost实现无感知使能反馈优化 | Rejected| sig-Compiler | [@wangding16](https://gitee.com/wangding16) |
 |[IB3ZG8](https://gitee.com/openeuler/release-management/issues/IB3ZG8?from=project-issue)| RPM国密签名支持 | Developing| sig-security-facility| [@zhujianwei001](https://gitee.com/zhujianwei001) |
 |[IB3ZDN](https://gitee.com/openeuler/release-management/issues/IB3ZDN?from=project-issue)| IMA度量通过异构可信根框架使能TPM/virtCCA信任根 | Developing| sig-security-facility| [@zhujianwei001](https://gitee.com/zhujianwei001) |
 |[IB3ZB1](https://gitee.com/openeuler/release-management/issues/IB3ZB1?from=project-issue)| IMA完整性保护增强，支持对解释器运行的脚本类应用程序使能完整性保护机制 | Developing| sig-security-facility| [@zhujianwei001](https://gitee.com/zhujianwei001) |
