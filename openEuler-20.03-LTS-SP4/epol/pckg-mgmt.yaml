@@ -8099,3 +8099,21 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3:Epol
   obs_to: openEuler:20.03:LTS:SP4:Epol
   date: '2024-11-07'
+- name: python-Authlib
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2024-12-10'
+- name: authHub
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2024-12-10'
+- name: python-Flask-SQLAlchemy
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3:Epol
+  obs_to: openEuler:20.03:LTS:SP4:Epol
+  date: '2024-12-10'
