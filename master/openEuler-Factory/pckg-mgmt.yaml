@@ -15299,3 +15299,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-12-11"
+    - name: sqlcipher
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-12-11"
