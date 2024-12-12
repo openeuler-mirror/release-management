@@ -79,7 +79,7 @@ openEuler 24.03 LTS SP1是基于6.6内核的24.03-LTS版本增强扩展版本（
 |[IAZQXO](https://gitee.com/openeuler/release-management/issues/IAZQXO?from=project-issue)| Add oneAPI low level native support | Developing| sig-Intel-Arch/sig-intelligenc| [@juntianlinux](https://gitee.com/juntianlinux) |
 |[IB5AK4](https://gitee.com/openeuler/release-management/issues/IB5AK4) | 版本引入ACPO包 | Developing| sig-Compiler | [@eastb233](https://gitee.com/eastb233) |
 |[IAJSGA](https://gitee.com/openeuler/release-management/issues/IAJSGA) | 内核TCP/IP协议栈支持CAQM拥塞 | Developing| sig-Kernel| [@helloworldze](https://gitee.com/helloworldze) |
-|[IB4E8P](https://gitee.com/openeuler/release-management/issues/IB4E8P?from=project-issue) | blk-io-hierarchy 特性 | Developing| sig-Kernel| [@hailan94](https://gitee.com/hailan94) |
+|[IB4E8P](https://gitee.com/openeuler/release-management/issues/IB4E8P?from=project-issue) | blk-io-hierarchy 特性 | Rejected | sig-Kernel| [@hailan94](https://gitee.com/hailan94) |
 |[IB742K](https://gitee.com/openeuler/release-management/issues/IB742K?from=project-issue) | 支持virtCCA_KAE特性 | Developing| sig-confidential-computing| [@guangwei-zhou](https://gitee.com/guangwei-zhou) |
 
 <br />
