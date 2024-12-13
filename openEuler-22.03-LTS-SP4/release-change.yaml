@@ -96,3 +96,7 @@ release-change:
   description: 48cd286 !1997 add D-FOT to 22.03sp4
   changed_packages: D-FOT
   date: 2024-12-05-15-25-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2036
+  description: b3ea516 !2036 add sysboost to 22.03sp4
+  changed_packages: sysboost
+  date: 2024-12-13-16-51-15
