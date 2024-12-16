@@ -8319,10 +8319,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-httptools
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-humanfriendly
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13895,10 +13891,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
-    - name: python-uvicorn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
     - name: python-folium
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13932,10 +13924,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-07-24"
     - name: python-sphinx-automodapi
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-07-24"
-    - name: python-uvloop
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-07-24"
