@@ -2943,3 +2943,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-09'
+- name: python-uvloop
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-16'
+- name: python-uvicorn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-16'
+- name: python-httptools
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2024-12-16'
