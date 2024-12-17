@@ -10,3 +10,4 @@ packages:
 - name: mingw-wine-gecko
 - name: python-parse-type
 - name: libnetwork
+- name: oceanbase-ce
