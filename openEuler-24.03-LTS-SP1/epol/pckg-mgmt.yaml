@@ -5027,10 +5027,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: oceanbase-ce
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: raspberrypi-utils
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
