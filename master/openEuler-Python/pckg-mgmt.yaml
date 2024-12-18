@@ -2955,3 +2955,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2024-12-16'
+- name: python-dotenv
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2024-12-18'
