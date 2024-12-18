@@ -1595,10 +1595,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: libnetwork
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: libnma
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6246,15 +6242,15 @@ packages:
 - name: python-backoff
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2022-10-23"
+  date: '2022-10-23'
 - name: python-rpmautospec-core
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2024-10-23"
+  date: '2024-10-23'
 - name: mock-core-configs
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2024-12-26"
+  date: '2024-12-26'
 - name: intel-gsc
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

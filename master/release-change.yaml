@@ -2053,3 +2053,8 @@ release-change:
     to master:Python for sphinx-autobuild upgrade
   changed_packages: python-uvloop python-uvicorn python-httptools
   date: 2024-12-16-16-18-01
+- pr: https://gitee.com/openeuler/release-management/pulls/2046
+  description: a3bff68 !2046 drop separated libnetwork package, as it was built by
+    moby package now
+  changed_packages: libnetwork
+  date: 2024-12-18-09-57-04
