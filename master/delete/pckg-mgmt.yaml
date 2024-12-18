@@ -83,3 +83,4 @@ packages:
   - name: python-kitchen
   - name: python-parse-type
   - name: xorg-x11-utils
+  - name: libnetwork
