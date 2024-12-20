@@ -13571,14 +13571,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-05-09"
-    - name: vpnc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-11"
-    - name: openfortivpn
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-05-11"
     - name: EulerMonitor
       obs_from: ""
       obs_to: openEuler:Factory
