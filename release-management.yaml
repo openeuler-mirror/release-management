@@ -177,3 +177,21 @@ release:
   - SmallPegasus
   - disnight
   - wangjingwei
+
+- branch: openEuler-24.03-LTS-SP1
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - linfong
+  - hekeyi
+  - yeqinglong01
+  - SmallPegasus
+  - disnight
+  - wangjingwei
+  - x33x33
