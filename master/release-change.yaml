@@ -2063,3 +2063,7 @@ release-change:
     for sphinx-autobuild upgrade
   changed_packages: python-dotenv
   date: 2024-12-18-17-02-25
+- pr: https://gitee.com/openeuler/release-management/pulls/2019
+  description: bb708bb !2019 Add kmod-dinghai to openEuler-24.03-LTS/LTS-Next/LTS-SP1
+  changed_packages: python-annotated-types
+  date: 2024-12-23-11-34-42
