@@ -15295,3 +15295,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-12-19"
+    - name: python-annotated-types
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2024-12-23"
