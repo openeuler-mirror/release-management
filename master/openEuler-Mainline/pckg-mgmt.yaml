@@ -6283,3 +6283,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-11-27'
+- name: biber
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-12-24'
+- name: perl-Lingua-Translit
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-12-24'
+- name: perl-File-Slurper
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-12-24'
+- name: perl-Sort-Key
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-12-24'
+- name: perl-XML-LibXML-Simple
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-12-24'
