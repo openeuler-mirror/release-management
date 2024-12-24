@@ -314,3 +314,8 @@ release-change:
     moby package now
   changed_packages: libnetwork
   date: 2024-12-05-20-47-13
+- pr: https://gitee.com/openeuler/release-management/pulls/1966
+  description: 1700194 !1966 [openEuler-24.03-LTS-Next and SP1] Add python3-rpmautospec-core
+    as a dependency
+  changed_packages: python-rpmautospec-core python-backoff
+  date: 2024-12-24-15-24-18
