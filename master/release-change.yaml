@@ -2067,3 +2067,7 @@ release-change:
   description: bb708bb !2019 Add kmod-dinghai to openEuler-24.03-LTS/LTS-Next/LTS-SP1
   changed_packages: python-annotated-types
   date: 2024-12-23-11-34-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2053
+  description: cd6d54b !2053 Fix texlive-biblatex-apa install failure
+  changed_packages: biber perl-Lingua-Translit perl-File-Slurper perl-Sort-Key perl-XML-LibXML-Simple
+  date: 2024-12-24-14-30-49
