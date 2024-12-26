@@ -5119,3 +5119,19 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-12-06'
+- name: vscode
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2024-12-26'
+- name: calamares
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2024-12-26'
+- name: devstation-config
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2024-12-26'
+- name: kpmcore
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2024-12-26'
