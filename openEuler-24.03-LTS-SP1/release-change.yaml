@@ -90,3 +90,7 @@ release-change:
   description: 25a1f51 !2047 【轻量级 PR】：delete package oceanbase-ce from openEuler-24.03-LTS-SP1
   changed_packages: oceanbase-ce
   date: 2024-12-17-17-43-45
+- pr: https://gitee.com/openeuler/release-management/pulls/2054
+  description: 95776fe !2054 add vscode calamares devstation-config kpmcore to openEuler:24.03-LTS-SP1:Epol
+  changed_packages: vscode calamares devstation-config kpmcore
+  date: 2024-12-26-19-35-36

@@ -319,3 +319,7 @@ release-change:
     as a dependency
   changed_packages: python-rpmautospec-core python-backoff
   date: 2024-12-24-15-24-18
+- pr: https://gitee.com/openeuler/release-management/pulls/2054
+  description: 95776fe !2054 add vscode calamares devstation-config kpmcore to openEuler:24.03-LTS-SP1:Epol
+  changed_packages: vscode calamares devstation-config kpmcore
+  date: 2024-12-26-19-35-36
