@@ -94,3 +94,7 @@ release-change:
   description: 95776fe !2054 add vscode calamares devstation-config kpmcore to openEuler:24.03-LTS-SP1:Epol
   changed_packages: vscode calamares devstation-config kpmcore
   date: 2024-12-26-19-35-36
+- pr: https://gitee.com/openeuler/release-management/pulls/2055
+  description: ca1d9ae !2055 【轻量级 PR】：delete package ao.space from openEuler-24.03-LTS-SP1
+  changed_packages: ao.space
+  date: 2024-12-28-09-26-34
