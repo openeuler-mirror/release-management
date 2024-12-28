@@ -3,10 +3,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: Thunar
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: accumulo
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -88,10 +84,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: canal
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: catfish
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -375,10 +367,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: exo
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: fastdfs
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -447,10 +435,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: garcon
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: gearmand
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -460,10 +444,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: genders
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: gigolo
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -971,14 +951,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: libglademm24
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: libgnomecanvasmm26
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: libgsasl
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -1007,10 +979,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: libmpd
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: libmpris-qt5
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -1036,10 +1004,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: libvncserver
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: libxfce4ui
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -1128,10 +1092,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: mosquitto
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: mousepad
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -1320,10 +1280,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: papirus-icon-theme
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: parole
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -2391,10 +2347,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: ristretto
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: robodoc
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -2531,26 +2483,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: thunar-archive-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: thunar-media-tags-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: thunar-vcs-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: thunar-volman
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: thunarx-python
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: tidb
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
@@ -2572,10 +2504,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
 - name: trafficserver
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: tumbler
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
@@ -2719,207 +2647,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
-- name: xarchiver
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfburn
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce-polkit
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce-theme-manager
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-appfinder
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-battery-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-calculator-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-clipman-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-cpufreq-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-cpugraph-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-datetime-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
 - name: xfce4-dev-tools
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-dict
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-diskperf-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-eyes-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-fsguard-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-genmon-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-mailwatch-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-mount-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-mpc-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-netload-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-notes-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-notifyd
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-panel
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-panel-profiles
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-places-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-power-manager
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-pulseaudio-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-screensaver
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-screenshooter
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-sensors-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-session
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-settings
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-smartbookmark-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-statusnotifier-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-systemload-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-taskmanager
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-terminal
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-time-out-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-timer-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-vala
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-verve-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-volumed-pulse
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-wavelan-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-weather-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-whiskermenu-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfce4-xkb-plugin
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfconf
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfdashboard
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfdesktop
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP1
-  date: '2024-11-04'
-- name: xfwm4
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-04'
