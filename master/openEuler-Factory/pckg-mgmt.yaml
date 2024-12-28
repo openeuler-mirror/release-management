@@ -15287,10 +15287,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-12-24"
-    - name: perl-Alien-Build-Plugin-Download-GitLab
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-12-27"
     - name: mozo
       obs_from: ""
       obs_to: openEuler:Factory
