@@ -663,3 +663,7 @@ release-change:
     for desktop apps added
   changed_packages: meld
   date: 2024-08-27-17-33-17
+- pr: https://gitee.com/openeuler/release-management/pulls/2058
+  description: 3dab655 !2058 【轻量级 PR】：delete packages of sig-xfce from openEuler-24.03-LTS-SP1
+  changed_packages: aws-sdk-cpp
+  date: 2024-12-28-11-08-02
