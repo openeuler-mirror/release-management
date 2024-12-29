@@ -1459,6 +1459,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: perl-MIME-tools
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-12-29'
 - name: perl-XML-LibXML-PrettyPrint
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
