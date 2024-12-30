@@ -1319,6 +1319,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: orage
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2024-12-28'
 - name: otopi
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
