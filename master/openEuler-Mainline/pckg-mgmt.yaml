@@ -2275,6 +2275,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: perl-Alien-Build-Plugin-Download-GitLab
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2024-12-28'
 - name: perl-Alien-Libxml2
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
