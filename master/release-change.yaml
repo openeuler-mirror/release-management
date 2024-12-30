@@ -2079,3 +2079,8 @@ release-change:
   description: 4db5d55 !2059 reborn orage from recycle
   changed_packages: orage
   date: 2024-12-30-09-19-10
+- pr: https://gitee.com/openeuler/release-management/pulls/2060
+  description: d6ec9af !2060 add perl-Alien-Build-Plugin-Download-GitLab for build
+    requires of perl-Alien-Libxml2
+  changed_packages: perl-Alien-Build-Plugin-Download-GitLab
+  date: 2024-12-30-09-19-51
