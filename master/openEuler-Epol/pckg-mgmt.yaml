@@ -4319,6 +4319,14 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-11-21'
+- name: openfortivpn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-12-20'
+- name: vpnc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2024-12-20'
 - name: iodine
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
