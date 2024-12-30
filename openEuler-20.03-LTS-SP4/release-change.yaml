@@ -162,3 +162,7 @@ release-change:
   description: 803f125 !2031 delete oeAware-manager and libkperf in openEuler-20.03-LTS-SP4
   changed_packages: oeAware-manager libkperf
   date: 2024-12-05-18-37-56
+- pr: https://gitee.com/openeuler/release-management/pulls/2040
+  description: 4279260 !2040 2003sp4 epol add authHub、python-Authlib、python-Flask-SQLAlchemy
+  changed_packages: python-Authlib authHub python-Flask-SQLAlchemy
+  date: 2024-12-30-09-22-20
