@@ -2084,3 +2084,7 @@ release-change:
     requires of perl-Alien-Libxml2
   changed_packages: perl-Alien-Build-Plugin-Download-GitLab
   date: 2024-12-30-09-19-51
+- pr: https://gitee.com/openeuler/release-management/pulls/2061
+  description: d6738bd !2061 move perl-MIME-tools into epol for libytnef
+  changed_packages: perl-MIME-tools
+  date: 2024-12-30-09-20-33
