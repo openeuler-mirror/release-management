@@ -2071,3 +2071,7 @@ release-change:
   description: cd6d54b !2053 Fix texlive-biblatex-apa install failure
   changed_packages: biber perl-Lingua-Translit perl-File-Slurper perl-Sort-Key perl-XML-LibXML-Simple
   date: 2024-12-24-14-30-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2049
+  description: 4f87751 !2049 Move openfortivpn and vpnc from master:Factory to master:Epol
+  changed_packages: openfortivpn vpnc
+  date: 2024-12-30-09-17-59
