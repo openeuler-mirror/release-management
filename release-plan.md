@@ -1,29 +1,31 @@
+// 模版
+
 # Version Info
-openEuler 25.03 是基于6.1内核的创新版本（参见[版本生命周期](https://www.openeuler.org/zh/other/lifecycle/)），面向服务器、云、边缘计算和嵌入式场景，提供更多新特性和功能，给开发者和用户带来全新的体验，服务更多的领域和更多的用户。<br>
+openEuler xx.xx 是基于x.x内核的创新版本（参见[版本生命周期](https://www.openeuler.org/zh/other/lifecycle/)），面向服务器、云、边缘计算和嵌入式场景，提供更多新特性和功能，给开发者和用户带来全新的体验，服务更多的领域和更多的用户。<br>
 
 
 # Release Plan
 
 | Stage Name                    | Deadline for PR | Begin Time | End Time   | Days | Note                                     |
 | ----------------------------- | --------------- | ---------- | ---------  | ---- | ---------------------------------------- |
-| Collect key features          |        -        | 2024/12/1  | 2025/1/31  | 61 | 版本需求收集                              |
-| Change Review 1               |        -        | 2025/1/2   | 2025/1/16  | 15 | Review 软件包变更（升级/退役/淘汰）  |
-| Herited features              |        -        | 2025/1/2   | 2025/2/18  | 25 | 继承特性合入（Branch前完成合入） |
-| Develop                       |        -        | 2025/1/2   | 2025/2/25  | 55 | 新特性开发，合入Master |
-| Kernel freezing               |        -        | 2025/1/23  | 2024/2/27  | 8  | 内核冻结（随Beta版本，内核冻结） |
-| Branch 24.03 LTS SP1          |        -        | 2025/1/23  | 2025/2/6   | 7  | Master 拉取 25.03 分支 (跨春节，预祝开发者春节快乐) |
-| Build & Alpha                 |        -        | 2025/2/7   | 2025/2/13  | 7  | 新开发特性合入，Alpha版本发布    |
-| Test round 1                  |    2025/2/11    | 2025/2/14  | 2025/2/20  | 7  | 25.03 模块测试           |
-| Change Review 2               |        -        | 2025/x/xx  | 2025/x/xx  | 3  | 发起软件包淘汰评审               |
-| Test round 2 (Beta Version)   |    2025/2/18    | 2025/2/21  | 2025/2/27  | 7  | 25.03 Beta版本发布       |
-| Test round 3                  |    2025/2/25    | 2025/2/28  | 2025/3/6   | 7  | 全量验证(全量SIT)                |
-| Change Review 3               |        -        | 2025/x/x   | 2025/x/x   | 3  | 只允许bug fix      |
-| Test round 4                  |    2025/3/4     | 2025/3/7   | 2025/3/13  | 7  | 分支冻结，只允许bug fix          |
-| Test round 5                  |    2025/3/11    | 2025/3/14  | 2025/3/20  | 7  | 回归测试                         |
-| Test round 6 (预留)           |    2025/3/18    | 2025/3/21  | 2025/3/25  | 7  | 回归测试                         |
-| Release Review                |        -        | 2025/3/25  | 2025/3/26  | 2  | 版本发布决策/ Go or No Go        |
-| Release preparation           |        -        | 2025/3/27  | 2025/3/28  | 2  | 发布前准备阶段，发布件系统梳理    |
-| Release                       |        -        | 2025/3/28  | 2025/3/31  | 2  | 社区Release评审通过正式发布       |
+| Collect key features          |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 版本需求收集                              |
+| Change Review 1               |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | Review 软件包变更（升级/退役/淘汰）  |
+| Herited features              |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 继承特性合入（Branch前完成合入） |
+| Develop                       |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 新特性开发，合入Master |
+| Kernel freezing               |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 内核冻结（随Beta版本，内核冻结） |
+| Branch 24.03 LTS SP1          |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | Master 拉取 25.03 分支 (跨春节，预祝开发者春节快乐) |
+| Build & Alpha                 |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 新开发特性合入，Alpha版本发布    |
+| Test round 1                  |    20xx/xx/xx   | 20xx/xx/xx | 20xx/xx/xx | xx | 25.03 模块测试           |
+| Change Review 2               |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 发起软件包淘汰评审               |
+| Test round 2 (Beta Version)   |    20xx/xx/xx   | 20xx/xx/xx | 20xx/xx/xx | xx | 25.03 Beta版本发布       |
+| Test round 3                  |    20xx/xx/xx   | 20xx/xx/xx | 20xx/xx/xx | xx | 全量验证(全量SIT)                |
+| Change Review 3               |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 只允许bug fix      |
+| Test round 4                  |    20xx/xx/xx   | 20xx/xx/xx | 20xx/xx/xx | xx | 分支冻结，只允许bug fix          |
+| Test round 5                  |    20xx/xx/xx   | 20xx/xx/xx | 20xx/xx/xx | xx | 回归测试                         |
+| Test round 6 (预留)           |    20xx/xx/xx   | 20xx/xx/xx | 20xx/xx/xx | xx | 回归测试                         |
+| Release Review                |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 版本发布决策/ Go or No Go        |
+| Release preparation           |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 发布前准备阶段，发布件系统梳理    |
+| Release                       |        -        | 20xx/xx/xx | 20xx/xx/xx | xx | 社区Release评审通过正式发布       |
 
 
 
