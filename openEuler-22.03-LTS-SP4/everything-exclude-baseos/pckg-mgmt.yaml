@@ -18457,3 +18457,7 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP4
   date: '2024-12-13'
+- name: aws-sdk-cpp
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP4
+  date: '2025-01-03'
