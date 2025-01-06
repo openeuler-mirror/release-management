@@ -100,3 +100,8 @@ release-change:
   description: b3ea516 !2036 add sysboost to 22.03sp4
   changed_packages: sysboost
   date: 2024-12-13-16-51-15
+- pr: https://gitee.com/openeuler/release-management/pulls/2065
+  description: 7595700 !2065 添加aws-sdk-cpp依赖到openEuler-22.03-LTS-SP4 Merge pull request
+    !2065 from liuheng/master
+  changed_packages: aws-sdk-cpp
+  date: 2025-01-06-14-13-32
