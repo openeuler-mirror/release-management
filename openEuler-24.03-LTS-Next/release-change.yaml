@@ -327,3 +327,7 @@ release-change:
   description: eab1ac4 !2005 Add AI4C to 24.03-LTS-NEXT
   changed_packages: AI4C
   date: 2024-12-30-16-59-16
+- pr: https://gitee.com/openeuler/release-management/pulls/2044
+  description: b80cbf9 !2044 添加 swoole 到openEuler-24.03-LTS-Next版本发布
+  changed_packages: swoole
+  date: 2025-01-09-12-30-51
