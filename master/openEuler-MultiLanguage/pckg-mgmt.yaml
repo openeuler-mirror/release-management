@@ -495,3 +495,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
   date: '2024-08-28'
+- name: llvm-toolset-17
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: "2025-01-22"
+- name: llvm-toolset-19
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: "2025-01-22"
+- name: llvm-toolset-18
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: "2025-01-22"
