@@ -15291,3 +15291,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-13"
+    - name: fastfetch
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-13"
