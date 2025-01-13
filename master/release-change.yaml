@@ -2088,3 +2088,7 @@ release-change:
   description: d6738bd !2061 move perl-MIME-tools into epol for libytnef
   changed_packages: perl-MIME-tools
   date: 2024-12-30-09-20-33
+- pr: https://gitee.com/openeuler/release-management/pulls/2069
+  description: 80f15e9 !2069 move git-lfs into everything for developers
+  changed_packages: git-lfs
+  date: 2025-01-13-14-37-02
