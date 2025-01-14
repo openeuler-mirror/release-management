@@ -3317,6 +3317,12 @@ packages:
   obs_from: openEuler:Common_Languages_Dependent_Tools
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: git-lfs
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Common_Languages_Dependent_Tools
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-01-14'
 - name: glib2
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
