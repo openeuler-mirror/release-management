@@ -4079,3 +4079,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-11-27'
+- name: shaderc
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: "2025-01-16"
