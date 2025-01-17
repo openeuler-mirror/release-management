@@ -15299,3 +15299,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-17"
+    - name: ANNC
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-17"
