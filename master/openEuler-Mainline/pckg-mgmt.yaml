@@ -3371,6 +3371,14 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: perl-Text-CSV
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-01-19'
+- name: perl-Text-CSV_XS
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-01-19'
 - name: perl-Text-Diff
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline

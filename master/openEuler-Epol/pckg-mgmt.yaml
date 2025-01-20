@@ -4899,14 +4899,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-28'
-- name: perl-Text-CSV_XS
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Text-CSV
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
 - name: perl-Log-Log4perl
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
