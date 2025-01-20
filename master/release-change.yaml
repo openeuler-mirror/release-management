@@ -2101,3 +2101,7 @@ release-change:
     biber
   changed_packages: perl-Text-CSV perl-Text-CSV_XS
   date: 2025-01-20-10-06-15
+- pr: https://gitee.com/openeuler/release-management/pulls/2076
+  description: 3ba0783 !2076 move libdeflate form openEuler:Factory to openEuler:Mainline
+  changed_packages: libdeflate
+  date: 2025-01-20-17-19-21
