@@ -2092,3 +2092,7 @@ release-change:
   description: 80f15e9 !2069 move git-lfs into everything for developers
   changed_packages: git-lfs
   date: 2025-01-13-14-37-02
+- pr: https://gitee.com/openeuler/release-management/pulls/2074
+  description: 3ea9c2e !2074 mv shaderc from Epol to C
+  changed_packages: shaderc
+  date: 2025-01-20-10-02-58
