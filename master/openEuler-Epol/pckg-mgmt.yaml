@@ -7539,10 +7539,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2024-10-16"
-- name: shaderc
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: "2024-10-16"
 - name: cockpit-machines
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
