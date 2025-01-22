@@ -84,3 +84,6 @@ packages:
   - name: python-parse-type
   - name: xorg-x11-utils
   - name: libnetwork
+  - name: oeAware-scenario
+  - name: oeAware-tune
+  - name: oeAware-collector
