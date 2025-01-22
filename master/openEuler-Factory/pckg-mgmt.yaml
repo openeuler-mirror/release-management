@@ -15303,3 +15303,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-20"
+    - name: llvm-toolset-17
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-22"
+    - name: llvm-toolset-19
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-22"
+    - name: llvm-toolset-18
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-22"
