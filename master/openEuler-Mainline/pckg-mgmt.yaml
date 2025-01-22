@@ -6319,3 +6319,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-12-24'
+- name: libkperf
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: "2025-01-22"
+- name: oeAware-manager
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: "2025-01-22"
