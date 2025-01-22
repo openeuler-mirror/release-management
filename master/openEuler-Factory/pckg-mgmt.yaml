@@ -15315,3 +15315,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-22"
+    - name: vulkanmemoryallocator
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-22"
+    - name: google-crc32c
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-22"
+    - name: highway
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-01-22"
