@@ -7439,18 +7439,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-21'
-- name: oeAware-scenario
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-08-21'
-- name: oeAware-tune
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-08-21'
-- name: oeAware-collector
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-08-21'
 - name: python-Authlib
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7482,31 +7470,31 @@ packages:
 - name: mingw-binutils
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: mingw-crt
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: mingw-gcc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: mingw-headers
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: mingw-wine-gecko
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: mingw-winpthreads
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: kylin-installer
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-09-23"
+  date: '2024-09-23'
 - name: vscode
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7526,72 +7514,72 @@ packages:
 - name: minizip-ng
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-10-16"
+  date: '2024-10-16'
 - name: cockpit-machines
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-10-16"
+  date: '2024-10-16'
 - name: fisher
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2023-11-09"
+  date: '2023-11-09'
 - name: ACPO
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: dolphin
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: kdsoap
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: kio-extras
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: kmenuedit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: kscreen
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: kwrited
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: plasma-desktop
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: plasma-discover
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: plasma-integration
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: plasma-nm
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: plasma-pa
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: plasma-systemsettings
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: powerdevil
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'
 - name: scim
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2024-11-19"
+  date: '2024-11-19'

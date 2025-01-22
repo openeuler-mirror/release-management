@@ -2105,3 +2105,8 @@ release-change:
   description: 3ba0783 !2076 move libdeflate form openEuler:Factory to openEuler:Mainline
   changed_packages: libdeflate
   date: 2025-01-20-17-19-21
+- pr: https://gitee.com/openeuler/release-management/pulls/2026
+  description: a5f13ed !2026 move oeAware-manager and libkperf from epol to mainline
+    in master and delete oeAware-scenario oeAware-tune oeAware-collector
+  changed_packages: libkperf oeAware-manager oeAware-collector oeAware-scenario oeAware-tune
+  date: 2025-01-22-17-12-37
