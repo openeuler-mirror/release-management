@@ -331,3 +331,7 @@ release-change:
   description: b80cbf9 !2044 添加 swoole 到openEuler-24.03-LTS-Next版本发布
   changed_packages: swoole
   date: 2025-01-09-12-30-51
+- pr: https://gitee.com/openeuler/release-management/pulls/2077
+  description: 71c1008 !2077 【轻量级 PR】：add branch openEuler-25.03 from master
+  changed_packages: git-lfs
+  date: 2025-01-22-11-42-45
