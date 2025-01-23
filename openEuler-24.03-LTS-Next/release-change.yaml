@@ -335,3 +335,8 @@ release-change:
   description: 71c1008 !2077 【轻量级 PR】：add branch openEuler-25.03 from master
   changed_packages: git-lfs
   date: 2025-01-22-11-42-45
+- pr: https://gitee.com/openeuler/release-management/pulls/2071
+  description: 4e4ae24 !2071 删除llvm工具链latest版本软件包 & 新增副版本归一化制品仓llvm-toolset-17/18/19到everything
+  changed_packages: clang-latest llvm-latest lld-latest lldb-latest openmp-latest
+    libcxx-latest compiler-rt-latest flang-latest llvm-bolt-latest
+  date: 2025-01-23-10-12-38

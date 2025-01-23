@@ -2110,3 +2110,9 @@ release-change:
     in master and delete oeAware-scenario oeAware-tune oeAware-collector
   changed_packages: libkperf oeAware-manager oeAware-collector oeAware-scenario oeAware-tune
   date: 2025-01-22-17-12-37
+- pr: https://gitee.com/openeuler/release-management/pulls/2071
+  description: 4e4ae24 !2071 删除llvm工具链latest版本软件包 & 新增副版本归一化制品仓llvm-toolset-17/18/19到everything
+  changed_packages: llvm-toolset-17 llvm-toolset-19 llvm-toolset-18 clang-latest llvm-latest
+    lld-latest lldb-latest openmp-latest libcxx-latest compiler-rt-latest flang-latest
+    llvm-bolt-latest
+  date: 2025-01-23-10-12-38

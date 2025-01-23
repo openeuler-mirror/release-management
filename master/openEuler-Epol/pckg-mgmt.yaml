@@ -6231,42 +6231,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-17'
-- name: openmp-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: lldb-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: libcxx-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: lld-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: llvm-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: compiler-rt-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: llvm-bolt-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: clang-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
-- name: flang-latest
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-17'
 - name: classic-flang
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
