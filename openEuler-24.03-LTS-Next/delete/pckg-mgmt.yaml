@@ -65,3 +65,12 @@ packages:
 - name: mingw-wine-gecko
 - name: python-parse-type
 - name: libnetwork
+- name: llvm-latest
+- name: clang-latest
+- name: compiler-rt-latest
+- name: llvm-bolt-latest
+- name: libcxx-latest
+- name: lld-latest
+- name: flang-latest
+- name: openmp-latest
+- name: lldb-latest
