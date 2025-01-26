@@ -39,6 +39,7 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 | :--- | :------ | :----- | :--- | :---- | :--- | :---- |
 |[IBGAHV](https://gitee.com/openeuler/release-management/issues/IBGAHV?from=project-issue)| 为AArch64编译默认开启PAC/BTI | Discussion | sig-Arm | [@junhe_arm](https://gitee.com/junhe_arm) |
+|[IBJFPX](https://gitee.com/openeuler/release-management/issues/IBJFPX)| 支持树莓派 | Discussion | sig-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
 
 
 # 需求/特性反馈基本流程 <br />
