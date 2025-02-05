@@ -4895,18 +4895,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-28'
-- name: perl-UNIVERSAL-isa
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Log-Log4perl
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-XML-DOM
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
 - name: perl-Test-Memory-Cycle
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4975,10 +4963,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-05-04'
-- name: perl-DBD-CSV
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-05-04'
 - name: perl-WWW-Mechanize
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
@@ -4991,10 +4975,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-05-04'
-- name: perl-XML-RegExp
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-05-08'
 - name: gammaray
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
