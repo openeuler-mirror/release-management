@@ -4751,18 +4751,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: perl-UNIVERSAL-isa
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: perl-Log-Log4perl
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: perl-XML-DOM
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: perl-Test-Memory-Cycle
   source_dir: master
   destination_dir: openEuler-25.03
@@ -4827,10 +4815,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: perl-DBD-CSV
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: perl-WWW-Mechanize
   source_dir: master
   destination_dir: openEuler-25.03
@@ -4840,10 +4824,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: perl-Devel-Cycle
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: perl-XML-RegExp
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'

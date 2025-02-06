@@ -6303,6 +6303,26 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-12-24'
+- name: perl-UNIVERSAL-isa
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-02-05'
+- name: perl-Log-Log4perl
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-02-05'
+- name: perl-XML-DOM
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-02-05'
+- name: perl-XML-RegExp
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-02-05'
+- name: perl-DBD-CSV
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-02-05'
 - name: perl-Lingua-Translit
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

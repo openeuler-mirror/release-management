@@ -7351,6 +7351,26 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
+- name: perl-UNIVERSAL-isa
+  source_dir: openEuler-25.03
+  destination_dir: openEuler-25.03
+  date: '2025-02-05'
+- name: perl-XML-DOM
+  source_dir: openEuler-25.03
+  destination_dir: openEuler-25.03
+  date: '2025-02-05'
+- name: perl-Log-Log4perl
+  source_dir: openEuler-25.03
+  destination_dir: openEuler-25.03
+  date: '2025-02-05'
+- name: perl-XML-RegExp
+  source_dir: openEuler-25.03
+  destination_dir: openEuler-25.03
+  date: '2025-02-05'
+- name: perl-DBD-CSV
+  source_dir: openEuler-25.03
+  destination_dir: openEuler-25.03
+  date: '2025-02-05'
 - name: perl-Text-Glob
   source_dir: master
   destination_dir: openEuler-25.03
