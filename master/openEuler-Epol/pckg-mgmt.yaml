@@ -7527,3 +7527,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-11-19'
+- name: oeGitExt
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-06'
