@@ -2122,3 +2122,7 @@ release-change:
   changed_packages: perl-UNIVERSAL-isa perl-Log-Log4perl perl-XML-DOM perl-XML-RegExp
     perl-DBD-CSV
   date: 2025-02-06-10-36-27
+- pr: https://gitee.com/openeuler/release-management/pulls/2084
+  description: 4363a0f !2084 add oeGitExt to master and openEuler-25.03
+  changed_packages: oeGitExt
+  date: 2025-02-06-15-13-24
