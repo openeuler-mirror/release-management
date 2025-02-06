@@ -2116,3 +2116,9 @@ release-change:
     lld-latest lldb-latest openmp-latest libcxx-latest compiler-rt-latest flang-latest
     llvm-bolt-latest
   date: 2025-01-23-10-12-38
+- pr: https://gitee.com/openeuler/release-management/pulls/2085
+  description: d1ccba4 !2085 Move perl-UNIVERSAL-isa,perl-XML-DOM,perl-Log-Log4perl,perl-XML-RegExp,perl-DBD-CSV
+    from epol to everything for biber
+  changed_packages: perl-UNIVERSAL-isa perl-Log-Log4perl perl-XML-DOM perl-XML-RegExp
+    perl-DBD-CSV
+  date: 2025-02-06-10-36-27
