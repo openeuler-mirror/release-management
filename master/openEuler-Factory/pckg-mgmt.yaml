@@ -15331,3 +15331,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-02-05"
+    - name: unifdef
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-02-06"
