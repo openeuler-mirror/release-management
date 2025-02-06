@@ -96,3 +96,16 @@ packages:
   - name: flang-latest
   - name: openmp-latest
   - name: lldb-latest
+  - name: llvm-15
+  - name: llvm-libunwind-15
+  - name: libcxx-15
+  - name: mlir-15
+  - name: compiler-rt-15
+  - name: polly-15
+  - name: openmp-15
+  - name: flang-15
+  - name: clang-15
+  - name: lld-15
+  - name: llvm-bolt-15
+  - name: libcxxabi
+  - name: llvm-libunwind
