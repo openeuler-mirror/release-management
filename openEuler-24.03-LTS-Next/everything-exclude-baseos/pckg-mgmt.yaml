@@ -22277,3 +22277,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   date: '2024-12-30'
+- name: llvm-toolset-18
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-07'
+- name: llvm-toolset-19
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-07'
