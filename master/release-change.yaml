@@ -2126,3 +2126,9 @@ release-change:
   description: 4363a0f !2084 add oeGitExt to master and openEuler-25.03
   changed_packages: oeGitExt
   date: 2025-02-06-15-13-24
+- pr: https://gitee.com/openeuler/release-management/pulls/2087
+  description: a515e11 !2087 delete llvm-15 packages, libcxxabi and llvm-libunwind
+    in master
+  changed_packages: libcxxabi llvm-libunwind mlir-15 libcxx-15 lld-15 flang-15 llvm-libunwind-15
+    llvm-bolt-15 openmp-15 clang-15 polly-15 compiler-rt-15 llvm-15
+  date: 2025-02-07-09-28-57

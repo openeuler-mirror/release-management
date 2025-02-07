@@ -4515,14 +4515,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: libcxxabi
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: llvm-libunwind
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: python-css-parser
   source_dir: master
   destination_dir: openEuler-25.03

@@ -435,58 +435,14 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
   date: '2023-03-02'
-- name: llvm-libunwind-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: libcxx-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: mlir-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: compiler-rt-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: polly-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: openmp-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: flang-15
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
 - name: openmp
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: clang-15
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: llvm-15
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: lld-15
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
-- name: llvm-bolt-15
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: "2023-07-19"
+  date: '2023-07-19'
 - name: gdal
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
-  date: "2024-01-29"
+  date: '2024-01-29'
 - name: lld
   obs_from: openEuler:Epol
   obs_to: openEuler:MultiLanguage
@@ -498,12 +454,12 @@ packages:
 - name: llvm-toolset-17
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
-  date: "2025-01-22"
+  date: '2025-01-22'
 - name: llvm-toolset-19
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
-  date: "2025-01-22"
+  date: '2025-01-22'
 - name: llvm-toolset-18
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
-  date: "2025-01-22"
+  date: '2025-01-22'

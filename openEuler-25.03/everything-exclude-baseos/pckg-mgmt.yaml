@@ -9915,22 +9915,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: clang-15
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: llvm-15
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: lld-15
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: llvm-bolt-15
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: gdal
   source_dir: master
   destination_dir: openEuler-25.03

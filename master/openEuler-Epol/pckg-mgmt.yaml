@@ -4659,14 +4659,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-03-15'
-- name: libcxxabi
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-03-15'
-- name: llvm-libunwind
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-03-15'
 - name: python-css-parser
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
