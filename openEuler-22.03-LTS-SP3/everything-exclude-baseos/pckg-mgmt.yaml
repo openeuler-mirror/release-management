@@ -18443,3 +18443,21 @@ packages:
   obs_from: openEuler:22.03:LTS:SP3:Epol
   obs_to: openEuler:22.03:LTS:SP3
   date: '2024-03-30'
+- name: llvm-toolset-17
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP3
+  date: '2025-02-07'
+- name: llvm-toolset-18
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP3
+  date: '2025-02-07'
+- name: llvm-toolset-19
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP3
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP3
+  date: '2025-02-07'
