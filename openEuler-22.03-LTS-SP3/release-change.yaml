@@ -132,3 +132,7 @@ release-change:
   description: e9a1176e !1777 add oeAware-tune to openEuler:22.03:LTS:Next:Epol,openEuler:22.03:LTS:SP3:Epol,openEuler:22.03:LTS:SP4:Epol
   changed_packages: oeAware-tune
   date: 2024-06-04-09-43-57
+- pr: https://gitee.com/openeuler/release-management/pulls/2078
+  description: 47eea1e !2078 Add llvm-toolset-17/18/19 to releases
+  changed_packages: llvm-toolset-17 llvm-toolset-18 llvm-toolset-19
+  date: 2025-02-07-15-16-26

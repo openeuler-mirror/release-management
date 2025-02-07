@@ -170,3 +170,7 @@ release-change:
   description: 0533528 !2056 【轻量级 PR】：创建25.03创新版本计划初稿
   changed_packages: python-Authlib authHub python-Flask-SQLAlchemy
   date: 2024-12-30-09-28-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2078
+  description: 47eea1e !2078 Add llvm-toolset-17/18/19 to releases
+  changed_packages: llvm-toolset-17
+  date: 2025-02-07-15-16-26

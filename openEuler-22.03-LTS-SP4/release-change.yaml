@@ -105,3 +105,7 @@ release-change:
     !2065 from liuheng/master
   changed_packages: aws-sdk-cpp
   date: 2025-01-06-14-13-32
+- pr: https://gitee.com/openeuler/release-management/pulls/2078
+  description: 47eea1e !2078 Add llvm-toolset-17/18/19 to releases
+  changed_packages: llvm-toolset-17 llvm-toolset-18 llvm-toolset-19
+  date: 2025-02-07-15-16-26
