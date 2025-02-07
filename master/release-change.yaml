@@ -2132,3 +2132,7 @@ release-change:
   changed_packages: libcxxabi llvm-libunwind mlir-15 libcxx-15 lld-15 flang-15 llvm-libunwind-15
     llvm-bolt-15 openmp-15 clang-15 polly-15 compiler-rt-15 llvm-15
   date: 2025-02-07-09-28-57
+- pr: https://gitee.com/openeuler/release-management/pulls/2086
+  description: bf242dd !2086 move unifdef to everything for buildrequries of webkitgtk
+  changed_packages: unifdef
+  date: 2025-02-07-09-37-45
