@@ -2136,3 +2136,8 @@ release-change:
   description: bf242dd !2086 move unifdef to everything for buildrequries of webkitgtk
   changed_packages: unifdef
   date: 2025-02-07-09-37-45
+- pr: https://gitee.com/openeuler/release-management/pulls/2082
+  description: b617bee !2082 Move python-dirty-equals&amp;annotated-types from master:Factory
+    to master:Python for pydantic upgrade
+  changed_packages: python-annotated-types python-dirty-equals
+  date: 2025-02-08-10-46-55
