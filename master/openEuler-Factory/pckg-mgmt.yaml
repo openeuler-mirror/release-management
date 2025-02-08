@@ -15319,3 +15319,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-24"
+    - name: python-setuptools-git-versioning
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-02-08"
