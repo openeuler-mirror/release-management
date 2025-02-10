@@ -2967,3 +2967,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-01-27'
+- name: python-setuptools-git-versioning
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-02-10'
