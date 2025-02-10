@@ -2141,3 +2141,8 @@ release-change:
     to master:Python for pydantic upgrade
   changed_packages: python-annotated-types python-dirty-equals
   date: 2025-02-08-10-46-55
+- pr: https://gitee.com/openeuler/release-management/pulls/2091
+  description: bfb5f80 !2091 Move python-setuptools-git-versioning from master:Factory
+    to master:Python
+  changed_packages: python-setuptools-git-versioning
+  date: 2025-02-10-14-27-55
