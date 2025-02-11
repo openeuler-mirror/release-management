@@ -22295,3 +22295,33 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2025-02-08'
+- name: biber
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-11'
+- name: perl-File-Slurper
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-11'
+- name: perl-Lingua-Translit
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-11'
+- name: perl-Sort-Key
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-11'
+- name: perl-XML-LibXML-Simple
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-02-11'
