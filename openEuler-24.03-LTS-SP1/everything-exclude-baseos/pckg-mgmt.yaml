@@ -14827,3 +14827,23 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2024-11-27'
+- name: biber
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-02-11'
+- name: perl-File-Slurper
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-02-11'
+- name: perl-Lingua-Translit
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-02-11'
+- name: perl-Sort-Key
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-02-11'
+- name: perl-XML-LibXML-Simple
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-02-11'

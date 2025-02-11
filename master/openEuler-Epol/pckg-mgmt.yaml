@@ -7523,3 +7523,31 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-02-06'
+- name: lirc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
+- name: daala
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
+- name: libdca
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
+- name: libdvbpsi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
+- name: libmatroska
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
+- name: a52dec
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
+- name: libspatialaudio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-11'
