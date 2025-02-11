@@ -348,3 +348,8 @@ release-change:
   description: 88c7d60 !2088 add mock-core-configs to 24.03-LTS-Next
   changed_packages: mock-core-configs
   date: 2025-02-08-10-19-36
+- pr: https://gitee.com/openeuler/release-management/pulls/2093
+  description: f33201c !2093 Fix texlive-biblatex-apa install failure &amp; VLC compile
+    dependencies
+  changed_packages: biber perl-File-Slurper perl-Lingua-Translit perl-Sort-Key perl-XML-LibXML-Simple
+  date: 2025-02-11-11-46-42

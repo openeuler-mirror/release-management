@@ -98,3 +98,8 @@ release-change:
   description: ca1d9ae !2055 【轻量级 PR】：delete package ao.space from openEuler-24.03-LTS-SP1
   changed_packages: ao.space
   date: 2024-12-28-09-26-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2093
+  description: f33201c !2093 Fix texlive-biblatex-apa install failure &amp; VLC compile
+    dependencies
+  changed_packages: biber perl-File-Slurper perl-Lingua-Translit perl-Sort-Key perl-XML-LibXML-Simple
+  date: 2025-02-11-11-46-42

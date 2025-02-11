@@ -2146,3 +2146,8 @@ release-change:
     to master:Python
   changed_packages: python-setuptools-git-versioning
   date: 2025-02-10-14-27-55
+- pr: https://gitee.com/openeuler/release-management/pulls/2093
+  description: f33201c !2093 Fix texlive-biblatex-apa install failure &amp; VLC compile
+    dependencies
+  changed_packages: lirc daala libdca libdvbpsi libmatroska a52dec libspatialaudio
+  date: 2025-02-11-11-46-42
