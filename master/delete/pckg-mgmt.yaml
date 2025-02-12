@@ -109,3 +109,4 @@ packages:
   - name: llvm-bolt-15
   - name: libcxxabi
   - name: llvm-libunwind
+  - name: perl-Test2-Suite
