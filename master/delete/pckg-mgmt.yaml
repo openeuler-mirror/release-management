@@ -110,3 +110,4 @@ packages:
   - name: libcxxabi
   - name: llvm-libunwind
   - name: perl-Test2-Suite
+  - name: pkgship
