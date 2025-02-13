@@ -7371,3 +7371,31 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-06'
+- name: lirc
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
+- name: daala
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
+- name: libdca
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
+- name: libdvbpsi
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
+- name: libmatroska
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
+- name: a52dec
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
+- name: libspatialaudio
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-13'
