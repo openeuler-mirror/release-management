@@ -8,3 +8,8 @@ release-change:
     in master
   changed_packages: libcxxabi llvm-libunwind clang-15 llvm-bolt-15 lld-15 llvm-15
   date: 2025-02-07-09-28-57
+- pr: https://gitee.com/openeuler/release-management/pulls/2095
+  description: a812029 !2095 Remove perl-Test2-Suite from master&25.03 because perl-Test-Simple-1.302200
+    contains perl-Test2-Suite
+  changed_packages: perl-Test2-Suite
+  date: 2025-02-13-08-53-32

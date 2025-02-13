@@ -3359,10 +3359,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: perl-Test2-Suite
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: perl-Text-Aligner
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6342,8 +6338,8 @@ packages:
 - name: libkperf
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
-  date: "2025-01-22"
+  date: '2025-01-22'
 - name: oeAware-manager
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
-  date: "2025-01-22"
+  date: '2025-01-22'
