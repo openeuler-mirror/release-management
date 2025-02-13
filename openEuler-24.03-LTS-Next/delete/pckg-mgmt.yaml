@@ -74,3 +74,4 @@ packages:
 - name: flang-latest
 - name: openmp-latest
 - name: lldb-latest
+- name: pkgship
