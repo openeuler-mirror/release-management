@@ -16811,12 +16811,6 @@ packages:
   obs_from: openEuler:Python
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: pkgship
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Python
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: ps_mem
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next

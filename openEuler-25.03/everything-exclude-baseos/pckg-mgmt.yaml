@@ -11455,10 +11455,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: pkgship
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: ps_mem
   source_dir: master
   destination_dir: openEuler-25.03

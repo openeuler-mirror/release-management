@@ -353,3 +353,8 @@ release-change:
     dependencies
   changed_packages: biber perl-File-Slurper perl-Lingua-Translit perl-Sort-Key perl-XML-LibXML-Simple
   date: 2025-02-11-11-46-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2096
+  description: 144e35c !2096 delete pkgship package in openEuler-25.03 and 24.03-LTS-Next
+    and master branch
+  changed_packages: pkgship
+  date: 2025-02-13-18-11-46

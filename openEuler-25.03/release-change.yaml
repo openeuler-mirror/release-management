@@ -17,3 +17,8 @@ release-change:
   description: 7ed6dd4 !2098 Fix VLC compile dependencies
   changed_packages: lirc daala libdca libdvbpsi libmatroska a52dec libspatialaudio
   date: 2025-02-13-16-10-03
+- pr: https://gitee.com/openeuler/release-management/pulls/2096
+  description: 144e35c !2096 delete pkgship package in openEuler-25.03 and 24.03-LTS-Next
+    and master branch
+  changed_packages: pkgship
+  date: 2025-02-13-18-11-46

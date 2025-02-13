@@ -2156,3 +2156,8 @@ release-change:
     contains perl-Test2-Suite
   changed_packages: perl-Test2-Suite
   date: 2025-02-13-08-53-32
+- pr: https://gitee.com/openeuler/release-management/pulls/2096
+  description: 144e35c !2096 delete pkgship package in openEuler-25.03 and 24.03-LTS-Next
+    and master branch
+  changed_packages: pkgship
+  date: 2025-02-13-18-11-46

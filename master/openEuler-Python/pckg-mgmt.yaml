@@ -83,10 +83,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
-- name: pkgship
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Python
-  date: '2022-07-26'
 - name: ps_mem
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
