@@ -13,3 +13,7 @@ release-change:
     contains perl-Test2-Suite
   changed_packages: perl-Test2-Suite
   date: 2025-02-13-08-53-32
+- pr: https://gitee.com/openeuler/release-management/pulls/2098
+  description: 7ed6dd4 !2098 Fix VLC compile dependencies
+  changed_packages: lirc daala libdca libdvbpsi libmatroska a52dec libspatialaudio
+  date: 2025-02-13-16-10-03
