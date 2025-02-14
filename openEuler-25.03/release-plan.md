@@ -1,6 +1,6 @@
 # Version Info
-openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](https://www.openeuler.org/zh/other/lifecycle/)），面向服务器、云、边缘计算和嵌入式场景，提供更多新特性和功能，给开发者和用户带来全新的体验，服务更多的领域和更多的用户。<br>
 
+openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](https://www.openeuler.org/zh/other/lifecycle/)），面向服务器、云、边缘计算和嵌入式场景，提供更多新特性和功能，给开发者和用户带来全新的体验，服务更多的领域和更多的用户。<br>
 
 # Release Plan
 
@@ -25,14 +25,13 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 | Release preparation           |        -        | 2025/3/27  | 2025/3/28  | 2  | 发布前准备阶段，发布件系统梳理    |
 | Release                       |        -        | 2025/3/28  | 2025/3/31  | 2  | 社区Release评审通过正式发布       |
 
-
-
 # 代码合入说明
+
 创新版本代码继承master分支 <br>
 // 新特性代码请及时合入版本&自验证，跟随整体计划赶在第一轮转测试
 
-
 # Feature list
+
 状态说明：Discussion(方案讨论，需求未接受)、 Developing(开发中)、 Testing(测试中)、 Accepted(已验收) <br>
 发布方式：ISO、Everything、EPOL、oepkgs、独立发布等
 
@@ -61,10 +60,10 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 |[IBLKCQ](https://gitee.com/openeuler/release-management/issues/IBLKCQ?from=project-issue)| 嵌入式：硬实时POSIX接口补齐 | Developing | sig-embedded | [@hzc04](https://gitee.com/hzc04/) |
 |[IBLK62](https://gitee.com/openeuler/release-management/issues/IBLK62?from=project-issue)| DevStation社区原生/图形化/南向兼容性等新增特性 | Developing |sig-ops/IDE | [@duan_pj](https://gitee.com/duan_pj/) |
 |[IBLK0E](https://gitee.com/openeuler/release-management/issues/IBLK0E?from=project-issue)|  EPKG包管理器优化，提升epkg易用性 | Developing |sig-CICD | [@duan_pj](https://gitee.com/duan_pj/) |
-
-
+|[IBMCNA](https://gitee.com/openeuler/release-management/issues/IBMCNA) | 支持 OpenStack Antelope 版本 | Accepted | sig-openstack | [@tzing_t](https://gitee.com/tzing_t) |
 
 # 需求/特性反馈基本流程 <br />
+
 1、开发者/sig在本贴的表格中填写要合入23.03的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
 2、申请在版本release management sig例会上评审需求 （owner或者SIG maintainer参会）
 <br><br>
