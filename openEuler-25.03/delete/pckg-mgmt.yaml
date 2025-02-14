@@ -7,3 +7,7 @@ packages:
   - name: llvm-libunwind
   - name: perl-Test2-Suite
   - name: pkgship
+  - name: qt6-qtwebview
+  - name: qt6-qtwebengine
+
+  
