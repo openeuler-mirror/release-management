@@ -36,8 +36,8 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 状态说明：Discussion(方案讨论，需求未接受)、 Developing(开发中)、 Testing(测试中)、 Accepted(已验收) <br>
 发布方式：ISO、Everything、EPOL、oepkgs、独立发布等
 
-|no|feature|status|sig|owner|发布方式|涉及软件包列表|
-| :--- | :------ | :----- | :--- | :---- | :--- | :---- |
+|no|feature|status|sig|owner|
+| :--- | :------ | :----- | :--- | :---- | 
 |[IBGAHV](https://gitee.com/openeuler/release-management/issues/IBGAHV?from=project-issue)| 为AArch64编译默认开启PAC/BTI | Discussion | sig-Arm | [@junhe_arm](https://gitee.com/junhe_arm) |
 |[IBJFPX](https://gitee.com/openeuler/release-management/issues/IBJFPX)| 支持树莓派 | Discussion | sig-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) |
 |[IBLBJ2](https://gitee.com/openeuler/release-management/issues/IBLBJ2?from=project-issue)| Aops: cve修复/配置溯源实现运维智能化，支持主动通知和图文混合交互 | Developing|sig-ops | [@Lostwayzxc](https://gitee.com/Lostwayzxc/) |
@@ -46,11 +46,11 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 |[IBLA9W](https://gitee.com/openeuler/release-management/issues/IBLA9W?from=project-issue)| 机密容器Kuasar适配virtCCA | Developing| sig-CloudNative | [@xuxuepeng](https://gitee.com/xuxuepeng/) |
 |[IBLA6Q](https://gitee.com/openeuler/release-management/issues/IBLA6Q?from=project-issue)| secGear支持机密容器镜像密钥托管 | Developing|sig-security-facility | [@houmingyong](https://gitee.com/houmingyong/) |
 |[IBLA66](https://gitee.com/openeuler/release-management/issues/IBLA66?from=project-issue)| 构建基于远程证明的TLS协议（RA-TLS） | Developing|sig-security-facility | [@houmingyong](https://gitee.com/houmingyong/) |
-|[IBK2MJ](https://gitee.com/openeuler/release-management/issues/IBK2MJ?from=project-issue)| Trace IO加速容器快速启动 | Developing|| sig-Kernel| [@hongbo-lee](https://gitee.com/hongbo-lee/) |
+|[IBK2MJ](https://gitee.com/openeuler/release-management/issues/IBK2MJ?from=project-issue)| Trace IO加速容器快速启动 | Developing| sig-Kernel| [@hongbo-lee](https://gitee.com/hongbo-lee/) |
 |[IBJ7WU](https://gitee.com/openeuler/release-management/issues/IBJ7WU?from=project-issue)| 默认系统集成 liteview，代替 firefox | Discussion | sig-Desktop | [@shinwell_hu](https://gitee.com/shinwell_hu/) |
-|[IBD46F](https://gitee.com/openeuler/kernel/issues/IBD46F)| 引入vkernel概念增强容器隔离能力 | Developing|| sig-Kernel | [@joyallen](https://gitee.com/joyallen/) |
-|[IBC4SJ](https://gitee.com/openeuler/kernel/issues/IBC4SJ)| uncore动态调频 | Developing|| sig-Kernel | [@li-wei2110](https://gitee.com/li-wei2110/) |
-|[IBI0TX](https://gitee.com/openeuler/release-management/issues/IBI0TX?from=project-issue)| openAMDC合入 | Developing|| sig-BigData | [@changzhi1123](https://gitee.com/changzhi1123/) |
+|[IBD46F](https://gitee.com/openeuler/kernel/issues/IBD46F)| 引入vkernel概念增强容器隔离能力 | Developing| sig-Kernel | [@joyallen](https://gitee.com/joyallen/) |
+|[IBC4SJ](https://gitee.com/openeuler/kernel/issues/IBC4SJ)| uncore动态调频 | Developing| sig-Kernel | [@li-wei2110](https://gitee.com/li-wei2110/) |
+|[IBI0TX](https://gitee.com/openeuler/release-management/issues/IBI0TX?from=project-issue)| openAMDC合入 | Developing| sig-BigData | [@changzhi1123](https://gitee.com/changzhi1123/) |
 |[IBFDJ9](https://gitee.com/openeuler/release-management/issues/IBFDJ9?from=project-issue)| oncn-bwm支持host network 类型pod的带宽管理 | Developing | sig-high-performance-network | [@supercharge](https://gitee.com/supercharge/) |
 |[IBLJRD](https://gitee.com/openeuler/release-management/issues/IBLJRD?from=project-issue)| oeAware支持瓶颈评估一键推荐调优等特性增强 | Developing | sig-A-Tune | [@Lostwayzxc](https://gitee.com/Lostwayzxc/) |
 |[IBLJWU](https://gitee.com/openeuler/release-management/issues/IBLJWU?from=project-issue)| oeDeploy 部署能力增强 | Developing | sig-ops | [@dingjiahuichina](https://gitee.com/dingjiahuichina/) |
@@ -61,8 +61,7 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 |[IBLKCQ](https://gitee.com/openeuler/release-management/issues/IBLKCQ?from=project-issue)| 嵌入式：硬实时POSIX接口补齐 | Developing | sig-embedded | [@hzc04](https://gitee.com/hzc04/) |
 |[IBLK62](https://gitee.com/openeuler/release-management/issues/IBLK62?from=project-issue)| DevStation社区原生/图形化/南向兼容性等新增特性 | Developing |sig-ops/IDE | [@duan_pj](https://gitee.com/duan_pj/) |
 |[IBLK0E](https://gitee.com/openeuler/release-management/issues/IBLK0E?from=project-issue)|  EPKG包管理器优化，提升epkg易用性 | Developing |sig-CICD | [@duan_pj](https://gitee.com/duan_pj/) |
-|[IBLJWU](https://gitee.com/openeuler/release-management/issues/IBLJWU?from=project-issue)| oeDeploy 部署能力增强 | Developing |sig-ops | [@dingjiahuichina](https://gitee.com/dingjiahuichina/) |
-|[IBLJRD](https://gitee.com/openeuler/release-management/issues/IBLJRD?from=project-issue)| oeAware支持瓶颈评估一键推荐调优等特性增强 | Developing |sig-A-Tune | [@Lostwayzxc](https://gitee.com/Lostwayzxc/) |
+
 
 
 # 需求/特性反馈基本流程 <br />
