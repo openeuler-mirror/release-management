@@ -27,3 +27,7 @@ release-change:
     openEuler-25.03
   changed_packages: qt6-qtwebengine qt6-qtwebview
   date: 2025-02-14-14-55-25
+- pr: https://gitee.com/openeuler/release-management/pulls/2097
+  description: 54470a2 !2097 【轻量级 PR】：在 2503 中增加 python-setuptools-git-version
+  changed_packages: python-setuptools-git-versioning
+  date: 2025-02-14-16-02-32
