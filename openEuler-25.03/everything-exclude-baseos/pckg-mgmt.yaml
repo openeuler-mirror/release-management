@@ -14327,14 +14327,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: qt6-qtwebengine
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: qt6-qtwebview
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: rubygem-Ascii85
   source_dir: master
   destination_dir: openEuler-25.03

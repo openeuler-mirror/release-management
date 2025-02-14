@@ -22,3 +22,8 @@ release-change:
     and master branch
   changed_packages: pkgship
   date: 2025-02-13-18-11-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2104
+  description: 099074b !2104 【轻量级 PR】：delete qt6-qtwebengine and qt6-qtwebview in
+    openEuler-25.03
+  changed_packages: qt6-qtwebengine qt6-qtwebview
+  date: 2025-02-14-14-55-25
