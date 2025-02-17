@@ -15111,3 +15111,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
+- name: qt6-qtwebengine
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-17'
+- name: qt6-qtwebview
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-17'
