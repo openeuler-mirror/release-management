@@ -2161,3 +2161,7 @@ release-change:
     and master branch
   changed_packages: pkgship
   date: 2025-02-13-18-11-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2107
+  description: 6f6d690 !2107 Delete the empty packages from 25.03
+  changed_packages: scdoc codec2
+  date: 2025-02-17-10-18-22
