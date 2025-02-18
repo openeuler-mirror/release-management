@@ -2967,3 +2967,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-02-10'
+- name: python-orderly-set
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-02-18'
