@@ -35,3 +35,7 @@ release-change:
   description: 30e31d3 !2108 add qt6-qtwebengine qt6-qtwebview
   changed_packages: qt6-qtwebengine qt6-qtwebview
   date: 2025-02-18-10-42-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2101
+  description: 0769f6e !2101 move GNOME Dock extension
+  changed_packages: gnome-shell-extension-dash-to-dock
+  date: 2025-02-18-19-36-13

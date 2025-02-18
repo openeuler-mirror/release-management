@@ -2170,3 +2170,7 @@ release-change:
     for python-deepdiff deps
   changed_packages: python-orderly-set
   date: 2025-02-18-11-14-13
+- pr: https://gitee.com/openeuler/release-management/pulls/2101
+  description: 0769f6e !2101 move GNOME Dock extension
+  changed_packages: gnome-shell-extension-dash-to-dock
+  date: 2025-02-18-19-36-13
