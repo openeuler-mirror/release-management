@@ -2165,3 +2165,8 @@ release-change:
   description: 6f6d690 !2107 Delete the empty packages from 25.03
   changed_packages: scdoc codec2
   date: 2025-02-17-10-18-22
+- pr: https://gitee.com/openeuler/release-management/pulls/2110
+  description: 7bd8bb4 !2110 Move python-orderly-set from master:Factory to master:Python
+    for python-deepdiff deps
+  changed_packages: python-orderly-set
+  date: 2025-02-18-11-14-13
