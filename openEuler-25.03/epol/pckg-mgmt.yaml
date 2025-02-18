@@ -4971,6 +4971,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
+- name: gnome-shell-extension-dash-to-dock
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-14'
 - name: system-config-printer
   source_dir: master
   destination_dir: openEuler-25.03
