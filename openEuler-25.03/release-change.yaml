@@ -31,3 +31,7 @@ release-change:
   description: 54470a2 !2097 【轻量级 PR】：在 2503 中增加 python-setuptools-git-version
   changed_packages: python-setuptools-git-versioning
   date: 2025-02-14-16-02-32
+- pr: https://gitee.com/openeuler/release-management/pulls/2108
+  description: 30e31d3 !2108 add qt6-qtwebengine qt6-qtwebview
+  changed_packages: qt6-qtwebengine qt6-qtwebview
+  date: 2025-02-18-10-42-41
