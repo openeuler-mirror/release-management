@@ -111,3 +111,4 @@ packages:
   - name: llvm-libunwind
   - name: perl-Test2-Suite
   - name: pkgship
+  - name: clutter-gst2
