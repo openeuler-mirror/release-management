@@ -1835,10 +1835,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: python-json_logger
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: python-jsonpath-rw
   source_dir: master
   destination_dir: openEuler-25.03

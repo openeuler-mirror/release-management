@@ -15115,3 +15115,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-17'
+- name: python-json_logger
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-19'

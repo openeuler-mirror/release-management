@@ -2019,10 +2019,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-json_logger
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-jsonpath-rw
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
