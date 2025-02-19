@@ -358,3 +358,7 @@ release-change:
     and master branch
   changed_packages: pkgship
   date: 2025-02-13-18-11-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2113
+  description: eb350e2 !2113 Remove clutter-gst2 from master,openEuler-25.03 and openEuler-24.03-LTS-Next
+  changed_packages: clutter-gst2
+  date: 2025-02-19-11-29-16

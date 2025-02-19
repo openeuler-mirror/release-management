@@ -39,3 +39,7 @@ release-change:
   description: 0769f6e !2101 move GNOME Dock extension
   changed_packages: gnome-shell-extension-dash-to-dock
   date: 2025-02-18-19-36-13
+- pr: https://gitee.com/openeuler/release-management/pulls/2113
+  description: eb350e2 !2113 Remove clutter-gst2 from master,openEuler-25.03 and openEuler-24.03-LTS-Next
+  changed_packages: clutter-gst2
+  date: 2025-02-19-11-29-16
