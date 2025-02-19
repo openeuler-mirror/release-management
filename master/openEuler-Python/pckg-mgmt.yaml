@@ -2971,3 +2971,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-02-18'
+- name: python-json_logger
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2025-02-19'
