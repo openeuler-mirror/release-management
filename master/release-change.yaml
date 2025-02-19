@@ -2178,3 +2178,8 @@ release-change:
   description: eb350e2 !2113 Remove clutter-gst2 from master,openEuler-25.03 and openEuler-24.03-LTS-Next
   changed_packages: clutter-gst2
   date: 2025-02-19-11-29-16
+- pr: https://gitee.com/openeuler/release-management/pulls/2114
+  description: de2decd !2114 Move python-json_logger from master:Epol to master:Python
+    for jupyter-pkgs deps and sync to 25.03
+  changed_packages: python-json_logger
+  date: 2025-02-19-15-24-51
