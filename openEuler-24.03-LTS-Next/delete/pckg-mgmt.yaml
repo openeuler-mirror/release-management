@@ -75,3 +75,4 @@ packages:
 - name: openmp-latest
 - name: lldb-latest
 - name: pkgship
+- name: clutter-gst2

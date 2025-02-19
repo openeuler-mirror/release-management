@@ -227,5 +227,6 @@ packages:
   - name: iverilog
   - name: python-pygraphviz
   - name: svt-av1
+  - name: clutter-gst2
 
   
