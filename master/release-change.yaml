@@ -2183,3 +2183,9 @@ release-change:
     for jupyter-pkgs deps and sync to 25.03
   changed_packages: python-json_logger
   date: 2025-02-19-15-24-51
+- pr: https://gitee.com/openeuler/release-management/pulls/2115
+  description: f8e4d9d !2115 move python-typeguard from epol to everything, as required
+    by python-inflect
+  changed_packages: xhost iceauth rgb sessreg xgamma xinput xkill xmodmap xrandr xrdb
+    xrefresh xsetroot xset xstdcmap
+  date: 2025-02-20-14-39-16
