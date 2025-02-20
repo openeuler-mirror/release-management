@@ -5615,10 +5615,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-18'
-- name: python-typeguard
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-08-18'
 - name: range-v3
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

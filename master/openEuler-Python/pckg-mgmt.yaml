@@ -1467,6 +1467,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-typeguard
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2025-02-19'
 - name: python-typing-extensions
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
