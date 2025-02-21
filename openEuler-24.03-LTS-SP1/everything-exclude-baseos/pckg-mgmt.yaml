@@ -14875,3 +14875,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2025-02-18'
+- name: libvirt-dbus
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-02-21'
