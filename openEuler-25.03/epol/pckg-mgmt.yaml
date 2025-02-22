@@ -555,10 +555,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: gstreamer1-libav
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: gumbo-parser
   source_dir: master
   destination_dir: openEuler-25.03
@@ -1180,10 +1176,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: novnc
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: octave
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -2971,10 +2963,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: gnome-terminal
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: kiran-screensaver
   source_dir: master
   destination_dir: openEuler-25.03
@@ -2984,10 +2972,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: kiran-session-guard
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: gnome-shell-extensions
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -3012,10 +2996,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: bootupd
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: gnome-contacts
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -3044,10 +3024,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: opencv
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: gnome-connections
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -3224,10 +3200,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: mate-icon-theme
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: calls
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -3480,10 +3452,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: toolbox
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: gnome-initial-setup
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -3855,10 +3823,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: OpenAMP
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: libmetal
   source_dir: master
   destination_dir: openEuler-25.03
@@ -3904,10 +3868,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: webp-pixbuf-loader
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: openGemini
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -4088,10 +4048,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: pdfsam
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: sigil
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -4627,10 +4583,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: google_benchmark
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: libccd
   source_dir: master
   destination_dir: openEuler-25.03
@@ -4656,10 +4608,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: openni
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: orocos_kdl
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -4696,10 +4644,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: range-v3
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: spdlog
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -4967,10 +4911,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: gnome-shell-extension-dash-to-dock
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-02-14'
 - name: system-config-printer
   source_dir: master
   destination_dir: openEuler-25.03
@@ -5004,10 +4944,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: cheese
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: gnome-keyring
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -5080,10 +5016,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: ao.space
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: oceanbase-ce
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -6384,10 +6316,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: mingw-headers
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: mingw-wine-gecko
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'

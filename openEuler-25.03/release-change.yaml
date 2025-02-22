@@ -43,3 +43,10 @@ release-change:
   description: eb350e2 !2113 Remove clutter-gst2 from master,openEuler-25.03 and openEuler-24.03-LTS-Next
   changed_packages: clutter-gst2
   date: 2025-02-19-11-29-16
+- pr: https://gitee.com/openeuler/release-management/pulls/2122
+  description: 7fe6084 !2122 Delete packages blocking RC2 from 25.03
+  changed_packages: gnome-keyring gnome-initial-setup gnome-connections sigil mingw-wine-gecko
+    gnome-contacts octave OpenAMP oceanbase-ce orocos_kdl calls spdlog gnome-terminal
+    gstreamer1-libav gnome-shell-extension-dash-to-dock gnome-shell-extensions openGemini
+    google_benchmark
+  date: 2025-02-22-11-22-34
