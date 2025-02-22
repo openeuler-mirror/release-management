@@ -243,7 +243,4 @@ packages:
   - name: sigil  
   - name: OpenAMP  
   - name: oceanbase-ce  
-  - name: orocos_kdl  
-  - name: google_benchmark  
-  - name: spdlog  
 
