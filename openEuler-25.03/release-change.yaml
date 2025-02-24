@@ -50,3 +50,7 @@ release-change:
     gstreamer1-libav gnome-shell-extension-dash-to-dock gnome-shell-extensions openGemini
     google_benchmark
   date: 2025-02-22-11-22-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2129
+  description: 7f581da !2129 add sysboost & D-FOT into openEuler-25.03
+  changed_packages: sysboost D-FOT
+  date: 2025-02-24-20-14-28
