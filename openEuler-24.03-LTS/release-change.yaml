@@ -221,3 +221,7 @@ release-change:
   description: 0c4aed2 !2004 添加cockpit-machiens组件包到openEuler-24.03-LTS和openEuler-24.03-LTS-Next版本
   changed_packages: cockpit-machines
   date: 2024-11-26-14-39-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2126
+  description: a53670c !2126 在 2403 中增加 python-setuptools-git-version
+  changed_packages: python-setuptools-git-versioning
+  date: 2025-02-24-09-52-21
