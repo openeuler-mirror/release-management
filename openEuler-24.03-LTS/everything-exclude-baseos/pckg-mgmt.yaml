@@ -20015,6 +20015,12 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-03-08'
+- name: python-setuptools-git-versioning
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2025-02-24'
 - name: python-tabulate
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
