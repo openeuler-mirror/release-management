@@ -15119,3 +15119,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-19'
+- name: sysboost
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-24'
