@@ -2189,3 +2189,8 @@ release-change:
   changed_packages: xhost iceauth rgb sessreg xgamma xinput xkill xmodmap xrandr xrdb
     xrefresh xsetroot xset xstdcmap
   date: 2025-02-20-14-39-16
+- pr: https://gitee.com/openeuler/release-management/pulls/2130
+  description: a94d112 !2130 Move python-deepdiff from master:Factory to master:Python
+    for orderly-set deps
+  changed_packages: python-deepdiff
+  date: 2025-02-25-13-50-00
