@@ -15187,10 +15187,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-11-28"
-    - name: python-deepdiff
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-11-28"
     - name: python-ruamel-yaml-split
       obs_from: ""
       obs_to: openEuler:Factory

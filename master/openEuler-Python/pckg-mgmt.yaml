@@ -2979,3 +2979,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2025-02-19'
+- name: python-deepdiff
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-02-25'
