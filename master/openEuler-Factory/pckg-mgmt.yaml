@@ -15395,3 +15395,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-02-24"
+    - name: euler-copilot-shell
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-02-25"
