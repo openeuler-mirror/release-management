@@ -61,9 +61,10 @@ openEuler 25.03 是基于6.6内核的创新版本（参见[版本生命周期](h
 |[IBLK62](https://gitee.com/openeuler/release-management/issues/IBLK62?from=project-issue)| DevStation社区原生/图形化/南向兼容性等新增特性 | Developing |sig-ops/IDE | [@duan_pj](https://gitee.com/duan_pj/) |
 |[IBLK0E](https://gitee.com/openeuler/release-management/issues/IBLK0E?from=project-issue)|  EPKG包管理器优化，提升epkg易用性 | Developing |sig-CICD | [@duan_pj](https://gitee.com/duan_pj/) |
 |[IBMCNA](https://gitee.com/openeuler/release-management/issues/IBMCNA) | 支持 OpenStack Antelope 版本 | Accepted | sig-openstack | [@tzing_t](https://gitee.com/tzing_t) |
+|[IBOO9X](https://gitee.com/openeuler/release-management/issues/IBOO9X) | 云原生基础设施部署升级工具k8s-isntall 加入版本 | Developing | sig-cloudnative | [@wonleing](https://gitee.com/wonleing) |
 
 # 需求/特性反馈基本流程 <br />
 
-1、开发者/sig在本贴的表格中填写要合入23.03的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
+1、开发者/sig在本贴的表格中填写要合入25.03的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
 2、申请在版本release management sig例会上评审需求 （owner或者SIG maintainer参会）
 <br><br>
