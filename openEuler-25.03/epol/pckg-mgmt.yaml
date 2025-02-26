@@ -6455,3 +6455,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: "2025-02-25"
+- name: epkg
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-26'

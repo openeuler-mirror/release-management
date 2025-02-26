@@ -7603,3 +7603,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2025-02-25"
+- name: epkg
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-02-26'

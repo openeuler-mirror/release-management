@@ -15283,10 +15283,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-02-11"
-    - name: epkg
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-02-14"
     - name: scdoc
       obs_from: ""
       obs_to: openEuler:Factory
