@@ -6451,3 +6451,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-24'
+- name: oeDeploy
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-02-25"

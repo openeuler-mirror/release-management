@@ -15279,10 +15279,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-23"
-    - name: oeDeploy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-01-24"
     - name: kunpeng-devkit
       obs_from: ""
       obs_to: openEuler:Factory
