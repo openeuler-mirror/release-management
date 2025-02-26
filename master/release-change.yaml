@@ -2198,3 +2198,7 @@ release-change:
   description: 1474b71 !2132 add oeDeploy to master and openEuler-25.03
   changed_packages: oeDeploy
   date: 2025-02-26-09-13-12
+- pr: https://gitee.com/openeuler/release-management/pulls/2133
+  description: 2826b1f !2133 add epkg to master and openEuler-25.03
+  changed_packages: epkg
+  date: 2025-02-26-09-41-10
