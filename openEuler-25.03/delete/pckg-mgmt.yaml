@@ -231,7 +231,6 @@ packages:
   - name: octave
   - name: openGemini  
   - name: gnome-contacts  
-  - name: gnome-keyring  
   - name: gnome-initial-setup  
   - name: gnome-shell-extensions  
   - name: gnome-terminal  

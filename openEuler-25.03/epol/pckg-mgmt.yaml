@@ -4947,6 +4947,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
+- name: gnome-keyring
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-27'
 - name: grilo-plugins
   source_dir: master
   destination_dir: openEuler-25.03
