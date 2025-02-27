@@ -6459,3 +6459,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-26'
+- name: euler-copilot-shell
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-27'
