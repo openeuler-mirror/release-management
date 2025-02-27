@@ -7607,3 +7607,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-02-26'
+- name: euler-copilot-shell
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: "2025-02-27"
