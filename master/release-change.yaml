@@ -2206,3 +2206,8 @@ release-change:
   description: 6e64ff2 !2139 添加 euler-copilot-shell 包到 master, 25.03
   changed_packages: euler-copilot-shell
   date: 2025-02-27-14-59-43
+- pr: https://gitee.com/openeuler/release-management/pulls/2141
+  description: d3fa702 !2141 move python3-statsmodels and python3-patsy from epol
+    to everything
+  changed_packages: python-statsmodels python-patsy
+  date: 2025-02-27-19-53-07
