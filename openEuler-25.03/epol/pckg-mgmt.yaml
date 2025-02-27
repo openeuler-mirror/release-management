@@ -3803,14 +3803,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: python-statsmodels
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: python-patsy
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: gn
   source_dir: master
   destination_dir: openEuler-25.03
