@@ -62,3 +62,7 @@ release-change:
   description: 2826b1f !2133 add epkg to master and openEuler-25.03
   changed_packages: epkg
   date: 2025-02-26-09-41-10
+- pr: https://gitee.com/openeuler/release-management/pulls/2139
+  description: 6e64ff2 !2139 添加 euler-copilot-shell 包到 master, 25.03
+  changed_packages: euler-copilot-shell
+  date: 2025-02-27-14-59-43
