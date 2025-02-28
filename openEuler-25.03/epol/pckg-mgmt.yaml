@@ -1423,10 +1423,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: python-ConfigArgParse
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: python-Logbook
   source_dir: master
   destination_dir: openEuler-25.03

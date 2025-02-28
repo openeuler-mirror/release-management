@@ -1535,10 +1535,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-ConfigArgParse
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-Logbook
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
