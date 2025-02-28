@@ -6447,6 +6447,38 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: "2025-02-25"
+- name: gstreamer1-libav
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: gnome-terminal
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: gnome-shell-extensions
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: gnome-connections
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: gnome-initial-setup
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: gnome-contacts
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: calls
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
+- name: gnome-shell-extension-dash-to-dock
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-02-28'
 - name: epkg
   source_dir: master
   destination_dir: openEuler-25.03
