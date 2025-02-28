@@ -22161,3 +22161,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2024-11-26'
+- name: libvirt-dbus
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2025-02-21'
