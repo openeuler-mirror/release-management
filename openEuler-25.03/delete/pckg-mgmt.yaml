@@ -242,4 +242,7 @@ packages:
   - name: sigil  
   - name: OpenAMP  
   - name: oceanbase-ce  
+  - name: opengauss-server
+  - name: opengauss-dcf
+  - name: aws-sdk-cpp
 
