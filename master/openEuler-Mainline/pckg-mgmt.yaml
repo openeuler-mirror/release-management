@@ -6407,3 +6407,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2025-02-28'
+- name: k8s-install
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-02-28"
