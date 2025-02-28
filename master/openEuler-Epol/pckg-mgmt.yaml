@@ -4871,54 +4871,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-04-28'
-- name: perl-Test-Memory-Cycle
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-String-Format
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-PPIx-Utils
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-PPIx-Utilities
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-PPIx-QuoteLike
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-PPIx-Regexp
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-PPI
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Pod-Spell
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Lingua-EN-Inflect
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Perl-Critic
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Perl-MinimumVersion
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
-- name: perl-Test-MinimumVersion
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-04-28'
 - name: m1600-driver
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -4932,22 +4884,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2023-05-04'
 - name: spice-html5
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-05-04'
-- name: perl-Test-Taint
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-05-04'
-- name: perl-WWW-Mechanize
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2023-05-04'
-- name: perl-HTML-Scrubber
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-05-04'
-- name: perl-Devel-Cycle
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-05-04'
