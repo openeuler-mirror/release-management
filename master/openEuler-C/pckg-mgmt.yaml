@@ -4091,3 +4091,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-02-26'
+- name: libcupsfilters
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-02-28'
+- name: libppd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-02-28'
