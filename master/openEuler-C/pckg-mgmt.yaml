@@ -4087,3 +4087,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-02-20'
+- name: scdoc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-02-26'
