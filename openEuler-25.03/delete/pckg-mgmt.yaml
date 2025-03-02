@@ -237,4 +237,12 @@ packages:
   - name: opengauss-server
   - name: opengauss-dcf
   - name: aws-sdk-cpp
+  - name: gnome-shell-extension-dash-to-dock
+  - name: libreoffice
+  - name: orca
+  - name: python-pydoctor
+  - name: gnome-builder
+  - name: system-config-users-docs
+  - name: cockpit-machines
+  - name: sushi
 
