@@ -6531,10 +6531,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: orca
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: pangomm
   source_dir: master
   destination_dir: openEuler-25.03
@@ -13904,10 +13900,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: python-pytest-trio
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: python-pydoctor
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'

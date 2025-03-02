@@ -66,3 +66,7 @@ release-change:
   description: 6e64ff2 !2139 添加 euler-copilot-shell 包到 master, 25.03
   changed_packages: euler-copilot-shell
   date: 2025-02-27-14-59-43
+- pr: https://gitee.com/openeuler/release-management/pulls/2151
+  description: 8924b0b !2151 Delete packages blocking RC3 from 25.03
+  changed_packages: 
+  date: 2025-03-02-15-22-30
