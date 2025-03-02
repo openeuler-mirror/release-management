@@ -475,10 +475,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: gnome-builder
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: gnome-calendar
   source_dir: master
   destination_dir: openEuler-25.03
@@ -3135,10 +3131,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: system-config-users-docs
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: kiran-authentication-service
   source_dir: master
   destination_dir: openEuler-25.03
@@ -3272,10 +3264,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-01-23'
 - name: mate-power-manager
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
-- name: sushi
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
@@ -6067,10 +6055,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: libreoffice
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: libstaroffice
   source_dir: master
   destination_dir: openEuler-25.03
@@ -6275,10 +6259,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: cockpit-machines
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: fisher
   source_dir: master
   destination_dir: openEuler-25.03
@@ -6408,10 +6388,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-02-28'
 - name: calls
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-02-28'
-- name: gnome-shell-extension-dash-to-dock
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-28'
