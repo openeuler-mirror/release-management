@@ -22167,3 +22167,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS
   date: '2025-02-21'
+- name: opencv
+  source_dir: openEuler-24.03-LTS
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Epol
+  obs_to: openEuler:24.03:LTS
+  date: '2025-03-03'

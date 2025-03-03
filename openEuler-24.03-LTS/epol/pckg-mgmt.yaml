@@ -4565,12 +4565,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Epol
   date: '2024-03-08'
-- name: opencv
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Epol
-  date: '2024-03-08'
 - name: gnome-connections
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS
