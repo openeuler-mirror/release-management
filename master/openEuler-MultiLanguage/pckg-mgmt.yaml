@@ -155,6 +155,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
+- name: Kmesh
+  obs_from: openEuler:Epol
+  obs_to: openEuler:MultiLanguage
+  date: '2025-03-03'
 - name: kmod
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage

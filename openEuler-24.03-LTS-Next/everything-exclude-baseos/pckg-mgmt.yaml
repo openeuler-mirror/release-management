@@ -5537,6 +5537,12 @@ packages:
   obs_from: openEuler:Java
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: Kmesh
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-03-03'
 - name: kohsuke-pom
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
