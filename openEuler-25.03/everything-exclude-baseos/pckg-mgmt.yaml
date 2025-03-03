@@ -15191,3 +15191,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-28'
+- name: k8s-install
+  obs_from: master
+  obs_to: openEuler-25.03
+  date: "2025-02-28"
