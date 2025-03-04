@@ -25,4 +25,4 @@ packages:
   - name: system-config-users-docs
   - name: cockpit-machines
   - name: sushi
-
+  - name: gcc-7
