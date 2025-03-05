@@ -15315,3 +15315,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-05"
+    - name: python-quart-trio
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-05"
+    - name: python-quart
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-05"
+    - name: python-hypercorn
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-05"
