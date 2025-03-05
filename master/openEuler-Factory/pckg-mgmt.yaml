@@ -15327,3 +15327,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-05"
+    - name: cline
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-05"
