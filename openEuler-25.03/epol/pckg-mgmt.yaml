@@ -3935,10 +3935,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: gcc-7
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: hiviewdfx_hilog
   source_dir: master
   destination_dir: openEuler-25.03
