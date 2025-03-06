@@ -6403,3 +6403,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-12'
+- name: thunderbird
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-14'
+- name: gnome-shell-extension-dash-to-dock
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-14'

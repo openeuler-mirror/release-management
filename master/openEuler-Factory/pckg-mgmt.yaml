@@ -11079,10 +11079,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: thunderbird
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: thx
       obs_from: ""
       obs_to: openEuler:Factory
