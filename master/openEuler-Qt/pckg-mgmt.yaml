@@ -1,12 +1,4 @@
 packages:
-- name: qt-assistant-adp
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Qt
-  date: '2022-07-26'
-- name: qt-mobility
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Qt
-  date: '2022-07-26'
 - name: qt5-doc
   obs_from: openEuler:Mainline
   obs_to: openEuler:Qt

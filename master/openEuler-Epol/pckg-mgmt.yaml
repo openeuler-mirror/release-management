@@ -2799,6 +2799,30 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: qt
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: '2025-03-07'
+- name: PyQt4
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2025-03-07'
+- name: phonon-qt4
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2025-03-07'
+- name: automoc
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2025-03-07'
+- name: qt-assistant-adp
+  obs_from: openEuler:Qt
+  obs_to: openEuler:Epol
+  date: '2025-03-07'
+- name: qt-mobility
+  obs_from: openEuler:Qt
+  obs_to: openEuler:Epol
+  date: '2025-03-07'
 - name: qjson
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
