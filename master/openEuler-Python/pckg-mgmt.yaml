@@ -2995,3 +2995,15 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2025-02-28'
+- name: python-quart
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-07'
+- name: python-quart-trio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-07'
+- name: python-hypercorn
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-07'
