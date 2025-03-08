@@ -35,14 +35,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: PyQt4
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: phonon-qt4
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2023-05-26'
 - name: TeXamator
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -136,10 +128,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: autogen
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: automoc
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
