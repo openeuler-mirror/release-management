@@ -15007,10 +15007,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-07-22"
-    - name: vscodium
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-07-22"
     - name: yarnpkg
       obs_from: ""
       obs_to: openEuler:Factory
