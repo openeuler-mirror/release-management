@@ -68,5 +68,9 @@ release-change:
   date: 2025-02-27-14-59-43
 - pr: https://gitee.com/openeuler/release-management/pulls/2151
   description: 8924b0b !2151 Delete packages blocking RC3 from 25.03
-  changed_packages: 
+  changed_packages: null
   date: 2025-03-02-15-22-30
+- pr: https://gitee.com/openeuler/release-management/pulls/2164
+  description: 5605332 !2164 add vscodium to openEuler-25.03 and master
+  changed_packages: vscodium
+  date: 2025-03-10-17-08-20

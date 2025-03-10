@@ -2211,3 +2211,7 @@ release-change:
     to everything
   changed_packages: python-statsmodels python-patsy
   date: 2025-02-27-19-53-07
+- pr: https://gitee.com/openeuler/release-management/pulls/2164
+  description: 5605332 !2164 add vscodium to openEuler-25.03 and master
+  changed_packages: vscodium
+  date: 2025-03-10-17-08-20
