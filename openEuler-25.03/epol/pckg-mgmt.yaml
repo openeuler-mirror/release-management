@@ -6395,3 +6395,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-02-27'
+- name: vscodium
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-10'

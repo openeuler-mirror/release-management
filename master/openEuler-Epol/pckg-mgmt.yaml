@@ -7631,3 +7631,7 @@ packages:
   obs_from: openEuler:Factory
   obs_from: openEuler:Epol
   date: "2025-02-27"
+- name: vscodium
+  obs_from: openEuler:Factory
+  obs_from: openEuler:Epol
+  date: "2025-03-10"
