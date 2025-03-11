@@ -2215,3 +2215,7 @@ release-change:
   description: 5605332 !2164 add vscodium to openEuler-25.03 and master
   changed_packages: vscodium
   date: 2025-03-10-17-08-20
+- pr: https://gitee.com/openeuler/release-management/pulls/2167
+  description: dd189ef !2167 move pyproject-rpm-macros from Factory to everything
+  changed_packages: pyproject-rpm-macros
+  date: 2025-03-11-16-55-47
