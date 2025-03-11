@@ -4095,3 +4095,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-02-28'
+- name: setxkbmap
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-03-11'
+- name: xkbcomp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-03-11'
