@@ -16,3 +16,4 @@ packages:
 - name: drbd
 - name: kmod-drbd90
 - name: process1
+- name: clutter-gst2

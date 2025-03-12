@@ -14,3 +14,4 @@ packages:
 - name: deepin-font-manager
 - name: oeAware-manager
 - name: libkperf
+- name: clutter-gst2

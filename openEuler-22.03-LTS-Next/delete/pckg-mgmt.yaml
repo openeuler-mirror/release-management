@@ -41,3 +41,4 @@ packages:
 - name: console-login-helper-messages
 - name: ignition
 - name: nestos-installer
+- name: clutter-gst2

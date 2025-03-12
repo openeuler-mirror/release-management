@@ -4,3 +4,4 @@ packages:
 - name: hiviewdfx_hisysevent
 - name: libomp
 - name: deepin-manual
+- name: clutter-gst2

@@ -14,3 +14,4 @@ packages:
 - name: ovirt-engine
 - name: ovirt-engine-dwh
 - name: pki-core
+- name: clutter-gst2

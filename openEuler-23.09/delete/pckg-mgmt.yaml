@@ -242,3 +242,4 @@ packages:
   - name: system-config-users-docs
   - name: gnome-photos
   - name: llvm-bolt
+  - name: clutter-gst2
