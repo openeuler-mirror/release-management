@@ -15323,3 +15323,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-11"
+    - name: xrdp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-12"
