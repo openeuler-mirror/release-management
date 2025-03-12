@@ -3,3 +3,4 @@ packages:
 - name: libpsm2
 - name: jdeparser
 - name: python-httpie
+- name: clutter-gst2

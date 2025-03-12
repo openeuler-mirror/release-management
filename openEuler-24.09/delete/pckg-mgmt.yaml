@@ -49,4 +49,4 @@ packages:
 - name: python-pycadf
 - name: python-scciclient
 - name: python-cursive
-
+- name: clutter-gst2

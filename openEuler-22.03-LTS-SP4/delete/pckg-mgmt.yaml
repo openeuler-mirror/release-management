@@ -15,3 +15,4 @@ packages:
 - name: ft_utils
 - name: ft_wl_fwk
 - name: libomp
+- name: clutter-gst2

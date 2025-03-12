@@ -7,3 +7,4 @@ packages:
 - name: libzmq
 - name: deepin-qml-widgets
 - name: containers-common
+- name: clutter-gst2

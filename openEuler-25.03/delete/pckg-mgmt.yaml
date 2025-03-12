@@ -26,3 +26,4 @@ packages:
   - name: cockpit-machines
   - name: sushi
   - name: gcc-7
+  - name: clutter-gst2

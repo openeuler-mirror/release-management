@@ -173,3 +173,4 @@ packages:
 - name: python-async-generator
 - name: system-config-users-docs
 - name: system-config-users
+- name: clutter-gst2

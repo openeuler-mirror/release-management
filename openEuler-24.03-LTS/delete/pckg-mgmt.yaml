@@ -61,3 +61,4 @@ packages:
 - name: xdotool
 - name: ros2_base
 - name: ros_comm
+- name: clutter-gst2
