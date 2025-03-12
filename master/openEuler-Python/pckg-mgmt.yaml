@@ -3011,3 +3011,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-03-07'
+- name: python-pytest-sugar
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2025-03-12'
+- name: python-aiofiles
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-12'
