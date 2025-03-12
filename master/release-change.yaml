@@ -2219,3 +2219,8 @@ release-change:
   description: dd189ef !2167 move pyproject-rpm-macros from Factory to everything
   changed_packages: pyproject-rpm-macros
   date: 2025-03-11-16-55-47
+- pr: https://gitee.com/openeuler/release-management/pulls/2169
+  description: d6611bc !2169 Move python-pytest-sugar&aiofiles from master:Epol&Factory
+    to master:Python for python-quart ebs deps
+  changed_packages: python-pytest-sugar python-aiofiles
+  date: 2025-03-12-09-02-50
