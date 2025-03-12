@@ -51,3 +51,7 @@ release-change:
   description: 'd3149d33 !1563 bpftool: add 2203-LTS-SP1/SP2'
   changed_packages: bpftool
   date: 2024-01-09-16-29-35
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2
+  date: 2025-03-12-16-06-14

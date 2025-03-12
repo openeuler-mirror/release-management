@@ -60,3 +60,7 @@ release-change:
   description: d7e7190d !1712 move oceanbase from 22.03 LTS NEXT to 22.03 LTS
   changed_packages: oceanbase-ce
   date: 2024-04-17-16-27-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2 clutter-gst2
+  date: 2025-03-12-16-06-14

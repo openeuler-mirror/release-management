@@ -111,3 +111,7 @@ release-change:
   description: e00c1fd !2166 add sysSentry TO openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP1
   changed_packages: sysSentry
   date: 2025-03-11-11-03-19
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2
+  date: 2025-03-12-16-06-14

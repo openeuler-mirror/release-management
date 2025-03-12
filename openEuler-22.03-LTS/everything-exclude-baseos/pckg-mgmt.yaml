@@ -12083,12 +12083,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS
   date: '2022-08-30'
-- name: clutter-gst2
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS
-  obs_from: openEuler:22.03:LTS:Next
-  obs_to: openEuler:22.03:LTS
-  date: '2022-08-30'
 - name: mchange-commons
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS
@@ -18046,10 +18040,10 @@ packages:
   destination_dir: openEuler-22.03-LTS
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS
-  date: "2023-02-06"
+  date: '2023-02-06'
 - name: libslirp
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS
-  date: '2023-4-10'
+  date: 2023-4-10

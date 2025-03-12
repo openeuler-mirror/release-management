@@ -109,3 +109,7 @@ release-change:
   description: 47eea1e !2078 Add llvm-toolset-17/18/19 to releases
   changed_packages: llvm-toolset-17 llvm-toolset-18 llvm-toolset-19
   date: 2025-02-07-15-16-26
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2
+  date: 2025-03-12-16-06-14

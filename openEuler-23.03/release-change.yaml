@@ -121,3 +121,7 @@ release-change:
   changed_packages: python-sushy-oem-idrac python-sphinx-feature-classification python-feedparser
     python-cassandra-driver malcontent
   date: 2023-03-28-17-36-09
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2
+  date: 2025-03-12-16-06-14

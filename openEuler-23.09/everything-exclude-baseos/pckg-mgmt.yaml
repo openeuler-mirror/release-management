@@ -287,12 +287,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:23.09
   date: '2023-08-03'
-- name: clutter-gst2
-  source_dir: master
-  destination_dir: openEuler-23.09
-  obs_from: openEuler:C
-  obs_to: openEuler:23.09
-  date: '2023-08-03'
 - name: cmocka
   source_dir: master
   destination_dir: openEuler-23.09

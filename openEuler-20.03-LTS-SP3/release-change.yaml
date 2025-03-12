@@ -122,3 +122,7 @@ release-change:
   description: 5eca330c !1812 add python-prompt-toolkit to 2003-LTS-SP4
   changed_packages: python-prompt-toolkit
   date: 2024-07-08-09-43-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2
+  date: 2025-03-12-16-06-14

@@ -3773,12 +3773,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-07-26'
-- name: clutter-gst2
-  source_dir: master
-  destination_dir: openEuler-22.09
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:22.09
-  date: '2022-07-26'
 - name: atinject
   source_dir: master
   destination_dir: openEuler-22.09

@@ -12041,12 +12041,6 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP2
   date: '2023-05-12'
-- name: clutter-gst2
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP2
-  obs_from: openEuler:22.03:LTS:Next
-  obs_to: openEuler:22.03:LTS:SP2
-  date: '2023-05-12'
 - name: mchange-commons
   source_dir: openEuler-22.03-LTS-Next
   destination_dir: openEuler-22.03-LTS-SP2

@@ -134,3 +134,7 @@ release-change:
   description: 611a159 !1930 add calamares devstation-config kpmcore to openEuler:24.09:Epol
   changed_packages: calamares devstation-config kpmcore
   date: 2024-10-10-09-28-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2171
+  description: a602599 !2171 delete cluster-gst2 package from all branch
+  changed_packages: clutter-gst2
+  date: 2025-03-12-16-06-14
