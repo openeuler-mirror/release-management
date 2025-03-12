@@ -4399,10 +4399,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-08-04'
-- name: python-pytest-sugar
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-08-04'
 - name: python-sphinxcontrib-issuetracker
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
