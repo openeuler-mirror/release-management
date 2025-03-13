@@ -15195,3 +15195,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: "2025-02-28"
+- name: rust-ripgrep
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-12'
+- name: rust-cbindgen
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-12'
