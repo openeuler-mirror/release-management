@@ -112,3 +112,4 @@ packages:
   - name: perl-Test2-Suite
   - name: pkgship
   - name: clutter-gst2
+  - name: xorg-x11-xkb-utils

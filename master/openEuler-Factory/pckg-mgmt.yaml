@@ -14287,10 +14287,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-01"
-    - name: setxkbmap
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-04"
     - name: tinypinyin
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15315,10 +15311,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-07"
-    - name: xkbcomp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-10"
     - name: libyuv
       obs_from: ""
       obs_to: openEuler:Factory
