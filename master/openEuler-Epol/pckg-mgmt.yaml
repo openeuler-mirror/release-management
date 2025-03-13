@@ -7553,85 +7553,85 @@ packages:
   date: "2025-02-27"
 - name: xfd
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: x11perf
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: luit
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xclock
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: oclock
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xload
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xeyes
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xvidtune
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xconsole
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xpr
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xclipboard
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xbiff
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xmessage
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xfontsel
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xlogo
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xmag
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xwud
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xcursorgen
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: xwd
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-02-27"
 - name: vscodium
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: "2025-03-10"
 - name: oeDevPlugin
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
   date: '2025-03-12'
