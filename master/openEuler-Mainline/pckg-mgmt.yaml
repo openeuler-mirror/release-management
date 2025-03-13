@@ -6401,9 +6401,9 @@ packages:
   date: "2025-02-28"
 - name: rust-ripgrep
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
   date: "2025-03-12"
 - name: rust-cbindgen
   obs_from: openEuler:Factory
-  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
   date: "2025-03-12"
