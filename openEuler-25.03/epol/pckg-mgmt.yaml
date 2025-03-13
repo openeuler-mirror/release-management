@@ -6399,3 +6399,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-10'
+- name: oeDevPlugin
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-12'
