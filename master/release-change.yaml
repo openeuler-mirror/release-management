@@ -2224,3 +2224,7 @@ release-change:
     to master:Python for python-quart ebs deps
   changed_packages: python-pytest-sugar python-aiofiles
   date: 2025-03-12-09-02-50
+- pr: https://gitee.com/openeuler/release-management/pulls/2165
+  description: 36a73f0 !2165 move setxkbmap and xkbcomp into everything
+  changed_packages: setxkbmap xkbcomp xorg-x11-xkb-utils
+  date: 2025-03-13-14-59-35
