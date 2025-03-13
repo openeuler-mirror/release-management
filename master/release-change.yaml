@@ -2228,3 +2228,7 @@ release-change:
   description: 36a73f0 !2165 move setxkbmap and xkbcomp into everything
   changed_packages: setxkbmap xkbcomp xorg-x11-xkb-utils
   date: 2025-03-13-14-59-35
+- pr: https://gitee.com/openeuler/release-management/pulls/2174
+  description: e869bc9 !2174 Add rust-ripgrep to Epol & 25.03
+  changed_packages: oeDevPlugin
+  date: 2025-03-13-15-01-06
