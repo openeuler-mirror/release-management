@@ -2237,3 +2237,7 @@ release-change:
     for safety-schemas ebs deps
   changed_packages: python-safety python-dparse
   date: 2025-03-14-10-01-47
+- pr: https://gitee.com/openeuler/release-management/pulls/2178
+  description: 9b3370f !2178 新增thunderbird、gnome-shell-extension-dash-to-dock openEuler-25.03分支
+  changed_packages: thunderbird
+  date: 2025-03-14-11-44-51

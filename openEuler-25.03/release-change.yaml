@@ -78,3 +78,7 @@ release-change:
   description: e869bc9 !2174 Add rust-ripgrep to Epol & 25.03
   changed_packages: oeDevPlugin
   date: 2025-03-13-15-01-06
+- pr: https://gitee.com/openeuler/release-management/pulls/2178
+  description: 9b3370f !2178 新增thunderbird、gnome-shell-extension-dash-to-dock openEuler-25.03分支
+  changed_packages: thunderbird gnome-shell-extension-dash-to-dock
+  date: 2025-03-14-11-44-51
