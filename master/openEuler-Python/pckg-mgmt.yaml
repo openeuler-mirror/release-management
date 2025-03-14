@@ -3019,3 +3019,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-03-12'
+- name: python-safety
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-14'
+- name: python-dparse
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-14'
