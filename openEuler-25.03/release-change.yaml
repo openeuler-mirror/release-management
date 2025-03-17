@@ -82,3 +82,8 @@ release-change:
   description: 9b3370f !2178 新增thunderbird、gnome-shell-extension-dash-to-dock openEuler-25.03分支
   changed_packages: thunderbird gnome-shell-extension-dash-to-dock
   date: 2025-03-14-11-44-51
+- pr: https://gitee.com/openeuler/release-management/pulls/2180
+  description: 76c1c21 !2180 init Multi-Version_OpenStack-Antelope_openEuler-25.03
+    ebs
+  changed_packages: openstack-releases
+  date: 2025-03-17-09-55-50
