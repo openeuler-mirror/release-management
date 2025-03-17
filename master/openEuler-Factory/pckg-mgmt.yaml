@@ -15299,3 +15299,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-14"
+    - name: phpy
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-17"
