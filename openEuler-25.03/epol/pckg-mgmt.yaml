@@ -3635,10 +3635,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: python-pytest-sugar
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: python-sphinxcontrib-issuetracker
   source_dir: master
   destination_dir: openEuler-25.03
