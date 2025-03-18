@@ -92,3 +92,8 @@ release-change:
     packages back to 25.03
   changed_packages: sushi libreoffice openGemini sigil OpenAMP orca python-pydoctor
   date: 2025-03-18-15-17-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2187
+  description: 4e6325e !2187 Move python-pytest-sugar from 25.03:Epol to 25.03:Everything
+    for urllib3 upgrade
+  changed_packages: python-hypercorn python-quart python-quart-trio
+  date: 2025-03-18-17-09-48
