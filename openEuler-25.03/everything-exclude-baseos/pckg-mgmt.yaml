@@ -15215,3 +15215,19 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-18'
+- name: python-pytest-sugar
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: python-hypercorn
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: python-quart
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: python-quart-trio
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
