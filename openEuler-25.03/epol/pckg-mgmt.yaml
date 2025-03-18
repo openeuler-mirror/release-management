@@ -6411,3 +6411,23 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-14'
+- name: sushi
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: libreoffice 
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: openGemini
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: sigil
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: OpenAMP
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'

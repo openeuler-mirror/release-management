@@ -15207,3 +15207,11 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-25.03
   date: '2025-03-14'
+- name: orca
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
+- name: python-pydoctor
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-18'
