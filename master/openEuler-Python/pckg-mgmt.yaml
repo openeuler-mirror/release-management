@@ -3027,3 +3027,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-03-14'
+- name: python-id
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-18'
