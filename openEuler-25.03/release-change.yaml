@@ -87,3 +87,8 @@ release-change:
     ebs
   changed_packages: openstack-releases
   date: 2025-03-17-09-55-50
+- pr: https://gitee.com/openeuler/release-management/pulls/2186
+  description: 9147b08 !2186 add openGemini/sigil/OpenAMP/libreoffice/orca/python-pydoctor/sushi
+    packages back to 25.03
+  changed_packages: sushi libreoffice openGemini sigil OpenAMP orca python-pydoctor
+  date: 2025-03-18-15-17-41
