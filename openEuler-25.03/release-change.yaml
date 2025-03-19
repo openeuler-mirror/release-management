@@ -97,3 +97,8 @@ release-change:
     for urllib3 upgrade
   changed_packages: python-hypercorn python-quart python-quart-trio
   date: 2025-03-18-17-09-48
+- pr: https://gitee.com/openeuler/release-management/pulls/2189
+  description: 2efe663 !2189 Move python-aiofiles from master to 25.03:everything
+    for python-quart ebs
+  changed_packages: python-aiofiles
+  date: 2025-03-19-13-43-18
