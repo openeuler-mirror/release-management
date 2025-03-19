@@ -2246,3 +2246,7 @@ release-change:
     twine upgrade
   changed_packages: python-id
   date: 2025-03-18-15-48-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2191
+  description: ca23f4b !2191 Fix libreoffice installation issue
+  changed_packages: hunspell-si hunspell-ta
+  date: 2025-03-19-21-19-56

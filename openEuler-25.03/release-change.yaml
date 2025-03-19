@@ -102,3 +102,7 @@ release-change:
     for python-quart ebs
   changed_packages: python-aiofiles
   date: 2025-03-19-13-43-18
+- pr: https://gitee.com/openeuler/release-management/pulls/2191
+  description: ca23f4b !2191 Fix libreoffice installation issue
+  changed_packages: hunspell-si hunspell-ta
+  date: 2025-03-19-21-19-56
