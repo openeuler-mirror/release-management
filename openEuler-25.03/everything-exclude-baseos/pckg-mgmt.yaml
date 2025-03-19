@@ -15235,3 +15235,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-19'
+- name: hunspell-si
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-19'
+- name: hunspell-ta
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: '2025-03-19'
