@@ -19,3 +19,4 @@ packages:
   - name: cockpit-machines
   - name: gcc-7
   - name: clutter-gst2
+  - name: sigil
