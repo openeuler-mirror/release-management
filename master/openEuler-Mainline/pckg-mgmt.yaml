@@ -6407,3 +6407,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2025-03-12"
+- name: hunspell-si
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-03-19"
+- name: hunspell-ta
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-03-19"
