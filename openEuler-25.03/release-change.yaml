@@ -106,3 +106,7 @@ release-change:
   description: ca23f4b !2191 Fix libreoffice installation issue
   changed_packages: hunspell-si hunspell-ta
   date: 2025-03-19-21-19-56
+- pr: https://gitee.com/openeuler/release-management/pulls/2190
+  description: cddd253 !2190 delete sigil package from 25.03
+  changed_packages: sigil
+  date: 2025-03-20-09-49-43
