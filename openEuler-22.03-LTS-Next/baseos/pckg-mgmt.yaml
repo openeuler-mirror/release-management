@@ -7499,3 +7499,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next
   date: '2023-10-07'
+- name: git-lfs
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Common_Languages_Dependent_Tools
+  obs_to: openEuler:22.03:LTS:Next
+  date: '2025-03-20'
