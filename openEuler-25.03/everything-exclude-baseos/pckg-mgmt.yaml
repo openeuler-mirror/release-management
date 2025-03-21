@@ -15194,7 +15194,7 @@ packages:
 - name: k8s-install
   source_dir: master
   destination_dir: openEuler-25.03
-  date: "2025-02-28"
+  date: '2025-02-28'
 - name: rust-ripgrep
   source_dir: master
   destination_dir: openEuler-25.03
@@ -15208,10 +15208,6 @@ packages:
   destination_dir: openEuler-25.03
   date: '2025-03-14'
 - name: orca
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-03-18'
-- name: python-pydoctor
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-18'
