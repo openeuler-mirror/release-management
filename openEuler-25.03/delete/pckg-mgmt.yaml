@@ -20,3 +20,4 @@ packages:
   - name: gcc-7
   - name: clutter-gst2
   - name: sigil
+  - name: python-pydoctor
