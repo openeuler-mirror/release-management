@@ -2250,3 +2250,9 @@ release-change:
   description: ca23f4b !2191 Fix libreoffice installation issue
   changed_packages: hunspell-si hunspell-ta
   date: 2025-03-19-21-19-56
+- pr: https://gitee.com/openeuler/release-management/pulls/2194
+  description: ca9dcc6 !2194 Move python-ryd&amp;ruamel.all from master:Factory to
+    master:Python for ebs
+  changed_packages: python-ruamel-std-pathlib python-ruamel-yaml-jinja2 python-ruamel-yaml-split
+    python-ruamel-yaml-clib python-ryd
+  date: 2025-03-21-11-07-19
