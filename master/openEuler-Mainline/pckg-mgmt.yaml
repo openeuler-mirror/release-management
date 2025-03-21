@@ -3811,10 +3811,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: python-ruamel-yaml-clib
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: python-schedutils
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline

@@ -3031,3 +3031,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-03-18'
+- name: python-ruamel-std-pathlib
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-21'
+- name: python-ruamel-yaml-jinja2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-21'
+- name: python-ruamel-yaml-split
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-21'
+- name: python-ruamel-yaml-clib
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Python
+  date: '2025-03-21'
+- name: python-ryd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-03-21'
