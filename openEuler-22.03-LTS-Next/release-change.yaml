@@ -671,3 +671,7 @@ release-change:
   description: a602599 !2171 delete cluster-gst2 package from all branch
   changed_packages: clutter-gst2
   date: 2025-03-12-16-06-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2188
+  description: '193685a !2188 feat: 增加git-lfs到分支中'
+  changed_packages: git-lfs
+  date: 2025-03-24-09-24-17
