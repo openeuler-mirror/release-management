@@ -15291,3 +15291,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-20"
+    - name: postgresql15
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-24"
+    - name: postgresql17
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-24"
