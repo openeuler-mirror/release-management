@@ -113,3 +113,6 @@ packages:
   - name: pkgship
   - name: clutter-gst2
   - name: xorg-x11-xkb-utils
+  - name: glib
+  - name: gtk
+  - name: xmms
