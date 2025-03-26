@@ -1567,10 +1567,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: libldb
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: liblouis
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -6394,20 +6390,20 @@ packages:
 - name: k8s-install
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2025-02-28"
+  date: '2025-02-28'
 - name: rust-ripgrep
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2025-03-12"
+  date: '2025-03-12'
 - name: rust-cbindgen
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2025-03-12"
+  date: '2025-03-12'
 - name: hunspell-si
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2025-03-19"
+  date: '2025-03-19'
 - name: hunspell-ta
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2025-03-19"
+  date: '2025-03-19'

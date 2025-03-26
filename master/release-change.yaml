@@ -2260,3 +2260,7 @@ release-change:
   description: 40e13e6 !2197 retire glib 1.x
   changed_packages: gtk glib xmms
   date: 2025-03-26-09-38-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2200
+  description: e781745 !2200 delete libldb package from master
+  changed_packages: libldb
+  date: 2025-03-26-15-19-41
