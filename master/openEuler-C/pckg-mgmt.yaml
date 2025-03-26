@@ -879,10 +879,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: glib
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: glpk
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -964,10 +960,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: gstreamer1-plugins-good
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: gtk
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -3800,10 +3792,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: xmlto
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: xmms
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'

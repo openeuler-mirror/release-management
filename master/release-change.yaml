@@ -2256,3 +2256,7 @@ release-change:
   changed_packages: python-ruamel-std-pathlib python-ruamel-yaml-jinja2 python-ruamel-yaml-split
     python-ruamel-yaml-clib python-ryd
   date: 2025-03-21-11-07-19
+- pr: https://gitee.com/openeuler/release-management/pulls/2197
+  description: 40e13e6 !2197 retire glib 1.x
+  changed_packages: gtk glib xmms
+  date: 2025-03-26-09-38-29
