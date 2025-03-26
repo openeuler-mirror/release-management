@@ -116,3 +116,4 @@ packages:
   - name: glib
   - name: gtk
   - name: xmms
+  - name: libldb
