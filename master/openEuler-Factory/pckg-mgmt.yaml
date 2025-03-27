@@ -15299,3 +15299,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-24"
+    - name: python-mcp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-27"
+    - name: uv
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-27"
+    - name: roo-code
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-03-27"
