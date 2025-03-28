@@ -18473,3 +18473,9 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP4
   date: '2025-02-07'
+- name: vllm
+  source_dir: openEuler-22.03-LTS-Next
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:22.03:LTS:Next
+  obs_to: openEuler:22.03:LTS:SP4
+  date: '2025-03-28'
