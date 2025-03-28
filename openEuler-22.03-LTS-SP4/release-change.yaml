@@ -113,3 +113,7 @@ release-change:
   description: a602599 !2171 delete cluster-gst2 package from all branch
   changed_packages: clutter-gst2
   date: 2025-03-12-16-06-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2203
+  description: 91404b8 !2203 添加 vllm 依赖到openEuler-22.03-LTS-SP4
+  changed_packages: vllm
+  date: 2025-03-28-15-43-03
