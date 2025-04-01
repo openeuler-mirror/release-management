@@ -15311,3 +15311,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-27"
+    - name: HdrHistogram_C
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-01"
