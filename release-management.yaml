@@ -199,7 +199,7 @@ release:
 - branch: openEuler-25.03
   community:
   - src-openeuler
-  frozen: true
+  frozen: false
   owner:
   - solarhu
   - yaqiangchen
