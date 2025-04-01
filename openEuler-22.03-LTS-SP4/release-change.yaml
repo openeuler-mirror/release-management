@@ -117,3 +117,7 @@ release-change:
   description: 91404b8 !2203 添加 vllm 依赖到openEuler-22.03-LTS-SP4
   changed_packages: vllm
   date: 2025-03-28-15-43-03
+- pr: https://gitee.com/openeuler/release-management/pulls/2202
+  description: '68c7079 !2202 feat: 增加git-lfs到分支中'
+  changed_packages: git-lfs
+  date: 2025-04-01-10-07-41
