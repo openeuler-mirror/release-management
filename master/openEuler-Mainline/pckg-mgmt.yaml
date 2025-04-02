@@ -3555,10 +3555,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: pesign-obs-integration
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: phodav
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline

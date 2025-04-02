@@ -2268,3 +2268,7 @@ release-change:
   description: 55707a2 !2184 move libheif to main, due to required by gimp
   changed_packages: libheif
   date: 2025-04-02-08-53-27
+- pr: https://gitee.com/openeuler/release-management/pulls/2137
+  description: ba0219f !2137 do not ship pesign-obs-integration in the future
+  changed_packages: pesign-obs-integration
+  date: 2025-04-02-08-55-58
