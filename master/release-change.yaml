@@ -2264,3 +2264,7 @@ release-change:
   description: e781745 !2200 delete libldb package from master
   changed_packages: libldb
   date: 2025-03-26-15-19-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2184
+  description: 55707a2 !2184 move libheif to main, due to required by gimp
+  changed_packages: libheif
+  date: 2025-04-02-08-53-27
