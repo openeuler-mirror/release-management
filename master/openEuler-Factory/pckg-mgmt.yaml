@@ -15319,10 +15319,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-01"
-    - name: cups-browsed
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-03"
     - name: duckdb
       obs_from: ""
       obs_to: openEuler:Factory
