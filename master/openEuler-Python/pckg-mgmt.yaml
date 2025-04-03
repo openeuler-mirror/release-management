@@ -3051,3 +3051,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-03-21'
+- name: python-pytkdocs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-03'
+- name: python-griffe
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-03'
+- name: python-failprint
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-03'
+- name: python-duty
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-03'
+- name: python-ansimarkup
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-03'
