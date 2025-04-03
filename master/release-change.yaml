@@ -2276,3 +2276,8 @@ release-change:
   description: bd819c9 !2183 move phpy from factory to epol
   changed_packages: phpy
   date: 2025-04-02-08-57-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2216
+  description: 642f293 !2216 Move python-duty&griffe&failprint&ansimarkup&pytkdocs
+    from master:Fatory to master:Python for mkdocs upgarde deps
+  changed_packages: python-pytkdocs python-griffe python-failprint python-duty python-ansimarkup
+  date: 2025-04-03-17-55-36
