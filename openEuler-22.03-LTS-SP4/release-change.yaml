@@ -121,3 +121,14 @@ release-change:
   description: '68c7079 !2202 feat: 增加git-lfs到分支中'
   changed_packages: git-lfs
   date: 2025-04-01-10-07-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2207
+  description: 394e082 !2207 add ray and its dependencies to openEuler-22.03-LTS-SP4
+  changed_packages: python-aiosignal bazel_jar_jar bazel-common bazel-compile-commands-extractor
+    bazel-gazelle bazel-platforms bazel-rules-boost bazel-rules-cc bazel-rules-foreign-cc
+    bazel-rules-go bazel-rules-java bazel-rules-jvm-external bazel-rules-perl bazel-rules-pkg
+    bazel-rules-proto bazel-rules-proto-grpc bazel-rules-python bazel-rules-ruby bazel-skylib
+    boringssl civetweb cncf-xds data-plane-api python-frozenlist googleapis google-cloud-cpp
+    msgpack-c opencensus-cpp opencensus-proto perl-App-ChangeShebang perl-Devel-PatchPerl
+    perl-IPC-Run3 prometheus-cpp protoc-gen-validate protocolbuffers-upb python-build-standalone
+    relocatable-perl utf8_range
+  date: 2025-04-07-16-27-31
