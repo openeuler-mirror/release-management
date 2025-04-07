@@ -15455,3 +15455,27 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-07"
+    - name: python-create-python-server
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: python-returns
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: python-pydantic-settings
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: python-sse-starlette
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: python-httpx-sse
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: python-uv-dynamic-versioning
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
