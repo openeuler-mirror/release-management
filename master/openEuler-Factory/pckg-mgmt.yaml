@@ -15443,3 +15443,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-07"
+    - name: mate-user-share
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: mate-wayland-session
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: caja-dropbox
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
