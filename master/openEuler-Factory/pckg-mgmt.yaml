@@ -15307,3 +15307,139 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-03"
+    - name: opencensus-proto
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: google-cloud-cpp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: boringssl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: utf8_range
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-compile-commands-extractor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: protocolbuffers-upb
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-perl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-python
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: protoc-gen-validate
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel_jar_jar
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-common
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: googleapis
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-foreign-cc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: prometheus-cpp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-boost
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: opencensus-cpp
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-pkg
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-ruby
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-jvm-external
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: perl-App-ChangeShebang
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: relocatable-perl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: civetweb
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: perl-Devel-PatchPerl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-platforms
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-cc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: data-plane-api
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-proto-grpc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-skylib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-gazelle
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: cncf-xds
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-go
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-proto
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: python-build-standalone
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
+    - name: bazel-rules-java
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-07"
