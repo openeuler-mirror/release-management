@@ -2281,3 +2281,10 @@ release-change:
     from master:Fatory to master:Python for mkdocs upgarde deps
   changed_packages: python-pytkdocs python-griffe python-failprint python-duty python-ansimarkup
   date: 2025-04-03-17-55-36
+- pr: https://gitee.com/openeuler/release-management/pulls/2221
+  description: bc3b1a9 !2221 Move all python-mkdocsxxx from master:Factory to master:Python
+    for mkdocs deps&utils
+  changed_packages: python-mkdocstrings python-mkdocstrings-crystal python-mkdocstrings-python-legacy
+    python-mkdocstrings-python python-mkdocs-rss-plugin python-mkdocs-git-revision-date-localized-plugin
+    python-mkdocs-nature python-mkdocs-bootswatch python-mkdocs-section-index
+  date: 2025-04-09-11-09-56
