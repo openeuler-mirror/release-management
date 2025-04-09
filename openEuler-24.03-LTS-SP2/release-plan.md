@@ -30,6 +30,8 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 
 
 
+
+
 # 代码合入说明
 创新版本代码继承master分支 <br>
 // 新特性代码请及时合入版本&自验证，跟随整体计划赶在第一轮转测试
@@ -42,6 +44,17 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
 |IBXVC7|virtCCA机密虚机相关特性合入版本|Developing||SIG-Kernel/SIG-Virt|@luoyukai||
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | OVMF_CODE.fd支持CSV1/2/3开箱即用 | Developing| sig-kernel/sig-qemu/sig-libvirt/sig-edk2 | [@hanliyang](https://gitee.com/hanliyang) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | OVMF.fd支持CSV1/2/3开箱即用 | Developing| sig-kernel/sig-qemu/sig-libvirt/sig-edk2 | [@hanliyang](https://gitee.com/hanliyang) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 支持CSV1/2/3直通DCU功能开箱即用 | Developing| sig-kernel/sig-qemu/sig-libvirt/sig-edk2 | [@hanliyang](https://gitee.com/hanliyang) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 新的psp/ccp device id支持 | Developing| sig-kernel/sig-tpm2-tss/sig-tpm2-tools/sig-tpm2-abrmd | [@chench00](https://gitee.com/chench00) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 可信功能内核驱动剥离sev依赖 | Developing| sig-kernel/sig-tpm2-tss/sig-tpm2-tools/sig-tpm2-abrmd | [@chench00](https://gitee.com/chench00) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 海光4号美密支持，sm4-xts,sm4-gcm支持，avx/cis指令集接口支持 | Developing| sig-kernel | [@partycoder](https://gitee.com/partycoder) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | vTKM 性能优化 | Developing| sig-kernel | [@xisme](https://gitee.com/xisme) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 需要合入bcache的bug fix | Developing| sig-kernel | [@geshifei-linux](https://gitee.com/geshifei-linux) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 对hygon 8h DF PMU的适配 | Developing| sig-kernel | [@liuqi_77777](https://gitee.com/liuqi_77777) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 代码段复制patch的适配 | Developing| sig-kernel | [@qiuzhiteng](https://gitee.com/qiuzhiteng) |
+| [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 需要合入海光分支patch和memset的nt patch | Developing| sig-kernel | [@jiamei01](https://gitee.com/jiamei01) |
 
 
 # 需求/特性反馈基本流程 <br />
