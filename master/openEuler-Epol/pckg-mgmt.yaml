@@ -7643,3 +7643,39 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2025-03-18"
+- name: python-mcp
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: uv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: roo-code
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: python-create-python-server
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: python-returns
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: python-pydantic-settings
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: python-sse-starlette
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: python-httpx-sse
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"
+- name: python-uv-dynamic-versioning
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-09"

@@ -6423,3 +6423,39 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-03-18'
+- name: python-mcp
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: uv
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: roo-code
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: python-create-python-server
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: python-returns
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: python-pydantic-settings
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: python-sse-starlette
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: python-httpx-sse
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
+- name: python-uv-dynamic-versioning
+  source_dir: master
+  destination_dir: openEuler-25.03
+  date: "2025-04-09"
