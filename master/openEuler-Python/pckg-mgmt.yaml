@@ -3071,3 +3071,39 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-04-03'
+- name: python-mkdocstrings
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocstrings-crystal
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocstrings-python-legacy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocstrings-python
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocs-rss-plugin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocs-git-revision-date-localized-plugin
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocs-nature
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocs-bootswatch
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'
+- name: python-mkdocs-section-index
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-04-09'

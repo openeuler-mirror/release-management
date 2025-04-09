@@ -13939,10 +13939,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocstrings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-pockets
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13964,10 +13960,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: pyproject-flake8
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-mkdocstrings-crystal
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14083,10 +14075,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-mkdocstrings-python-legacy
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-rinoh-typeface-dejavuserif
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14152,10 +14140,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-pytest-dependency
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-mkdocstrings-python
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
@@ -14319,19 +14303,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-mkdocs-rss-plugin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-validator-collection
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-mkdocs-git-revision-date-localized-plugin
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-mkdocs-nature
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
@@ -14363,15 +14335,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
-    - name: python-mkdocs-bootswatch
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
     - name: python-androguard
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-10-25"
-    - name: python-mkdocs-section-index
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-10-25"
