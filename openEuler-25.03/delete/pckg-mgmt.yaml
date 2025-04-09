@@ -21,3 +21,4 @@ packages:
   - name: clutter-gst2
   - name: sigil
   - name: python-pydoctor
+  - name: webkit2gtk3

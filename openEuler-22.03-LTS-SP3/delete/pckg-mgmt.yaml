@@ -5,3 +5,4 @@ packages:
 - name: libomp
 - name: deepin-manual
 - name: clutter-gst2
+- name: webkit2gtk3

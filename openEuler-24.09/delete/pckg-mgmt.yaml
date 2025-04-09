@@ -50,3 +50,4 @@ packages:
 - name: python-scciclient
 - name: python-cursive
 - name: clutter-gst2
+- name: webkit2gtk3

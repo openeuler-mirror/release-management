@@ -423,6 +423,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
+- name: webkitgtk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: '2025-04-09'
 - name: webkit2gtk3
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage

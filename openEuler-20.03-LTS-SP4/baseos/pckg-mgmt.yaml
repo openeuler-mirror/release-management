@@ -5248,6 +5248,12 @@ packages:
   obs_from: openEuler:20.03:LTS:SP3
   obs_to: openEuler:20.03:LTS:SP4
   date: '2023-10-09'
+- name: webkitgtk
+  source_dir: openEuler-20.03-LTS-SP3
+  destination_dir: openEuler-20.03-LTS-SP4
+  obs_from: openEuler:20.03:LTS:SP3
+  obs_to: openEuler:20.03:LTS:SP4
+  date: '2025-04-09'
 - name: webkit2gtk3
   source_dir: openEuler-20.03-LTS-SP3
   destination_dir: openEuler-20.03-LTS-SP4
