@@ -2288,3 +2288,8 @@ release-change:
     python-mkdocstrings-python python-mkdocs-rss-plugin python-mkdocs-git-revision-date-localized-plugin
     python-mkdocs-nature python-mkdocs-bootswatch python-mkdocs-section-index
   date: 2025-04-09-11-09-56
+- pr: https://gitee.com/openeuler/release-management/pulls/2222
+  description: f891c2f !2222 添加mcp及其依赖包，roo-code到openEuler-25.03和master
+  changed_packages: python-mcp uv roo-code python-create-python-server python-returns
+    python-pydantic-settings python-sse-starlette python-httpx-sse python-uv-dynamic-versioning
+  date: 2025-04-09-11-24-52

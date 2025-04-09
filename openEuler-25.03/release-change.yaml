@@ -114,3 +114,8 @@ release-change:
   description: 98e53a3 !2196 delete python-pydoctor package from 25.03
   changed_packages: python-pydoctor
   date: 2025-03-21-17-13-44
+- pr: https://gitee.com/openeuler/release-management/pulls/2222
+  description: f891c2f !2222 添加mcp及其依赖包，roo-code到openEuler-25.03和master
+  changed_packages: python-mcp uv roo-code python-create-python-server python-returns
+    python-pydantic-settings python-sse-starlette python-httpx-sse python-uv-dynamic-versioning
+  date: 2025-04-09-11-24-52
