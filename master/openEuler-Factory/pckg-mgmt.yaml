@@ -15235,18 +15235,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-24"
-    - name: python-mcp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-27"
-    - name: uv
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-27"
-    - name: roo-code
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-27"
     - name: HdrHistogram_C
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15416,30 +15404,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2025-04-07"
     - name: caja-dropbox
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-07"
-    - name: python-create-python-server
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-07"
-    - name: python-returns
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-07"
-    - name: python-pydantic-settings
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-07"
-    - name: python-sse-starlette
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-07"
-    - name: python-httpx-sse
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-07"
-    - name: python-uv-dynamic-versioning
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-07"
