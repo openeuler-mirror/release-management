@@ -126,3 +126,10 @@ packages:
   - name: postgresql15
   - name: postgresql17
   - name: redis
+  - name: clang
+  - name: compiler-rt
+  - name: openmp
+  - name: lld
+  - name: libcxx
+  - name: lldb
+  - name: llvm-mlir
