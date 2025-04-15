@@ -4427,10 +4427,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-04-09'
-- name: webkit2gtk3
-  source_dir: master
-  destination_dir: openEuler-25.03
-  date: '2025-01-23'
 - name: xorg-x11-proto-devel
   source_dir: master
   destination_dir: openEuler-25.03
