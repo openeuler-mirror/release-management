@@ -15,3 +15,4 @@ packages:
 - name: oeAware-manager
 - name: libkperf
 - name: clutter-gst2
+- name: webkit2gtk3

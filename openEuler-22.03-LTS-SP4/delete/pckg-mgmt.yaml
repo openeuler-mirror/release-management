@@ -16,3 +16,4 @@ packages:
 - name: ft_wl_fwk
 - name: libomp
 - name: clutter-gst2
+- name: webkit2gtk3

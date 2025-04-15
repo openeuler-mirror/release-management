@@ -62,3 +62,4 @@ packages:
 - name: ros2_base
 - name: ros_comm
 - name: clutter-gst2
+- name: webkit2gtk3

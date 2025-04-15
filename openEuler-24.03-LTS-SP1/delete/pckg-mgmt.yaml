@@ -81,3 +81,4 @@ packages:
 - name: xfdesktop
 - name: xfwm4
 - name: clutter-gst2
+- name: webkit2gtk3

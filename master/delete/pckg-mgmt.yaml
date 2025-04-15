@@ -118,3 +118,6 @@ packages:
   - name: xmms
   - name: libldb
   - name: pesign-obs-integration
+  - name: webkit2gtk3
+  - name: webkit2gtk4
+  - name: webkit2gtk5
