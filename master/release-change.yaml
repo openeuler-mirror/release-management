@@ -2392,3 +2392,8 @@ release-change:
   description: 3f77c63 !2264 在openEuler-22.03-LTS-NEXT和openEuler-22.03-LTS-SP4上增加systrace包.
   changed_packages: sysTrace
   date: 2025-05-15-16-47-10
+- pr: https://gitee.com/openeuler/release-management/pulls/2266
+  description: af2136d !2266 Move ccb package from Factory to Mainline:EPOL and add
+    to 24.03-LTS-NEXT and SP2
+  changed_packages: ccb rubygem-rest-client rubygem-netrc
+  date: 2025-05-16-11-43-04

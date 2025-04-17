@@ -10663,10 +10663,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: rubygem-netrc
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: rubygem-oauth
       obs_from: ""
       obs_to: openEuler:Factory
@@ -10712,10 +10708,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: rubygem-responders
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: rubygem-rest-client
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -15363,10 +15355,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-07"
-    - name: ccb
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-22"
     - name: R-carData
       obs_from: ""
       obs_to: openEuler:Factory
