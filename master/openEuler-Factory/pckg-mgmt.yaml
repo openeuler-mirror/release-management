@@ -15407,22 +15407,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-16"
-    - name: gccmakedep
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-17"
-    - name: makedepend
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-17"
-    - name: lndir
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-17"
-    - name: xorg-cf-files
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-17"
     - name: ocaml-intrinsics-kernel
       obs_from: ""
       obs_to: openEuler:Factory
