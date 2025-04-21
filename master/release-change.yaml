@@ -2301,3 +2301,7 @@ release-change:
   description: 38eb013 !2212 move cups-browsed into mainline
   changed_packages: cups-browsed
   date: 2025-04-21-17-41-35
+- pr: https://gitee.com/openeuler/release-management/pulls/2220
+  description: 495d047 !2220 Add RaspberryPi feature for openEuler 24.03 LTS SP2
+  changed_packages: cups-browsed
+  date: 2025-04-21-17-43-42
