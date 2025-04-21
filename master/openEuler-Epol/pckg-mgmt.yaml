@@ -7699,3 +7699,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-04-20'
+- name: postgresql-15
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-04-21"
