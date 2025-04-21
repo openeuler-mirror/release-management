@@ -2305,3 +2305,7 @@ release-change:
   description: 495d047 !2220 Add RaspberryPi feature for openEuler 24.03 LTS SP2
   changed_packages: cups-browsed
   date: 2025-04-21-17-43-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2224
+  description: 3011a1a !2224 drop vinagre in future releases
+  changed_packages: vinagre
+  date: 2025-04-21-17-45-01
