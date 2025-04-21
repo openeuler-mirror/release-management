@@ -3591,6 +3591,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: postgresql-17
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-04-21'
 - name: pptp
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
