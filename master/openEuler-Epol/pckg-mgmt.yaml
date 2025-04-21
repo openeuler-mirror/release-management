@@ -7679,3 +7679,23 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2025-04-09"
+- name: imake
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: '2025-04-20'
+- name: gccmakedep
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-04-20'
+- name: makedepend
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-04-20'
+- name: lndir
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-04-20'
+- name: xorg-cf-files
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-04-20'
