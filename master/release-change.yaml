@@ -2309,3 +2309,7 @@ release-change:
   description: 3011a1a !2224 drop vinagre in future releases
   changed_packages: vinagre
   date: 2025-04-21-17-45-01
+- pr: https://gitee.com/openeuler/release-management/pulls/2230
+  description: 03777f2 !2230 move imake into epol
+  changed_packages: imake gccmakedep makedepend lndir xorg-cf-files
+  date: 2025-04-21-17-46-46
