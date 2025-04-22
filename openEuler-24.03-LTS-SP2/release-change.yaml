@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/2231
+  description: cfec2e8 !2231 添加 gtk-layer-shell 依赖到openEuler-24.03-LTS-Next、openEuler-24.03-LTS-SP2
+  changed_packages: gtk-layer-shell
+  date: 2025-04-22-17-41-49
