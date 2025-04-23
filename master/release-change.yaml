@@ -2313,3 +2313,11 @@ release-change:
   description: 03777f2 !2230 move imake into epol
   changed_packages: imake gccmakedep makedepend lndir xorg-cf-files
   date: 2025-04-21-17-46-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2232
+  description: 846f87e !2232 移动ocaml系列包到Everything(openEuler:Ocaml)，解决ocaml升级导致的构建问题
+  changed_packages: ocaml-camomile ocaml-intrinsics-kernel ocaml-stdlib-random ocaml-astring
+    ocaml-fmt ocaml-ocplib-endian ocaml-base ocaml-re ocaml-cmdliner ocaml-sexplib0
+    ocaml-cinaps ocaml-react ocaml-ppx-derivers ocaml-uutf ocaml-topkg ocaml-camlp-streams
+    ocaml-ppx-here ocaml-compiler-libs-janestreet ocaml-ppx-let ocaml-alcotest ocaml-lwt
+    ocaml-ppxlib
+  date: 2025-04-23-16-16-38
