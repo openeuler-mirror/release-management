@@ -2321,3 +2321,7 @@ release-change:
     ocaml-ppx-here ocaml-compiler-libs-janestreet ocaml-ppx-let ocaml-alcotest ocaml-lwt
     ocaml-ppxlib
   date: 2025-04-23-16-16-38
+- pr: https://gitee.com/openeuler/release-management/pulls/2229
+  description: f2bc3ca !2229 obsolete redis with valkey
+  changed_packages: valkey redis
+  date: 2025-04-23-17-22-27
