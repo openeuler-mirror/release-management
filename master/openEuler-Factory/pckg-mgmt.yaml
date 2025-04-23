@@ -2179,10 +2179,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: ocaml-camomile
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: oci-systemd-hook
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15403,90 +15399,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-16"
-    - name: ocaml-intrinsics-kernel
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-stdlib-random
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-astring
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-fmt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-ocplib-endian
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-base
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-re
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-cmdliner
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-sexplib0
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-cinaps
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-react
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-ppx-derivers
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-uutf
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-topkg
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-camlp-streams
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-ppx-here
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-compiler-libs-janestreet
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-ppx-let
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-alcotest
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-lwt
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
-    - name: ocaml-ppxlib
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-19"
     - name: ccb
       obs_from: ""
       obs_to: openEuler:Factory
