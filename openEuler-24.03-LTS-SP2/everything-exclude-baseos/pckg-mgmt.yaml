@@ -5075,10 +5075,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
-- name: compiler-rt
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
 - name: console-setup
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -6144,10 +6140,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
 - name: linuxdoc-tools
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
-- name: lldb
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
@@ -8239,10 +8231,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
-- name: llvm-mlir
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
 - name: Bear
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -9587,10 +9575,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
-- name: clang
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
 - name: docbook-utils
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -9680,10 +9664,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
 - name: gcr4
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
-- name: openmp
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
@@ -14671,10 +14651,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
-- name: lld
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
 - name: perl-Config-Extend-MySQL
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -14688,10 +14664,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
 - name: tinytoml
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
-- name: libcxx
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'

@@ -35,10 +35,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
-- name: clang
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: '2022-07-26'
 - name: curl
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
@@ -439,18 +435,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
   date: '2023-03-02'
-- name: openmp
-  obs_from: openEuler:Factory
-  obs_to: openEuler:MultiLanguage
-  date: '2023-07-19'
 - name: gdal
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
   date: '2024-01-29'
-- name: lld
-  obs_from: openEuler:Epol
-  obs_to: openEuler:MultiLanguage
-  date: '2024-02-27'
 - name: gpsbabel
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage

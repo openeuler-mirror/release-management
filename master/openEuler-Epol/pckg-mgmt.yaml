@@ -4655,10 +4655,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-03-08'
-- name: libcxx
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-03-15'
 - name: python-css-parser
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7486,63 +7482,63 @@ packages:
 - name: gnome-shell-extension-dash-to-dock
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-14"
+  date: '2025-02-14'
 - name: iceauth
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: rgb
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: sessreg
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xgamma
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xinput
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xkill
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xmodmap
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xrandr
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xrdb
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xrefresh
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xsetroot
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xset
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: xstdcmap
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-20"
+  date: '2025-02-20'
 - name: oeDeploy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-25"
+  date: '2025-02-25'
 - name: epkg
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7550,135 +7546,135 @@ packages:
 - name: euler-copilot-shell
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xfd
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: x11perf
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: luit
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xclock
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: oclock
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xload
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xeyes
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xvidtune
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xconsole
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xpr
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xclipboard
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xbiff
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xmessage
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xfontsel
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xlogo
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xmag
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xwud
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xcursorgen
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: xwd
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-02-27"
+  date: '2025-02-27'
 - name: vscodium
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-03-10"
+  date: '2025-03-10'
 - name: oeDevPlugin
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-03-12"
+  date: '2025-03-12'
 - name: thunderbird
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-03-14"
+  date: '2025-03-14'
 - name: phpy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-03-18"
+  date: '2025-03-18'
 - name: python-mcp
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: uv
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: roo-code
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: python-create-python-server
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: python-returns
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: python-pydantic-settings
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: python-sse-starlette
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: python-httpx-sse
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: python-uv-dynamic-versioning
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-09"
+  date: '2025-04-09'
 - name: imake
   obs_from: openEuler:C
   obs_to: openEuler:Epol
@@ -7702,4 +7698,4 @@ packages:
 - name: postgresql-15
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-04-21"
+  date: '2025-04-21'

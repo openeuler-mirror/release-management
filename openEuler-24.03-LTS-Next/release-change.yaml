@@ -391,3 +391,8 @@ release-change:
   description: cfec2e8 !2231 添加 gtk-layer-shell 依赖到openEuler-24.03-LTS-Next、openEuler-24.03-LTS-SP2
   changed_packages: gtk-layer-shell
   date: 2025-04-22-17-41-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2227
+  description: 0cae241 !2227 Remove some llvm packages from openEuler-24.03-LTS-SP2
+  changed_packages: compiler-rt openmp llvm-mlir clang lldb libcxx lld compiler-rt
+    openmp llvm-mlir clang lldb libcxx lld
+  date: 2025-04-24-15-02-31

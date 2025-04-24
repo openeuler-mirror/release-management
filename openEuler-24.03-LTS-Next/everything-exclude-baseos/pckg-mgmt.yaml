@@ -7607,12 +7607,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: compiler-rt
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: console-setup
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -9210,12 +9204,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: linuxdoc-tools
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: lldb
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
@@ -12359,12 +12347,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: llvm-mlir
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: Bear
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -14381,12 +14363,6 @@ packages:
   obs_from: openEuler:MultiLanguage
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: clang
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: docbook-utils
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -14520,12 +14496,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: gcr4
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: openmp
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:MultiLanguage
@@ -22013,12 +21983,6 @@ packages:
   obs_from: openEuler:Ruby
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: lld
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:MultiLanguage
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: perl-Config-Extend-MySQL
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -22038,12 +22002,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: tinytoml
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:24.03:LTS:Next:Epol
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-11'
-- name: libcxx
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:24.03:LTS:Next:Epol

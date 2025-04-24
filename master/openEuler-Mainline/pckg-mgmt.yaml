@@ -255,10 +255,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: compiler-rt
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: console-setup
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -1724,10 +1720,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: linuxdoc-tools
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: lldb
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -4883,10 +4875,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2022-10-17'
-- name: llvm-mlir
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2022-11-22'
 - name: Bear
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

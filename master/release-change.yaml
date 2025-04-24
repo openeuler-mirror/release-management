@@ -2325,3 +2325,7 @@ release-change:
   description: f2bc3ca !2229 obsolete redis with valkey
   changed_packages: valkey redis
   date: 2025-04-23-17-22-27
+- pr: https://gitee.com/openeuler/release-management/pulls/2227
+  description: 0cae241 !2227 Remove some llvm packages from openEuler-24.03-LTS-SP2
+  changed_packages: openmp clang lld compiler-rt llvm-mlir lldb libcxx
+  date: 2025-04-24-15-02-31
