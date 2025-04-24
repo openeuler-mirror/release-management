@@ -15155,14 +15155,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-02-19"
-    - name: zix
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-02-20"
-    - name: python-sphinxygen
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-02-20"
     - name: SoftBR
       obs_from: ""
       obs_to: openEuler:Factory
