@@ -1,1 +1,8 @@
-packages: []
+packages: 
+- name: clang
+- name: compiler-rt
+- name: openmp
+- name: lld
+- name: libcxx
+- name: lldb
+- name: llvm-mlir

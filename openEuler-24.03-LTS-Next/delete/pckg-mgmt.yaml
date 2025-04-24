@@ -77,3 +77,10 @@ packages:
 - name: pkgship
 - name: clutter-gst2
 - name: webkit2gtk3
+- name: clang
+- name: compiler-rt
+- name: openmp
+- name: lld
+- name: libcxx
+- name: lldb
+- name: llvm-mlir
