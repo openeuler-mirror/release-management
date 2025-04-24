@@ -2329,3 +2329,8 @@ release-change:
   description: 0cae241 !2227 Remove some llvm packages from openEuler-24.03-LTS-SP2
   changed_packages: openmp clang lld compiler-rt llvm-mlir lldb libcxx
   date: 2025-04-24-15-02-31
+- pr: https://gitee.com/openeuler/release-management/pulls/2237
+  description: 9c790e2 !2237 Move python-sphinxygen and zix from openEuler:factory
+    to openEuler:Mainline
+  changed_packages: python-sphinxygen zix
+  date: 2025-04-24-15-59-06
