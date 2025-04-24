@@ -6395,3 +6395,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-03-19'
+- name: python-sphinxygen
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-04-24'
+- name: zix
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-04-24'
