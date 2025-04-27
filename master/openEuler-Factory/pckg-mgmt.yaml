@@ -15403,3 +15403,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-27"
+    - name: R-carData
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-27"
+    - name: R-fs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-04-27"
