@@ -5,12 +5,12 @@ packages:
   obs_from: openEuler:22.03:LTS:SP4
   obs_to: openEuler:22.03:LTS:SP4:Epol:Multi-Version:ray
   date: '2025-04-07'
-- name: aiohttp
+- name: python-aiohttp
   source_dir: openEuler-22.03-LTS-SP4
   destination_dir: Multi-Version_ray_openEuler-22.03-LTS-SP4
   obs_from: openEuler:22.03:LTS:SP4
   obs_to: openEuler:22.03:LTS:SP4:Epol:Multi-Version:ray
-  date: '2025-04-07'
+  date: '2025-04-24'
 - name: bazel
   source_dir: openEuler-22.03-LTS-SP4
   destination_dir: Multi-Version_ray_openEuler-22.03-LTS-SP4
@@ -48,8 +48,8 @@ packages:
   obs_to: openEuler:22.03:LTS:SP4:Epol:Multi-Version:ray
   date: '2025-04-07'
 - name: ray
-  source_dir: openEuler-22.03-LTS-Next
-  destination_dir: openEuler-22.03-LTS-SP4
+  source_dir: openEuler-22.03-LTS-SP4
+  destination_dir: Multi-Version_ray_openEuler-22.03-LTS-SP4
   obs_from: openEuler:22.03:LTS:SP4
   obs_to: openEuler:22.03:LTS:SP4:Epol:Multi-Version:ray
-  date: '2025-04-07'
+  date: '2025-04-24'
