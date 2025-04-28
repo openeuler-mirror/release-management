@@ -6403,3 +6403,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-04-24'
+- name: perl-Math-Gradient
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-04-28'
+- name: perl-List-BinarySearch-XS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-04-28'
+- name: perl-List-BinarySearch
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-04-28'

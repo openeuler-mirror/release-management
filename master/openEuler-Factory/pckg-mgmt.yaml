@@ -15391,18 +15391,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-22"
-    - name: perl-List-BinarySearch-XS
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-27"
-    - name: perl-Math-Gradient
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-27"
-    - name: perl-List-BinarySearch
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-27"
     - name: R-carData
       obs_from: ""
       obs_to: openEuler:Factory
