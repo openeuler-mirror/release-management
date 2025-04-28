@@ -12,3 +12,7 @@ release-change:
   description: 2cc602d !2235 Delete packages blocking RC2 from openEuler-24.03-LTS-SP2
   changed_packages: vscode vscode
   date: 2025-04-27-11-25-09
+- pr: https://gitee.com/openeuler/release-management/pulls/2240
+  description: 'c7a45b2 !2240 feat: 添加oeDeploy到openEuler-24.03-LTS-Next、openEuler-24.03-LTS-SP2'
+  changed_packages: oeDeploy
+  date: 2025-04-28-15-44-08
