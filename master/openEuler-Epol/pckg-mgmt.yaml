@@ -3895,6 +3895,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: redis
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: '2025-05-06'
 - name: rdiff-backup
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
