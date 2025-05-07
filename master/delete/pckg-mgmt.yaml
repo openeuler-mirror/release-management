@@ -132,3 +132,4 @@ packages:
   - name: libcxx
   - name: lldb
   - name: llvm-mlir
+  - name: python-ninja
