@@ -2344,3 +2344,7 @@ release-change:
     perl-List-BinarySearch to master and 24.03-LTS-Next
   changed_packages: perl-Math-Gradient perl-List-BinarySearch-XS perl-List-BinarySearch
   date: 2025-05-07-09-36-31
+- pr: https://gitee.com/openeuler/release-management/pulls/2243
+  description: d9b0f18 !2243 添加cockpit-machines组件包到openEuler-24.03-LTS-SP1版本
+  changed_packages: perl-Math-Gradient perl-List-BinarySearch-XS perl-List-BinarySearch
+  date: 2025-05-07-09-37-35
