@@ -2352,3 +2352,7 @@ release-change:
   description: a1671c8 !2245 recall redis into epol
   changed_packages: redis
   date: 2025-05-07-09-38-46
+- pr: https://gitee.com/openeuler/release-management/pulls/2192
+  description: fa76819 !2192 drop python-ninja
+  changed_packages: python-ninja
+  date: 2025-05-07-14-29-08

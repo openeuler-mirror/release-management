@@ -106,7 +106,7 @@ packages:
 - name: pyproject-rpm-macros
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
-  date: "2025-03-11"
+  date: '2025-03-11'
 - name: pyserial
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
@@ -2672,10 +2672,6 @@ packages:
   obs_to: openEuler:Python
   date: '2023-12-20'
 - name: python-importlab
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Python
-  date: '2023-12-20'
-- name: python-ninja
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-12-20'
