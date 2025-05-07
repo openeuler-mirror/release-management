@@ -405,3 +405,8 @@ release-change:
     and add to 24.03-LTS-NEXT and SP2
   changed_packages: intel-qpl
   date: 2025-05-07-09-34-48
+- pr: https://gitee.com/openeuler/release-management/pulls/2242
+  description: 13f42fc !2242 add perl-Math-Gradient, perl-List-BinarySearch-XS and
+    perl-List-BinarySearch to master and 24.03-LTS-Next
+  changed_packages: perl-Math-Gradient perl-List-BinarySearch-XS perl-List-BinarySearch
+  date: 2025-05-07-09-36-31
