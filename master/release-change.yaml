@@ -2334,3 +2334,8 @@ release-change:
     to openEuler:Mainline
   changed_packages: python-sphinxygen zix
   date: 2025-04-24-15-59-06
+- pr: https://gitee.com/openeuler/release-management/pulls/2239
+  description: 90bc2ef !2239 Move Intel QPL library package from Factory to Mainline
+    and add to 24.03-LTS-NEXT and SP2
+  changed_packages: intel-qpl
+  date: 2025-05-07-09-34-48
