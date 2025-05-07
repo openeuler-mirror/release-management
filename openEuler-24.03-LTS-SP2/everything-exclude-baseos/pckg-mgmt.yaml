@@ -14735,6 +14735,10 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
+- name: intel-qpl
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-04-27'
 - name: libtracefs
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
