@@ -21,3 +21,10 @@ release-change:
     and add to 24.03-LTS-NEXT and SP2
   changed_packages: intel-qpl
   date: 2025-05-07-09-34-48
+- pr: https://gitee.com/openeuler/release-management/pulls/2244
+  description: ffc8ecd !2244 新增mcp服务依赖的openEuler-24.03-LTS-SP2分支
+  changed_packages: rust-cbindgen rust-ripgrep gnome-shell-extension-dash-to-dock
+    python-annotated-types python-dirty-equals oeDevPlugin vscodium thunderbird epkg
+    euler-copilot-shell python-mcp python-returns python-uv-dynamic-versioning roo-code
+    uv oeGitExt python-pydantic-core mcp-servers
+  date: 2025-05-09-10-47-40

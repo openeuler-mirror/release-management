@@ -2356,3 +2356,7 @@ release-change:
   description: fa76819 !2192 drop python-ninja
   changed_packages: python-ninja
   date: 2025-05-07-14-29-08
+- pr: https://gitee.com/openeuler/release-management/pulls/2244
+  description: ffc8ecd !2244 新增mcp服务依赖的openEuler-24.03-LTS-SP2分支
+  changed_packages: mcp-servers
+  date: 2025-05-09-10-47-40
