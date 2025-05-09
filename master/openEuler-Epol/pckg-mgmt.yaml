@@ -7703,3 +7703,8 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-04-21'
+- name: mcp-servers
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-05-06'
+

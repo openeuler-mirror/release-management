@@ -15395,10 +15395,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-27"
-    - name: mcp-servers
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-29"
     - name: krun
       obs_from: ""
       obs_to: openEuler:Factory
