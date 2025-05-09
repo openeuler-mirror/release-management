@@ -71,6 +71,10 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 | [IC60AT](https://gitee.com/openeuler/release-management/issues/IC60AT?from=project-issue) | oeDeploy工具易用性提升，部署能力增强 | Developing | sig-ops | [@dingjiahuichina](https://gitee.com/dingjiahuichina) |
 | [IC611D](https://gitee.com/openeuler/release-management/issues/IC611D?from=project-issue) | 基于eBPF等技术实现AI作业进程Stack Mergeing，支持典型内存故障定位 | Developing | sig-aops | [@webankto](https://gitee.com/webankto) |
 | [IC67QT](https://gitee.com/openeuler/release-management/issues/IC67QT?from=project-issue) | 虚拟化场景支持vKAE直通设备热迁移 | Developing | virt-sig | [@JiaboFeng](https://gitee.com/JiaboFeng) |
+| [IC64F9](https://gitee.com/openeuler/release-management/issues/IC64F9?from=project-issue) | secGear支持机密虚机基于UEFI启动方式的报告生成及验证 | Developing | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong) |
+| [IC621U](https://gitee.com/openeuler/release-management/issues/IC621U?from=project-issue) | secGear支持机密虚机基于UEFI启动方式的报告生成及验证 | Developing | sig-security-facility | [@yang8621](https://gitee.com/yang8621) |
+| [IC64EX](https://gitee.com/openeuler/release-management/issues/IC64EX?from=project-issue) | 支持Kuasar机密容器镜像加解密 | Developing | sig-confidential-computing/sig-Cloudnative | [@xuxuepeng](https://gitee.com/xuxuepeng) |
+
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
