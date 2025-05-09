@@ -43,7 +43,7 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|IBXVC7|virtCCA机密虚机相关特性合入版本|Developing||SIG-Kernel/SIG-Virt|@luoyukai||
+| [IBXVC7](https://gitee.com/openeuler/release-management/issues/IBXVC7?from=project-issue) | virtCCA机密虚机相关特性合入版本 | Developing | SIG-Kernel/SIG-Virt | [@gongchangsui](https://gitee.com/gongchangsui) |
 | [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | OVMF_CODE.fd支持CSV1/2/3开箱即用 | Developing| sig-kernel/sig-qemu/sig-libvirt/sig-edk2 | [@hanliyang](https://gitee.com/hanliyang) |
 | [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | OVMF.fd支持CSV1/2/3开箱即用 | Developing| sig-kernel/sig-qemu/sig-libvirt/sig-edk2 | [@hanliyang](https://gitee.com/hanliyang) |
 | [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 支持CSV1/2/3直通DCU功能开箱即用 | Developing| sig-kernel/sig-qemu/sig-libvirt/sig-edk2 | [@hanliyang](https://gitee.com/hanliyang) |
@@ -55,10 +55,22 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 | [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 对hygon 8h DF PMU的适配 | Developing| sig-kernel | [@liuqi_77777](https://gitee.com/liuqi_77777) |
 | [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 代码段复制patch的适配 | Developing| sig-kernel | [@qiuzhiteng](https://gitee.com/qiuzhiteng) |
 | [IBSO3U](https://gitee.com/openeuler/release-management/issues/IBSO3U?from=project-issue) | 需要合入海光分支patch和memset的nt patch | Developing| sig-kernel | [@jiamei01](https://gitee.com/jiamei01) |
-|[IBZ9CK](https://gitee.com/openeuler/release-management/issues/IBZ9CK)|支持树莓派|Discussion|sig-SBC|[@woqidaideshi](https://gitee.com/woqidaideshi/)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils|
+| [IBZ9CK](https://gitee.com/openeuler/release-management/issues/IBZ9CK)|支持树莓派|Discussion|sig-SBC|[@woqidaideshi](https://gitee.com/woqidaideshi/)|EPOL|raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils|
 | [IC3KIG](https://gitee.com/openeuler/release-management/issues/IC3KIG) | 支持 OpenStack Antelope/Wallaby 版本 | Developing | sig-openstack | [@tzing_t](https://gitee.com/tzing_t) |
-
-
+| [IC61GG](https://gitee.com/openeuler/release-management/issues/IC61GG?from=project-issue) | 基于通信算子的低开销高精度慢节点检测 | Developing | sig-ops | [@webankto](https://gitee.com/webankto) |
+| [IC62PY](https://gitee.com/openeuler/release-management/issues/IC62PY?from=project-issue) | 昇腾软件栈适配、组件化集成持续增强 | Developing | sig-compilitable | [@jimmy_hero](https://gitee.com/jimmy_hero) |
+| [IC61QU](https://gitee.com/openeuler/release-management/issues/IC61QU?from=project-issue) | DevStation开发流程智能化增强 | Developing | sig-intelligence | [@duan_pj](https://gitee.com/duan_pj) |
+| [IC62XT](https://gitee.com/openeuler/release-management/issues/IC62XT?from=project-issue) | 支持超大虚机规格 | Developing | virt-sig | [@JiaboFeng](https://gitee.com/JiaboFeng) |
+| [IC63XR](https://gitee.com/openeuler/release-management/issues/IC63XR?from=project-issue) | AI编译器提升搜推场景性能 | Developing | sig-compiler | [@wangding16](https://gitee.com/wangding16) |
+| [IC632C](https://gitee.com/openeuler/release-management/issues/IC632C?from=project-issue) | openEuler Copilot 支持多维度（时间）过滤分析和分权分域，推理高准确率开箱即用 | Developing | sig-intelligence | [@fromhsc](https://gitee.com/fromhsc) |
+| [IC5ZTI](https://gitee.com/openeuler/release-management/issues/IC5ZTI?from=project-issue) | 嵌入式北向软件包补齐 | Developing | sig-embedded | [@hzc04](https://gitee.com/hzc04) |
+| [IC64CW](https://gitee.com/openeuler/release-management/issues/IC64CW?from=project-issue) | 毕昇JDK8支持堆内存上限扩容能力 | Developing | sig-Compiler | [@kuenking111](https://gitee.com/kuenking111) |
+| [IC63Z4](https://gitee.com/openeuler/release-management/issues/IC63Z4?from=project-issue) | UDF自动native框架提升大数据场景性能 | Developing | sig-compiler | [@wangding16](https://gitee.com/wangding16) |
+| [IC61UI](https://gitee.com/openeuler/release-management/issues/IC61UI?from=project-issue) | epkg新型软件包及包管理器功能增强 | Developing | sig-epkg | [@duan_pj](https://gitee.com/duan_pj) |
+| [IC67I8](https://gitee.com/openeuler/release-management/issues/IC67I8?from=project-issue) | FUSE passthrough支持 | Developing | sig-kernel | [@yang-erkun](https://gitee.com/yang-erkun) |
+| [IC60AT](https://gitee.com/openeuler/release-management/issues/IC60AT?from=project-issue) | oeDeploy工具易用性提升，部署能力增强 | Developing | sig-ops | [@dingjiahuichina](https://gitee.com/dingjiahuichina) |
+| [IC611D](https://gitee.com/openeuler/release-management/issues/IC611D?from=project-issue) | 基于eBPF等技术实现AI作业进程Stack Mergeing，支持典型内存故障定位 | Developing | sig-aops | [@webankto](https://gitee.com/webankto) |
+| [IC67QT](https://gitee.com/openeuler/release-management/issues/IC67QT?from=project-issue) | 虚拟化场景支持vKAE直通设备热迁移 | Developing | virt-sig | [@JiaboFeng](https://gitee.com/JiaboFeng) |
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
