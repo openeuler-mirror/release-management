@@ -3451,6 +3451,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: zabbix
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-05-12'
 - name: zssh
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
