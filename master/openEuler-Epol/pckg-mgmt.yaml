@@ -7111,6 +7111,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-06'
+- name: libei
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-05-12'
 - name: libeot
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
