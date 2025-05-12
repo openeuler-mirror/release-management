@@ -421,3 +421,9 @@ release-change:
     python-mcp python-returns python-uv-dynamic-versioning roo-code uv oeGitExt python-pydantic-core
     mcp-servers
   date: 2025-05-09-10-47-40
+- pr: https://gitee.com/openeuler/release-management/pulls/2247
+  description: f5763d0 !2247 增加python3-mcp安装依赖的openEuler-24.03-LTS-SP2分支
+  changed_packages: python-httptools python-uvloop python-python-multipart python-typer
+    python-httpx-sse python-pydantic-settings python-sse-starlette python-starlette
+    python-uvicorn
+  date: 2025-05-12-10-21-02
