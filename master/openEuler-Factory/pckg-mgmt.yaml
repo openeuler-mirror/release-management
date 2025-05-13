@@ -11367,10 +11367,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: zabbix
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: zephyr
       obs_from: ""
       obs_to: openEuler:Factory
