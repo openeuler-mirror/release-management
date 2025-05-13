@@ -2111,6 +2111,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: postgresql-17
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2025-05-09'
 - name: predixy
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
