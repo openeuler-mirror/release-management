@@ -14967,3 +14967,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-16'
+- name: ANNC
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-05-13'
