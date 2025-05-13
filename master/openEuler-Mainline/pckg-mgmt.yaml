@@ -6419,3 +6419,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-04-28'
+- name: ledmon
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-05-13"
