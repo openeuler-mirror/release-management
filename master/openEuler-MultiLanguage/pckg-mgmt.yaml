@@ -263,6 +263,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
+- name: perl-MIME-Base32
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: '2025-05-11'
 - name: perl-MIME-Base64
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
