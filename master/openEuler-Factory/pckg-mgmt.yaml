@@ -15415,3 +15415,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-05-12"
+    - name: libdecor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-13"
+    - name: SDL3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-13"
