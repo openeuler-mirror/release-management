@@ -2364,3 +2364,7 @@ release-change:
   description: e55c2d5 !2253 add SDL3 and libdecor for master-factory
   changed_packages: libdecor SDL3
   date: 2025-05-13-11-09-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2249
+  description: 42738af !2249 move zabbix out of factory
+  changed_packages: perl-MIME-Base32
+  date: 2025-05-13-21-03-44
