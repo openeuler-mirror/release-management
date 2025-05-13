@@ -2368,3 +2368,7 @@ release-change:
   description: 42738af !2249 move zabbix out of factory
   changed_packages: perl-MIME-Base32
   date: 2025-05-13-21-03-44
+- pr: https://gitee.com/openeuler/release-management/pulls/2255
+  description: 24f85ed !2255 Move ledmon from Factory to Mainlie
+  changed_packages: perl-MIME-Base32
+  date: 2025-05-13-21-04-58
