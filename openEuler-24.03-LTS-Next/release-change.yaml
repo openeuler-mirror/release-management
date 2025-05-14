@@ -435,3 +435,7 @@ release-change:
   description: 6f561bd !2259 Add triton-cpu to Epol
   changed_packages: triton-cpu
   date: 2025-05-14-09-27-53
+- pr: https://gitee.com/openeuler/release-management/pulls/2260
+  description: 2a4dca8 !2260 Add global-trust-authority to Epol
+  changed_packages: global-trust-authority
+  date: 2025-05-14-10-55-42
