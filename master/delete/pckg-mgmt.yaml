@@ -122,6 +122,7 @@ packages:
   - name: webkit2gtk4
   - name: webkit2gtk5
   - name: vinagre
+  - name: postgresql
   - name: postgresql-13
   - name: postgresql15
   - name: postgresql17
