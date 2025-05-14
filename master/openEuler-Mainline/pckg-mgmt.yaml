@@ -3579,10 +3579,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: postgresql
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: postgresql-17
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -6422,4 +6418,4 @@ packages:
 - name: ledmon
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2025-05-13"
+  date: '2025-05-13'

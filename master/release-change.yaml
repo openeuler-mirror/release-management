@@ -2376,3 +2376,7 @@ release-change:
   description: 6f561bd !2259 Add triton-cpu to Epol
   changed_packages: triton-cpu
   date: 2025-05-14-09-27-53
+- pr: https://gitee.com/openeuler/release-management/pulls/2241
+  description: 5cf611a !2241 drop postgresql
+  changed_packages: postgresql
+  date: 2025-05-14-09-30-32
