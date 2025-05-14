@@ -2380,3 +2380,7 @@ release-change:
   description: 5cf611a !2241 drop postgresql
   changed_packages: postgresql
   date: 2025-05-14-09-30-32
+- pr: https://gitee.com/openeuler/release-management/pulls/2254
+  description: c54f63f !2254 move libei into epol for gnome-remote-desktop
+  changed_packages: libei
+  date: 2025-05-14-09-32-34
