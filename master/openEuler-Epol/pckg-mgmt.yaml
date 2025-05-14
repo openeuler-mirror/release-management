@@ -7719,4 +7719,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-05-13'
-
+- name: global-trust-authority
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-05-14'

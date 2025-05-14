@@ -15163,10 +15163,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-05"
-    - name: global-trust-authority
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-07"
     - name: heolleo
       obs_from: ""
       obs_to: openEuler:Factory
