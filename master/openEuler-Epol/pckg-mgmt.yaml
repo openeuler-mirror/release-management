@@ -7711,4 +7711,8 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-05-06'
+- name: triton-cpu
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-05-13'
 
