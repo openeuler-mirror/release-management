@@ -15395,10 +15395,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-05-09"
-    - name: libei
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-05-12"
     - name: libdecor
       obs_from: ""
       obs_to: openEuler:Factory
