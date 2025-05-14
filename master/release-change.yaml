@@ -2372,3 +2372,7 @@ release-change:
   description: 24f85ed !2255 Move ledmon from Factory to Mainlie
   changed_packages: perl-MIME-Base32
   date: 2025-05-13-21-04-58
+- pr: https://gitee.com/openeuler/release-management/pulls/2259
+  description: 6f561bd !2259 Add triton-cpu to Epol
+  changed_packages: triton-cpu
+  date: 2025-05-14-09-27-53

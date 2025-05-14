@@ -38,3 +38,7 @@ release-change:
   description: f57715e !2256 添加 ANNC 到 openEuler-24.03-LTS-Next 和 openEuler-24.03-LTS-SP2
   changed_packages: ANNC
   date: 2025-05-13-15-12-09
+- pr: https://gitee.com/openeuler/release-management/pulls/2259
+  description: 6f561bd !2259 Add triton-cpu to Epol
+  changed_packages: triton-cpu
+  date: 2025-05-14-09-27-53
