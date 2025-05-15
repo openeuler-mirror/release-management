@@ -4850,7 +4850,7 @@ packages:
 - name: gnome-shell-extension-dash-to-dock
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'  
+  date: '2025-05-06'
 - name: python-annotated-types
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -4879,15 +4879,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
-- name: python-mcp
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'
 - name: python-returns
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'
-- name: python-uv-dynamic-versioning
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
@@ -4904,10 +4896,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
 - name: python-pydantic-core
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'
-- name: mcp-servers
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
@@ -4931,10 +4919,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-12'
-- name: python-pydantic-settings
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-12'
 - name: python-sse-starlette
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -4942,15 +4926,11 @@ packages:
 - name: python-starlette
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-12'   
+  date: '2025-05-12'
 - name: python-uvicorn
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-12'
-- name: triton-cpu
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-13'
 - name: global-trust-authority
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2

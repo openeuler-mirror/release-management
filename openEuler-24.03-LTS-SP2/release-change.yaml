@@ -46,3 +46,9 @@ release-change:
   description: 2a4dca8 !2260 Add global-trust-authority to Epol
   changed_packages: global-trust-authority
   date: 2025-05-14-10-55-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2265
+  description: f668f30 !2265 Delete packages blocking RC4 from openEuler-24.03-LTS-SP2
+  changed_packages: python-mcp python-uv-dynamic-versioning python-pydantic-settings
+    mcp-servers triton-cpu python-mcp python-uv-dynamic-versioning python-pydantic-settings
+    mcp-servers triton-cpu
+  date: 2025-05-15-15-06-14

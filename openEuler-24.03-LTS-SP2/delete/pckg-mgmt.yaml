@@ -1,6 +1,1 @@
-packages:
-- name: mcp-servers
-- name: python-mcp
-- name: python-pydantic-settings
-- name: python-uv-dynamic-versioning
-- name: triton-cpu
+packages: []
