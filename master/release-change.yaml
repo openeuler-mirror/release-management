@@ -2388,3 +2388,7 @@ release-change:
   description: 2a4dca8 !2260 Add global-trust-authority to Epol
   changed_packages: global-trust-authority
   date: 2025-05-14-10-55-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2264
+  description: 3f77c63 !2264 在openEuler-22.03-LTS-NEXT和openEuler-22.03-LTS-SP4上增加systrace包.
+  changed_packages: sysTrace
+  date: 2025-05-15-16-47-10

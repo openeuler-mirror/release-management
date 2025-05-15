@@ -675,3 +675,7 @@ release-change:
   description: '193685a !2188 feat: 增加git-lfs到分支中'
   changed_packages: git-lfs
   date: 2025-03-24-09-24-17
+- pr: https://gitee.com/openeuler/release-management/pulls/2264
+  description: 3f77c63 !2264 在openEuler-22.03-LTS-NEXT和openEuler-22.03-LTS-SP4上增加systrace包.
+  changed_packages: sysTrace
+  date: 2025-05-15-16-47-10

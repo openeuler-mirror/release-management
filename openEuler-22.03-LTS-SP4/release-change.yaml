@@ -136,3 +136,7 @@ release-change:
   description: b1c9b36 !2218 webkit2gtk3 has been renamed to webkitgtk
   changed_packages: webkitgtk webkit2gtk3
   date: 2025-04-15-10-21-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2264
+  description: 3f77c63 !2264 在openEuler-22.03-LTS-NEXT和openEuler-22.03-LTS-SP4上增加systrace包.
+  changed_packages: sysTrace
+  date: 2025-05-15-16-47-10
