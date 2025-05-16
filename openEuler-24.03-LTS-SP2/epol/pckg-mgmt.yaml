@@ -4851,14 +4851,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
-- name: python-annotated-types
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'
-- name: python-dirty-equals
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'
 - name: oeDevPlugin
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -4892,10 +4884,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
 - name: oeGitExt
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-05-06'
-- name: python-pydantic-core
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-06'
