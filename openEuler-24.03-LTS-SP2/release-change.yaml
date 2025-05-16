@@ -52,3 +52,8 @@ release-change:
     mcp-servers triton-cpu python-mcp python-uv-dynamic-versioning python-pydantic-settings
     mcp-servers triton-cpu
   date: 2025-05-15-15-06-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2266
+  description: af2136d !2266 Move ccb package from Factory to Mainline:EPOL and add
+    to 24.03-LTS-NEXT and SP2
+  changed_packages: ccb rubygem-rest-client rubygem-netrc
+  date: 2025-05-16-11-43-04
