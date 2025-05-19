@@ -2397,3 +2397,8 @@ release-change:
     to 24.03-LTS-NEXT and SP2
   changed_packages: ccb rubygem-rest-client rubygem-netrc
   date: 2025-05-16-11-43-04
+- pr: https://gitee.com/openeuler/release-management/pulls/2271
+  description: 02edf32 !2271 Move python-safety-schemas from master:Factory to master:Python
+    for safety ebs
+  changed_packages: python-safety-schemas
+  date: 2025-05-19-17-58-25
