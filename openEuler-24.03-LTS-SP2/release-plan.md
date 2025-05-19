@@ -73,7 +73,7 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 | [IC64F9](https://gitee.com/openeuler/release-management/issues/IC64F9?from=project-issue) | secGear支持机密虚机基于UEFI启动方式的报告生成及验证 | Developing | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong) |
 | [IC621U](https://gitee.com/openeuler/release-management/issues/IC621U?from=project-issue) | 支持可信计算远程证明服务组件 | Developing | sig-security-facility | [@yang8621](https://gitee.com/yang8621) |
 | [IC64EX](https://gitee.com/openeuler/release-management/issues/IC64EX?from=project-issue) | 支持Kuasar机密容器镜像加解密 | Developing | sig-confidential-computing/sig-Cloudnative | [@xuxuepeng](https://gitee.com/xuxuepeng) |
-
+| [IC8X6H](https://gitee.com/openeuler/release-management/issues/IC8X6H?from=project-issue) | 支持众核高密容器级资源隔离技术 | Developing | sig-kernel | [@yukaii](https://gitee.com/yukaii) |
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
