@@ -57,3 +57,7 @@ release-change:
     to 24.03-LTS-NEXT and SP2
   changed_packages: ccb rubygem-rest-client rubygem-netrc
   date: 2025-05-16-11-43-04
+- pr: https://gitee.com/openeuler/release-management/pulls/2269
+  description: 3ec9613 !2269 Add triton-cpu to 24.03-LTS-SP2 Epol
+  changed_packages: triton-cpu
+  date: 2025-05-19-15-40-40
