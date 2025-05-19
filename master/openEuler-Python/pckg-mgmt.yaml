@@ -3103,3 +3103,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-04-09'
+- name: python-safety-schemas
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-05-19'
