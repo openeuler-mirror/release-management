@@ -1,2071 +1,2077 @@
 packages:
+- name: software-package-server
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
+  date: '2025-05-19'
 - name: ackermann_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: adaptive_component
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_acceleration
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_cmake
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_cmake_catch2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_cmake_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_download
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_index
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_lint
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_nodl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_package
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ament_vitis
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: angles
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: apex_containers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: apex_test_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: apriltag
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: apriltag_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: apriltag_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: aruco_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: automotive_autonomy_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: autoware_auto_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: avt_vimba_camera
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: backward_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: bag2_to_image
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: BehaviorTree.CPP
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: bond_core
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: boost_geometry_util
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: cartographer
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: cartographer_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: cascade_lifecycle
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: class_loader
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: common_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: console_bridge_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: control_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: control_toolbox
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: cpp_polyfills
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: create3_sim-release
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: cudnn_cmake_module
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: cyclonedds
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: dataspeed_can
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: dbw_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: demos
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: depthai-ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: depthimage_to_laserscan
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: diagnostics
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: dolly
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: DynamixelSDK
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: dynamixel-workbench
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: dynamixel-workbench-msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ecl_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: eigen3_cmake_module
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: eigenpy
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: eigen_stl_containers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: example_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: examples
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: Fast-CDR
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: Fast-DDS
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: filters
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: find-object
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: FluentRviz
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: foonathan_memory_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: foros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: four_wheel_steering_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: gazebo_ros_pkgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: gc_spl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: generate_parameter_library
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: geographic_info
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: geometric_shapes
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: geometry2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: geometry_tutorials
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: google_benchmark_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: googletest
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: gps_umd
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: graph_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: grasping_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: grbl_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: grid_map
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: hey5_description
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: hls_lfcd_lds_driver
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: hpp-fcl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: iceoryx
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ignition_cmake2_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ignition_math6_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: image_common
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: image_pipeline
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: image_transport_plugins
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: imu_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: interactive_markers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: joint_state_publisher
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: joystick_drivers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: kdl_parser
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: keyboard_handler
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: kinematics_interface
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: kobuki_ros_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: kobuki_velocity_smoother
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: laser_filters
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: laser_geometry
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: laser_proc
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: launch
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: launch_pal
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: launch_param_builder
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: launch_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: leo_common-ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: leo_desktop-ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: libg2o-release
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: libnabo
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: libpointmatcher
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: librealsense
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: libstatistics_collector
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: libyaml_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: lsc_ros2_driver
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: lusb
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: magic_enum
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: mapviz
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: marti_common
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: marti_messages
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: mavlink-gbp-release
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: mavros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: message_filters
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: micro_ros_diagnostics
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: micro_ros_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: microstrain_inertial
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: mimick_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: mod
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: moveit2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: moveit_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: moveit_resources
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: moveit_visual_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: mrpt_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nao_button_sim
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nao_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nao_lola
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: navigation2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: navigation_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: neo_simulation2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nerian_stereo_ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nmea_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nodl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: nodl_to_policy
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: novatel_gps_driver
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ntrip_client
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: object_recognition_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: octomap_mapping
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: octomap_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: octomap_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: octomap_rviz_plugins
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ompl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: orocos_kdl_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: osrf_pycommon
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: osrf_testing_tools_cpp
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ouxt_common
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pal_gazebo_worlds
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pal_gripper
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pal_statistics
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pcl_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: perception_pcl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: performance_test_fixture
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: phidgets_drivers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pick_ik
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: plotjuggler_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pluginlib
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pmb2_navigation
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pmb2_robot
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: point_cloud_msg_wrapper
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pointcloud_to_laserscan
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: pybind11_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: python_cmake_module
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: python_qt_binding
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: py_trees
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: py_trees_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: py_trees_ros_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: qpoases_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: qt_gui_core
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: r2r_spl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: radar_msgs-release
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: random_numbers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: raspimouse2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rc_common_msgs_ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcdiscover
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rclc
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rclcpp
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcl_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcl_logging
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rclpy
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcpputils
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rc_reason_clients_ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcss3d_agent
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rcutils
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: realsense-ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: realtime_support
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: realtime_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: resource_retriever
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_api_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_battery
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_building_map_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_cmake_uncrustify
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_internal_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_simulation
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_task
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_traffic
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_traffic_editor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_utils
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_visualization
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmf_visualization_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmw
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmw_cyclonedds
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmw_dds_common
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmw_fastrtps
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rmw_implementation
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: robot_calibration
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: robot_controllers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: robot_state_publisher
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: robot_upstart
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2acceleration
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2cli
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2cli_common_extensions
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_control
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_controllers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2launch_security
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_ouster_drivers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_planning_system
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_socketcan
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_tracing
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros2_v4l2_camera
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_aruco_opencv
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosbag2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosbridge_suite
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_canopen
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_environment
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_gz
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl_dds
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl_defaults
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl_python
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl_runtime_py
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl_typesupport
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rosidl_typesupport_fastrtps
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_image_to_qimage
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros-octomap
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rospy_message_converter
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_testing
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_tutorials
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ros_workspace
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rot_conv_lib
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rplidar_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rpyutils
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_action
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_bag
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_console
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_image_overlay
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_image_view
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_moveit
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_msg
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_plot
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_publisher
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_py_console
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_reconfigure
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_runtime_monitor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_service_caller
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_shell
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_srv
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rqt_topic
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: RSL
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rtcm_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rt_manipulators_cpp
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rt_usb_9axisimu_driver
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ruckig
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rviz
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rviz_2d_overlay_plugins
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rviz_satellite
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: rviz_visual_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: schemas
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: sdformat_urdf
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: sick_safetyscanners2_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: simple_actions
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: simple_launch
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: simple-term-menu
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: slam_toolbox
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: slider_publisher
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: SMACC2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: snowbot_operating_system
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: soccer_interfaces
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: soccer_object_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: soccer_visualization
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: sophus
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: spdlog_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: srdfdom
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: sros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: stubborn_buddies
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: swri_console
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: system_modes
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tango_icons_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: teleop_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: teleop_twist_joy
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: teleop_twist_keyboard
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tensorrt_cmake_module
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: test_interface_files
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tf_transformations
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tiago_moveit_config
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tiago_robot
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tinyxml2_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tinyxml_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tlsf
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: topic_tools
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: tracetools_acceleration
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: transport_drivers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: turtlebot3
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: turtlebot3_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: turtlebot3_simulations
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: turtlebot4
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: twist_mux
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: twist_stamper
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ublox
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ublox_dgnss
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: udp_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: uncrustify_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: unique_identifier_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: Universal_Robots_Client_Library
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: Universal_Robots_ROS2_Driver
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urdf
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urdfdom
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urdfdom_headers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urdf_parser_py
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urdf_test
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urdf_tutorial
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urg_c
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urg_node
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: urg_node_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: ur_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: variants
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: velodyne
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: velodyne_simulator
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: vision_msgs
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: vision_msgs_layers
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: vision_opencv
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: vrpn
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: wall_follower_ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: warehouse_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: warehouse_ros_sqlite
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: webots_ros2
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: xacro
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: yaml_cpp_vendor
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
 - name: zbar_ros
-  source_dir: humble
-  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol:Multi-Version:ROS:humble
-  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
