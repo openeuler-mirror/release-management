@@ -135,3 +135,4 @@ packages:
   - name: llvm-mlir
   - name: python-ninja
   - name: python-sip
+  - name: fipscheck
