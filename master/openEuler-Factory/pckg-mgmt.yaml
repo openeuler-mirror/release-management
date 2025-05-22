@@ -15383,3 +15383,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-05-15"
+    - name: python-backrefs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-22"
