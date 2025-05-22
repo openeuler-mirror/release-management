@@ -15395,3 +15395,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-05-22"
+    - name: python-typing-inspection
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-22"
