@@ -2402,3 +2402,8 @@ release-change:
     for safety ebs
   changed_packages: python-safety-schemas
   date: 2025-05-19-17-58-25
+- pr: https://gitee.com/openeuler/release-management/pulls/2274
+  description: a51b966 !2274 Move python-Authlib from master:Epol to master:Python
+    for python-safety ebs
+  changed_packages: python-Authlib
+  date: 2025-05-22-16-21-52
