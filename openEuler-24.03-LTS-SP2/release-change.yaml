@@ -61,3 +61,7 @@ release-change:
   description: 3ec9613 !2269 Add triton-cpu to 24.03-LTS-SP2 Epol
   changed_packages: triton-cpu
   date: 2025-05-19-15-40-40
+- pr: https://gitee.com/openeuler/release-management/pulls/2275
+  description: d47cac5 !2275 add UNT to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP2
+  changed_packages: UNT
+  date: 2025-05-22-22-07-19

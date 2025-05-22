@@ -444,3 +444,7 @@ release-change:
     to 24.03-LTS-NEXT and SP2
   changed_packages: ccb rubygem-rest-client rubygem-netrc
   date: 2025-05-16-11-43-04
+- pr: https://gitee.com/openeuler/release-management/pulls/2275
+  description: d47cac5 !2275 add UNT to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP2
+  changed_packages: UNT
+  date: 2025-05-22-22-07-19
