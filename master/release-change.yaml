@@ -2407,3 +2407,8 @@ release-change:
     for python-safety ebs
   changed_packages: python-Authlib
   date: 2025-05-22-16-21-52
+- pr: https://gitee.com/openeuler/release-management/pulls/2276
+  description: ac2fe98 !2276 Move python-backrefs&tomcli&dependency-groups&typing-inspection
+    from Factory to master:Python for pkg upgrade
+  changed_packages: python-backrefs python-tomcli python-dependency-groups python-typing-inspection
+  date: 2025-05-23-17-06-25
