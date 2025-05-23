@@ -15383,19 +15383,3 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-05-15"
-    - name: python-backrefs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-05-22"
-    - name: python-tomcli
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-05-22"
-    - name: python-dependency-groups
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-05-22"
-    - name: python-typing-inspection
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-05-22"

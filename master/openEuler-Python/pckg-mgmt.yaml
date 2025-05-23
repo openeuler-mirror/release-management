@@ -3111,3 +3111,19 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2025-05-22'
+- name: python-backrefs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-05-23'
+- name: python-tomcli
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-05-23'
+- name: python-dependency-groups
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-05-23'
+- name: python-typing-inspection
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-05-23'
