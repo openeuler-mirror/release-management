@@ -51,6 +51,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: SDL3
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-05-15'
 - name: SDL_sound
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -1527,6 +1531,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: libdecor
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-05-15'
 - name: libdmapsharing
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
