@@ -2412,3 +2412,7 @@ release-change:
     from Factory to master:Python for pkg upgrade
   changed_packages: python-backrefs python-tomcli python-dependency-groups python-typing-inspection
   date: 2025-05-23-17-06-25
+- pr: https://gitee.com/openeuler/release-management/pulls/2261
+  description: 2e7d2ec !2261 move SDL3 into mainline
+  changed_packages: SDL3 libdecor
+  date: 2025-05-26-11-22-14
