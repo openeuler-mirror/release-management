@@ -65,3 +65,7 @@ release-change:
   description: d47cac5 !2275 add UNT to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP2
   changed_packages: UNT
   date: 2025-05-22-22-07-19
+- pr: https://gitee.com/openeuler/release-management/pulls/2277
+  description: bbe4499 !2277 Add MCP-Servers related packages
+  changed_packages: mcp-servers python-mcp python-pydantic-settings python-uv-dynamic-versioning
+  date: 2025-05-26-14-17-50
