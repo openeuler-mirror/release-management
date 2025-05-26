@@ -140,3 +140,8 @@ release-change:
   description: 3f77c63 !2264 在openEuler-22.03-LTS-NEXT和openEuler-22.03-LTS-SP4上增加systrace包.
   changed_packages: sysTrace
   date: 2025-05-15-16-47-10
+- pr: https://gitee.com/openeuler/release-management/pulls/2278
+  description: b0f210e !2278 add resaware_nri_plugins to openEuler-22.03-LTS-Next
+    and openEuler-22.03-LTS-SP4
+  changed_packages: resaware_nri_plugins
+  date: 2025-05-26-14-34-00
