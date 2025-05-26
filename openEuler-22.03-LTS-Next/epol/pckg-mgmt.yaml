@@ -5921,3 +5921,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.03:LTS:Next
   date: '2025-05-15'
+- name: resaware_nri_plugins
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:22.03:LTS:Next:Epol
+  date: '2025-05-26'
