@@ -4939,3 +4939,19 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-05-19'
+- name: mcp-servers
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-05-26'
+- name: python-mcp
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-05-26'
+- name: python-pydantic-settings
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-05-26'
+- name: python-uv-dynamic-versioning
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-05-26'
