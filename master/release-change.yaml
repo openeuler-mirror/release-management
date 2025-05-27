@@ -2416,3 +2416,8 @@ release-change:
   description: 2e7d2ec !2261 move SDL3 into mainline
   changed_packages: SDL3 libdecor
   date: 2025-05-26-11-22-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2279
+  description: 2762568 !2279 Move python-nltk from master:Factory to master:Python
+    for python-safety upgrade
+  changed_packages: python-nltk
+  date: 2025-05-27-16-26-47
