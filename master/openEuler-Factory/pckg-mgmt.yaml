@@ -15379,3 +15379,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-05-28"
+    - name: python-narwhals
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-28"
+    - name: doctest
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-28"
+    - name: xsimd
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-28"
+    - name: libarrow
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-05-28"
