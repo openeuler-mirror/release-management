@@ -2421,3 +2421,8 @@ release-change:
     for python-safety upgrade
   changed_packages: python-nltk
   date: 2025-05-27-16-26-47
+- pr: https://gitee.com/openeuler/release-management/pulls/2281
+  description: df52554 !2281 Move python-roman-numerals-py from master:Factory to
+    master:Python for python-sip upgrade
+  changed_packages: python-roman-numerals-py
+  date: 2025-05-28-18-16-44
