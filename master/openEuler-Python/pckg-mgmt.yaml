@@ -3131,3 +3131,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-05-27'
+- name: python-roman-numerals-py
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-05-28'
