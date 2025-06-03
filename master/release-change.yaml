@@ -2426,3 +2426,8 @@ release-change:
     master:Python for python-sip upgrade
   changed_packages: python-roman-numerals-py
   date: 2025-05-28-18-16-44
+- pr: https://gitee.com/openeuler/release-management/pulls/2283
+  description: 90d5db5 !2283 Remove python-sip from master:Factory for pkg rename
+    to sip-6
+  changed_packages: python-sip
+  date: 2025-06-03-10-24-04
