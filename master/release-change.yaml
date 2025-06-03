@@ -2431,3 +2431,7 @@ release-change:
     to sip-6
   changed_packages: python-sip
   date: 2025-06-03-10-24-04
+- pr: https://gitee.com/openeuler/release-management/pulls/2284
+  description: ab2ebf5 !2284 Add sip-6 to master:Factory for pkg rename from python-sip
+  changed_packages: sip-6
+  date: 2025-06-03-10-48-24
