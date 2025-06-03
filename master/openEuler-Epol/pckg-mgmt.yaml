@@ -7727,3 +7727,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-05-16'
+- name: SoftBR
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-06-03'
