@@ -134,3 +134,4 @@ packages:
   - name: lldb
   - name: llvm-mlir
   - name: python-ninja
+  - name: python-sip
