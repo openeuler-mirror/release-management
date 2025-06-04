@@ -7255,10 +7255,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-15'
-- name: utf8cpp
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-08-15'
 - name: vlc
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
