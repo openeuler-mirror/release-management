@@ -47,18 +47,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
   date: '2025-05-14'
-- name: grpc
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
-- name: krb5
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
 - name: networking-baremetal
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
@@ -611,12 +599,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
   date: '2025-05-14'
-- name: python-ceilometerclient
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
 - name: python-cffi
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
@@ -822,12 +804,6 @@ packages:
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
   date: '2025-05-14'
 - name: python-eventlet
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
-- name: python-execnet
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
@@ -1925,12 +1901,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
   date: '2025-05-14'
-- name: python-redis
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
 - name: python-requests
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
@@ -2285,12 +2255,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
   date: '2025-05-14'
-- name: python-typed-ast
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
 - name: python-typepy
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
@@ -2472,12 +2436,6 @@ packages:
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
   date: '2025-05-14'
 - name: python-zunclient
-  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Antelope
-  date: '2025-05-14'
-- name: pytz
   source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP2
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope

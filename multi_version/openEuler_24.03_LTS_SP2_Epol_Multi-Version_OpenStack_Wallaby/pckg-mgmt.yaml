@@ -2003,12 +2003,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Wallaby
   date: '2025-05-14'
-- name: python-redis
-  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2025-05-14'
 - name: python-reno
   source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-SP2
@@ -2670,12 +2664,6 @@ packages:
   obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Wallaby
   date: '2025-05-14'
 - name: python-zunclient
-  source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
-  destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-SP2
-  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
-  obs_to: openEuler:24.03:LTS:SP2:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2025-05-14'
-- name: pytz
   source_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-SP2
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
