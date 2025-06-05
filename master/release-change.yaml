@@ -2439,3 +2439,7 @@ release-change:
   description: ee054a9 !2273 obsolete fipscheck with libkcapi
   changed_packages: fipscheck
   date: 2025-06-05-14-16-48
+- pr: https://gitee.com/openeuler/release-management/pulls/2288
+  description: f429de3 !2288 move utf8cpp for taglib
+  changed_packages: utf8cpp
+  date: 2025-06-05-14-18-34
