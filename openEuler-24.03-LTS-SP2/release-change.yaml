@@ -73,3 +73,7 @@ release-change:
   description: 6bccb48 !2286 Add SoftBR to 24.03-LTS-SP2 Epol
   changed_packages: SoftBR
   date: 2025-06-05-14-53-02
+- pr: https://gitee.com/openeuler/release-management/pulls/2289
+  description: f9288ec !2289 添加 openEuler Intelligence 前端到 master, 24.03 SP2 的 EPOL
+  changed_packages: euler-copilot-web
+  date: 2025-06-05-17-07-23
