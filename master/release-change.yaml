@@ -2435,3 +2435,7 @@ release-change:
   description: ab2ebf5 !2284 Add sip-6 to master:Factory for pkg rename from python-sip
   changed_packages: sip-6
   date: 2025-06-03-10-48-24
+- pr: https://gitee.com/openeuler/release-management/pulls/2273
+  description: ee054a9 !2273 obsolete fipscheck with libkcapi
+  changed_packages: fipscheck
+  date: 2025-06-05-14-16-48
