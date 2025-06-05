@@ -2443,3 +2443,7 @@ release-change:
   description: f429de3 !2288 move utf8cpp for taglib
   changed_packages: utf8cpp
   date: 2025-06-05-14-18-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2286
+  description: 6bccb48 !2286 Add SoftBR to 24.03-LTS-SP2 Epol
+  changed_packages: SoftBR
+  date: 2025-06-05-14-53-02

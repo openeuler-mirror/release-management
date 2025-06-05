@@ -69,3 +69,7 @@ release-change:
   description: bbe4499 !2277 Add MCP-Servers related packages
   changed_packages: mcp-servers python-mcp python-pydantic-settings python-uv-dynamic-versioning
   date: 2025-05-26-14-17-50
+- pr: https://gitee.com/openeuler/release-management/pulls/2286
+  description: 6bccb48 !2286 Add SoftBR to 24.03-LTS-SP2 Epol
+  changed_packages: SoftBR
+  date: 2025-06-05-14-53-02
