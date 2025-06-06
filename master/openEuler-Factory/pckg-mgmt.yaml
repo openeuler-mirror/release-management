@@ -15615,3 +15615,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-06"
+    - name: json
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-06"
+    - name: python-ollama
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-06"
+    - name: python-pymupdf
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-06"
+    - name: arrow
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-06"
