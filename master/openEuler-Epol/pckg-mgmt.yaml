@@ -7951,3 +7951,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-10'
+- name: python-pymongo-4
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-06-10'
+- name: euler-copilot-witchaind-web
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-06-10'
