@@ -15107,10 +15107,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-22"
-    - name: sysHAX
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-01-23"
     - name: kunpeng-devkit
       obs_from: ""
       obs_to: openEuler:Factory

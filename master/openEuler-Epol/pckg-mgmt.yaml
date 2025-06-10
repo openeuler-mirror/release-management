@@ -7947,3 +7947,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-06'
+- name: sysHAX
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-06-10'
