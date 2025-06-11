@@ -2464,3 +2464,8 @@ release-change:
   description: 0a1a174 !2294 add python-openpyxl,python-et_xmlfile to Epol,24.03-LTS-SP2
   changed_packages: python-et_xmlfile python-openpyxl
   date: 2025-06-11-10-35-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2295
+  description: 2466749 !2295 Move python-webcolors from master:Epol to master:Python
+    for python-jsonschema[nongpl] deps
+  changed_packages: python-webcolors
+  date: 2025-06-11-22-31-21
