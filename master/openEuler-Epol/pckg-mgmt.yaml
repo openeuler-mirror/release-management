@@ -7959,3 +7959,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-10'
+- name: python-et_xmlfile
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-11"
+- name: python-openpyxl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-11"
