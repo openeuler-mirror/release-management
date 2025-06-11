@@ -86,3 +86,7 @@ release-change:
     EPOL
   changed_packages: python-pymongo-4 euler-copilot-witchaind-web
   date: 2025-06-10-20-59-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2294
+  description: 0a1a174 !2294 add python-openpyxl,python-et_xmlfile to Epol,24.03-LTS-SP2
+  changed_packages: python-et_xmlfile
+  date: 2025-06-11-10-35-29
