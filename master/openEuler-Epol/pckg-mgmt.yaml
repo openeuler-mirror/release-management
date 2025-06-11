@@ -2735,10 +2735,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-webcolors
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-websockify
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol

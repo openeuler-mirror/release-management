@@ -3135,3 +3135,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-05-28'
+- name: python-webcolors
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2025-06-11'
