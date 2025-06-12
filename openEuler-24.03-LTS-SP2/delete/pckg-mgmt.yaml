@@ -1,1 +1,15 @@
-packages: []
+packages:
+- name: python-rapidfuzz 
+- name: json
+- name: python-opencv-python-headless
+- name: python-pyarrow
+- name: arrow
+- name: python-paddleocr
+- name: python-opencv-contrib-python
+- name: python-clang
+- name: python-pymupdf
+- name: python-propcache
+- name: python-lancedb
+- name: python-paddlepaddle
+- name: python-opencv-python
+- name: oceanbase-ce
