@@ -4651,10 +4651,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-04-03'
-- name: oceanbase-ce
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-04-03'
 - name: raspberrypi-utils
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -4975,19 +4971,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
-- name: python-rapidfuzz
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: python-opencv-python-headless
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
 - name: python-lazy-loader
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: python-paddleocr
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
@@ -4996,10 +4980,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
 - name: python-langchain-openai
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: python-paddlepaddle
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
@@ -5020,10 +5000,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
 - name: python-tifffile
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: python-opencv-python
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
@@ -5059,10 +5035,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
-- name: python-propcache
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
 - name: python-imgaug
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -5087,10 +5059,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
-- name: python-opencv-contrib-python
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
 - name: python-langchain-text-splitters
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -5099,15 +5067,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
-- name: python-pyarrow
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
 - name: python-jiojio
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: python-lancedb
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
@@ -5120,10 +5080,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
 - name: python-ollama
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: python-pymupdf
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
@@ -5143,10 +5099,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
-- name: python-clang
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
 - name: python-simsimd
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
@@ -5156,14 +5108,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
 - name: python-zipfile36
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: arrow
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP2
-  date: '2025-06-06'
-- name: json
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-06'
@@ -5235,4 +5179,3 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-11'
-

@@ -90,3 +90,12 @@ release-change:
   description: 0a1a174 !2294 add python-openpyxl,python-et_xmlfile to Epol,24.03-LTS-SP2
   changed_packages: python-et_xmlfile
   date: 2025-06-11-10-35-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2296
+  description: c39d076 !2296 Delete packages blocking RC8 from openEuler-24.03-LTS-SP2
+  changed_packages: json python-pyarrow python-propcache python-paddlepaddle python-lancedb
+    python-opencv-contrib-python python-rapidfuzz python-opencv-python python-opencv-python-headless
+    python-pymupdf python-paddleocr arrow oceanbase-ce python-clang json python-pyarrow
+    python-propcache python-paddlepaddle python-lancedb python-opencv-contrib-python
+    python-rapidfuzz python-opencv-python python-opencv-python-headless python-pymupdf
+    python-paddleocr arrow oceanbase-ce python-clang
+  date: 2025-06-12-17-42-44
