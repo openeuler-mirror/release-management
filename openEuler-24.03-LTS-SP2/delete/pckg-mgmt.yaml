@@ -1,3 +1,1 @@
-packages:
-- name: python-sqlalchemy2
-- name: python-pymongo-4
+packages: []
