@@ -213,3 +213,21 @@ release:
   - disnight
   - Jingwiw
   - x33x33
+
+- branch: openEuler-24.03-LTS-SP2
+  community:
+  - src-openeuler
+  frozen: true
+  owner:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - kylinlq
+  - hekeyi
+  - yeqinglong01
+  - SmallPegasus
+  - disnight
+  - Jingwiw
+  - x33x33
