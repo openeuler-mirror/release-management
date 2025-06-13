@@ -2469,3 +2469,7 @@ release-change:
     for python-jsonschema[nongpl] deps
   changed_packages: python-webcolors
   date: 2025-06-11-22-31-21
+- pr: https://gitee.com/openeuler/release-management/pulls/2297
+  description: 2c5bd2e !2297 drop xorg-x11-apps from distrib, it has been splitted
+  changed_packages: xorg-x11-apps
+  date: 2025-06-13-14-22-48
