@@ -136,3 +136,4 @@ packages:
   - name: python-ninja
   - name: python-sip
   - name: fipscheck
+  - name: xorg-x11-apps
