@@ -3139,3 +3139,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2025-06-11'
+- name: sip-6
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-06-16'
+- name: python-narwhals
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-06-16'
