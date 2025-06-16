@@ -4091,3 +4091,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-03-11'
+- name: doctest
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-06-16'
+- name: xsimd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-06-16'
+- name: libarrow
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-06-16'
+- name: apache-orc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-06-16'
