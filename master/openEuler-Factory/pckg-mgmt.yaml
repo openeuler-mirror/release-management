@@ -15427,3 +15427,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-17"
+    - name: LMCache
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: sick_safevisionary_base
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
