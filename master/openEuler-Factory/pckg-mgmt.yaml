@@ -15419,3 +15419,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-09"
+    - name: andino
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: ess_imu_driver2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
