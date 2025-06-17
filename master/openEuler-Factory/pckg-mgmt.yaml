@@ -15471,3 +15471,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-17"
+    - name: kata-containers-go
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
