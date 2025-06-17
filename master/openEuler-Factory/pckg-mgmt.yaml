@@ -15435,3 +15435,39 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-17"
+    - name: schunk_svh_library
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: sync_parameter_server
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: event_camera_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: situational_graphs_datasets
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: multiple_topic_monitor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: odom_to_tf_ros2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: pal_maps
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: clearpath_nav2_demos
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
+    - name: flex_sync
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-17"
