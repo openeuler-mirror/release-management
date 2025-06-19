@@ -15351,42 +15351,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-06"
-    - name: ghc-network-control
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-http-semantics
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-cborg
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-character-ps
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-half
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-serialise
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-text-icu
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-djot
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
-    - name: ghc-skylighting-format-typst
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-09"
     - name: andino
       obs_from: ""
       obs_to: openEuler:Factory
