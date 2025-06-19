@@ -473,3 +473,7 @@ release-change:
   description: 84faee5 !2306 从openEuler-24.03-LTS-Next分支删除vscode
   changed_packages: vscode vscode
   date: 2025-06-19-09-33-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2305
+  description: fd2c26d !2305 【轻量级 PR】：delete unuseful dde-introduction
+  changed_packages: dde-introduction dde-introduction
+  date: 2025-06-19-11-13-29
