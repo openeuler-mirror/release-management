@@ -469,3 +469,7 @@ release-change:
   description: 0a1a174 !2294 add python-openpyxl,python-et_xmlfile to Epol,24.03-LTS-SP2
   changed_packages: python-et_xmlfile
   date: 2025-06-11-10-35-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2306
+  description: 84faee5 !2306 从openEuler-24.03-LTS-Next分支删除vscode
+  changed_packages: vscode vscode
+  date: 2025-06-19-09-33-41
