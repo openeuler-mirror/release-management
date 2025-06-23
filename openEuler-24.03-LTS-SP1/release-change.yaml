@@ -127,3 +127,7 @@ release-change:
   description: 612a46f !2226 添加 vllm 依赖到openEuler-24.03-LTS-Next、openEuler-24.03-LTS-SP1
   changed_packages: vllm
   date: 2025-04-15-16-17-07
+- pr: https://gitee.com/openeuler/release-management/pulls/2309
+  description: 59faf6b !2309 move oceanbase from 24.03 LTS NEXT to 24.03 LTS SP1
+  changed_packages: oceanbase-ce
+  date: 2025-06-23-19-19-09
