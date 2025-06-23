@@ -4827,3 +4827,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP1
   date: '2025-04-15'
+- name: oceanbase-ce
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP1
+  date: '2025-06-23'
