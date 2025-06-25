@@ -62,7 +62,6 @@ openEuler 24.03 LTS SP2 是基于6.6内核的LTS版本（参见[版本生命周�
 | [IC62XT](https://gitee.com/openeuler/release-management/issues/IC62XT?from=project-issue) | 支持超大虚机规格 | Developing | virt-sig | [@JiaboFeng](https://gitee.com/JiaboFeng) |
 | [IC632C](https://gitee.com/openeuler/release-management/issues/IC632C?from=project-issue) | openEuler Copilot 支持多维度（时间）过滤分析和分权分域，推理高准确率开箱即用 | Developing | sig-intelligence | [@fromhsc](https://gitee.com/fromhsc) |
 | [IC5ZTI](https://gitee.com/openeuler/release-management/issues/IC5ZTI?from=project-issue) | 嵌入式北向软件包补齐 | Developing | sig-embedded | [@hzc04](https://gitee.com/hzc04) |
-| [IC64CW](https://gitee.com/openeuler/release-management/issues/IC64CW?from=project-issue) | 毕昇JDK8支持堆内存上限扩容能力 | Developing | sig-Compiler | [@kuenking111](https://gitee.com/kuenking111) |
 | [IC61UI](https://gitee.com/openeuler/release-management/issues/IC61UI?from=project-issue) | epkg新型软件包及包管理器功能增强 | Developing | sig-epkg | [@duan_pj](https://gitee.com/duan_pj) |
 | [IC67I8](https://gitee.com/openeuler/release-management/issues/IC67I8?from=project-issue) | FUSE passthrough支持 | Developing | sig-kernel | [@yang-erkun](https://gitee.com/yang-erkun) |
 | [IC60AT](https://gitee.com/openeuler/release-management/issues/IC60AT?from=project-issue) | oeDeploy工具易用性提升，部署能力增强 | Developing | sig-ops | [@dingjiahuichina](https://gitee.com/dingjiahuichina) |
