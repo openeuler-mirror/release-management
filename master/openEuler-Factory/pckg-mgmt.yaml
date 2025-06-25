@@ -15479,3 +15479,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-23"
+    - name: erlang-rebar3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-25"
