@@ -2482,3 +2482,8 @@ release-change:
   description: 71c3975 !2268 drop yasm from master
   changed_packages: yasm
   date: 2025-06-26-09-58-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2307
+  description: d83c0b8 !2307 move perl-Clone-Choose, perl-Clone-PP, perl-Safe-Isa
+    into everything
+  changed_packages: perl-Safe-Isa perl-Clone-Choose perl-Clone-PP
+  date: 2025-06-26-10-03-18
