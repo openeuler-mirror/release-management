@@ -103,3 +103,7 @@ release-change:
   description: 3de3664 !2298 Delete packages blocking RC8 from openEuler-24.03-LTS-SP2
   changed_packages: python-pymongo-4 python-sqlalchemy2 python-pymongo-4 python-sqlalchemy2
   date: 2025-06-13-12-20-44
+- pr: https://gitee.com/openeuler/release-management/pulls/2301
+  description: 1827974 !2301 drop python-sqlalchemy2 from 24.03-LTS-SP2/Next
+  changed_packages: python-sqlalchemy2
+  date: 2025-06-26-09-59-48

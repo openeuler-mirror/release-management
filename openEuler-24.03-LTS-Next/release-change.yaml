@@ -477,3 +477,7 @@ release-change:
   description: fd2c26d !2305 【轻量级 PR】：delete unuseful dde-introduction
   changed_packages: dde-introduction dde-introduction
   date: 2025-06-19-11-13-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2301
+  description: 1827974 !2301 drop python-sqlalchemy2 from 24.03-LTS-SP2/Next
+  changed_packages: python-sqlalchemy2 python-sqlalchemy2
+  date: 2025-06-26-09-59-48

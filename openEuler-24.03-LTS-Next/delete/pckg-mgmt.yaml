@@ -77,4 +77,3 @@ packages:
 - name: pkgship
 - name: clutter-gst2
 - name: webkit2gtk3
-- name: python-sqlalchemy2

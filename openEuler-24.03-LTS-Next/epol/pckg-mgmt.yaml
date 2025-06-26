@@ -8291,12 +8291,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-sqlalchemy2
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: sysHAX
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
