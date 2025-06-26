@@ -2478,3 +2478,7 @@ release-change:
     to master:C for potly upgrade deps
   changed_packages: doctest xsimd libarrow apache-orc sip-6 python-narwhals
   date: 2025-06-16-15-24-17
+- pr: https://gitee.com/openeuler/release-management/pulls/2268
+  description: 71c3975 !2268 drop yasm from master
+  changed_packages: yasm
+  date: 2025-06-26-09-58-29

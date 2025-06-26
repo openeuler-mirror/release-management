@@ -3939,10 +3939,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: yasm
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: yelp
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
