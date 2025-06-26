@@ -75,6 +75,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Perl
   date: '2022-07-26'
+- name: perl-Safe-Isa
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: '2025-06-22'
 - name: perl-SGMLSpm
   obs_from: openEuler:Mainline
   obs_to: openEuler:Perl
@@ -115,3 +119,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: "2024-10-29"
+- name: perl-Clone-Choose
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2025-06-22"
+- name: perl-Clone-PP
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2025-06-22"

@@ -2907,14 +2907,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Clone-Choose
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Clone-PP
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Command-Runner
       obs_from: ""
       obs_to: openEuler:Factory
@@ -5416,10 +5408,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: perl-SVG-Parser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: perl-Safe-Isa
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
