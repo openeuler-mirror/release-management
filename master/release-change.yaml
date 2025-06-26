@@ -2487,3 +2487,7 @@ release-change:
     into everything
   changed_packages: perl-Safe-Isa perl-Clone-Choose perl-Clone-PP
   date: 2025-06-26-10-03-18
+- pr: https://gitee.com/openeuler/release-management/pulls/2308
+  description: 4b12b72 !2308 move gpgmepp python-gpgme to everything, qgpgme to epol
+  changed_packages: gpgme gpgmepp qgpgme python-gpgme
+  date: 2025-06-26-10-11-41
