@@ -15343,18 +15343,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-05"
-    - name: qgpgme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-06"
-    - name: python-gpgme
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-06"
-    - name: gpgmepp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-06"
     - name: txgbe-driver
       obs_from: ""
       obs_to: openEuler:Factory

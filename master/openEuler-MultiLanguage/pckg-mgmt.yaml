@@ -91,10 +91,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
-- name: gpgme
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: '2022-07-26'
 - name: graphviz
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage

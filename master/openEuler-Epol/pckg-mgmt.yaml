@@ -8407,3 +8407,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2025-06-17'
+- name: qgpgme
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-06-26'
