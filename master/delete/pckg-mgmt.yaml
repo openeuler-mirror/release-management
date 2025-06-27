@@ -142,3 +142,4 @@ packages:
   - name: ghc-data-default-instances-containers
   - name: ghc-data-default-instances-dlist
   - name: ghc-data-default-instances-old-locale
+  - name: xorg-x11-server-utils
