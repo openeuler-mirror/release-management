@@ -15487,3 +15487,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-27"
+    - name: marker_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-27"
