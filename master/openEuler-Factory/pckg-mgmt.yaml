@@ -15479,3 +15479,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-27"
+    - name: mocap4r2_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-27"
+    - name: interactive_marker_twist_server
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-06-27"
