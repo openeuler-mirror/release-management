@@ -138,3 +138,7 @@ packages:
   - name: fipscheck
   - name: xorg-x11-apps
   - name: yasm
+  - name: ghc-attoparsec-iso8601
+  - name: ghc-data-default-instances-containers
+  - name: ghc-data-default-instances-dlist
+  - name: ghc-data-default-instances-old-locale

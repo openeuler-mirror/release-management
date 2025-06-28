@@ -8411,3 +8411,39 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-26'
+- name: ghc-network-control
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-http-semantics
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-cborg
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-character-ps
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-half
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-serialise
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-text-icu
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-djot
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
+- name: ghc-skylighting-format-typst
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-06-26"
