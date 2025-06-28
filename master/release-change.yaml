@@ -2491,3 +2491,10 @@ release-change:
   description: 4b12b72 !2308 move gpgmepp python-gpgme to everything, qgpgme to epol
   changed_packages: gpgme gpgmepp qgpgme python-gpgme
   date: 2025-06-26-10-11-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2302
+  description: d84e63d !2302 Move new haskell packages from Factory to Epol and delete
+    obselete packages
+  changed_packages: ghc-network-control ghc-http-semantics ghc-cborg ghc-character-ps
+    ghc-half ghc-serialise ghc-text-icu ghc-djot ghc-skylighting-format-typst ghc-data-default-instances-old-locale
+    ghc-data-default-instances-containers ghc-data-default-instances-dlist ghc-attoparsec-iso8601
+  date: 2025-06-28-10-41-06

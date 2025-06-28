@@ -6163,10 +6163,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-28'
-- name: ghc-data-default-instances-old-locale
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-28'
 - name: ghc-hslua-packaging
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -6256,10 +6252,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2024-07-28'
 - name: ghc-asn1-parse
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-28'
-- name: ghc-attoparsec-iso8601
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-28'
@@ -6639,10 +6631,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-28'
-- name: ghc-data-default-instances-dlist
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-28'
 - name: ghc-data-fix
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -6996,10 +6984,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2024-07-28'
 - name: ghc-bsb-http-chunked
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2024-07-28'
-- name: ghc-data-default-instances-containers
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-07-28'
@@ -7958,11 +7942,11 @@ packages:
 - name: python-et_xmlfile
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-11"
+  date: '2025-06-11'
 - name: python-openpyxl
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-11"
+  date: '2025-06-11'
 - name: R-ascii
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
@@ -8414,36 +8398,36 @@ packages:
 - name: ghc-network-control
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-http-semantics
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-cborg
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-character-ps
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-half
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-serialise
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-text-icu
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-djot
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
 - name: ghc-skylighting-format-typst
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-06-26"
+  date: '2025-06-26'
