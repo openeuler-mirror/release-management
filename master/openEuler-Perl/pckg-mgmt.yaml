@@ -127,3 +127,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: "2025-06-22"
+- name: perl-YAML-PP
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2025-06-28"
