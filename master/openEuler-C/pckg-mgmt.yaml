@@ -3859,10 +3859,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: xorg-x11-server-utils
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: xorg-x11-util-macros
   obs_from: openEuler:Mainline
   obs_to: openEuler:C

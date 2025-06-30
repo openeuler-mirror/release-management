@@ -2498,3 +2498,7 @@ release-change:
     ghc-half ghc-serialise ghc-text-icu ghc-djot ghc-skylighting-format-typst ghc-data-default-instances-old-locale
     ghc-data-default-instances-containers ghc-data-default-instances-dlist ghc-attoparsec-iso8601
   date: 2025-06-28-10-41-06
+- pr: https://gitee.com/openeuler/release-management/pulls/2312
+  description: 71cca83 !2312 remove xorg-x11-server-utils from distrib
+  changed_packages: xorg-x11-server-utils
+  date: 2025-06-30-10-39-06
