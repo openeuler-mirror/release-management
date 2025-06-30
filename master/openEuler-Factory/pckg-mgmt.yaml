@@ -15411,30 +15411,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-25"
-    - name: libfcache
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-26"
-    - name: libcerror
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-26"
-    - name: libfdata
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-26"
-    - name: libcthreads
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-26"
-    - name: libcdata
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-26"
-    - name: libcnotify
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-26"
     - name: perl-App-cpanminus
       obs_from: ""
       obs_to: openEuler:Factory
