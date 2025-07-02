@@ -15427,3 +15427,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-27"
+    - name: python-justbases
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-02"
