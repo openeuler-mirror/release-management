@@ -7175,3 +7175,39 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2025-04-28'
+- name: libfcache
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: "2025-06-30"
+- name: libcerror
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: "2025-06-30"
+- name: libfdata
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: "2025-06-30"
+- name: libcthreads
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: "2025-06-30"
+- name: libcdata
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: "2025-06-30"
+- name: libcnotify
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: "2025-06-30"

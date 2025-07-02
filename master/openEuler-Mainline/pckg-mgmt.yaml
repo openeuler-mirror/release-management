@@ -5987,3 +5987,27 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-05-15'
+- name: libfcache
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-06-30"
+- name: libcerror
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-06-30"
+- name: libfdata
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-06-30"
+- name: libcthreads
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-06-30"
+- name: libcdata
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-06-30"
+- name: libcnotify
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2025-06-30"
