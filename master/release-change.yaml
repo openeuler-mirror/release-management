@@ -2502,3 +2502,7 @@ release-change:
   description: 71cca83 !2312 remove xorg-x11-server-utils from distrib
   changed_packages: xorg-x11-server-utils
   date: 2025-06-30-10-39-06
+- pr: https://gitee.com/openeuler/release-management/pulls/2315
+  description: b1f4b04 !2315 add libfdata-related packages to master and 24.03-LTS-Next
+  changed_packages: libfcache libcerror libfdata libcthreads libcdata libcnotify
+  date: 2025-07-02-09-17-36
