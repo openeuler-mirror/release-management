@@ -5055,10 +5055,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-06-26'
-- name: gtksourceview2
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-06-26'
 - name: zathura-pdf-poppler
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

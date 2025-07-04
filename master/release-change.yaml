@@ -2506,3 +2506,7 @@ release-change:
   description: b1f4b04 !2315 add libfdata-related packages to master and 24.03-LTS-Next
   changed_packages: libfcache libcerror libfdata libcthreads libcdata libcnotify
   date: 2025-07-02-09-17-36
+- pr: https://gitee.com/openeuler/release-management/pulls/2317
+  description: c4b5e84 !2317 deprecate gtksourceview2/3 from master
+  changed_packages: gtksourceview2 gtksourceview3
+  date: 2025-07-04-14-17-53
