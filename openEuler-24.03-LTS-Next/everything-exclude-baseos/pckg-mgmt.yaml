@@ -22493,3 +22493,9 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol
   obs_to: openEuler:24.03:LTS:Next
   date: '2025-05-22'
+- name: llvm-toolset-20
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-07-07'
