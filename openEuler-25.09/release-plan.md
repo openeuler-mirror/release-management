@@ -42,8 +42,7 @@ openEuler 25.09 是基于6.6内核的创新版本（参见[版本生命周期](h
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-||||||||
-
+|[ICKOE7](https://gitee.com/openeuler/release-management/issues/ICKOE7?from=project-issue)|  GTA远程证明支持VirtCCA | Developing | sig-security-facility | [ @yang8621 ](https://gitee.com/yang8621) |ISO| global-trust-authority、secGear|
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
