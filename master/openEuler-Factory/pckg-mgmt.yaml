@@ -15739,3 +15739,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-09"
+    - name: onnx
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-09"
