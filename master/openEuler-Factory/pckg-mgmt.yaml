@@ -15743,3 +15743,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-09"
+    - name: uos-tc-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-14"
+    - name: uos-uwsgi-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-14"
