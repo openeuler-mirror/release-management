@@ -4103,3 +4103,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-06-16'
+- name: gflags
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2025-07-14'
+- name: glog
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2025-07-14'
