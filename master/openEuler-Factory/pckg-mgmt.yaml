@@ -15751,3 +15751,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-14"
+    - name: hri_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-14"
