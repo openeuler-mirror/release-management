@@ -2510,3 +2510,8 @@ release-change:
   description: c4b5e84 !2317 deprecate gtksourceview2/3 from master
   changed_packages: gtksourceview2 gtksourceview3
   date: 2025-07-04-14-17-53
+- pr: https://gitee.com/openeuler/release-management/pulls/2323
+  description: 07a1231 !2323 Move gflags&glog from master:Epol to master:C for libarrow
+    EBS deps
+  changed_packages: gflags glog
+  date: 2025-07-14-09-15-11
