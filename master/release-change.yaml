@@ -2515,3 +2515,8 @@ release-change:
     EBS deps
   changed_packages: gflags glog
   date: 2025-07-14-09-15-11
+- pr: https://gitee.com/openeuler/release-management/pulls/2325
+  description: f26bf3d !2325 Move python-pytzdata from master:Epol to master:Python
+    for libarrow deps
+  changed_packages: python-pytzdata
+  date: 2025-07-15-14-35-51
