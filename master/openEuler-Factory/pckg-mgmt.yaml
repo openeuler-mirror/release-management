@@ -15759,3 +15759,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-14"
+    - name: qt6-qtgraphs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-15"
