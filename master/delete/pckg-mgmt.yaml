@@ -145,3 +145,7 @@ packages:
   - name: xorg-x11-server-utils
   - name: gtksourceview2
   - name: gtksourceview3
+  - name: rubygem-rspec2
+  - name: rubygem-rspec2-core
+  - name: rubygem-rspec2-expectations
+  - name: rubygem-rspec2-mocks
