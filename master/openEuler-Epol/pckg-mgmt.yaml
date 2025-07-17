@@ -8415,3 +8415,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-26'
+- name: libe-book
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-07-16'
