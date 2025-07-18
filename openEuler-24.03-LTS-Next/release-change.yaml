@@ -485,3 +485,7 @@ release-change:
   description: b1f4b04 !2315 add libfdata-related packages to master and 24.03-LTS-Next
   changed_packages: libfcache libcerror libfdata libcthreads libcdata libcnotify
   date: 2025-07-02-09-17-36
+- pr: https://gitee.com/openeuler/release-management/pulls/2318
+  description: f0fb64c !2318 add llvm-toolset-20 to everything
+  changed_packages: llvm-toolset-20
+  date: 2025-07-18-17-23-55

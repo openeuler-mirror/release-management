@@ -2524,3 +2524,7 @@ release-change:
   description: 0c6dd4d !2328 Move libe-book to Epol
   changed_packages: libe-book
   date: 2025-07-17-20-04-45
+- pr: https://gitee.com/openeuler/release-management/pulls/2318
+  description: f0fb64c !2318 add llvm-toolset-20 to everything
+  changed_packages: llvm-toolset-20
+  date: 2025-07-18-17-23-55
