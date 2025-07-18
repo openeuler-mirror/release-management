@@ -45,6 +45,7 @@ openEuler 25.09 是基于6.6内核的创新版本（参见[版本生命周期](h
 |:----|:---|:---|:--|:----|:----|:----|
 |[ICKOE7](https://gitee.com/openeuler/release-management/issues/ICKOE7?from=project-issue)|  GTA远程证明支持VirtCCA | Developing | sig-security-facility | [ @yang8621 ](https://gitee.com/yang8621) |ISO| global-trust-authority、secGear|
 |[ICM8OF](https://gitee.com/openeuler/release-management/issues/ICM8OF)|以 valkey 取代 redis 作为首选的内存数据库|Developing|DB|[@fundawang](https://gitee.com/fundawang)|Everything|valkey|
+| [ICMV3X](https://gitee.com/openeuler/release-management/issues/ICMV3X) | 支持树莓派 | Developing | sig-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
