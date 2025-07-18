@@ -147,6 +147,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
   date: "2023-05-30"
+- name: qt6-qtgraphs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Qt
+  date: "2025-07-16"
 - name: qt6-qtlanguageserver
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
