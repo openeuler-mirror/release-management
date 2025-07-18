@@ -107,3 +107,7 @@ release-change:
   description: 1827974 !2301 drop python-sqlalchemy2 from 24.03-LTS-SP2/Next
   changed_packages: python-sqlalchemy2
   date: 2025-06-26-09-59-48
+- pr: https://gitee.com/openeuler/release-management/pulls/2311
+  description: 6237c38 !2311 move oceanbase from 24.03 LTS NEXT to 24.03 LTS SP2
+  changed_packages: oceanbase-ce
+  date: 2025-07-18-17-22-53
