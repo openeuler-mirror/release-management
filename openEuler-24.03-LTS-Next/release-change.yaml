@@ -489,3 +489,7 @@ release-change:
   description: f0fb64c !2318 add llvm-toolset-20 to everything
   changed_packages: llvm-toolset-20
   date: 2025-07-18-17-23-55
+- pr: https://gitee.com/openeuler/release-management/pulls/2330
+  description: 'da31481 !2330 feat: 添加DevStore到openEuler-24.03-LTS-Next、master的EPOL'
+  changed_packages: DevStore
+  date: 2025-07-18-17-55-49

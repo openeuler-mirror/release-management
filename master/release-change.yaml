@@ -2533,3 +2533,7 @@ release-change:
   changed_packages: rubygem-rspec2-expectations rubygem-rspec2 rubygem-rspec2-core
     rubygem-rspec2-mocks
   date: 2025-07-18-17-26-38
+- pr: https://gitee.com/openeuler/release-management/pulls/2330
+  description: 'da31481 !2330 feat: 添加DevStore到openEuler-24.03-LTS-Next、master的EPOL'
+  changed_packages: DevStore
+  date: 2025-07-18-17-55-49
