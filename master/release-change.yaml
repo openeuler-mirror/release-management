@@ -2528,3 +2528,8 @@ release-change:
   description: f0fb64c !2318 add llvm-toolset-20 to everything
   changed_packages: llvm-toolset-20
   date: 2025-07-18-17-23-55
+- pr: https://gitee.com/openeuler/release-management/pulls/2331
+  description: 5bddab4 !2331 remove rubygem-rspec2 packages from master
+  changed_packages: rubygem-rspec2-expectations rubygem-rspec2 rubygem-rspec2-core
+    rubygem-rspec2-mocks
+  date: 2025-07-18-17-26-38
