@@ -111,3 +111,7 @@ release-change:
   description: 6237c38 !2311 move oceanbase from 24.03 LTS NEXT to 24.03 LTS SP2
   changed_packages: oceanbase-ce
   date: 2025-07-18-17-22-53
+- pr: https://gitee.com/openeuler/release-management/pulls/2326
+  description: 42c5ea3 !2326 move qt6-qtgraphs to everything
+  changed_packages: oceanbase-ce
+  date: 2025-07-18-17-24-37
