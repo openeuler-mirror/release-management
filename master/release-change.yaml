@@ -2537,3 +2537,7 @@ release-change:
   description: 'da31481 !2330 feat: 添加DevStore到openEuler-24.03-LTS-Next、master的EPOL'
   changed_packages: DevStore
   date: 2025-07-18-17-55-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2332
+  description: 30d2522 !2332 move qt-creator into epol
+  changed_packages: qt-creator
+  date: 2025-07-21-10-37-38
