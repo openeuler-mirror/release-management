@@ -6011,3 +6011,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: "2025-06-30"
+- name: kf6
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-07-21'
