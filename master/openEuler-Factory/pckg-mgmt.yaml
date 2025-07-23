@@ -15863,3 +15863,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: raspimouse_slam_navigation
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: kuka_robot_descriptions
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
