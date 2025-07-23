@@ -15963,3 +15963,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: clearpath_common
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
