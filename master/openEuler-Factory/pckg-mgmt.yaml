@@ -15887,3 +15887,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: clearpath_mecanum_drive_controller
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: wrapyfi_ros2_interfaces
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
