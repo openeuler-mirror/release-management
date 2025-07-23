@@ -15875,3 +15875,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: nmea_navsat_driver
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: weight_scale_interfaces
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
