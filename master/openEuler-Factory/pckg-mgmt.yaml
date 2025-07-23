@@ -15783,3 +15783,23 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: catch_ros2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: situational_graphs_reasoning_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: off_highway_sensor_drivers
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: camera_aravis2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: clearpath_config
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
