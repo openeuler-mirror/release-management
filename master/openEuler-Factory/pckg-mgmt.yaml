@@ -15839,3 +15839,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: pal_navigation_cfg_public
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
