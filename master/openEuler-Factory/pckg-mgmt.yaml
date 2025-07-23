@@ -15779,3 +15779,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: point_cloud_transport_plugins
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
