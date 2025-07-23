@@ -15927,3 +15927,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: twist_mux_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: etsi_its_messages
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
