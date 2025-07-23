@@ -15819,3 +15819,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: fadecandy_ros
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: game_controller_spl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
