@@ -15915,3 +15915,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: astuff_sensor_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: autoware_adapi_msgs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
