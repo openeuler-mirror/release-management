@@ -15899,3 +15899,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: classic_bags
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
+    - name: log_view
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
