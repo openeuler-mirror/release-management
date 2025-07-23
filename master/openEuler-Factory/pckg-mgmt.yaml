@@ -15751,3 +15751,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-16"
+    - name: crane_plus
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
