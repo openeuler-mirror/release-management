@@ -15935,3 +15935,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: franka_description
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-23"
