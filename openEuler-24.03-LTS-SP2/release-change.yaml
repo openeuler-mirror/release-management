@@ -115,3 +115,7 @@ release-change:
   description: 42c5ea3 !2326 move qt6-qtgraphs to everything
   changed_packages: oceanbase-ce
   date: 2025-07-18-17-24-37
+- pr: https://gitee.com/openeuler/release-management/pulls/2341
+  description: dbfa12e !2341 Add vllm into 24.03-LTS-SP2
+  changed_packages: vllm
+  date: 2025-07-25-15-14-22
