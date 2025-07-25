@@ -5175,3 +5175,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP2
   date: '2025-06-24'
+- name: vllm
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP2
+  date: '2025-07-25'
