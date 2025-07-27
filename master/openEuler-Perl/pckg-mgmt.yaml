@@ -131,3 +131,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: "2025-06-28"
+- name: perl-Sys-Hostname-Long
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2025-07-27"

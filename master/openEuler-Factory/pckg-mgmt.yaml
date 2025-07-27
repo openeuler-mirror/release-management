@@ -5639,10 +5639,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: perl-Sys-Hostname-Long
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: perl-Sys-Info
       obs_from: ""
       obs_to: openEuler:Factory
