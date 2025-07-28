@@ -145,3 +145,7 @@ release-change:
     and openEuler-22.03-LTS-SP4
   changed_packages: resaware_nri_plugins
   date: 2025-05-26-14-34-00
+- pr: https://gitee.com/openeuler/release-management/pulls/2320
+  description: 6856447 !2320 [Compiler SIG] gcc-14 多版本GCC仓引入openEuler 22.03-LTS-SP4
+  changed_packages: gcc-14 binutils-2.42
+  date: 2025-07-28-10-15-08
