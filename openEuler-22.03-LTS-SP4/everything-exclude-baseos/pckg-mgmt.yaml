@@ -18707,3 +18707,15 @@ packages:
   obs_from: openEuler:22.03:LTS:Next
   obs_to: openEuler:22.03:LTS:SP4
   date: '2025-04-07'
+- name: gcc-14
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:BaseTools
+  obs_to: openEuler:22.03:LTS:SP4
+  date: '2025-07-10'
+- name: binutils-2.42
+  source_dir: master
+  destination_dir: openEuler-22.03-LTS-SP4
+  obs_from: openEuler:BaseTools
+  obs_to: openEuler:22.03:LTS:SP4
+  date: '2025-07-10'
