@@ -149,3 +149,4 @@ packages:
   - name: rubygem-rspec2-core
   - name: rubygem-rspec2-expectations
   - name: rubygem-rspec2-mocks
+  - name: fros
