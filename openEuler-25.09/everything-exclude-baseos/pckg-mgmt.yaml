@@ -15055,3 +15055,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
+- name: opengauss-dcf
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-07-29'
+- name: opengauss-server
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-07-29'
+- name: aws-sdk-cpp
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-07-29'
