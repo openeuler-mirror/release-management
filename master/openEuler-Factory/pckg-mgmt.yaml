@@ -15427,7 +15427,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-08"
-
     - name: onnx
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15688,3 +15687,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-07-23"
+    - name: robin-map
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-29"
+    - name: python-nanobind
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-07-29"
