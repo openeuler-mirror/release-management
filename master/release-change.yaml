@@ -2541,3 +2541,7 @@ release-change:
   description: 30d2522 !2332 move qt-creator into epol
   changed_packages: qt-creator
   date: 2025-07-21-10-37-38
+- pr: https://gitee.com/openeuler/release-management/pulls/2342
+  description: c2fe453 !2342 move perl-Sys-Hostname-Long for perl-Mail-Sendmail
+  changed_packages: perl-Sys-Hostname-Long
+  date: 2025-07-30-10-00-06
