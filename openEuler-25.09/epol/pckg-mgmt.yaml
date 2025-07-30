@@ -7175,10 +7175,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: xrdb
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: xrefresh
   source_dir: master
   destination_dir: openEuler-25.09
