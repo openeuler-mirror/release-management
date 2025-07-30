@@ -3911,6 +3911,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-10-17'
+- name: xrandr
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2025-07-30'
 - name: xrdb
   obs_from: openEuler:Epol
   obs_to: openEuler:C
