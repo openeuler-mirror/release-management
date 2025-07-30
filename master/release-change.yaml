@@ -2549,3 +2549,7 @@ release-change:
   description: 0275b2f !2345 move xrdb into everything
   changed_packages: xrdb
   date: 2025-07-30-16-37-22
+- pr: https://gitee.com/openeuler/release-management/pulls/2346
+  description: b0a91de !2346 move xrandr into everything
+  changed_packages: xrandr
+  date: 2025-07-30-17-27-05
