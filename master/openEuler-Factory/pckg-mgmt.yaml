@@ -15751,3 +15751,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-04"
+    - name: tmcl_ros2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-04"
