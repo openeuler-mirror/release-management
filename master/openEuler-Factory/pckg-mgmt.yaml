@@ -7767,10 +7767,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-django-rest-framework
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-django-reversion
       obs_from: ""
       obs_to: openEuler:Factory
