@@ -15699,3 +15699,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-04"
+    - name: social_nav_ros
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-04"
+    - name: puma_motor_driver
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-04"
