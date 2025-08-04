@@ -15739,3 +15739,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-04"
+    - name: ros_babel_fish
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-04"
+    - name: turtlebot3_manipulation
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-04"
