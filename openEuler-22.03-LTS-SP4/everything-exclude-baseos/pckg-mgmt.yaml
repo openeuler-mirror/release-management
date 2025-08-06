@@ -18719,3 +18719,7 @@ packages:
   obs_from: openEuler:BaseTools
   obs_to: openEuler:22.03:LTS:SP4
   date: '2025-07-10'
+- name: UNT
+  source_dir: openEuler-24.03-LTS-SP2
+  destination_dir: openEuler-22.03-LTS-SP4
+  date: '2025-08-06'
