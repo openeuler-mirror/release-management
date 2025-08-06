@@ -15759,3 +15759,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-04"
+    - name: uos-iptables-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-06"
+    - name: uos-time-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-06"
