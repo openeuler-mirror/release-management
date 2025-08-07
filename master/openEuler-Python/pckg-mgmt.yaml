@@ -31,10 +31,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
-- name: fros
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Python
-  date: '2022-07-26'
 - name: future
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
