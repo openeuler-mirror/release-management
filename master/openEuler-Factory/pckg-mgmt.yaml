@@ -15771,3 +15771,35 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-07"
+    - name: utpasswd
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utzip
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utiputils
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utcpio
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utipmitool
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utxz
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utdnsmasq
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
+    - name: utpam
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-08"
