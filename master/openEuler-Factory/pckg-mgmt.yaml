@@ -15807,3 +15807,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-08"
+    - name: microdnf
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-11"
