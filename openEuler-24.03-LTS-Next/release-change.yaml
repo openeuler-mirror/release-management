@@ -493,3 +493,7 @@ release-change:
   description: 'da31481 !2330 feat: 添加DevStore到openEuler-24.03-LTS-Next、master的EPOL'
   changed_packages: DevStore
   date: 2025-07-18-17-55-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2356
+  description: faf148d !2356 add systrace on openEuler-24.03-LTS-NEXT and openEuler-24.03-LTS-SP2.
+  changed_packages: sysTrace
+  date: 2025-08-11-20-39-07
