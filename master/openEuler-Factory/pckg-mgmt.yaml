@@ -15811,3 +15811,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-11"
+    - name: phonon-backend-vlc
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-12"
+    - name: gala-filetrace
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-12"
