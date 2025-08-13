@@ -8719,3 +8719,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-07-21'
+- name: microdnf
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-08-13'
+- name: phonon-backend-vlc
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-08-13'
