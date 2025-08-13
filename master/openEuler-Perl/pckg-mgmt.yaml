@@ -135,3 +135,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: "2025-07-27"
+- name: perl-XML-SAX-Expat
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2025-08-08"
