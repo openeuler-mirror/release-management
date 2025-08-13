@@ -2553,3 +2553,7 @@ release-change:
   description: b0a91de !2346 move xrandr into everything
   changed_packages: xrandr
   date: 2025-07-30-17-27-05
+- pr: https://gitee.com/openeuler/release-management/pulls/2354
+  description: 2919cc5 !2354 move perl-XML-SAX-Expat for perl-XML-Simple
+  changed_packages: perl-XML-SAX-Expat
+  date: 2025-08-13-17-00-28
