@@ -7283,4 +7283,8 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-30'
+- name: libe-book
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-14'
 
