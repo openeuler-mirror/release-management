@@ -3155,3 +3155,11 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Python
   date: '2025-07-15'
+- name: python-Cerberus
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-08-14'
+- name: python-markdown-callouts
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-08-14'

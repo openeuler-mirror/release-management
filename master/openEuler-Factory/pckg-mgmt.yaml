@@ -6899,10 +6899,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-Cerberus
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-Cerealizer
       obs_from: ""
       obs_to: openEuler:Factory
@@ -13860,10 +13856,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: python-sphinx-autodoc-napoleon-typehints
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-markdown-callouts
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
