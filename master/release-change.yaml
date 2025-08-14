@@ -2557,3 +2557,8 @@ release-change:
   description: 2919cc5 !2354 move perl-XML-SAX-Expat for perl-XML-Simple
   changed_packages: perl-XML-SAX-Expat
   date: 2025-08-13-17-00-28
+- pr: https://gitee.com/openeuler/release-management/pulls/2359
+  description: e22054f !2359 Move python-Cerberus&markdown-callouts from Factory to
+    master:Python for fix install deps
+  changed_packages: python-Cerberus python-markdown-callouts
+  date: 2025-08-14-16-37-42
