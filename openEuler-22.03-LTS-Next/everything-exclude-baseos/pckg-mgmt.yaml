@@ -18480,6 +18480,6 @@ packages:
 - name: UNT
   source_dir: master
   destination_dir: openEuler-22.03-LTS-Next
-  obs_from: openEuler:22.03:LTS:Next:Epol
+  obs_from: openEuler:Factory
   obs_to: openEuler:22.03:LTS:Next
   date: '2025-08-15'
