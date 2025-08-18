@@ -149,3 +149,7 @@ release-change:
   description: 6856447 !2320 [Compiler SIG] gcc-14 多版本GCC仓引入openEuler 22.03-LTS-SP4
   changed_packages: gcc-14 binutils-2.42
   date: 2025-07-28-10-15-08
+- pr: https://gitee.com/openeuler/release-management/pulls/2353
+  description: 'c0dac96 !2353 openEuler-22.03-LTS-SP4: add UNT'
+  changed_packages: UNT
+  date: 2025-08-18-19-48-22

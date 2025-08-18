@@ -684,3 +684,7 @@ release-change:
     and openEuler-22.03-LTS-SP4
   changed_packages: resaware_nri_plugins
   date: 2025-05-26-14-34-00
+- pr: https://gitee.com/openeuler/release-management/pulls/2353
+  description: 'c0dac96 !2353 openEuler-22.03-LTS-SP4: add UNT'
+  changed_packages: UNT
+  date: 2025-08-18-19-48-22
