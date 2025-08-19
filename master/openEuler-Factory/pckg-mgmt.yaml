@@ -15823,3 +15823,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-19"
+    - name: sbg_ros2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-19"
+    - name: schunk_svh_ros_driver
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-19"
