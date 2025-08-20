@@ -15835,3 +15835,75 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-19"
+    - name: kylin-process-manager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: ok-input-method
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: seatd
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: yhkylin-backup-tools
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: kylin-calendar
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: libkysdk-diagnosetest
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: libliftoff
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: kylin-ai-runtime
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: CImg
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: vcdimager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: libkysdk-desktop
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: kylin-wayland-compositor
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: ukui-file-metadata
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: libkylin-ai-base
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: libkylin-ai-engine-devel
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: wlroots
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: libdisplay-info
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
+    - name: kylin-wayland-protocols
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-20"
