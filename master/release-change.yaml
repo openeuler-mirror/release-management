@@ -2562,3 +2562,8 @@ release-change:
     master:Python for fix install deps
   changed_packages: python-Cerberus python-markdown-callouts
   date: 2025-08-14-16-37-42
+- pr: https://gitee.com/openeuler/release-management/pulls/2368
+  description: 2923ed7 !2368 Move python-assertpy from master:Factory to master:Python
+    for pytest-html upgrade
+  changed_packages: python-assertpy
+  date: 2025-08-20-18-51-38
