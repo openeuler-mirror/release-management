@@ -1,5 +1,2 @@
 packages:
-  - name: fros
-  - name: openGemini
-  - name: oceanbase-ce
-  - name: tidb
+- name: fros

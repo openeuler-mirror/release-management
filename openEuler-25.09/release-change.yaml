@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/2366
+  description: 55566fc !2366 add openEuler-25.09 release-change.yaml.
+  changed_packages: openGemini tidb oceanbase-ce openGemini tidb oceanbase-ce
+  date: 2025-08-20-16-14-52

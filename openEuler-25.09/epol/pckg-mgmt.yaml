@@ -3831,10 +3831,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: oceanbase-ce
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: oclock
   source_dir: master
   destination_dir: openEuler-25.09
@@ -3912,10 +3908,6 @@ packages:
   destination_dir: openEuler-25.09
   date: '2025-07-23'
 - name: openfortivpn
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: openGemini
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
@@ -6555,10 +6547,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: tidb
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: tig
   source_dir: master
   destination_dir: openEuler-25.09
@@ -7287,4 +7275,3 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-14'
-
