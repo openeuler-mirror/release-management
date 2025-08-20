@@ -3163,3 +3163,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-08-14'
+- name: python-assertpy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-08-20'
