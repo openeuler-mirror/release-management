@@ -3,3 +3,11 @@ release-change:
   description: 55566fc !2366 add openEuler-25.09 release-change.yaml.
   changed_packages: openGemini tidb oceanbase-ce openGemini tidb oceanbase-ce
   date: 2025-08-20-16-14-52
+- pr: https://gitee.com/openeuler/release-management/pulls/2367
+  description: e95c010 !2367 add ukui 2509 branch
+  changed_packages: ukui-file-metadata ok-input-method libkylin-ai-engine-devel kylin-ai-runtime
+    libkysdk-desktop libkysdk-diagnosetest libkylin-ai-base kylin-wayland-compositor
+    wlroots seatd libdisplay-info libliftoff kylin-process-manager kylin-calendar
+    yhkylin-backup-tools vcdimager kylin-wayland-protocols CImg xcb-util-errors ukui-quick
+    ukui-sni
+  date: 2025-08-21-14-13-25

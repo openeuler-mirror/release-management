@@ -2571,3 +2571,10 @@ release-change:
   description: 6838f87 !2357 move microdnf and phonon-backend-vlc into epol
   changed_packages: microdnf phonon-backend-vlc
   date: 2025-08-21-10-58-20
+- pr: https://gitee.com/openeuler/release-management/pulls/2367
+  description: e95c010 !2367 add ukui 2509 branch
+  changed_packages: ukui-file-metadata ok-input-method libkylin-ai-engine-devel kylin-ai-runtime
+    libkysdk-desktop libkysdk-diagnosetest libkylin-ai-base kylin-wayland-compositor
+    wlroots seatd libdisplay-info libliftoff kylin-process-manager kylin-calendar
+    yhkylin-backup-tools vcdimager kylin-wayland-protocols CImg xcb-util-errors
+  date: 2025-08-21-14-13-25
