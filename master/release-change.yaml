@@ -2567,3 +2567,7 @@ release-change:
     for pytest-html upgrade
   changed_packages: python-assertpy
   date: 2025-08-20-18-51-38
+- pr: https://gitee.com/openeuler/release-management/pulls/2357
+  description: 6838f87 !2357 move microdnf and phonon-backend-vlc into epol
+  changed_packages: microdnf phonon-backend-vlc
+  date: 2025-08-21-10-58-20
