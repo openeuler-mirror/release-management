@@ -15827,3 +15827,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-21"
+    - name: cgnslib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-21"
+    - name: verdict
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-21"
+    - name: fast_float
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-08-21"
