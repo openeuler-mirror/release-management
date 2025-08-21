@@ -28,6 +28,7 @@ branch:
   - Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
   - openEuler-24.09
   - openEuler-25.03
+  - openEuler-25.09
   openEuler-20.03-LTS-Next:
   - openEuler-20.03-LTS
   - openEuler-20.03-LTS-SP1
