@@ -7359,3 +7359,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-21'
+- name: python-markdown2
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-21'
+- name: python-docx
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-21'
