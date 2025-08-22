@@ -3167,3 +3167,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-08-20'
+- name: python-markdown2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-08-21'
+- name: python-docx
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-08-21'
