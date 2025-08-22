@@ -15,3 +15,7 @@ release-change:
   description: da7e5f7 !2364 add python-markdown2 python-docx from openEuler-25.09
   changed_packages: python-markdown2 python-docx
   date: 2025-08-22-09-32-27
+- pr: https://gitee.com/openeuler/release-management/pulls/2371
+  description: 30670f7 !2371 Add python-assertpy to 25.09 for pytest-html build error
+  changed_packages: python-assertpy
+  date: 2025-08-22-10-31-08
