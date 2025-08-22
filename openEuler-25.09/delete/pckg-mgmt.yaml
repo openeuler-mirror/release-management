@@ -1,2 +1,3 @@
 packages:
 - name: fros
+- name: python-elasticsearch2
