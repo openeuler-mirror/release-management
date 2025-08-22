@@ -3175,3 +3175,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-08-21'
+- name: python-krb5
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: "2025-08-22"
