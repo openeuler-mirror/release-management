@@ -1,7 +1,2 @@
 packages:
-  - name: fros
-  - name: openGemini
-  - name: oceanbase-ce
-  - name: tidb
-  - name: python-elasticsearch2
-  - name: gnome-remote-desktop
+- name: fros

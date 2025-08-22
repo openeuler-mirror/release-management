@@ -2027,10 +2027,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: gnome-remote-desktop
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: gnome-screenshot
   source_dir: master
   destination_dir: openEuler-25.09
