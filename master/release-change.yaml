@@ -2586,3 +2586,8 @@ release-change:
   description: 20dc252 !2369 remove from future release
   changed_packages: python-elasticsearch2 python-suds-jurko
   date: 2025-08-22-10-31-50
+- pr: https://gitee.com/openeuler/release-management/pulls/2372
+  description: bdf3594 !2372 Add python-krb5 to openEuler 25.09 for python3-pyspnego+kerberos
+    requires
+  changed_packages: python-krb5
+  date: 2025-08-22-10-54-31
