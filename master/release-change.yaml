@@ -2578,3 +2578,7 @@ release-change:
     wlroots seatd libdisplay-info libliftoff kylin-process-manager kylin-calendar
     yhkylin-backup-tools vcdimager kylin-wayland-protocols CImg xcb-util-errors
   date: 2025-08-21-14-13-25
+- pr: https://gitee.com/openeuler/release-management/pulls/2364
+  description: da7e5f7 !2364 add python-markdown2 python-docx from openEuler-25.09
+  changed_packages: python-markdown2 python-docx
+  date: 2025-08-22-09-32-27
