@@ -2631,10 +2631,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-suds-jurko
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-supervisor
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -4268,10 +4264,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-28'
 - name: python-discover
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2022-07-28'
-- name: python-elasticsearch2
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2022-07-28'
@@ -8414,11 +8406,11 @@ packages:
 - name: DevStore
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-07-18"
+  date: '2025-07-18'
 - name: python-django-rest-framework
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-07-30"
+  date: '2025-07-30'
 - name: libe-book
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

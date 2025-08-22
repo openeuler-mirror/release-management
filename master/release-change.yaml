@@ -2582,3 +2582,7 @@ release-change:
   description: da7e5f7 !2364 add python-markdown2 python-docx from openEuler-25.09
   changed_packages: python-markdown2 python-docx
   date: 2025-08-22-09-32-27
+- pr: https://gitee.com/openeuler/release-management/pulls/2369
+  description: 20dc252 !2369 remove from future release
+  changed_packages: python-elasticsearch2 python-suds-jurko
+  date: 2025-08-22-10-31-50
