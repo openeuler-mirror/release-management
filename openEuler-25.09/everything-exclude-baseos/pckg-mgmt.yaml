@@ -15083,3 +15083,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-14'
+- name: python-assertpy
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-22'
