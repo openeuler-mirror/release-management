@@ -37,3 +37,7 @@ release-change:
   description: 9d98eec !2376 add back luarocks
   changed_packages: luarocks
   date: 2025-08-25-11-01-50
+- pr: https://gitee.com/openeuler/release-management/pulls/2378
+  description: 47b7aab !2378 新增xdotool的25.09分支
+  changed_packages: xdotool
+  date: 2025-08-25-14-23-23
