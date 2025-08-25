@@ -33,3 +33,7 @@ release-change:
   changed_packages: gnome-remote-desktop oceanbase-ce gnome-remote-desktop openGemini
     tidb python-elasticsearch2
   date: 2025-08-22-16-40-18
+- pr: https://gitee.com/openeuler/release-management/pulls/2376
+  description: 9d98eec !2376 add back luarocks
+  changed_packages: luarocks
+  date: 2025-08-25-11-01-50
