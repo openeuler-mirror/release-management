@@ -191,10 +191,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
   date: '2022-07-26'
-- name: nodejs-tap
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:MultiLanguage
-  date: '2022-07-26'
 - name: nspr
   obs_from: openEuler:Mainline
   obs_to: openEuler:MultiLanguage
@@ -458,4 +454,4 @@ packages:
 - name: llvm-toolset-20
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
-  date: "2025-07-07"
+  date: '2025-07-07'

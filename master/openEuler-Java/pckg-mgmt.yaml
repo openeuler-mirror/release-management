@@ -399,10 +399,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: closure-compiler
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: codegen
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
