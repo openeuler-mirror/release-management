@@ -7359,3 +7359,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-21'
+- name: xdotool
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-25'
