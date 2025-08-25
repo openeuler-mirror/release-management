@@ -4103,6 +4103,12 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: kata-containers-go
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-08-25'
 - name: kde-filesystem
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
