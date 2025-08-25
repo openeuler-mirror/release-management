@@ -5987,3 +5987,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-07-21'
+- name: Catch2
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-08-25'
