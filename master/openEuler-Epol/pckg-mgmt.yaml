@@ -5447,10 +5447,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-18'
-- name: Catch2
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2023-08-18'
 - name: python-catkin_pkg
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
