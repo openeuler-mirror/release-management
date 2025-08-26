@@ -2591,3 +2591,7 @@ release-change:
     requires
   changed_packages: python-krb5
   date: 2025-08-22-10-54-31
+- pr: https://gitee.com/openeuler/release-management/pulls/2379
+  description: 89581a1 !2379 Move Catch2 from openEuler:Epol to openEuler:Mainline
+  changed_packages: Catch2
+  date: 2025-08-26-09-27-41
