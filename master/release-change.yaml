@@ -2595,3 +2595,8 @@ release-change:
   description: 89581a1 !2379 Move Catch2 from openEuler:Epol to openEuler:Mainline
   changed_packages: Catch2
   date: 2025-08-26-09-27-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2384
+  description: 5f03db9 !2384 add  python-orjson、 python-xxhash 、python-faker in openEuler
+    25.09
+  changed_packages: python-orjson python-xxhash python-Faker
+  date: 2025-08-27-15-58-22
