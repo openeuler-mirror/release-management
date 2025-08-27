@@ -7363,3 +7363,15 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-25'
+- name: python-xxhash
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-27'
+- name: python-orjson
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-27'
+- name: python-Faker
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-27'

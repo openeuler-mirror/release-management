@@ -6915,10 +6915,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
-    - name: python-Faker
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
     - name: python-Flask-Admin
       obs_from: ""
       obs_to: openEuler:Factory
@@ -9944,10 +9940,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2022-07-26"
     - name: python-xunitparser
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2022-07-26"
-    - name: python-xxhash
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2022-07-26"
@@ -13872,10 +13864,6 @@ packages:
       obs_to: openEuler:Factory
       date: "2023-08-17"
     - name: pyproject-flake8
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
-    - name: python-orjson
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
