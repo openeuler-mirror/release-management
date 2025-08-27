@@ -497,3 +497,7 @@ release-change:
   description: faf148d !2356 add systrace on openEuler-24.03-LTS-NEXT and openEuler-24.03-LTS-SP2.
   changed_packages: sysTrace
   date: 2025-08-11-20-39-07
+- pr: https://gitee.com/openeuler/release-management/pulls/2380
+  description: ba7a6ea !2380 add kata-containers-go to openEuler-24.03-LTS-Next baseos
+  changed_packages: kata-containers-go
+  date: 2025-08-27-10-18-01
