@@ -8791,3 +8791,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-08-21'
+- name: python-orjson
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-08-27'
+- name: python-xxhash
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-08-27'
+- name: python-Faker
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-08-27'
