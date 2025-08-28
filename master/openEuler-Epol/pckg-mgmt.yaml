@@ -8803,3 +8803,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-08-27'
+- name: qbe
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-08-28'
