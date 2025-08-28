@@ -46,3 +46,7 @@ release-change:
     25.09
   changed_packages: python-xxhash python-orjson python-Faker
   date: 2025-08-27-15-58-22
+- pr: https://gitee.com/openeuler/release-management/pulls/2387
+  description: bd1f937 !2387 add python-opencv-python-headless in openEuler-25.09
+  changed_packages: python-opencv-python-headless
+  date: 2025-08-28-16-14-01
