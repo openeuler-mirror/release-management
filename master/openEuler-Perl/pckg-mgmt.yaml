@@ -139,3 +139,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Perl
   date: "2025-08-08"
+- name: perl-CryptX
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Perl
+  date: "2025-08-28"
