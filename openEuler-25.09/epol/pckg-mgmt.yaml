@@ -7375,3 +7375,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-27'
+- name: python-opencv-python-headless
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-28'
