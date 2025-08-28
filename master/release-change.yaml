@@ -2600,3 +2600,7 @@ release-change:
     25.09
   changed_packages: python-orjson python-xxhash python-Faker
   date: 2025-08-27-15-58-22
+- pr: https://gitee.com/openeuler/release-management/pulls/2385
+  description: f0da773 !2385 Move qbe from openEuler:Factory to openEuler:Epol
+  changed_packages: qbe
+  date: 2025-08-28-11-19-11
