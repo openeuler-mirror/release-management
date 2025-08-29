@@ -935,6 +935,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
+- name: gcc-cross
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-08-29'
 - name: gcolor2
   source_dir: master
   destination_dir: openEuler-25.09
