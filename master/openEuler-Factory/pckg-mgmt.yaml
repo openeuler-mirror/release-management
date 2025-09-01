@@ -15827,3 +15827,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-08-30"
+    - name: cangjie
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-01"
