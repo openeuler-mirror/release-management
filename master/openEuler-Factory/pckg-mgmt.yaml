@@ -15827,3 +15827,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-01"
+    - name: suil
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-01"
+    - name: audacity
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-01"
+    - name: portmidi
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-01"
