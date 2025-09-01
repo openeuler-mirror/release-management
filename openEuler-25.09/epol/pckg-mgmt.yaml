@@ -7383,3 +7383,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-08-28'
+- name: DevStore
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2025-09-01'
