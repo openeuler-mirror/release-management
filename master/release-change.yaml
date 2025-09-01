@@ -2604,3 +2604,7 @@ release-change:
   description: f0da773 !2385 Move qbe from openEuler:Factory to openEuler:Epol
   changed_packages: qbe
   date: 2025-08-28-11-19-11
+- pr: https://gitee.com/openeuler/release-management/pulls/2382
+  description: 336f3f1 !2382 move perl-CryptX into everything for perl-Mail-DKIM
+  changed_packages: perl-CryptX
+  date: 2025-09-01-14-33-58
