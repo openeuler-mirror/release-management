@@ -1,9 +1,2 @@
 packages:
 - name: fros
-- name: aops-apollo
-- name: aops-ceres
-- name: aops-diana
-- name: aops-hermes
-- name: aops-vulcanus
-- name: aops-zeus
-- name: authHub

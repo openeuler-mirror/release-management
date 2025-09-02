@@ -55,30 +55,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: aops-apollo
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: aops-ceres
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: aops-diana
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: aops-hermes
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: aops-vulcanus
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: aops-zeus
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: appres
   source_dir: master
   destination_dir: openEuler-25.09
@@ -116,10 +92,6 @@ packages:
   destination_dir: openEuler-25.09
   date: '2025-07-23'
 - name: auter
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: authHub
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
