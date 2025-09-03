@@ -38,7 +38,7 @@ openEuler 24.03 LTS SP3 是基于6.6内核的LTS版本（参见[版本生命周�
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-||||||||
+|1|[【openEuler 24.03 LTS SP3】isa-l库：CRC算法在RISC-V架构的优化](https://gitee.com/openeuler/release-management/issues/ICW20J?from=project-issue)|Accepted|dev-utils|@qtliu666|EPOL|isa-l|
 
 
 # 需求/特性反馈基本流程 <br />
