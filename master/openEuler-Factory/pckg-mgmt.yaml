@@ -15839,3 +15839,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-01"
+    - name: uos-squid-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-03"
+    - name: uos-dovecot-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-03"
+    - name: uos-syslog-ng-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-03"
+    - name: uos-mgmt-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-03"
