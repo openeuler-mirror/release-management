@@ -15859,3 +15859,47 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-04"
+    - name: ghc-timeit
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-microlens
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-pretty-simple
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-generics-sop
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-hashtables
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-terminal-size
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-pager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-clock
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-cmdargs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-parser-combinators
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
+    - name: ghc-Decimal
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
