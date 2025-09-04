@@ -153,3 +153,7 @@ release-change:
   description: 'c0dac96 !2353 openEuler-22.03-LTS-SP4: add UNT'
   changed_packages: UNT
   date: 2025-08-18-19-48-22
+- pr: https://gitee.com/openeuler/release-management/pulls/2396
+  description: 'abac13a !2396 feat: add openEuler Intelligence to 22.03 LTS SP4'
+  changed_packages: euler-copilot-shell euler-copilot-framework
+  date: 2025-09-04-20-28-13
