@@ -15855,3 +15855,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-03"
+    - name: polymind
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-04"
