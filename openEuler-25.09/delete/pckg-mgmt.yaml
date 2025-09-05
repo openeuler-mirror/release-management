@@ -1,3 +1,5 @@
 packages:
 - name: fros
 - name: custodia
+- name: tensorflow
+- name: python-keras-rl2 
