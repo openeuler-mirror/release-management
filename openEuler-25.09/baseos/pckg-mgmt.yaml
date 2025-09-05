@@ -699,10 +699,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: fros
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: ftp
   source_dir: master
   destination_dir: openEuler-25.09
