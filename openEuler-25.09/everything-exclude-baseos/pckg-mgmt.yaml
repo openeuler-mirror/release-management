@@ -895,10 +895,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: custodia
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: custom_build_tool
   source_dir: master
   destination_dir: openEuler-25.09

@@ -2608,3 +2608,8 @@ release-change:
   description: 336f3f1 !2382 move perl-CryptX into everything for perl-Mail-DKIM
   changed_packages: perl-CryptX
   date: 2025-09-01-14-33-58
+- pr: https://gitee.com/openeuler/release-management/pulls/2391
+  description: 5ff2e80 !2391 remove custodia from master,openEuler-25.09,openEuler-24.03-LTS-Next
+    branch
+  changed_packages: custodia
+  date: 2025-09-05-11-32-12

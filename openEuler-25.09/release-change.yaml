@@ -60,3 +60,8 @@ release-change:
     aops-diana aops-hermes aops-vulcanus aops-zeus authHub aops-ceres aops-apollo
     aops-diana
   date: 2025-09-02-11-41-20
+- pr: https://gitee.com/openeuler/release-management/pulls/2391
+  description: 5ff2e80 !2391 remove custodia from master,openEuler-25.09,openEuler-24.03-LTS-Next
+    branch
+  changed_packages: custodia
+  date: 2025-09-05-11-32-12
