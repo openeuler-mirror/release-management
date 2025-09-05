@@ -9199,10 +9199,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: python-keras-rl2
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: python-kerberos
   source_dir: master
   destination_dir: openEuler-25.09
@@ -12876,10 +12872,6 @@ packages:
   destination_dir: openEuler-25.09
   date: '2025-07-23'
 - name: teckit
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
-- name: tensorflow
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'

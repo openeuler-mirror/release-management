@@ -65,3 +65,7 @@ release-change:
     branch
   changed_packages: custodia
   date: 2025-09-05-11-32-12
+- pr: https://gitee.com/openeuler/release-management/pulls/2399
+  description: 6088a24 !2399 【轻量级PR】tensorflow2.12和python-keras-rl2 在openEuler 25.09上剔除
+  changed_packages: tensorflow python-keras-rl2
+  date: 2025-09-05-16-00-00
