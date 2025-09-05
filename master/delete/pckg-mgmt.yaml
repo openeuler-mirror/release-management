@@ -651,3 +651,4 @@ packages:
   - name: perl-URL-Encode
   - name: perl-Validation-Class
   - name: perl-Win32-ShellQuote
+  - name: custodia
