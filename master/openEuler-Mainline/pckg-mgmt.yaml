@@ -5991,3 +5991,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2025-08-25'
+- name: python-aiohappyeyeballs
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2025-09-05'
