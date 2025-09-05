@@ -2613,3 +2613,7 @@ release-change:
     branch
   changed_packages: custodia
   date: 2025-09-05-11-32-12
+- pr: https://gitee.com/openeuler/release-management/pulls/2400
+  description: 9800cf1 !2400 Move python-aiohappyeyeballs from openEuler:Epol to openEuler:Mainline
+  changed_packages: python-aiohappyeyeballs
+  date: 2025-09-05-16-22-04
