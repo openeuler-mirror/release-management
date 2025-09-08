@@ -2617,3 +2617,7 @@ release-change:
   description: 9800cf1 !2400 Move python-aiohappyeyeballs from openEuler:Epol to openEuler:Mainline
   changed_packages: python-aiohappyeyeballs
   date: 2025-09-05-16-22-04
+- pr: https://gitee.com/openeuler/release-management/pulls/2402
+  description: 7f950c1 !2402 add kylin-device-daemon build info
+  changed_packages: kylin-device-daemon
+  date: 2025-09-08-11-02-13

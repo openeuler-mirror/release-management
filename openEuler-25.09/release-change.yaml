@@ -69,3 +69,7 @@ release-change:
   description: 6088a24 !2399 【轻量级PR】tensorflow2.12和python-keras-rl2 在openEuler 25.09上剔除
   changed_packages: tensorflow python-keras-rl2
   date: 2025-09-05-16-00-00
+- pr: https://gitee.com/openeuler/release-management/pulls/2402
+  description: 7f950c1 !2402 add kylin-device-daemon build info
+  changed_packages: kylin-device-daemon
+  date: 2025-09-08-11-02-13
