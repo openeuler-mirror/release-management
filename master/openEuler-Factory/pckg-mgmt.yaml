@@ -15279,3 +15279,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-08"
+    - name: jurand
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-09"
