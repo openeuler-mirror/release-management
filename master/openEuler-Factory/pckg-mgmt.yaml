@@ -15291,3 +15291,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-10"
+    - name: caret_analyze
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-10"
