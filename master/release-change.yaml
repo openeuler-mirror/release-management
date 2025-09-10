@@ -2621,3 +2621,7 @@ release-change:
   description: 7f950c1 !2402 add kylin-device-daemon build info
   changed_packages: kylin-device-daemon
   date: 2025-09-08-11-02-13
+- pr: https://gitee.com/openeuler/release-management/pulls/2405
+  description: fceb16e !2405 Move jurand from openEuler:Factory to openEuler:Java
+  changed_packages: jurand
+  date: 2025-09-10-17-02-29
