@@ -2875,3 +2875,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Java
   date: '2024-03-30'
+- name: jurand
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2025-09-10'
