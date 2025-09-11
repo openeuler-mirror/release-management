@@ -14647,10 +14647,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-06-01"
-    - name: python-expandvars
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-06-05"
     - name: python-semantic-version
       obs_from: ""
       obs_to: openEuler:Factory

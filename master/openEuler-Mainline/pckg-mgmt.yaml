@@ -5995,3 +5995,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2025-09-05'
+- name: python-expandvars
+  obs_from: aopenEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-09-11'
