@@ -652,3 +652,6 @@ packages:
   - name: perl-Validation-Class
   - name: perl-Win32-ShellQuote
   - name: custodia
+  - name: libgnomecanvasmm26
+  - name: libglademm24
+  - name: gtkmm24
