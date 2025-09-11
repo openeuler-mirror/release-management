@@ -2625,3 +2625,7 @@ release-change:
   description: fceb16e !2405 Move jurand from openEuler:Factory to openEuler:Java
   changed_packages: jurand
   date: 2025-09-10-17-02-29
+- pr: https://gitee.com/openeuler/release-management/pulls/2407
+  description: 3d882f8 !2407 Move python-expandvars from openEuler:Factory to openEuler:Mainline
+  changed_packages: python-expandvars
+  date: 2025-09-11-12-01-49
