@@ -2629,3 +2629,7 @@ release-change:
   description: 3d882f8 !2407 Move python-expandvars from openEuler:Factory to openEuler:Mainline
   changed_packages: python-expandvars
   date: 2025-09-11-12-01-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2409
+  description: 73c611c !2409 增加heolleo的25.09分支
+  changed_packages: heolleo
+  date: 2025-09-12-10-19-05

@@ -73,3 +73,7 @@ release-change:
   description: 7f950c1 !2402 add kylin-device-daemon build info
   changed_packages: kylin-device-daemon
   date: 2025-09-08-11-02-13
+- pr: https://gitee.com/openeuler/release-management/pulls/2409
+  description: 73c611c !2409 增加heolleo的25.09分支
+  changed_packages: heolleo
+  date: 2025-09-12-10-19-05
