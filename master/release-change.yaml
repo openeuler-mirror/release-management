@@ -2633,3 +2633,7 @@ release-change:
   description: 73c611c !2409 增加heolleo的25.09分支
   changed_packages: heolleo
   date: 2025-09-12-10-19-05
+- pr: https://gitee.com/openeuler/release-management/pulls/2408
+  description: 97446a8 !2408 deprecate gtkmm2
+  changed_packages: python-PyQt-builder
+  date: 2025-09-12-14-51-09
