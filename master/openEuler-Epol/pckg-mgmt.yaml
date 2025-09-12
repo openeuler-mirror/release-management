@@ -8807,3 +8807,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-09-08'
+- name: heolleo
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-09-12'
