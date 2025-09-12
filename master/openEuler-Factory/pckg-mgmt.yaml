@@ -15263,10 +15263,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-04"
-    - name: libdex
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-09-05"
     - name: pie
       obs_from: ""
       obs_to: openEuler:Factory
