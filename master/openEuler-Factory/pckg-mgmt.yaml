@@ -13431,10 +13431,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-08-17"
-    - name: python-PyQt-builder
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-08-17"
     - name: python-pytest-subprocess
       obs_from: ""
       obs_to: openEuler:Factory
