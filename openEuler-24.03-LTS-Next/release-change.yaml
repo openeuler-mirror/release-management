@@ -506,3 +506,7 @@ release-change:
     branch
   changed_packages: custodia
   date: 2025-09-05-11-32-12
+- pr: https://gitee.com/openeuler/release-management/pulls/2350
+  description: 5524535 !2350 添加python-django-rest-framework到openEuler-24.03-LTS-Next分支的EPOL
+  changed_packages: python-django-rest-framework
+  date: 2025-09-12-14-42-10
