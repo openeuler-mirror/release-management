@@ -6279,10 +6279,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: rygel
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: R-zoo
   source_dir: master
   destination_dir: openEuler-25.09
