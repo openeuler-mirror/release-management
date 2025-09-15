@@ -4,3 +4,11 @@ packages:
 - name: tensorflow
 - name: python-keras-rl2
 - name: rygel
+- name: aops-apollo
+- name: aops-ceres
+- name: aops-diana
+- name: aops-hermes
+- name: aops-vulcanus
+- name: aops-zeus
+- name: authHub
+- name: gala-ragdoll
