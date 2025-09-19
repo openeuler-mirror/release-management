@@ -43,7 +43,7 @@ openEuler 25.09 是基于6.6内核的创新版本（参见[版本生命周期](h
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
 |[ICKOE7](https://gitee.com/openeuler/release-management/issues/ICKOE7?from=project-issue)|  GTA远程证明支持VirtCCA | Developing | sig-security-facility | [ @yang8621 ](https://gitee.com/yang8621) |ISO| global-trust-authority、secGear|
-|[ICM8OF](https://gitee.com/openeuler/release-management/issues/ICM8OF)|以 valkey 取代 redis 作为首选的内存数据库|Developing|DB|[@fundawang](https://gitee.com/fundawang)|Everything|valkey|
+|[ICM8OF](https://gitee.com/openeuler/release-management/issues/ICM8OF)|引入 valkey 作为首选的内存数据库|Developing|DB|[@fundawang](https://gitee.com/fundawang)|Everything|valkey|
 | [ICMV3X](https://gitee.com/openeuler/release-management/issues/ICMV3X) | 支持树莓派 | Developing | sig-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
 | [ICOAHM](https://gitee.com/openeuler/release-management/issues/ICOAHM) | kuasar机密容器低底噪，高性能 | Developing | sig-CloudNative | [@liuxu180400617](https://gitee.com/liuxu180400617/) | Everything | kuasar |
 | [ICTQQK](https://gitee.com/openeuler/release-management/issues/ICTQQK) | llvm编译器提升数据中心应用性能 | Developing | Compiler SIG | [@longhui3333](https://gitee.com/longhui3333/) | Everything | llvm-project,llvm |
