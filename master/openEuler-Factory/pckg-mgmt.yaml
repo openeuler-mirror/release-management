@@ -15291,3 +15291,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-16"
+    - name: xmig
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-22"
