@@ -655,3 +655,14 @@ packages:
   - name: libgnomecanvasmm26
   - name: libglademm24
   - name: gtkmm24
+  - name: libgdl
+  - name: gdlmm
+  - name: gnome-dictionary
+  - name: gnome-photos
+  - name: gnome-online-miners
+  - name: fcitx
+  - name: fcitx-cloudpinyin
+  - name: fcitx-configtool
+  - name: fcitx-libpinyin
+  - name: fcitx-qt5
+  - name: fcitx-sunpinyin
