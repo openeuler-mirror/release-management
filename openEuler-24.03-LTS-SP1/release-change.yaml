@@ -131,3 +131,7 @@ release-change:
   description: 59faf6b !2309 move oceanbase from 24.03 LTS NEXT to 24.03 LTS SP1
   changed_packages: oceanbase-ce
   date: 2025-06-23-19-19-09
+- pr: https://gitee.com/openeuler/release-management/pulls/2418
+  description: 582c390 !2418 Add llvm-toolset-18/19 to openEuler-24.03-LTS
+  changed_packages: llvm-toolset-18 llvm-toolset-19
+  date: 2025-09-23-20-37-49
