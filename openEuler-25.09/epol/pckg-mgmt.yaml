@@ -891,10 +891,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: gala-ragdoll
-  source_dir: master
-  destination_dir: openEuler-25.09
-  date: '2025-07-23'
 - name: gammaray
   source_dir: master
   destination_dir: openEuler-25.09
