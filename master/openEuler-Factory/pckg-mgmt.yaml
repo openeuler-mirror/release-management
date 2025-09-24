@@ -15295,3 +15295,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-22"
+    - name: uos-openldap-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-24"
+    - name: uos-libvirtd-exporter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-24"
