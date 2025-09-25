@@ -15307,3 +15307,27 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-24"
+    - name: ham
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-25"
+    - name: cdma
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-25"
+    - name: ubctl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-25"
+    - name: ubturbo
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-25"
+    - name: ubutils
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-25"
+    - name: ummu
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-25"
