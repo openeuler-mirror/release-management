@@ -2637,3 +2637,7 @@ release-change:
   description: 97446a8 !2408 deprecate gtkmm2
   changed_packages: python-PyQt-builder
   date: 2025-09-12-14-51-09
+- pr: https://gitee.com/openeuler/release-management/pulls/2420
+  description: 032622c !2420 delete eggo from 25.09 and master
+  changed_packages: eggo
+  date: 2025-09-26-11-29-40
