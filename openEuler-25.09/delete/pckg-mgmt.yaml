@@ -4,3 +4,4 @@ packages:
 - name: tensorflow
 - name: python-keras-rl2
 - name: rygel
+- name: eggo
