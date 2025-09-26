@@ -14435,10 +14435,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-14"
-    - name: composer
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-18"
     - name: trivy
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15259,10 +15255,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-04"
-    - name: pie
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-09-08"
     - name: naoqi_bridge_msgs2
       obs_from: ""
       obs_to: openEuler:Factory
