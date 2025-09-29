@@ -42,22 +42,22 @@ openEuler 25.09 是基于6.6内核的创新版本（参见[版本生命周期](h
 
 |no|feature|status|sig|owner|发布方式|涉及软件包列表|
 |:----|:---|:---|:--|:----|:----|:----|
-|[ICKOE7](https://gitee.com/openeuler/release-management/issues/ICKOE7?from=project-issue)|  GTA远程证明支持VirtCCA | Developing | sig-security-facility | [ @yang8621 ](https://gitee.com/yang8621) |ISO| global-trust-authority、secGear|
-|[ICM8OF](https://gitee.com/openeuler/release-management/issues/ICM8OF)|引入 valkey 作为首选的内存数据库|Developing|DB|[@fundawang](https://gitee.com/fundawang)|Everything|valkey|
-| [ICMV3X](https://gitee.com/openeuler/release-management/issues/ICMV3X) | 支持树莓派 | Developing | sig-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
-| [ICOAHM](https://gitee.com/openeuler/release-management/issues/ICOAHM) | kuasar机密容器低底噪，高性能 | Developing | sig-CloudNative | [@liuxu180400617](https://gitee.com/liuxu180400617/) | Everything | kuasar |
-| [ICTQQK](https://gitee.com/openeuler/release-management/issues/ICTQQK) | llvm编译器提升数据中心应用性能 | Developing | Compiler SIG | [@longhui3333](https://gitee.com/longhui3333/) | Everything | llvm-project,llvm |
-| [ICTQQQ](https://gitee.com/openeuler/release-management/issues/ICTQQQ) | 众核高密容器级资源隔离技术增强 | Developing | sig-kernel | [@frankneo](https://gitee.com/frankneo/) | baseOS | kernel |
-| [ICTQQT](https://gitee.com/openeuler/release-management/issues/ICTQQT) | Go编译器优化提升通用场景性能 | Developing | Go SIG/Compiler SIG | [@wangding16](https://gitee.com/wangding16/) | Everything | golang |
-| [ICTQQW](https://gitee.com/openeuler/release-management/issues/ICTQQW) | oeAware潮汐调度、numa亲和和嵌入式实时调优等功能增强 | Developing | A-Tune sig | [@ksana123](https://gitee.com/ksana123/) | Everything | oeAware-manager |
-| [ICTQR1](https://gitee.com/openeuler/release-management/issues/ICTQR1) | .NET Framework应用原生开发能力 | Developing |  | [@randy1568](https://gitee.com/randy1568/) | Everything | oepkg |
-| [ICTQR4](https://gitee.com/openeuler/release-management/issues/ICTQR4) | EulerMaker稳定性和易用性增强 | Developing | CICD sig | [@duan_pj](https://gitee.com/duan_pj/) | Everything | EulerMaker |
-| [ICTQR5](https://gitee.com/openeuler/release-management/issues/ICTQR5) | DevStation支持软件商店和智能化增强 | Developing | sig-intelligence | [@duan_pj](https://gitee.com/duan_pj/) | Everything | mcp-servers |
-| [ICTQRA](https://gitee.com/openeuler/release-management/issues/ICTQRA) | 远程证明统一框架(secgear)支持virtCCA Platform Token报告生成及验证 | Developing | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong/) | Everything | secGear |
-| [ICTQRD](https://gitee.com/openeuler/release-management/issues/ICTQRD) | oeAware支持嵌入式场景实时调优能力 | Developing | sig-embedded | [@yyyzmy](https://gitee.com/yyyzmy/) | Everything | oeAware-manager |
-| [ICTQRH](https://gitee.com/openeuler/release-management/issues/ICTQRH) | openEuler intelligence 智能化诊断-支持慢卡检测，改进交互体验，赋能系统管理员 | Developing | sig-intelligence | [@zxstty](https://gitee.com/zxstty/) | Everything | euler-copilot-framework,euler-copilot-web |
-| [ICTQRJ](https://gitee.com/openeuler/release-management/issues/ICTQRJ) | openEuler intelligence 智能化问答--支持原文追索，提升准确率 | Developing | sig-intelligence | [@zxstty](https://gitee.com/zxstty/) | Everything | euler-copilot-framework,euler-copilot-web |
-| [ICTQRP](https://gitee.com/openeuler/release-management/issues/ICTQRP) | openEuler基于QEMU使能ARM CCA机密计算基础能力 | Developing | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong/) | Everything | kernel,qemu,libvirt |
+|[ICKOE7](https://gitee.com/openeuler/release-management/issues/ICKOE7?from=project-issue)|  GTA远程证明支持VirtCCA | Accepted | sig-security-facility | [ @yang8621 ](https://gitee.com/yang8621) |ISO| global-trust-authority、secGear|
+|[ICM8OF](https://gitee.com/openeuler/release-management/issues/ICM8OF)|引入 valkey 作为首选的内存数据库|Accepted|DB|[@fundawang](https://gitee.com/fundawang)|Everything|valkey|
+| [ICMV3X](https://gitee.com/openeuler/release-management/issues/ICMV3X) | 支持树莓派 | Accepted| sig-SBC | [@woqidaideshi](https://gitee.com/woqidaideshi/) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
+| [ICOAHM](https://gitee.com/openeuler/release-management/issues/ICOAHM) | kuasar机密容器低底噪，高性能 | Accepted | sig-CloudNative | [@liuxu180400617](https://gitee.com/liuxu180400617/) | Everything | kuasar |
+| [ICTQQK](https://gitee.com/openeuler/release-management/issues/ICTQQK) | llvm编译器提升数据中心应用性能 | Accepted | Compiler SIG | [@longhui3333](https://gitee.com/longhui3333/) | Everything | llvm-project,llvm |
+| [ICTQQQ](https://gitee.com/openeuler/release-management/issues/ICTQQQ) | 众核高密容器级资源隔离技术增强 | Accepted | sig-kernel | [@frankneo](https://gitee.com/frankneo/) | baseOS | kernel |
+| [ICTQQT](https://gitee.com/openeuler/release-management/issues/ICTQQT) | Go编译器优化提升通用场景性能 | Accepted | Go SIG/Compiler SIG | [@wangding16](https://gitee.com/wangding16/) | Everything | golang |
+| [ICTQQW](https://gitee.com/openeuler/release-management/issues/ICTQQW) | oeAware潮汐调度、numa亲和和嵌入式实时调优等功能增强 | Accepted | A-Tune sig | [@ksana123](https://gitee.com/ksana123/) | Everything | oeAware-manager |
+| [ICTQR1](https://gitee.com/openeuler/release-management/issues/ICTQR1) | .NET Framework应用原生开发能力 | Accepted |  | [@randy1568](https://gitee.com/randy1568/) | Everything | oepkg |
+| [ICTQR4](https://gitee.com/openeuler/release-management/issues/ICTQR4) | EulerMaker稳定性和易用性增强 | Accepted| CICD sig | [@duan_pj](https://gitee.com/duan_pj/) | Everything | EulerMaker |
+| [ICTQR5](https://gitee.com/openeuler/release-management/issues/ICTQR5) | DevStation支持软件商店和智能化增强 | Accepted | sig-intelligence | [@duan_pj](https://gitee.com/duan_pj/) | Everything | mcp-servers |
+| [ICTQRA](https://gitee.com/openeuler/release-management/issues/ICTQRA) | 远程证明统一框架(secgear)支持virtCCA Platform Token报告生成及验证 | Accepted | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong/) | Everything | secGear |
+| [ICTQRD](https://gitee.com/openeuler/release-management/issues/ICTQRD) | oeAware支持嵌入式场景实时调优能力 | Accepted | sig-embedded | [@yyyzmy](https://gitee.com/yyyzmy/) | Everything | oeAware-manager |
+| [ICTQRH](https://gitee.com/openeuler/release-management/issues/ICTQRH) | openEuler intelligence 智能化诊断-支持慢卡检测，改进交互体验，赋能系统管理员 | Accepted | sig-intelligence | [@zxstty](https://gitee.com/zxstty/) | Everything | euler-copilot-framework,euler-copilot-web |
+| [ICTQRJ](https://gitee.com/openeuler/release-management/issues/ICTQRJ) | openEuler intelligence 智能化问答--支持原文追索，提升准确率 | Accepted | sig-intelligence | [@zxstty](https://gitee.com/zxstty/) | Everything | euler-copilot-framework,euler-copilot-web |
+| [ICTQRP](https://gitee.com/openeuler/release-management/issues/ICTQRP) | openEuler基于QEMU使能ARM CCA机密计算基础能力 | Accepted | sig-confidential-computing | [@houmingyong](https://gitee.com/houmingyong/) | Everything | kernel,qemu,libvirt |
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
