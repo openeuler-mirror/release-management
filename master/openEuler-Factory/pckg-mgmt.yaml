@@ -15311,3 +15311,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-25"
+    - name: sionlib
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-09-29"
