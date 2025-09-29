@@ -1655,6 +1655,12 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: mptcpd
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2025-09-25'
 - name: mt-st
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
