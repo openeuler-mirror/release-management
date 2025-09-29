@@ -163,6 +163,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-09-11'
+- name: python-PyQt5-sip
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-09-17'
 - name: python-SQLAlchemy-Utils
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
