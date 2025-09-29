@@ -2641,3 +2641,7 @@ release-change:
   description: 032622c !2420 delete eggo from 25.09 and master
   changed_packages: eggo
   date: 2025-09-26-11-29-40
+- pr: https://gitee.com/openeuler/release-management/pulls/2421
+  description: fb614d2 !2421 move composer and pie into epol
+  changed_packages: composer pie
+  date: 2025-09-29-11-07-55
