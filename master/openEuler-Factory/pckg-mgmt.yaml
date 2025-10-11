@@ -15335,3 +15335,19 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-30"
+    - name: python-doxyqml
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-11"
+    - name: jpegxl
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-11"
+    - name: python-doxypypy
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-11"
+    - name: libavif
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-11"
