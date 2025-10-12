@@ -667,3 +667,6 @@ packages:
   - name: fcitx-libpinyin
   - name: fcitx-qt5
   - name: fcitx-sunpinyin
+  - name: yaml-cpp03
+  - name: unique
+  - name: vte
