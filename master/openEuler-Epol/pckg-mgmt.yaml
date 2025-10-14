@@ -395,30 +395,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: fcitx
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: fcitx-cloudpinyin
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: fcitx-configtool
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: fcitx-libpinyin
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: fcitx-qt5
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: fcitx-sunpinyin
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: feedbackd
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -512,10 +488,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: gnome-music
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: gnome-photos
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4652,10 +4624,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2023-03-27'
 - name: libzapojit
-  obs_from: openEuler:C
-  obs_to: openEuler:Epol
-  date: '2023-03-27'
-- name: gnome-online-miners
   obs_from: openEuler:C
   obs_to: openEuler:Epol
   date: '2023-03-27'
