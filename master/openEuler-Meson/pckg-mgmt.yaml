@@ -107,6 +107,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
+- name: libdex
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Meson
+  date: '2025-10-01'
 - name: libgudev
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
