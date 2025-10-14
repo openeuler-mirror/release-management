@@ -42,6 +42,7 @@ openEuler 24.03 LTS SP3 是基于6.6内核的LTS版本（参见[版本生命周�
 |2|[snappy库：FindMatchLength支持RISC-V架构的优化](https://gitee.com/openeuler/release-management/issues/ICW4C5?from=project-issue)|Accepted|Base-service| @QingtaoLiu |ISO|snappy|
 |3|[lz4库：提高riscv架构的压缩速度](https://gitee.com/openeuler/release-management/issues/ICWGMF?from=project-issue)|Testing|Base-service|@QingtaoLiu|EPOL|ISO|
 |4|[openssl库：RISC-V架构的系列优化-SM2优化](https://gitee.com/openeuler/release-management/issues/ICW5SK?from=project-issue)|Testing|dev-utils|@QingtaoLiu|ISO|openssl|
+|5|[virtcca: 支持virtCCA机密虚机热迁移](https://gitee.com/openeuler/release-management/issues/ID1Y44?from=project-issue)|Discussion|kernel,virt|@hjx_gitff|ISO|kernel,qemu|
 
 
 
