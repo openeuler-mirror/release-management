@@ -2649,3 +2649,7 @@ release-change:
   description: d6b1e8d !2413 move glycin, python-PyQt5-sip qt5-qtquick3d
   changed_packages: glycin python-PyQt5-sip qt5-qtquick3d
   date: 2025-09-29-11-08-31
+- pr: https://gitee.com/openeuler/release-management/pulls/2425
+  description: f38c5cb !2425 move libdex into everything
+  changed_packages: libdex
+  date: 2025-10-14-09-54-51
