@@ -1719,6 +1719,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: libimobiledevice-glue
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-10-14'
 - name: libindicator
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -2027,6 +2031,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: libtatsu
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-10-14'
 - name: libtcnative
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
