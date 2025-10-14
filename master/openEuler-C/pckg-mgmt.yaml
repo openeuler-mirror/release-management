@@ -3535,10 +3535,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-02-06'
-- name: unique
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: unixODBC
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -3652,10 +3648,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: vsftpd
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: vte
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -3936,10 +3928,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: yaml-cpp
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: yaml-cpp03
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'

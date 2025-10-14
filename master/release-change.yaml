@@ -2653,3 +2653,7 @@ release-change:
   description: f38c5cb !2425 move libdex into everything
   changed_packages: libdex
   date: 2025-10-14-09-54-51
+- pr: https://gitee.com/openeuler/release-management/pulls/2426
+  description: f58e41b !2426 drop yaml-cpp03, unique
+  changed_packages: unique yaml-cpp03 vte
+  date: 2025-10-14-09-55-44
