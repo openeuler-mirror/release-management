@@ -2665,3 +2665,7 @@ release-change:
   description: 323bef2 !2436 move cmake-extras to epol
   changed_packages: cmake-extras
   date: 2025-10-16-17-04-02
+- pr: https://gitee.com/openeuler/release-management/pulls/2440
+  description: 2b8481e !2440 移动kf6间接依赖libyuv、highway到epol
+  changed_packages: libyuv highway
+  date: 2025-10-16-17-07-16
