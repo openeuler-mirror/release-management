@@ -8795,3 +8795,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2025-10-16"
+- name: libyuv
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-10-16"
+- name: highway
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-10-16"
