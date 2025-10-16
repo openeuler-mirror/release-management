@@ -2661,3 +2661,7 @@ release-change:
   description: 7af8142 !2430 申请移动kf6依赖到epol
   changed_packages: python-doxyqml jpegxl python-doxypypy libavif
   date: 2025-10-16-15-57-09
+- pr: https://gitee.com/openeuler/release-management/pulls/2436
+  description: 323bef2 !2436 move cmake-extras to epol
+  changed_packages: cmake-extras
+  date: 2025-10-16-17-04-02
