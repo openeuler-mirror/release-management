@@ -1,1 +1,6 @@
-release-change: []
+release-change:
+- pr: https://gitee.com/openeuler/release-management/pulls/2437
+  description: 29d7fa7 !2437 remove recycled packages (yaml-cpp03, unique, vte) from
+    24.03 SP3/Next
+  changed_packages: unique vte yaml-cpp03 unique vte yaml-cpp03
+  date: 2025-10-16-16-13-17

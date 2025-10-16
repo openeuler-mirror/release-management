@@ -78,6 +78,3 @@ packages:
 - name: clutter-gst2
 - name: webkit2gtk3
 - name: custodia
-- name: vte
-- name: yaml-cpp03
-- name: unique
