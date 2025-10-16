@@ -14387,10 +14387,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-01-22"
-    - name: highway
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-01-22"
     - name: kunpeng-devkit
       obs_from: ""
       obs_to: openEuler:Factory
@@ -14419,10 +14415,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-03-05"
-    - name: libyuv
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-03-11"
     - name: xrdp
       obs_from: ""
       obs_to: openEuler:Factory
