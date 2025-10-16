@@ -8775,3 +8775,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-09-12'
+- name: python-doxyqml
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-10-16"
+- name: jpegxl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-10-16"
+- name: python-doxypypy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-10-16"
+- name: libavif
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2025-10-16"
