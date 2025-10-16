@@ -2657,3 +2657,7 @@ release-change:
   description: f58e41b !2426 drop yaml-cpp03, unique
   changed_packages: unique yaml-cpp03 vte
   date: 2025-10-14-09-55-44
+- pr: https://gitee.com/openeuler/release-management/pulls/2430
+  description: 7af8142 !2430 申请移动kf6依赖到epol
+  changed_packages: python-doxyqml jpegxl python-doxypypy libavif
+  date: 2025-10-16-15-57-09
