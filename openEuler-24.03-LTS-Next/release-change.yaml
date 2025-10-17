@@ -515,3 +515,7 @@ release-change:
     24.03 SP3/Next
   changed_packages: unique vte yaml-cpp03 unique vte yaml-cpp03
   date: 2025-10-16-16-13-17
+- pr: https://gitee.com/openeuler/release-management/pulls/2441
+  description: 184a4ee !2441 deprecating enchant 1.x over 2.x
+  changed_packages: enchant enchant
+  date: 2025-10-17-14-37-52
