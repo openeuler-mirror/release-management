@@ -670,3 +670,4 @@ packages:
   - name: yaml-cpp03
   - name: unique
   - name: vte
+  - name: enchant
