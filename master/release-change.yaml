@@ -2673,3 +2673,7 @@ release-change:
   description: 184a4ee !2441 deprecating enchant 1.x over 2.x
   changed_packages: enchant
   date: 2025-10-17-14-37-52
+- pr: https://gitee.com/openeuler/release-management/pulls/2444
+  description: 5fc40d2 !2444 Move ocaml-yojson from openEuler:Factory to openEuler:Ocaml
+  changed_packages: ocaml-yojson
+  date: 2025-10-20-10-24-53
