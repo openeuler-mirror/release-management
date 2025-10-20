@@ -15327,3 +15327,43 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-10-18"
+    - name: uwal
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: ubs-comm
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: scf-security
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: HDagger
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: cdf-crypto
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: knet
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: ubs-mem
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: ubs-virt
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: ubs-io
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
+    - name: ubs-engine
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-20"
