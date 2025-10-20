@@ -99,3 +99,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Ocaml
   date: '2025-04-23'
+- name: ocaml-yojson
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Ocaml
+  date: '2025-10-20'
