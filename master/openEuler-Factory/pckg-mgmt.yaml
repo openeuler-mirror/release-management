@@ -15371,3 +15371,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-10-21"
+    - name: topic_based_ros2_control_release
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-21"
