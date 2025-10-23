@@ -671,3 +671,6 @@ packages:
   - name: unique
   - name: vte
   - name: enchant
+  - name: libsexy
+  - name: libtimezonemap
+  - name: gfbgraph
