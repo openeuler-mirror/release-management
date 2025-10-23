@@ -15323,10 +15323,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-09-30"
-    - name: openjph
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-10-18"
     - name: uwal
       obs_from: ""
       obs_to: openEuler:Factory

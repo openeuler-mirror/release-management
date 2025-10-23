@@ -2699,6 +2699,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: openjph
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-10-21'
 - name: openresty-pcre
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
