@@ -2,4 +2,3 @@ packages:
 - name: libsexy
 - name: libtimezonemap
 - name: gfbgraph
-- name: rust-srpm-macros

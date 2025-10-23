@@ -8,3 +8,8 @@ release-change:
   description: 184a4ee !2441 deprecating enchant 1.x over 2.x
   changed_packages: enchant enchant
   date: 2025-10-17-14-37-52
+- pr: https://gitee.com/openeuler/release-management/pulls/2447
+  description: 41e248e !2447 remove rust-srpm-macros from master/24.03-LTS-Next/24.03-LTS-SP3
+    branch
+  changed_packages: rust-srpm-macros rust-srpm-macros
+  date: 2025-10-23-15-05-37
