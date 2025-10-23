@@ -2677,3 +2677,7 @@ release-change:
   description: 5fc40d2 !2444 Move ocaml-yojson from openEuler:Factory to openEuler:Ocaml
   changed_packages: ocaml-yojson
   date: 2025-10-20-10-24-53
+- pr: https://gitee.com/openeuler/release-management/pulls/2446
+  description: cfa6846 !2446 move rust-cbindgen from epol to everything
+  changed_packages: openjph
+  date: 2025-10-23-09-00-29
