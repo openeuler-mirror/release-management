@@ -14287,10 +14287,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2024-10-15"
-    - name: cargo2rpm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2024-10-16"
     - name: vllm
       obs_from: ""
       obs_to: openEuler:Factory
