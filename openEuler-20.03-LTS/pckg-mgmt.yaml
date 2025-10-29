@@ -6798,7 +6798,7 @@ packages:
     obs_from: openEuler:20.03:LTS:Next
     obs_to: openEuler:20.03:LTS
     date: 2021-08-24-14-09-01
-  - name: perl-gettext
+  - name: perl-Locale-gettext
     branch_from: openEuler-20.03-LTS-Next
     branch_to: openEuler-20.03-LTS
     obs_from: openEuler:20.03:LTS:Next

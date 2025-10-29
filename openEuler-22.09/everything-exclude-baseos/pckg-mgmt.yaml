@@ -17711,7 +17711,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:22.09
   date: '2022-07-26'
-- name: perl-gettext
+- name: perl-Locale-gettext
   source_dir: master
   destination_dir: openEuler-22.09
   obs_from: openEuler:Mainline
