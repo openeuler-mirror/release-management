@@ -1807,10 +1807,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
   date: '2025-09-29'
-- name: libsexy
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP3
-  date: '2025-09-29'
 - name: lib-shim-v2
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3

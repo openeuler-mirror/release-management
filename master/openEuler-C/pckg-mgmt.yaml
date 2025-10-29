@@ -1963,10 +1963,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: libsexy
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: libshout
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -2048,10 +2044,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: libtiff
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: libtimezonemap
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'

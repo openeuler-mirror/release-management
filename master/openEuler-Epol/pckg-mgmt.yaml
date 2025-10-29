@@ -4623,10 +4623,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-03-27'
-- name: gfbgraph
-  obs_from: openEuler:C
-  obs_to: openEuler:Epol
-  date: '2023-03-27'
 - name: libzapojit
   obs_from: openEuler:C
   obs_to: openEuler:Epol
@@ -8782,24 +8778,24 @@ packages:
 - name: python-doxyqml
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-10-16"
+  date: '2025-10-16'
 - name: jpegxl
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-10-16"
+  date: '2025-10-16'
 - name: python-doxypypy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-10-16"
+  date: '2025-10-16'
 - name: libavif
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-10-16"
+  date: '2025-10-16'
 - name: libyuv
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-10-16"
+  date: '2025-10-16'
 - name: highway
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2025-10-16"
+  date: '2025-10-16'

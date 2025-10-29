@@ -2686,3 +2686,8 @@ release-change:
     branch
   changed_packages: rust-srpm-macros
   date: 2025-10-23-15-05-37
+- pr: https://gitee.com/openeuler/release-management/pulls/2450
+  description: '1a4e6a5 !2450 24.03-LTS-SP3 release-plan: 添加 openssl Backport 主线 RISC-V
+    架构的 SHA-2 汇编优化特性说明'
+  changed_packages: gfbgraph libsexy libtimezonemap
+  date: 2025-10-29-11-39-32
