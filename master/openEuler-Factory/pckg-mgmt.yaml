@@ -15403,10 +15403,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-10-28"
-    - name: libfyaml
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-10-29"
     - name: ffcall
       obs_from: ""
       obs_to: openEuler:Factory

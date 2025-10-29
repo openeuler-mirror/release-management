@@ -1611,6 +1611,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: libfyaml
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-10-30'
 - name: libgcrypt
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
