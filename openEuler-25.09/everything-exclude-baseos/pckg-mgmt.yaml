@@ -8679,10 +8679,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
-- name: python-Fiona
+- name: python-fiona
   source_dir: master
   destination_dir: openEuler-25.09
-  date: '2025-07-23'
+  date: '2025-10-17'
 - name: python-fixtures
   source_dir: master
   destination_dir: openEuler-25.09
