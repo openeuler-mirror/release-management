@@ -2700,3 +2700,7 @@ release-change:
     feature list
   changed_packages: cargo2rpm
   date: 2025-10-30-16-02-56
+- pr: https://gitee.com/openeuler/release-management/pulls/2455
+  description: 03d3dd2 !2455 move libfyaml to everything
+  changed_packages: libfyaml
+  date: 2025-10-30-17-51-04
