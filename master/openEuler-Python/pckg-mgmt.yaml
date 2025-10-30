@@ -3179,3 +3179,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-08-22'
+- name: cargo2rpm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-10-28'
