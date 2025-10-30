@@ -5999,3 +5999,11 @@ packages:
   obs_from: aopenEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-09-11'
+- name: ffcall
+  obs_from: aopenEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-10-30'
+- name: clisp
+  obs_from: aopenEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-10-30'
