@@ -2704,3 +2704,7 @@ release-change:
   description: 03d3dd2 !2455 move libfyaml to everything
   changed_packages: libfyaml
   date: 2025-10-30-17-51-04
+- pr: https://gitee.com/openeuler/release-management/pulls/2461
+  description: 953cb01 !2461 move ffcall,clisp to everything
+  changed_packages: ffcall clisp
+  date: 2025-10-31-16-32-15
