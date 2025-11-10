@@ -529,3 +529,7 @@ release-change:
     架构的 SHA-2 汇编优化特性说明'
   changed_packages: libsexy gfbgraph libtimezonemap
   date: 2025-10-29-11-39-32
+- pr: https://gitee.com/openeuler/release-management/pulls/2469
+  description: ceeaa95 !2469 Add ubctl/ummu/cdma/ubutils to openEuler-24.03-LTS-Next
+  changed_packages: ubctl cdma ummu ubutils
+  date: 2025-11-10-12-09-54
