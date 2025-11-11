@@ -7431,7 +7431,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: perl-gettext
+- name: perl-Locale-gettext
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'

@@ -16122,7 +16122,7 @@ packages:
     obs_from: openEuler:Mainline
     obs_to: openEuler:21.09
     date: 2021-08-11-09-47-43
-  - name: perl-gettext
+  - name: perl-Locale-gettext
     branch_from: master
     branch_to: openEuler-21.09
     obs_from: openEuler:Mainline
