@@ -2712,3 +2712,7 @@ release-change:
   description: 38dd31f !2462 move rust2rpm to everything
   changed_packages: rust2rpm
   date: 2025-11-11-11-21-57
+- pr: https://gitee.com/openeuler/release-management/pulls/2464
+  description: 400f9d8 !2464 remove perl-URI-ws, as it was merged into perl-URI
+  changed_packages: perl-URI-ws
+  date: 2025-11-11-13-44-41
