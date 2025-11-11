@@ -2708,3 +2708,7 @@ release-change:
   description: 953cb01 !2461 move ffcall,clisp to everything
   changed_packages: ffcall clisp
   date: 2025-10-31-16-32-15
+- pr: https://gitee.com/openeuler/release-management/pulls/2462
+  description: 38dd31f !2462 move rust2rpm to everything
+  changed_packages: rust2rpm
+  date: 2025-11-11-11-21-57
