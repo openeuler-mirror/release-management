@@ -675,3 +675,4 @@ packages:
   - name: libtimezonemap
   - name: gfbgraph
   - name: rust-srpm-macros
+  - name: perl-URI-ws
