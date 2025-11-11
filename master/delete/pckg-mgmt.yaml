@@ -676,3 +676,4 @@ packages:
   - name: gfbgraph
   - name: rust-srpm-macros
   - name: perl-URI-ws
+  - name: mousetweaks
