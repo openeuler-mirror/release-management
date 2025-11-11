@@ -533,3 +533,8 @@ release-change:
   description: ceeaa95 !2469 Add ubctl/ummu/cdma/ubutils to openEuler-24.03-LTS-Next
   changed_packages: ubctl cdma ummu ubutils
   date: 2025-11-10-12-09-54
+- pr: https://gitee.com/openeuler/release-management/pulls/2427
+  description: 4124446 !2427 create openEuler-24.03-LTS openEuler-24.03-LTS-Next support
+    eulermaker build
+  changed_packages: libhv
+  date: 2025-11-11-11-13-40

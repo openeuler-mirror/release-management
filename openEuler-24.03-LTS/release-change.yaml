@@ -237,3 +237,8 @@ release-change:
   description: 582c390 !2418 Add llvm-toolset-18/19 to openEuler-24.03-LTS
   changed_packages: llvm-toolset-18 llvm-toolset-19
   date: 2025-09-23-20-37-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2427
+  description: 4124446 !2427 create openEuler-24.03-LTS openEuler-24.03-LTS-Next support
+    eulermaker build
+  changed_packages: libhv
+  date: 2025-11-11-11-13-40
