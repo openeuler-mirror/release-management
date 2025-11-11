@@ -22,3 +22,7 @@ release-change:
   description: eae013e !2463 Add Utpam to openEuler-24.03-LTS-SP3 release-plan
   changed_packages: utpam
   date: 2025-11-03-16-20-51
+- pr: https://gitee.com/openeuler/release-management/pulls/2471
+  description: be3b6fc !2471 Add ubctl/ummu/cdma/ubutils to openEuler-24.03-LTS-SP3
+  changed_packages: ubctl cdma ummu ubutils
+  date: 2025-11-11-10-50-55
