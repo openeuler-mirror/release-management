@@ -55,3 +55,7 @@ release-change:
   description: a602599 !2171 delete cluster-gst2 package from all branch
   changed_packages: clutter-gst2
   date: 2025-03-12-16-06-14
+- pr: https://gitee.com/openeuler/release-management/pulls/2453
+  description: 70cdb36 !2453 perl-gettext has been renamed to perl-Locale-gettext
+  changed_packages: perl-Locale-gettext
+  date: 2025-11-11-14-17-55

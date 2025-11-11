@@ -157,3 +157,7 @@ release-change:
   description: 'abac13a !2396 feat: add openEuler Intelligence to 22.03 LTS SP4'
   changed_packages: euler-copilot-shell euler-copilot-framework
   date: 2025-09-04-20-28-13
+- pr: https://gitee.com/openeuler/release-management/pulls/2453
+  description: 70cdb36 !2453 perl-gettext has been renamed to perl-Locale-gettext
+  changed_packages: perl-Locale-gettext
+  date: 2025-11-11-14-17-55

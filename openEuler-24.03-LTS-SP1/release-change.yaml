@@ -135,3 +135,7 @@ release-change:
   description: 582c390 !2418 Add llvm-toolset-18/19 to openEuler-24.03-LTS
   changed_packages: llvm-toolset-18 llvm-toolset-19
   date: 2025-09-23-20-37-49
+- pr: https://gitee.com/openeuler/release-management/pulls/2453
+  description: 70cdb36 !2453 perl-gettext has been renamed to perl-Locale-gettext
+  changed_packages: perl-Locale-gettext
+  date: 2025-11-11-14-17-55
