@@ -2716,3 +2716,7 @@ release-change:
   description: 400f9d8 !2464 remove perl-URI-ws, as it was merged into perl-URI
   changed_packages: perl-URI-ws
   date: 2025-11-11-13-44-41
+- pr: https://gitee.com/openeuler/release-management/pulls/2467
+  description: 9b7e6b0 !2467 obsolete mousetweaks
+  changed_packages: mousetweaks
+  date: 2025-11-11-13-47-22
