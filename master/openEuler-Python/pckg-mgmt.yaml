@@ -3183,3 +3183,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2025-10-28'
+- name: rust2rpm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2025-10-31'

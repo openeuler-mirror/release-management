@@ -15391,10 +15391,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-10-25"
-    - name: rust2rpm
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-10-25"
     - name: obmm
       obs_from: ""
       obs_to: openEuler:Factory
