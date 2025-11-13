@@ -30,3 +30,7 @@ release-change:
   description: 70cdb36 !2453 perl-gettext has been renamed to perl-Locale-gettext
   changed_packages: perl-Locale-gettext
   date: 2025-11-11-14-17-55
+- pr: https://gitee.com/openeuler/release-management/pulls/2475
+  description: 93949fe !2475 增加heolleo代码仓24.03-LTS-SP3 分支
+  changed_packages: heolleo
+  date: 2025-11-13-11-20-10
