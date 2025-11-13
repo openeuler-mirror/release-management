@@ -8327,3 +8327,9 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-10-09'
+- name: heolleo
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2025-11-13'
