@@ -546,3 +546,8 @@ release-change:
   description: 93949fe !2475 增加heolleo代码仓24.03-LTS-SP3 分支
   changed_packages: heolleo
   date: 2025-11-13-11-20-10
+- pr: https://gitee.com/openeuler/release-management/pulls/2478
+  description: 5b26f74 !2478 Move TSB-agent from factory to epol, and add openeuler-24.03-LTS-Next
+    for it
+  changed_packages: TSB-agent
+  date: 2025-11-15-12-46-08
