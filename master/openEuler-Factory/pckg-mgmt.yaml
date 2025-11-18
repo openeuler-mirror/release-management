@@ -15407,3 +15407,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-11-13"
+    - name: yuanrong-frontend
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-18"
+    - name: yuanrong-serve
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-18"
