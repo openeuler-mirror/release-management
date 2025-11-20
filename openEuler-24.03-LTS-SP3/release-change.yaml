@@ -42,3 +42,7 @@ release-change:
   description: 1041352 !2480 Add ubs-comm to openEuler-24.03-LTS-SP3
   changed_packages: ubs-comm
   date: 2025-11-18-09-54-58
+- pr: https://gitee.com/openeuler/release-management/pulls/2481
+  description: 5b488e9 !2481 Add ubturbo and ham to openEuler-24.03-LTS-SP3.
+  changed_packages: ubturbo ham
+  date: 2025-11-20-22-10-30
