@@ -13495,10 +13495,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2023-09-13"
-    - name: VMAnalyzer
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2023-09-14"
     - name: libxml2-rust
       obs_from: ""
       obs_to: openEuler:Factory
