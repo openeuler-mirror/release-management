@@ -551,3 +551,8 @@ release-change:
     for it
   changed_packages: TSB-agent
   date: 2025-11-15-12-46-08
+- pr: https://gitee.com/openeuler/release-management/pulls/2482
+  description: 750195f !2482 create openEuler-24.03-LTS-Next support eulermaker build
+    for utpam
+  changed_packages: utpam
+  date: 2025-11-21-09-42-13
