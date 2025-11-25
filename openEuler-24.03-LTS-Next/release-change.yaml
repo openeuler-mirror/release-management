@@ -560,3 +560,7 @@ release-change:
   description: ecd79ae !2485 Add VMAnalyzer to openEuler-24.03-LTS-SP3 release-plan
   changed_packages: VMAnalyzer
   date: 2025-11-25-16-02-40
+- pr: https://gitee.com/openeuler/release-management/pulls/2489
+  description: a85b4a9 !2489 Add secscanner to openeuler 2403 Next
+  changed_packages: secscanner
+  date: 2025-11-25-16-04-29
