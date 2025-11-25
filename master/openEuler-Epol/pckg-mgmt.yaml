@@ -8803,3 +8803,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-11-14'
+- name: VMAnalyzer
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-11-25'
