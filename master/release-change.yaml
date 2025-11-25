@@ -2729,3 +2729,7 @@ release-change:
     for it
   changed_packages: TSB-agent
   date: 2025-11-15-12-46-08
+- pr: https://gitee.com/openeuler/release-management/pulls/2485
+  description: ecd79ae !2485 Add VMAnalyzer to openEuler-24.03-LTS-SP3 release-plan
+  changed_packages: VMAnalyzer
+  date: 2025-11-25-16-02-40
