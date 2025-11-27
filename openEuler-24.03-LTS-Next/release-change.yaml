@@ -572,3 +572,7 @@ release-change:
   description: 'c87869a !2493 feat: add ubs-engine to 24.03 LTS SP3 and NEXT'
   changed_packages: ubs-engine
   date: 2025-11-27-15-20-40
+- pr: https://gitee.com/openeuler/release-management/pulls/2494
+  description: d2fb289 !2494 add obmm to openEuler-24.03-LTS-SP3 and openEuler-24.03-LTS-Next
+  changed_packages: obmm
+  date: 2025-11-27-16-59-19
