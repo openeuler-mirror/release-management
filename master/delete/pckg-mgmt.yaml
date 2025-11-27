@@ -677,3 +677,4 @@ packages:
   - name: rust-srpm-macros
   - name: perl-URI-ws
   - name: mousetweaks
+  - name: openvino
