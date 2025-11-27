@@ -50,3 +50,7 @@ release-change:
   description: 2cd51d8 !2491 add VMAnalyzer to openEuler-24.03-LTS-SP3/epol
   changed_packages: secscanner
   date: 2025-11-25-17-20-52
+- pr: https://gitee.com/openeuler/release-management/pulls/2492
+  description: b423410 !2492 add polymind to openEuler-24.03-LTS-SP3
+  changed_packages: polymind
+  date: 2025-11-27-14-16-55
