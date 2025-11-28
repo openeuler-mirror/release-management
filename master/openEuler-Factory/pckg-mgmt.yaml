@@ -15411,3 +15411,23 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-11-24"
+    - name: e2b-code-interpreter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-28"
+    - name: firecracker
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-28"
+    - name: e2b-sdk
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-28"
+    - name: e2b-infra
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-28"
+    - name: e2b-desktop
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-11-28"
