@@ -679,3 +679,4 @@ packages:
   - name: mousetweaks
   - name: openvino
   - name: lzma-java
+  - name: qt5-qtenginio
