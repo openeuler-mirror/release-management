@@ -66,3 +66,7 @@ release-change:
   description: 0005bdf !2496 add memlink to openEuler-24.03-LTS-SP3 and openEuler-24.03-LTS-Next
   changed_packages: memlink
   date: 2025-11-27-18-11-22
+- pr: https://gitee.com/openeuler/release-management/pulls/2495
+  description: eceffa7 !2495 Remove openvino package temporarily
+  changed_packages: openvino
+  date: 2025-12-01-10-21-34

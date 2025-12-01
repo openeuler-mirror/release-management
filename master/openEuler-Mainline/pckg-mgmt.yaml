@@ -5795,10 +5795,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-11-27'
-- name: openvino
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-11-27'
 - name: biber
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
