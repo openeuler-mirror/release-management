@@ -680,3 +680,4 @@ packages:
   - name: openvino
   - name: lzma-java
   - name: qt5-qtenginio
+  - name: qt5-doc
