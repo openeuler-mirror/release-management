@@ -2741,3 +2741,7 @@ release-change:
   description: eceffa7 !2495 Remove openvino package temporarily
   changed_packages: openvino
   date: 2025-12-01-10-21-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2500
+  description: 8730204 !2500 Move rubygem-test-unit-ruby-core from Factory to Mainline
+  changed_packages: rubygem-test-unit-ruby-core
+  date: 2025-12-04-09-53-27
