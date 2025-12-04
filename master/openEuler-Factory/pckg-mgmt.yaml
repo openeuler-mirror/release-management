@@ -15435,10 +15435,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-11-29"
-    - name: rust-cargo-c
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-11-29"
     - name: group-service
       obs_from: ""
       obs_to: openEuler:Factory
