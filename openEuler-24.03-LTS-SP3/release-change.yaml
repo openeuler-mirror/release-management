@@ -70,3 +70,7 @@ release-change:
   description: eceffa7 !2495 Remove openvino package temporarily
   changed_packages: openvino
   date: 2025-12-01-10-21-34
+- pr: https://gitee.com/openeuler/release-management/pulls/2501
+  description: d9579fa !2501 【轻量级 PR】：delete oceanbase-ce from  openEuler-24.03-LTS-SP3
+  changed_packages: oceanbase-ce
+  date: 2025-12-08-11-24-04
