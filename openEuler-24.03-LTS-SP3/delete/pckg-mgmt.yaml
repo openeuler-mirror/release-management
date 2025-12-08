@@ -3,3 +3,4 @@ packages:
 - name: libtimezonemap
 - name: gfbgraph
 - name: openvino
+- name: oceanbase-ce
