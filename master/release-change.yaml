@@ -2745,3 +2745,7 @@ release-change:
   description: 8730204 !2500 Move rubygem-test-unit-ruby-core from Factory to Mainline
   changed_packages: rubygem-test-unit-ruby-core
   date: 2025-12-04-09-53-27
+- pr: https://gitee.com/openeuler/release-management/pulls/2506
+  description: 85f6b7f !2506 remove lzma-java due to it is now read-only.
+  changed_packages: lzma-java
+  date: 2025-12-10-16-34-29

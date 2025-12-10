@@ -1775,10 +1775,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: lzma-java
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: maven-antrun-plugin
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
