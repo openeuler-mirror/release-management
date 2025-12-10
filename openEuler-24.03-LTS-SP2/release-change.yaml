@@ -127,3 +127,7 @@ release-change:
   description: 70cdb36 !2453 perl-gettext has been renamed to perl-Locale-gettext
   changed_packages: perl-Locale-gettext
   date: 2025-11-11-14-17-55
+- pr: https://gitee.com/openeuler/release-management/pulls/2503
+  description: 5a0faa4 !2503 add etipc to 24.03 LTS SP1
+  changed_packages: etipc
+  date: 2025-12-10-09-33-33
