@@ -678,3 +678,4 @@ packages:
   - name: perl-URI-ws
   - name: mousetweaks
   - name: openvino
+  - name: lzma-java
