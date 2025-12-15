@@ -15455,3 +15455,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-12-15"
+    - name: libxml2-compat
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-12-15"
