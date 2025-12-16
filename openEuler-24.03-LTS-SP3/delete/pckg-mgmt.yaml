@@ -4,3 +4,4 @@ packages:
 - name: gfbgraph
 - name: openvino
 - name: oceanbase-ce
+- name: TSB-agent
