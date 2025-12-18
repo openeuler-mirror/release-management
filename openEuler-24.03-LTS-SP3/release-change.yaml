@@ -78,3 +78,7 @@ release-change:
   description: 5a0faa4 !2503 add etipc to 24.03 LTS SP1
   changed_packages: etipc
   date: 2025-12-10-09-33-33
+- pr: https://gitee.com/openeuler/release-management/pulls/2510
+  description: 8e95e05 !2510 remove package TSB-agent from 24.03_LTS_SP3
+  changed_packages: TSB-agent
+  date: 2025-12-18-09-54-21
