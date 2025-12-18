@@ -3075,6 +3075,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: rust-cargo-c
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2025-12-04'
 - name: samtools
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
