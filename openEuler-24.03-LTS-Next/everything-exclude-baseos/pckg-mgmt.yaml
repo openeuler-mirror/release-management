@@ -20471,12 +20471,6 @@ packages:
   obs_from: openEuler:Qt
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: qt5-qtenginio
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Qt
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: qt5-qtgraphicaleffects
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next

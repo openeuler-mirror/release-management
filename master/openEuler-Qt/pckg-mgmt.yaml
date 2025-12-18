@@ -27,10 +27,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Qt
   date: '2022-07-26'
-- name: qt5-qtenginio
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Qt
-  date: '2022-07-26'
 - name: qt5-qtgraphicaleffects
   obs_from: openEuler:Mainline
   obs_to: openEuler:Qt
@@ -118,192 +114,192 @@ packages:
 - name: qt6-qtbase
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-15"
+  date: '2023-05-15'
 - name: qt6-qtdeclarative
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-29"
+  date: '2023-05-29'
 - name: qt6-qtdoc
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-29"
+  date: '2023-05-29'
 - name: qt6-qtimageformats
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-29"
+  date: '2023-05-29'
 - name: qt6-qtshadertools
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-29"
+  date: '2023-05-29'
 - name: qt6-qt3d
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qt5compat
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtcharts
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtdatavis3d
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtgraphs
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2025-07-16"
+  date: '2025-07-16'
 - name: qt6-qtlanguageserver
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtlottie
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtmultimedia
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtnetworkauth
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtpositioning
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtquicktimeline
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtserialport
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtserialbus
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtspeech
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtsvg
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtwebsockets
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtwayland
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtlocation
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-05-30"
+  date: '2023-05-30'
 - name: qt6-qtvirtualkeyboard
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qtscxml
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qtquick3d
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qtwebchannel
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qtsensors
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qthttpserver
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qttranslations
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qtremoteobjects
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-07-27"
+  date: '2023-07-27'
 - name: qt6-qttools
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-03"
+  date: '2023-08-03'
 - name: qt5-qtdatavis3d
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtfeedback
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtgamepad
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtnetworkauth
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtremoteobjects
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtscxml
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtwebview
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtcharts
   obs_from: openEuler:Epol
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtspeech
   obs_from: openEuler:Epol
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt5-qtvirtualkeyboard
   obs_from: openEuler:Epol
   obs_to: openEuler:Qt
-  date: "2023-08-24"
+  date: '2023-08-24'
 - name: qt6-qtconnectivity
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-11-30"
+  date: '2023-11-30'
 - name: qt6-qtgrpc
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-11-30"
+  date: '2023-11-30'
 - name: qt6-qtquick3dphysics
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-11-30"
+  date: '2023-11-30'
 - name: qt6-qtquickeffectmaker
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-11-30"
+  date: '2023-11-30'
 - name: qt6-qtwebengine
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-11-30"
+  date: '2023-11-30'
 - name: qt6-qtwebview
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
-  date: "2023-11-30"
+  date: '2023-11-30'

@@ -588,3 +588,7 @@ release-change:
   description: 5a0faa4 !2503 add etipc to 24.03 LTS SP1
   changed_packages: etipc
   date: 2025-12-10-09-33-33
+- pr: https://gitee.com/openeuler/release-management/pulls/2498
+  description: 6eaf82f !2498 obsolete qtenginio
+  changed_packages: qt5-qtenginio
+  date: 2025-12-18-09-55-18
