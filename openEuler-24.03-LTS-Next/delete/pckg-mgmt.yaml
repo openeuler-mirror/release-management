@@ -82,3 +82,4 @@ packages:
 - name: libtimezonemap
 - name: gfbgraph
 - name: openvino
+- name: qt5-qtenginio
