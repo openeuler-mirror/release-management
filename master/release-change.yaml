@@ -2753,3 +2753,7 @@ release-change:
   description: 6eaf82f !2498 obsolete qtenginio
   changed_packages: qt5-qtenginio
   date: 2025-12-18-09-55-18
+- pr: https://gitee.com/openeuler/release-management/pulls/2512
+  description: ac4dc9a !2512 Move ubctl/ummu/cdma/ubutils from Factory to Mainline
+  changed_packages: ubctl cdma ummu ubutils
+  date: 2025-12-19-14-19-28
