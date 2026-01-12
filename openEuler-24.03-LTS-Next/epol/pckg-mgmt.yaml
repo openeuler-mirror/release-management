@@ -8363,3 +8363,9 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-11-25'
+- name: knet
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-01-12'
