@@ -6023,3 +6023,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-12-04'
+- name: ub-pkg-manager
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-01-12'

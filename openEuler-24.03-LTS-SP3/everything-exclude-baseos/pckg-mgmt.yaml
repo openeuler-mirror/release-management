@@ -15023,3 +15023,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
   date: '2025-12-10'
+- name: ub-pkg-manager
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP3
+  date: '2026-01-12'
