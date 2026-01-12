@@ -8811,3 +8811,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-11-25'
+- name: polymind
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-01-14'
