@@ -683,3 +683,5 @@ packages:
   - name: qt5-doc
   - name: python-roman-numerals-py
   - name: libomp
+  - name: libzapojit
+  - name: compat-rest

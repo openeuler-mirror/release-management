@@ -84,3 +84,5 @@ packages:
 - name: openvino
 - name: qt5-qtenginio
 - name: libomp
+- name: libzapojit
+- name: compat-rest
