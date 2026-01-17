@@ -685,3 +685,4 @@ packages:
   - name: libomp
   - name: libzapojit
   - name: compat-rest
+  - name: libgdata
