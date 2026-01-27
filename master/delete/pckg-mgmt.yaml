@@ -681,3 +681,4 @@ packages:
   - name: lzma-java
   - name: qt5-qtenginio
   - name: qt5-doc
+  - name: python-roman-numerals-py
