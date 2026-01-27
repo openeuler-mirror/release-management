@@ -8369,3 +8369,9 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2026-01-12'
+- name: e2b-infra
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP3
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2025-01-27'
