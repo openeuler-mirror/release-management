@@ -5907,6 +5907,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2024-03-19'
+- name: localsearch
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-01-25'
 - name: gnome-bluetooth
   obs_from: openEuler:Meson
   obs_to: openEuler:Epol
