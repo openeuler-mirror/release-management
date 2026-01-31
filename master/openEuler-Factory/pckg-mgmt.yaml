@@ -15435,3 +15435,55 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-12-15"
+    - name: ray-adapter
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-10-28"
+    - name: kiwi-template-openEuler
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-12-18"
+    - name: yuanrong
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2025-12-18"
+    - name: sudo-rs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-12"
+    - name: blueprint-compiler
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-20"
+    - name: libpeas2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-20"
+    - name: libcups
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-20"
+    - name: gweather-locations
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-20"
+    - name: LinQuickRec
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-20"
+    - name: opencode
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-21"
+    - name: cache_tuner
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-30"
+    - name: mem_hot
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-30"
+    - name: ag-cli
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-30"
