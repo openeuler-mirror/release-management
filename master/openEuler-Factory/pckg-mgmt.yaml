@@ -15487,3 +15487,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-01-30"
+    - name: witty-service
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-31"
+    - name: witty-framework
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-01-31"
