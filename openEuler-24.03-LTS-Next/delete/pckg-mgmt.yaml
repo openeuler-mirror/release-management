@@ -83,3 +83,4 @@ packages:
 - name: gfbgraph
 - name: openvino
 - name: qt5-qtenginio
+- name: libomp
