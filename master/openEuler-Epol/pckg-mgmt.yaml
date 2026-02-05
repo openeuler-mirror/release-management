@@ -8815,3 +8815,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-01-14'
+- name: sudo-rs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-01-16'
