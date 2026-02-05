@@ -15447,10 +15447,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-12-18"
-    - name: sudo-rs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-01-12"
     - name: blueprint-compiler
       obs_from: ""
       obs_to: openEuler:Factory
