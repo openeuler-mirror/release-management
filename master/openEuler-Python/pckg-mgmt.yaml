@@ -3191,3 +3191,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2026-01-19'
+- name: blueprint-compiler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2026-02-05'
