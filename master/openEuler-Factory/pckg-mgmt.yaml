@@ -15487,3 +15487,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-01-31"
+    - name: MIAC
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-02-06"
