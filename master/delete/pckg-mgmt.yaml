@@ -686,3 +686,5 @@ packages:
   - name: libzapojit
   - name: compat-rest
   - name: libgdata
+  - name: tracker3
+  - name: tracker3-miners
