@@ -8375,10 +8375,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-07-16'
-- name: python-pyside6
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-07-21'
 - name: kf6-kidletime
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

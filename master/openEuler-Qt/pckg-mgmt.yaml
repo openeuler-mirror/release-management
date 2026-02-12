@@ -303,3 +303,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Qt
   date: '2023-11-30'
+- name: python-pyside6
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Qt
+  date: '2026-02-13'
