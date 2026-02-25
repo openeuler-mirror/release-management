@@ -3195,3 +3195,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2026-02-05'
+- name: python-asgiref
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2026-02-25'
