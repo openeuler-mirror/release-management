@@ -15503,3 +15503,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-02-24"
+    - name: libsigcpp30
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-02-25"
