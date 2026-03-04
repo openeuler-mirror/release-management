@@ -7435,10 +7435,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-02-20'
-- name: xmodmap
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-02-20'
 - name: xrefresh
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

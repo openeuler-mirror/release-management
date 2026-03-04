@@ -6031,3 +6031,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Mainline
   date: '2026-01-20'
+- name: xmodmap
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2026-03-02'
