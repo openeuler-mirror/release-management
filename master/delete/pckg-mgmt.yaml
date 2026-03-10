@@ -688,3 +688,4 @@ packages:
   - name: libgdata
   - name: tracker3
   - name: tracker3-miners
+  - name: webp-pixbuf-loader
