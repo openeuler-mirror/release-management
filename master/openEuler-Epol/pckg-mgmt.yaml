@@ -8807,3 +8807,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-01-16'
+- name: qt5-qtwebkit
+  obs_from: openEuler:Qt
+  obs_to: openEuler:Epol
+  date: '2026-02-10'
