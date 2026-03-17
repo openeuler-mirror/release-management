@@ -535,10 +535,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: glassfish-gmbal
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: glib-networking
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -1808,10 +1804,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: lxcfs-tools
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: lz4-java
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
