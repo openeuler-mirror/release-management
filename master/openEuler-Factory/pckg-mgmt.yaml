@@ -15519,10 +15519,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-03-17"
-    - name: golang-1.24
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-03-17"
     - name: xmvn-connector-ivy
       obs_from: ""
       obs_to: openEuler:Factory
