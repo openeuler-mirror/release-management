@@ -2757,3 +2757,7 @@ release-change:
   description: ac4dc9a !2512 Move ubctl/ummu/cdma/ubutils from Factory to Mainline
   changed_packages: ubctl cdma ummu ubutils
   date: 2025-12-19-14-19-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2553
+  description: bf68a0a !2553 add golang-1.24 to openEuler-24.03-LTS-SP3/Next
+  changed_packages: golang-1.24
+  date: 2026-03-17-19-34-43
