@@ -4027,6 +4027,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-02-04'
+- name: jpegxl
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2025-03-18'
 - name: libdap
   obs_from: openEuler:Factory
   obs_to: openEuler:C

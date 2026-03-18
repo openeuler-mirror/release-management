@@ -8767,10 +8767,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-10-16'
-- name: jpegxl
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-10-16'
 - name: python-doxypypy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
