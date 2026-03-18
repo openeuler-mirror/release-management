@@ -2587,3 +2587,43 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Java
   date: '2026-01-29'
+- name: xmvn-connector-ivy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: relaxng-datatype-java
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-stax-ex
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-istack-commons
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-fi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-dtd-parser
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-api
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jakarta-mail1
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jakarta-activation1
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
