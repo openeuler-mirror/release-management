@@ -2761,3 +2761,7 @@ release-change:
   description: bf68a0a !2553 add golang-1.24 to openEuler-24.03-LTS-SP3/Next
   changed_packages: golang-1.24
   date: 2026-03-17-19-34-43
+- pr: https://gitcode.com/openeuler/release-management/pull/2554
+  description: d18503b !2554 move jpegxl into everything
+  changed_packages: jpegxl
+  date: 2026-03-18-14-47-06
