@@ -2769,3 +2769,8 @@ release-change:
   description: a8ab929 !2556 move higway into everything
   changed_packages: highway
   date: 2026-03-19-09-37-55
+- pr: https://gitcode.com/openeuler/release-management/pull/2550
+  description: 890dfe1 !2550 添加sysHAX-adapter的master、24.03 LTS、24.03 LTS SP1、24.03
+    LTS SP2、24.03 LTS SP3
+  changed_packages: sysHAX-adapter
+  date: 2026-03-19-14-49-02
