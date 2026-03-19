@@ -2765,3 +2765,7 @@ release-change:
   description: d18503b !2554 move jpegxl into everything
   changed_packages: jpegxl
   date: 2026-03-18-14-47-06
+- pr: https://gitcode.com/openeuler/release-management/pull/2556
+  description: a8ab929 !2556 move higway into everything
+  changed_packages: highway
+  date: 2026-03-19-09-37-55
