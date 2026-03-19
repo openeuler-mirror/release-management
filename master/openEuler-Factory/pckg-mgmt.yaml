@@ -15339,10 +15339,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-10-21"
-    - name: sysHAX-adapter
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-10-22"
     - name: perl-Crypt-Twofish
       obs_from: ""
       obs_to: openEuler:Factory
