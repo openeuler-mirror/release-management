@@ -91,6 +91,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
+- name: gweather-locations
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Meson
+  date: '2026-03-19'
 - name: json-glib
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
