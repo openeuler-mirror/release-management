@@ -279,10 +279,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: aws-sdk-java
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: axiom
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -367,10 +363,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: castor-maven-plugin
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: cbi-plugins
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -399,15 +391,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: codegen
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: codehaus-parent
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: codemodel
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -479,10 +463,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: docker-client-java
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: dom4j
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -524,10 +504,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: ehcache-core
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: ehcache-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -723,22 +699,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: glassfish-annotation-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: glassfish-dtd-parser
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: glassfish-ejb-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: glassfish-fastinfoset
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: glassfish-hk2
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -755,15 +715,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: glassfish-jaxrpc-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: glassfish-jsp
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: glassfish-jsp-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -788,10 +740,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: glassfish-toplink-essentials
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: glassfish-transaction-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -839,14 +787,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: grizzly
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: grizzly-npn
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: groovy
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -860,10 +800,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: guava
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: guava20
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -903,19 +839,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: hibernate-jpa-2.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: hibernate-validator
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: hibernate3
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: hibernate4
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -924,10 +848,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: hsqldb
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: hsqldb1
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -959,10 +879,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: idlj-maven-plugin
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: infinispan
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -979,15 +895,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: istack-commons
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jFormatString
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jackson
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1079,10 +987,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jandex-maven-plugin
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: janino
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1096,14 +1000,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jarjar
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jasypt
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jatl
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1147,10 +1043,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: javamail
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: javaparser
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1175,19 +1067,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jboss-annotations-1.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jboss-classfilewriter
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-connector-1.6-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-connector-1.7-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1195,31 +1075,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jboss-ejb-3.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-ejb-3.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-el-2.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-el-3.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jboss-integration
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-interceptors-1.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-interceptors-1.2-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1231,55 +1087,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jboss-jacc-1.5-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jaspi-1.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jaspi-1.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jaxrpc-1.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jboss-jaxrs-2.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jaxws-2.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jms-1.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jms-2.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jsf-2.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jsf-2.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jsp-2.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jsp-2.3-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-jstl-1.2-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1323,26 +1131,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jboss-rmi-1.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-sasl
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-servlet-2.5-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-servlet-3.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-servlet-3.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jboss-specs-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1355,27 +1143,11 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jboss-transaction-1.1-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-transaction-1.2-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jboss-transaction-spi
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jboss-vfs
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-websocket-1.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jboss-websocket-1.1-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1515,10 +1287,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jetty-test-policy
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jetty-toolchain
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1647,19 +1415,11 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jsonp
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jsoup
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jsr-305
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jsr-311
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1735,10 +1495,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: lettuce
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: leveldb-java
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1755,23 +1511,11 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: log4j12
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: logback
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: lucene
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: lucene3
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: lucene4
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1895,10 +1639,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: maven-osgi
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: maven-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1963,10 +1703,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: maven-shared
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: maven-shared-incremental
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2027,10 +1763,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: mimepull
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: mina-ftpserver
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2056,10 +1788,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: mongo-java-driver
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: mongo-java-driver2
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2119,10 +1847,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: nailgun
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: narayana
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2132,10 +1856,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: netty
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: netty3
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2219,27 +1939,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: picketbox
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: picketbox-commons
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: picketbox-xacml
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: plexus-ant-factory
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: plexus-archiver
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: plexus-bsh-factory
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2252,10 +1952,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: plexus-classworlds
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: plexus-cli
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2347,10 +2043,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: protoparser
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: protostream
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2416,14 +2108,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: rhq-plugin-annotations
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: rmic-maven-plugin
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: rngom
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2495,10 +2179,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: sisu-mojos
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: slf4j
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2512,10 +2192,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: snowball-java
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: sonatype-oss-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2556,10 +2232,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: staxmapper
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: stream-lib
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2619,10 +2291,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: time-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: tomcat
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2656,10 +2324,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: tycho
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: tycho-extras
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2711,10 +2375,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: wildfly-build-tools
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: wildfly-common
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2724,10 +2384,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: wildfly-elytron
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: wildfly-security-manager
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -2851,10 +2507,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: zinc
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: znerd-oss-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2935,3 +2587,43 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Java
   date: '2026-01-29'
+- name: xmvn-connector-ivy
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: relaxng-datatype-java
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-stax-ex
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-istack-commons
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-fi
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-dtd-parser
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jaxb-api
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jakarta-mail1
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'
+- name: jakarta-activation1
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-03-18'

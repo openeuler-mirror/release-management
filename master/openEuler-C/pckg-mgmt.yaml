@@ -1035,6 +1035,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: highway
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2025-03-18'
 - name: hostname
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -4027,6 +4031,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-02-04'
+- name: jpegxl
+  obs_from: openEuler:Epol
+  obs_to: openEuler:C
+  date: '2025-03-18'
 - name: libdap
   obs_from: openEuler:Factory
   obs_to: openEuler:C

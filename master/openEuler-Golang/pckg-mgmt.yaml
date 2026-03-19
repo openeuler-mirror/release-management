@@ -11,3 +11,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Golang
   date: '2022-07-26'
+- name: golang-1.24
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Golang
+  date: '2026-03-17'

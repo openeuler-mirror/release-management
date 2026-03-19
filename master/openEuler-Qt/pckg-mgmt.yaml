@@ -91,10 +91,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Qt
   date: '2022-07-26'
-- name: qt5-qtwebkit
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Qt
-  date: '2022-07-26'
 - name: qt5-qtwebsockets
   obs_from: openEuler:Mainline
   obs_to: openEuler:Qt

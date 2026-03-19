@@ -14427,10 +14427,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-04-01"
-    - name: llhttp
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-04-01"
     - name: duckdb
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15511,3 +15507,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-02-28"
+    - name: globaltrustauthority-rbs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-03-05"
+    - name: witty-opencode
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-03-17"
+    - name: tecla
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-03-17"
