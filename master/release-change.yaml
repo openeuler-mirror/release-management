@@ -2774,3 +2774,7 @@ release-change:
     LTS SP2、24.03 LTS SP3
   changed_packages: sysHAX-adapter
   date: 2026-03-19-14-49-02
+- pr: https://gitcode.com/openeuler/release-management/pull/2561
+  description: 702e6ff !2561 move perl-Devel-CheckCompiler to everything
+  changed_packages: perl-Devel-CheckCompiler
+  date: 2026-03-24-15-43-28
