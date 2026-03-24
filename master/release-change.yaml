@@ -2778,3 +2778,7 @@ release-change:
   description: 702e6ff !2561 move perl-Devel-CheckCompiler to everything
   changed_packages: perl-Devel-CheckCompiler
   date: 2026-03-24-15-43-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2560
+  description: a17c559 !2560 recycle autoconf213
+  changed_packages: autoconf213
+  date: 2026-03-24-16-58-50

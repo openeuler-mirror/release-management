@@ -601,3 +601,7 @@ release-change:
     LTS SP2、24.03 LTS SP3
   changed_packages: sysHAX-adapter
   date: 2026-03-19-14-49-02
+- pr: https://gitcode.com/openeuler/release-management/pull/2560
+  description: a17c559 !2560 recycle autoconf213
+  changed_packages: autoconf213
+  date: 2026-03-24-16-58-50
