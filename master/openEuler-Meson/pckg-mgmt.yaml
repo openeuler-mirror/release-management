@@ -59,6 +59,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson
   date: '2022-07-26'
+- name: gnome-desktop3
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Meson
+  date: '2026-03-22'
 - name: gnome-packagekit
   obs_from: openEuler:Mainline
   obs_to: openEuler:Meson

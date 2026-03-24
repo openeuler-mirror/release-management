@@ -5907,10 +5907,6 @@ packages:
   obs_from: openEuler:Meson
   obs_to: openEuler:Epol
   date: '2024-03-19'
-- name: gnome-desktop3
-  obs_from: openEuler:Meson
-  obs_to: openEuler:Epol
-  date: '2024-03-19'
 - name: gnome-menus
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
