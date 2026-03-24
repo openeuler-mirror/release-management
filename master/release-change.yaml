@@ -2782,3 +2782,7 @@ release-change:
   description: a17c559 !2560 recycle autoconf213
   changed_packages: autoconf213
   date: 2026-03-24-16-58-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2558
+  description: 21bc359 !2558 move gnome-desktop3 to everything for malcontent
+  changed_packages: gnome-desktop3
+  date: 2026-03-24-17-00-08
