@@ -778,3 +778,4 @@ packages:
   - name: wildfly-build-tools
   - name: wildfly-security-manager
   - name: zinc
+  - name: autoconf213
