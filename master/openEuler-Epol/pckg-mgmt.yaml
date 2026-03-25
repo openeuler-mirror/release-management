@@ -8799,3 +8799,7 @@ packages:
   obs_from: openEuler:Qt
   obs_to: openEuler:Epol
   date: '2026-02-10'
+- name: tecla
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-03-25'
