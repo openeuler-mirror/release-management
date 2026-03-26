@@ -1731,10 +1731,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: python-clufter
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: python-cmd2
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol

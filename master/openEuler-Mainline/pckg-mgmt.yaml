@@ -443,10 +443,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: findbugs
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: fio
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -456,10 +452,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: firewalld
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: fmpp
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -4160,10 +4152,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: sshj
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: sslext
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
