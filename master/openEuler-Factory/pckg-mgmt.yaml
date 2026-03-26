@@ -15507,10 +15507,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-03-17"
-    - name: tecla
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-03-17"
     - name: scx
       obs_from: ""
       obs_to: openEuler:Factory
