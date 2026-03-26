@@ -779,3 +779,10 @@ packages:
   - name: wildfly-security-manager
   - name: zinc
   - name: autoconf213
+  - name: maven-plugin-build-helper
+  - name: maven-plugin-bundle
+  - name: jaf
+  - name: glassfish-jaxb
+  - name: glassfish-jaxb-api
+  - name: stax-ex
+  - name: relaxngDatatype
