@@ -2786,3 +2786,8 @@ release-change:
   description: 21bc359 !2558 move gnome-desktop3 to everything for malcontent
   changed_packages: gnome-desktop3
   date: 2026-03-24-17-00-08
+- pr: https://gitcode.com/openeuler/release-management/pull/2563
+  description: 3d0251c !2563 delete the renamed packages
+  changed_packages: glassfish-jaxb maven-plugin-build-helper stax-ex relaxngDatatype
+    jaf glassfish-jaxb-api maven-plugin-bundle
+  date: 2026-03-26-10-48-52

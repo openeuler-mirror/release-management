@@ -127,10 +127,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Common_Languages_Dependent_Tools
   date: '2022-07-26'
-- name: maven-plugin-bundle
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Common_Languages_Dependent_Tools
-  date: '2022-07-26'
 - name: meson
   obs_from: openEuler:Mainline
   obs_to: openEuler:Common_Languages_Dependent_Tools

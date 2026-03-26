@@ -707,14 +707,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: glassfish-jaxb
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: glassfish-jaxb-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: glassfish-jsp
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -952,10 +944,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jacorb
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jaf
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1643,10 +1631,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: maven-plugin-build-helper
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: maven-plugin-testing
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2083,10 +2067,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: relaxngDatatype
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: relaxngcc
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -2220,10 +2200,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: sqljet
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: stax-ex
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
