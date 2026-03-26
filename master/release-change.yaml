@@ -2791,3 +2791,7 @@ release-change:
   changed_packages: glassfish-jaxb maven-plugin-build-helper stax-ex relaxngDatatype
     jaf glassfish-jaxb-api maven-plugin-bundle
   date: 2026-03-26-10-48-52
+- pr: https://gitcode.com/openeuler/release-management/pull/2565
+  description: 417eb70 !2565 master分支的epol增加tecla
+  changed_packages: tecla
+  date: 2026-03-26-10-59-47
