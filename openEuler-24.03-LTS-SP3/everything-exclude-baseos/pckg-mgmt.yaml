@@ -7147,6 +7147,10 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
   date: '2025-09-29'
+- name: openjdk-25
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP3
+  date: '2026-03-30'
 - name: openjdk-latest
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
