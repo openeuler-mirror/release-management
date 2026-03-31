@@ -2873,6 +2873,12 @@ packages:
   obs_from: openEuler:Common_Languages_Dependent_Tools
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: openjdk-25
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Common_Languages_Dependent_Tools
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-03-30'
 - name: compat-openssl11
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
