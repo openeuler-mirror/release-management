@@ -15535,3 +15535,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-03-24"
+    - name: raspberrypi-kernel-legacy
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-01"
