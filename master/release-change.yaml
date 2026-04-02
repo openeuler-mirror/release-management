@@ -2795,3 +2795,7 @@ release-change:
   description: 417eb70 !2565 master分支的epol增加tecla
   changed_packages: tecla
   date: 2026-03-26-10-59-47
+- pr: https://gitcode.com/openeuler/release-management/pull/2571
+  description: e8ea7b6 !2571 Move openjdk25 to master Dependent tools
+  changed_packages: openjdk-25
+  date: 2026-04-02-10-19-25
