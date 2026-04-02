@@ -15355,10 +15355,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2025-10-28"
-    - name: openjdk-25
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2025-11-13"
     - name: llvm-ub
       obs_from: ""
       obs_to: openEuler:Factory
