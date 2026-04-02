@@ -215,6 +215,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Common_Languages_Dependent_Tools
   date: '2023-12-25'
+- name: openjdk-25
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Common_Languages_Dependent_Tools
+  date: "2026-04-02"
 - name: compat-openssl11
   obs_from: openEuler:Factory
   obs_to: openEuler:Common_Languages_Dependent_Tools
