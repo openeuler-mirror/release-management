@@ -22547,3 +22547,9 @@ packages:
   obs_from: openEuler:Golang
   obs_to: openEuler:24.03:LTS:Next
   date: '2026-03-17'
+- name: witty-opencode
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-07'
