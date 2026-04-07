@@ -609,3 +609,7 @@ release-change:
   description: aeb4d85 !2569 add support of jpegxl for its widely usage
   changed_packages: highway jpegxl
   date: 2026-03-31-10-57-25
+- pr: https://gitcode.com/openeuler/release-management/pull/2573
+  description: 3447602 !2573 add witty-opencode to openEuler-24.03-LTS-SP3 and openEuler-24.03-LTS-Next
+  changed_packages: witty-opencode
+  date: 2026-04-07-11-03-42
