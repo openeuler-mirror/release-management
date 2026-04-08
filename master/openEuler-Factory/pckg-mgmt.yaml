@@ -15543,3 +15543,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-04-07"
+    - name: opencv-mobile
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-08"
+    - name: deepin-service-manager
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-08"
+    - name: llvm-toolset-21
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-08"
