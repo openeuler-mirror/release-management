@@ -459,10 +459,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: glassfish-hk2
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: glassfish-jax-rs-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -528,10 +524,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: hawtjni
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: hessian
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -711,10 +703,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jaxb2-common-basics
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jaxb2-maven-plugin
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -819,10 +807,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jdbi
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jdeparser1
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -852,10 +836,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jeromq
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jersey
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1028,10 +1008,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: ldapjdk
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: ldaptive
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1267,10 +1243,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: mina-ftpserver
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: minlog
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1332,10 +1304,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: mysql-connector-java
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: narayana
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1600,10 +1568,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: spice-parent
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: springframework
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'

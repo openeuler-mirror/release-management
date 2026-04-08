@@ -2799,3 +2799,9 @@ release-change:
   description: e8ea7b6 !2571 Move openjdk25 to master Dependent tools
   changed_packages: openjdk-25
   date: 2026-04-02-10-19-25
+- pr: https://gitcode.com/openeuler/release-management/pull/2577
+  description: 2e1a5ec !2577 remove springframework package and dependencies from
+    master
+  changed_packages: artemis jaxb2-common-basics mina-ftpserver narayana springframework
+    jersey hessian ldaptive glassfish-hk2 jdbi
+  date: 2026-04-08-20-19-20

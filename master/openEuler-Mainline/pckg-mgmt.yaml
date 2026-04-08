@@ -103,10 +103,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: artemis
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: asio
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
