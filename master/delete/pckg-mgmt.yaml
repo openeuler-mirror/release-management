@@ -958,3 +958,13 @@ packages:
   - name: jetty-distribution-remote-resources
   - name: znerd-oss-parent
   - name: opencl-clhpp
+  - name: springframework
+  - name: hessian
+  - name: artemis
+  - name: glassfish-hk2
+  - name: jersey
+  - name: ldaptive
+  - name: mina-ftpserver
+  - name: narayana
+  - name: jaxb2-common-basics
+  - name: jdbi
