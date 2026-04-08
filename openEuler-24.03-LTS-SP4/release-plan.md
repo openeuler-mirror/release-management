@@ -43,6 +43,7 @@ LTS SPX版本代码继承master分支 <br>
 |:----|:---|:---|:--|:----|:----|:----|
 |eg1|[isa-l库：CRC算法在RISC-V架构的优化](https://gitee.com/openeuler/release-management/issues/ICW20J?from=project-issue)|Accepted|dev-utils|@qtliu666|EPOL|isa-l|
 | [2366](https://gitcode.com/openeuler/release-management/issues/2366) | 增加可信计算资源分发服务组件                                                                                              |Developing|sig-security-facility| [@yang8621](https://gitcode.com/yang8621) |EPOL|globaltrustauthority-rbs|
+| [2434](https://gitcode.com/openeuler/release-management/issues/2434) | 远程证明支持DICE                                                                                                  |Developing|sig-security-facility| [@yang8621](https://gitcode.com/yang8621) |EPOL|global-trust-authority|
 
 
 # 需求/特性反馈基本流程 <br />
