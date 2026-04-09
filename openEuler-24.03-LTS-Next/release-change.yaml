@@ -613,3 +613,7 @@ release-change:
   description: 3447602 !2573 add witty-opencode to openEuler-24.03-LTS-SP3 and openEuler-24.03-LTS-Next
   changed_packages: witty-opencode
   date: 2026-04-07-11-03-42
+- pr: https://gitcode.com/openeuler/release-management/pull/2572
+  description: 1caa032 !2572 obsoleted libgdither from master & 24.03-LTS-Next
+  changed_packages: libgdither
+  date: 2026-04-09-11-39-01

@@ -1091,12 +1091,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: libgdither
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: libgdl
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next

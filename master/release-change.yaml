@@ -2810,3 +2810,7 @@ release-change:
   changed_packages: jibx tycho eclipse-emf cbi-plugins swt-chart infinispan datanucleus-core
     eclipselink takari-lifecycle eclipse-ecf openwebbeans hibernate eclipse
   date: 2026-04-09-11-01-02
+- pr: https://gitcode.com/openeuler/release-management/pull/2572
+  description: 1caa032 !2572 obsoleted libgdither from master & 24.03-LTS-Next
+  changed_packages: libgdither
+  date: 2026-04-09-11-39-01
