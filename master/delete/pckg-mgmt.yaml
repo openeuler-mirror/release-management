@@ -982,3 +982,20 @@ packages:
   - name: cbi-plugins
   - name: datanucleus-core
   - name: libgdither
+  - name: gradle
+  - name: codenarc
+  - name: google-http-java-client
+  - name: google-oauth-java-client
+  - name: jhighlight
+  - name: json-lib
+  - name: ezmorph
+  - name: kryo
+  - name: minlog
+  - name: native-platform
+  - name: parboiled
+  - name: reflectasm
+  - name: shrinkwrap-resolver
+  - name: jgit
+  - name: maven-scm
+  - name: maven-release
+  - name: bridge-method-injector
