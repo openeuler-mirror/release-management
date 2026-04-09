@@ -275,10 +275,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: cbi-plugins
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: cdi-api
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -343,10 +339,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: datanucleus-core
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: datanucleus-maven-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -376,18 +368,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: ecj
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: eclipse-ecf
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: eclipse-emf
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: eclipselink
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -527,10 +507,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: hibernate
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: hibernate-commons-annotations
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -564,10 +540,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: icu4j
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: infinispan
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -892,10 +864,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jhighlight
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jibx
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1347,10 +1315,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: openwebbeans
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: options
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1591,10 +1555,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: swt-chart
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: t-digest
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1608,10 +1568,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: takari-incrementalbuild
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: takari-lifecycle
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1640,10 +1596,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: trilead-ssh2
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: tycho
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'

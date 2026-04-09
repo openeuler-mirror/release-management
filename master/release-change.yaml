@@ -2805,3 +2805,8 @@ release-change:
   changed_packages: artemis jaxb2-common-basics mina-ftpserver narayana springframework
     jersey hessian ldaptive glassfish-hk2 jdbi
   date: 2026-04-08-20-19-20
+- pr: https://gitcode.com/openeuler/release-management/pull/2576
+  description: e90ae37 !2576 remove eclipse packages from master
+  changed_packages: jibx tycho eclipse-emf cbi-plugins swt-chart infinispan datanucleus-core
+    eclipselink takari-lifecycle eclipse-ecf openwebbeans hibernate eclipse
+  date: 2026-04-09-11-01-02
