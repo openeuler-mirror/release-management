@@ -87,3 +87,4 @@ packages:
 - name: libzapojit
 - name: compat-rest
 - name: autoconf213
+- name: libgdither
