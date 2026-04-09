@@ -239,10 +239,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: bridge-method-injector
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: bsf
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -300,10 +296,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: codehaus-parent
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: codenarc
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -387,10 +379,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: ezmorph
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: fasterxml-oss-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -468,18 +456,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: google-guice
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: google-http-java-client
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: google-oauth-java-client
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: gradle
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -855,15 +831,7 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jgit
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jgroups
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jhighlight
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -919,10 +887,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: json-lib
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: json-path
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -968,10 +932,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: kohsuke-pom
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: kryo
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1123,10 +1083,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: maven-release
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: maven-remote-resources-plugin
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1148,10 +1104,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: maven-resources-plugin
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: maven-scm
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1208,10 +1160,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: metadata-extractor2
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: minlog
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1335,10 +1283,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: parboiled
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: pdfbox
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1443,10 +1387,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: reflectasm
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: reflections
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -1492,10 +1432,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: shrinkwrap
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: shrinkwrap-resolver
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'

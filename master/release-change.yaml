@@ -2814,3 +2814,9 @@ release-change:
   description: 1caa032 !2572 obsoleted libgdither from master & 24.03-LTS-Next
   changed_packages: libgdither
   date: 2026-04-09-11-39-01
+- pr: https://gitcode.com/openeuler/release-management/pull/2579
+  description: c9d754f !2579 remove gradle package and dependencies from master
+  changed_packages: native-platform shrinkwrap-resolver google-http-java-client jgit
+    kryo gradle codenarc bridge-method-injector maven-scm parboiled minlog json-lib
+    ezmorph maven-release reflectasm google-oauth-java-client jhighlight
+  date: 2026-04-09-16-25-03
