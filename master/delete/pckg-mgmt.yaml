@@ -968,3 +968,16 @@ packages:
   - name: narayana
   - name: jaxb2-common-basics
   - name: jdbi
+  - name: eclipse
+  - name: eclipse-ecf
+  - name: eclipse-emf
+  - name: eclipselink
+  - name: hibernate
+  - name: infinispan
+  - name: jibx
+  - name: openwebbeans
+  - name: swt-chart
+  - name: takari-lifecycle
+  - name: tycho
+  - name: cbi-plugins
+  - name: datanucleus-core
