@@ -461,6 +461,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: deepin-service-manager
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-13'
 - name: deepin-shortcut-viewer
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4613,6 +4619,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: opencv-mobile
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-13'
 - name: gnome-connections
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next

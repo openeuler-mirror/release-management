@@ -3555,6 +3555,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: opencv-mobile
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-04-13'
 - name: gnome-connections
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5139,6 +5143,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2023-08-14'
+- name: deepin-service-manager
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-04-13'
 - name: dde-app-services
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
