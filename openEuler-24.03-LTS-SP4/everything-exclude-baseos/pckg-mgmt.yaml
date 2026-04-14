@@ -15051,3 +15051,7 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-04-24'
+- name: llvm-toolset-21
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-04-30'
