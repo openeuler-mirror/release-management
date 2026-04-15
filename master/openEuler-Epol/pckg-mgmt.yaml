@@ -1007,6 +1007,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: libsoup
+  obs_from: openEuler:Meson
+  obs_to: openEuler:Epol
+  date: '2026-04-10'
 - name: libstatgrab
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
