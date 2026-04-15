@@ -999,3 +999,4 @@ packages:
   - name: maven-scm
   - name: maven-release
   - name: bridge-method-injector
+  - name: libgdata
