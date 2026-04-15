@@ -2824,3 +2824,7 @@ release-change:
   description: 5d5fc82 !2584 add opencv-mobile and deepin-service-manager
   changed_packages: opencv-mobile deepin-service-manager
   date: 2026-04-15-14-41-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2581
+  description: '411b31a !2581 master: move libsoup into epol'
+  changed_packages: libsoup
+  date: 2026-04-15-15-29-59
