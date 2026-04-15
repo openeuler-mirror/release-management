@@ -617,3 +617,7 @@ release-change:
   description: 1caa032 !2572 obsoleted libgdither from master & 24.03-LTS-Next
   changed_packages: libgdither
   date: 2026-04-09-11-39-01
+- pr: https://gitcode.com/openeuler/release-management/pull/2584
+  description: 5d5fc82 !2584 add opencv-mobile and deepin-service-manager
+  changed_packages: deepin-service-manager opencv-mobile
+  date: 2026-04-15-14-41-16

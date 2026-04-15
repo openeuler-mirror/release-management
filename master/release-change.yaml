@@ -2820,3 +2820,7 @@ release-change:
     kryo gradle codenarc bridge-method-injector maven-scm parboiled minlog json-lib
     ezmorph maven-release reflectasm google-oauth-java-client jhighlight
   date: 2026-04-09-16-25-03
+- pr: https://gitcode.com/openeuler/release-management/pull/2584
+  description: 5d5fc82 !2584 add opencv-mobile and deepin-service-manager
+  changed_packages: opencv-mobile deepin-service-manager
+  date: 2026-04-15-14-41-16
