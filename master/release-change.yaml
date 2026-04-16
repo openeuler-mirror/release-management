@@ -2828,3 +2828,14 @@ release-change:
   description: '411b31a !2581 master: move libsoup into epol'
   changed_packages: libsoup
   date: 2026-04-15-15-29-59
+- pr: https://gitcode.com/openeuler/release-management/pull/2585
+  description: df7c74f !2585 remove Java packages that are no longer needed
+  changed_packages: jnr-ffi cassandra-java-driver groovy18 glassfish-pfl takari-plugin-testing
+    jboss-invocation slf4j-jboss-logmanager freemarker takari-incrementalbuild weld-core
+    jnr-enxio arquillian-core jmock jython randomizedtesting johnzon jboss-logging-tools1
+    jboss-msc objectweb-pom jboss-stdio weld-api xnio wildfly-elytron jboss-threads
+    wildfly-common openjpa jboss-dmr jboss-remoting-jmx hibernate-validator takari-archiver
+    jnr-unixsocket wildfly-core jul-to-slf4j-stub undertow log4j-jboss-logmanager
+    maven-plugins-pom jnr-posix glassfish-management-api bval staxmapper takari-pom
+    ironjacamar h2 jing-trang jruby
+  date: 2026-04-16-09-41-01

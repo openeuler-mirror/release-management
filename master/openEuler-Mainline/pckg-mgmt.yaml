@@ -1315,10 +1315,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: jnr-ffi
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: jomolhari-fonts
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline

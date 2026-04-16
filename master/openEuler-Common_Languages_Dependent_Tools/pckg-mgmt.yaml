@@ -91,10 +91,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Common_Languages_Dependent_Tools
   date: '2022-07-26'
-- name: jruby
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Common_Languages_Dependent_Tools
-  date: '2022-07-26'
 - name: junit
   obs_from: openEuler:Mainline
   obs_to: openEuler:Common_Languages_Dependent_Tools
@@ -218,7 +214,7 @@ packages:
 - name: openjdk-25
   obs_from: openEuler:Factory
   obs_to: openEuler:Common_Languages_Dependent_Tools
-  date: "2026-04-02"
+  date: '2026-04-02'
 - name: compat-openssl11
   obs_from: openEuler:Factory
   obs_to: openEuler:Common_Languages_Dependent_Tools
