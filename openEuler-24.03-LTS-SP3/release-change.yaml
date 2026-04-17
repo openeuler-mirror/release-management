@@ -95,3 +95,7 @@ release-change:
   description: 3447602 !2573 add witty-opencode to openEuler-24.03-LTS-SP3 and openEuler-24.03-LTS-Next
   changed_packages: witty-opencode
   date: 2026-04-07-11-03-42
+- pr: https://gitcode.com/openeuler/release-management/pull/2590
+  description: 506c9b7 !2590 add ignition to openEuler-24.03-LTS-SP3
+  changed_packages: ignition
+  date: 2026-04-17-11-42-39
