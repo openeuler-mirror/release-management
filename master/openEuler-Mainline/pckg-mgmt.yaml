@@ -6007,3 +6007,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2026-03-23'
+- name: mozjs140
+  obs_from: openEuler:Factory
+  bos_to: openEuler:Mainline
+  date: '2026-04-17'
