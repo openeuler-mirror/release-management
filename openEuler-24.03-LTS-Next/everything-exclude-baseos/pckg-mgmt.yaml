@@ -22517,6 +22517,42 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2025-11-27'
+- name: ubs-comm
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-21'
+- name: ubturbo
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-21'
+- name: ham
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-21'
+- name: ubs-mem
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-21'
+- name: ubs-io
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-21'
+- name: ubs-virt
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-21'
 - name: etipc
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
