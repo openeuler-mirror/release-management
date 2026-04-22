@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitcode.com/openeuler/release-management/pull/2596
+  description: 5623ce5 !2596 add UBSCore to openEuler-24.03-LTS-SP4 and openEuler-24.03-LTS-Next
+  changed_packages: ubs-comm ubturbo ham ubs-mem ubs-io ubs-virt
+  date: 2026-04-22-10-49-19

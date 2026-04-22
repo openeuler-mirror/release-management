@@ -621,3 +621,7 @@ release-change:
   description: 5d5fc82 !2584 add opencv-mobile and deepin-service-manager
   changed_packages: deepin-service-manager opencv-mobile
   date: 2026-04-15-14-41-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2596
+  description: 5623ce5 !2596 add UBSCore to openEuler-24.03-LTS-SP4 and openEuler-24.03-LTS-Next
+  changed_packages: ubs-comm ubturbo ham ubs-mem ubs-io ubs-virt
+  date: 2026-04-22-10-49-19
