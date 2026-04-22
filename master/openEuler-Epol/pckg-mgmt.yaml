@@ -139,6 +139,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: cups-pk-helper
+  obs_from: openEuler:C
+  obs_to: openEuler:Epol
+  date: '2026-04-19'
 - name: d-feet
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
