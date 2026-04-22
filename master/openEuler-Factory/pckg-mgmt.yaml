@@ -15543,3 +15543,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-04-10"
+    - name: cinderx
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-22"
+    - name: CPython
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-22"
