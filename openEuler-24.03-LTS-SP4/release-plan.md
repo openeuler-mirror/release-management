@@ -45,6 +45,7 @@ LTS SPX版本代码继承master分支&#x20;
 | [2434](https://gitcode.com/openeuler/release-management/issues/2434) | 远程证明支持DICE                                                                     | Developing | sig-security-facility | [@yang8621](https://gitcode.com/yang8621)     | EPOL | global-trust-authority   |
 | [2441](https://atomgit.com/openeuler/release-management/issues/2441) | [海光ccp驱动升级，支持sm4-xts和sm4-gcm](https://atomgit.com/openeuler/kernel/pull/21130) | Developing | SIG-Kernel            | [@partycoder](https://atomgit.com/partycoder) | ISO  | kernel                   |
 | [2442](https://atomgit.com/openeuler/release-management/issues/2442) | 新增海光CIS指令集sm3,sm4驱动                                                            | Developing | SIG-Kernel            | [@partycoder](https://atomgit.com/partycoder) | ISO  | kernel                   |
+| [2448](https://atomgit.com/openeuler/release-management/issues/2448) | 支持树莓派 | Developing | sig-SBC | [@woqidaideshi](https://atomgit.com/woqidaideshi) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
 
 # 需求/特性反馈基本流程&#x20;
 
