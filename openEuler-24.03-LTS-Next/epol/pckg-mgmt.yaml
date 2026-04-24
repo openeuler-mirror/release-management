@@ -8075,12 +8075,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-propcache
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: python-imgaug
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -8094,12 +8088,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
 - name: python-tiktoken
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
-- name: python-aiohappyeyeballs
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
