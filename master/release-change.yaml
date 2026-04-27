@@ -2847,3 +2847,8 @@ release-change:
   description: 443a8af !2591 merge move-cups-pk-helper into master
   changed_packages: cups-pk-helper
   date: 2026-04-22-09-19-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2602
+  description: 597e67d !2602 add deepin-service-manager opencv-mobile util-dfm to
+    openEuler-24.03-LTS-SP4
+  changed_packages: util-dfm
+  date: 2026-04-27-13-44-23
