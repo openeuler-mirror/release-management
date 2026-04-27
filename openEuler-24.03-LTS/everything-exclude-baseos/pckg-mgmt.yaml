@@ -22179,3 +22179,21 @@ packages:
   obs_from: openEuler:24.03:LTS:Epol
   obs_to: openEuler:24.03:LTS
   date: '2025-09-23'
+- name: python-propcache
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2026-04-27'
+- name: python-expandvars
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2026-04-27'
+- name: python-aiohappyeyeballs
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS
+  date: '2026-04-27'
