@@ -148,3 +148,8 @@ release-change:
     LTS SP2、24.03 LTS SP3
   changed_packages: sysHAX-adapter
   date: 2026-03-19-14-49-02
+- pr: https://gitcode.com/openeuler/release-management/pull/2603
+  description: 34473e8 !2603 add python-expandvars, python-propcache, python-aiohappyeyeballs
+    to 24.03-LTS/24.03-LTS-SP1 for aiohttp upgrade
+  changed_packages: python-propcache python-expandvars python-aiohappyeyeballs
+  date: 2026-04-27-14-35-07
