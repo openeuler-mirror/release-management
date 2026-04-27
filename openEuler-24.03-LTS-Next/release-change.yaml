@@ -625,3 +625,8 @@ release-change:
   description: 5623ce5 !2596 add UBSCore to openEuler-24.03-LTS-SP4 and openEuler-24.03-LTS-Next
   changed_packages: ubs-comm ubturbo ham ubs-mem ubs-io ubs-virt
   date: 2026-04-22-10-49-19
+- pr: https://gitcode.com/openeuler/release-management/pull/2599
+  description: 7507d4f !2599 将python-expandvars, python-propcache添加到24.03-LTS-SP3/SP4/Next工程，移动
+    python-aiohappyeyeballs 从epol到everything工程
+  changed_packages: python-expandvars
+  date: 2026-04-27-10-22-03
