@@ -3563,6 +3563,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-04-13'
+- name: util-dfm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-04-27'
 - name: gnome-connections
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
