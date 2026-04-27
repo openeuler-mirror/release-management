@@ -4631,6 +4631,12 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next
   date: '2026-04-13'
+- name: util-dfm
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-04-27'
 - name: gnome-connections
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
