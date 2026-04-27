@@ -571,10 +571,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: idm-console-framework
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: im-chooser
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol

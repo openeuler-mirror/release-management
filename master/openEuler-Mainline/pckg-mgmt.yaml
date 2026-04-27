@@ -1819,10 +1819,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: mchange-commons
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: media-player-info
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -1832,10 +1828,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: mercurial
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: metrics
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -1936,10 +1928,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: netpbm
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: netty-tcnative
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -4035,10 +4023,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: sbt
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: scap-security-guide
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -4136,10 +4120,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: sscg
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: sshj
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
@@ -4360,10 +4340,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: ttfautohint
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: typesafe-config
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
