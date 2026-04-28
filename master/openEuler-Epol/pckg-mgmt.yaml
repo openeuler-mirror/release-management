@@ -3747,6 +3747,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: deepin-pdfium
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-04-28'
 - name: lucenepp
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol

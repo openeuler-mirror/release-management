@@ -2755,6 +2755,10 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-04-27'
+- name: deepin-pdfium
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-04-28'
 - name: deepin-service-manager
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
