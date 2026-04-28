@@ -15567,3 +15567,27 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-04-28"
+    - name: ngtcp2
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
+    - name: nghttp3
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
+    - name: pangomm248
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
+    - name: gtkmm40
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
+    - name: glibmm268
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
+    - name: cairomm116
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
