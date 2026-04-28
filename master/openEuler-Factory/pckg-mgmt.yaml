@@ -15571,3 +15571,11 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-04-28"
+    - name: yalantinglibs
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
+    - name: msgpack-cxx
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-04-28"
