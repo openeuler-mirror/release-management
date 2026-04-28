@@ -4103,3 +4103,23 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:C
   date: '2025-07-14'
+- name: libsigcpp30
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2026-04-28'
+- name: gtkmm40
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2026-04-28'
+- name: glibmm268
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2026-04-28'
+- name: cairomm116
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2026-04-28'
+- name: pangomm248
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2026-04-28'
