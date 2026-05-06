@@ -15579,3 +15579,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-04-28"
+    - name: ubs-atomic
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-05-06"
