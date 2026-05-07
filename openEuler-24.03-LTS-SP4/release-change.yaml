@@ -17,3 +17,7 @@ release-change:
   description: 1392871 !2605 add deepin-pdfium to openEuler-24.03-LTS-SP4
   changed_packages: deepin-pdfium
   date: 2026-04-28-10-45-38
+- pr: https://gitcode.com/openeuler/release-management/pull/2586
+  description: 1e701e6 !2586 add llvm-toolset-21 to everything and 24.03-LTS-SP4
+  changed_packages: llvm-toolset-21
+  date: 2026-05-07-16-05-50

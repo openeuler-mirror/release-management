@@ -2860,3 +2860,7 @@ release-change:
   description: 1b83e7b !2607 move gtkmm4 related packages into everything
   changed_packages: libsigcpp30 gtkmm40 glibmm268 cairomm116 pangomm248
   date: 2026-04-28-16-48-26
+- pr: https://gitcode.com/openeuler/release-management/pull/2586
+  description: 1e701e6 !2586 add llvm-toolset-21 to everything and 24.03-LTS-SP4
+  changed_packages: llvm-toolset-21
+  date: 2026-05-07-16-05-50
