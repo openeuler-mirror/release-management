@@ -451,3 +451,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:MultiLanguage
   date: '2025-07-07'
+- name: llvm-toolset-21
+  obs_from: openEuler:Factory
+  obs_to: openEuler:MultiLanguage
+  date: "2026-04-30"
