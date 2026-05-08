@@ -21,3 +21,7 @@ release-change:
   description: 1e701e6 !2586 add llvm-toolset-21 to everything and 24.03-LTS-SP4
   changed_packages: llvm-toolset-21
   date: 2026-05-07-16-05-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2613
+  description: 3ec39eb !2613 delete oceanbase-ce 、polymind from 24.03-LTS-SP4
+  changed_packages: polymind oceanbase-ce
+  date: 2026-05-08-16-28-43
