@@ -1,1 +1,3 @@
-packages: []
+packages: 
+- name: polymind
+- name: oceanbase-ce
