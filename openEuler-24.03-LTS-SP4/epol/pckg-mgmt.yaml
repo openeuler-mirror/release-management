@@ -183,10 +183,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-04-09'
-- name: dde-network-utils
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP4
-  date: '2026-04-09'
 - name: dde-polkit-agent
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
@@ -264,10 +260,6 @@ packages:
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-04-09'
 - name: deepin-icon-theme
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP4
-  date: '2026-04-09'
-- name: deepin-image-viewer
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-04-09'

@@ -647,3 +647,8 @@ release-change:
   description: 3ec39eb !2613 delete oceanbase-ce 、polymind from 24.03-LTS-SP4
   changed_packages: polymind
   date: 2026-05-08-16-28-43
+- pr: https://gitcode.com/openeuler/release-management/pull/2614
+  description: 1e79534 !2614 delete dde-network-utils、deepin-image-viewer from openEuler-24.03-LTS-SP4
+    and  openEuler-24.03-LTS-Next
+  changed_packages: dde-network-utils deepin-image-viewer
+  date: 2026-05-09-10-30-50
