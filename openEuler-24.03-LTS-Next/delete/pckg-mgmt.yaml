@@ -89,3 +89,5 @@ packages:
 - name: autoconf213
 - name: libgdither
 - name: polymind
+- name: dde-network-utils
+- name: deepin-image-viewer

@@ -1,3 +1,5 @@
 packages: 
 - name: polymind
 - name: oceanbase-ce
+- name: dde-network-utils
+- name: deepin-image-viewer
