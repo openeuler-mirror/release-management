@@ -15483,10 +15483,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-02-28"
-    - name: globaltrustauthority-rbs
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-03-05"
     - name: witty-opencode
       obs_from: ""
       obs_to: openEuler:Factory

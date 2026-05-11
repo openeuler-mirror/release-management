@@ -8819,3 +8819,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-04-17'
+- name: globaltrustauthority-rbs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-05-11'
