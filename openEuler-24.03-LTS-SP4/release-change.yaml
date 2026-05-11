@@ -30,3 +30,7 @@ release-change:
     and  openEuler-24.03-LTS-Next
   changed_packages: dde-network-utils deepin-image-viewer
   date: 2026-05-09-10-30-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2617
+  description: 93ac918 !2617 merge master into master
+  changed_packages: ubs-atomic
+  date: 2026-05-11-15-53-37
