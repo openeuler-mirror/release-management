@@ -46,7 +46,7 @@ LTS SPX版本代码继承master分支&#x20;
 | [2441](https://atomgit.com/openeuler/release-management/issues/2441) | [海光ccp驱动升级，支持sm4-xts和sm4-gcm](https://atomgit.com/openeuler/kernel/pull/21130) | Developing | SIG-Kernel            | [@partycoder](https://atomgit.com/partycoder) | ISO  | kernel                   |
 | [2442](https://atomgit.com/openeuler/release-management/issues/2442) | 新增海光CIS指令集sm3,sm4驱动                                                            | Developing | SIG-Kernel            | [@partycoder](https://atomgit.com/partycoder) | ISO  | kernel                   |
 | [2448](https://atomgit.com/openeuler/release-management/issues/2448) | 支持树莓派 | Developing | sig-SBC | [@woqidaideshi](https://atomgit.com/woqidaideshi) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
-
+ | [2463](https://atomgit.com/openeuler/release-management/issues/2463) | cu-cockpit  | Developing | sig-security-facility | [@qiucx15](https://atomgit.com/qiucx15) | EPOL | cu-cockpit  |
 # 需求/特性反馈基本流程&#x20;
 
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）     &#x20;
