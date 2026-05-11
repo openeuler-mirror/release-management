@@ -2864,3 +2864,7 @@ release-change:
   description: 1e701e6 !2586 add llvm-toolset-21 to everything and 24.03-LTS-SP4
   changed_packages: llvm-toolset-21
   date: 2026-05-07-16-05-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2616
+  description: c5db4ad !2616 add globaltrustauthority-rbs to openEuler-24.03-LTS-SP4
+  changed_packages: globaltrustauthority-rbs
+  date: 2026-05-11-17-26-15

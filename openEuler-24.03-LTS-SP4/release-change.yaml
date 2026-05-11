@@ -34,3 +34,7 @@ release-change:
   description: 93ac918 !2617 merge master into master
   changed_packages: ubs-atomic
   date: 2026-05-11-15-53-37
+- pr: https://gitcode.com/openeuler/release-management/pull/2616
+  description: c5db4ad !2616 add globaltrustauthority-rbs to openEuler-24.03-LTS-SP4
+  changed_packages: globaltrustauthority-rbs
+  date: 2026-05-11-17-26-15
