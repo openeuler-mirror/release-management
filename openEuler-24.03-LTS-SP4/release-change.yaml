@@ -38,3 +38,7 @@ release-change:
   description: c5db4ad !2616 add globaltrustauthority-rbs to openEuler-24.03-LTS-SP4
   changed_packages: globaltrustauthority-rbs
   date: 2026-05-11-17-26-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2608
+  description: 869298b !2608 add ignition to openEuler-2403-LTS-NEXT and openEuler-24.03-LTS-SP4
+  changed_packages: ignition
+  date: 2026-05-12-10-28-27
