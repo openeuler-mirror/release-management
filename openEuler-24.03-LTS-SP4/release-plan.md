@@ -47,6 +47,10 @@ LTS SPX版本代码继承master分支&#x20;
 | [2442](https://atomgit.com/openeuler/release-management/issues/2442) | 新增海光CIS指令集sm3,sm4驱动                                                            | Developing | SIG-Kernel            | [@partycoder](https://atomgit.com/partycoder) | ISO  | kernel                   |
 | [2448](https://atomgit.com/openeuler/release-management/issues/2448) | 支持树莓派 | Developing | sig-SBC | [@woqidaideshi](https://atomgit.com/woqidaideshi) | EPOL | raspberrypi-firmware,raspberrypi-bluetooth,raspi-config,pigpio,raspberrypi-userland,raspberrypi-eeprom,raspberrypi-utils |
  | [2463](https://atomgit.com/openeuler/release-management/issues/2463) | cu-cockpit  | Developing | sig-security-facility | [@qiucx15](https://atomgit.com/qiucx15) | EPOL | cu-cockpit  |
+| [2459](https://atomgit.com/openeuler/release-management/issues/2459) | fastblock块存储项目 | Developing | sig-SDS | [@wuxingyi](https://atomgit.com/wuxingyi) | EPOL | fastblock,fastblock-osd,fastblock-mon,fastblock-kmod |
+| [2460](https://atomgit.com/openeuler/release-management/issues/2460) | cu-concrete | Developing | sig-security-facility | [@liuk311](https://gitcode.com/liuk311) | EPOL | cu-concrete |
+| [2461](https://atomgit.com/openeuler/release-management/issues/2461) | cu-scanner | Developing | sig-security-facility | [@caojingbo](https://gitcode.com/caojingbo) | EPOL | cu-scanner |
+| [2462](https://atomgit.com/openeuler/release-management/issues/2462) | safeguard | Developing | sig-ebpf | [@tongyx633](https://atomgit.com/tongyx633) | EPOL | safeguard |
 # 需求/特性反馈基本流程&#x20;
 
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）     &#x20;
