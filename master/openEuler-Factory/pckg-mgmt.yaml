@@ -15471,10 +15471,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-02-10"
-    - name: rust-add-determinism
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-02-24"
     - name: cargo-packaging
       obs_from: ""
       obs_to: openEuler:Factory
