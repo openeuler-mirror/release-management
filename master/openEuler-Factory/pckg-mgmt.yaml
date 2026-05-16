@@ -15551,14 +15551,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-04-27"
-    - name: ngtcp2
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-04-28"
-    - name: nghttp3
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-04-28"
     - name: elasticMem
       obs_from: ""
       obs_to: openEuler:Factory
@@ -15579,10 +15571,6 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-05-15"
-    - name: msedit
-      obs_from: ""
-      obs_to: openEuler:Factory
-      date: "2026-05-16"
     - name: pcsc-tools
       obs_from: ""
       obs_to: openEuler:Factory

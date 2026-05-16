@@ -1947,6 +1947,14 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: nghttp3
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-05-16'
+- name: ngtcp2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2025-05-16'
 - name: nginx
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
