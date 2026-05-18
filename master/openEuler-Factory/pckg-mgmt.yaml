@@ -15583,3 +15583,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-05-16"
+    - name: muParser
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-05-18"
