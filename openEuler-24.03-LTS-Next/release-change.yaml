@@ -664,3 +664,7 @@ release-change:
   description: 869298b !2608 add ignition to openEuler-2403-LTS-NEXT and openEuler-24.03-LTS-SP4
   changed_packages: ignition
   date: 2026-05-12-10-28-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2620
+  description: af6a0d1 !2620 Add pam_pkcs11 to openEuler-24.03-LTS-SP4 and openEuler-24.03-LTS-Next
+  changed_packages: pam_pkcs11
+  date: 2026-05-18-10-08-46
