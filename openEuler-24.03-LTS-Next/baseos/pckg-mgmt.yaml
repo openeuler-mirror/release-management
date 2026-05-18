@@ -7199,3 +7199,9 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2025-06-30'
+- name: krun
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-05-18'
