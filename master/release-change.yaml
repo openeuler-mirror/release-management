@@ -2868,3 +2868,7 @@ release-change:
   description: c5db4ad !2616 add globaltrustauthority-rbs to openEuler-24.03-LTS-SP4
   changed_packages: globaltrustauthority-rbs
   date: 2026-05-11-17-26-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2625
+  description: 986bb96 !2625 Move muParser from openEuler:Factory to openEuler:Mainline
+  changed_packages: muParser
+  date: 2026-05-18-15-55-34
