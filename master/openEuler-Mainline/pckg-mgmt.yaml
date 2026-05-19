@@ -6003,3 +6003,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2026-05-18'
+- name: knet
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Mainline
+  date: "2026-05-18"

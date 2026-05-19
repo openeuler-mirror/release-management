@@ -5147,10 +5147,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-04-09'
-- name: knet
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP4
-  date: '2026-04-09'
 - name: e2b-infra
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
