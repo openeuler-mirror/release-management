@@ -2692,4 +2692,4 @@ packages:
   destination_dir: Multi-Version_OpenStack-Wallaby_openEuler-24.03-LTS-SP4
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Wallaby
   obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Wallaby
-  date: '2025-06-11'
+  date: '2026-05-19'
