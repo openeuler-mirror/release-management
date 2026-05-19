@@ -2880,3 +2880,7 @@ release-change:
   description: 902e53d !2623 move rust-add-determinism to everything
   changed_packages: rust-add-determinism
   date: 2026-05-19-09-45-25
+- pr: https://gitcode.com/openeuler/release-management/pull/2626
+  description: 560b500 !2626 knet added into openeuler2403SP4 everything
+  changed_packages: knet
+  date: 2026-05-19-09-49-52
