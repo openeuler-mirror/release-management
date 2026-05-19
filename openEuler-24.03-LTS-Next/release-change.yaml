@@ -668,3 +668,7 @@ release-change:
   description: af6a0d1 !2620 Add pam_pkcs11 to openEuler-24.03-LTS-SP4 and openEuler-24.03-LTS-Next
   changed_packages: pam_pkcs11
   date: 2026-05-18-10-08-46
+- pr: https://gitcode.com/openeuler/release-management/pull/2621
+  description: 6702d88 !2621 add composer and pie into 24.03 Next
+  changed_packages: composer pie
+  date: 2026-05-19-09-44-00
