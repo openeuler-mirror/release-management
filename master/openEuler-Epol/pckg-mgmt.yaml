@@ -1123,6 +1123,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: msedit
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2025-05-16'
 - name: mujs
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
