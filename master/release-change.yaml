@@ -2876,3 +2876,7 @@ release-change:
   description: 5586d7c !2622 move nghttp3 and ngtcp into everything, msedit into epol
   changed_packages: msedit nghttp3 ngtcp2
   date: 2026-05-19-09-37-48
+- pr: https://gitcode.com/openeuler/release-management/pull/2623
+  description: 902e53d !2623 move rust-add-determinism to everything
+  changed_packages: rust-add-determinism
+  date: 2026-05-19-09-45-25
