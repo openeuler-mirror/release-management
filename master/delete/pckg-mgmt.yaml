@@ -1120,3 +1120,7 @@ packages:
   - name: jfreechart
   - name: zxing
   - name: felix-scr
+  - name: objectweb-asm3
+  - name: multithreadedtc
+  - name: munge-maven-plugin
+  - name: apache-rat
