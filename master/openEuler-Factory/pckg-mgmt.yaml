@@ -15575,3 +15575,7 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-05-19"
+    - name: memlinkd
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-05-19"
