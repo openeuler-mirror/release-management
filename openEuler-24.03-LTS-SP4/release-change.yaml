@@ -46,3 +46,7 @@ release-change:
   description: af6a0d1 !2620 Add pam_pkcs11 to openEuler-24.03-LTS-SP4 and openEuler-24.03-LTS-Next
   changed_packages: pam_pkcs11
   date: 2026-05-18-10-08-46
+- pr: https://gitcode.com/openeuler/release-management/pull/2628
+  description: ba26fc0 !2628 add krun to openEuler-24.03-LTS and openEuler-24.03-LTS-SP4.
+  changed_packages: krun
+  date: 2026-05-19-14-46-35

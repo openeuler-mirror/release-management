@@ -672,3 +672,7 @@ release-change:
   description: 6702d88 !2621 add composer and pie into 24.03 Next
   changed_packages: composer pie
   date: 2026-05-19-09-44-00
+- pr: https://gitcode.com/openeuler/release-management/pull/2628
+  description: ba26fc0 !2628 add krun to openEuler-24.03-LTS and openEuler-24.03-LTS-SP4.
+  changed_packages: krun
+  date: 2026-05-19-14-46-35
