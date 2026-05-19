@@ -135,10 +135,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: apache-rat
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: apache-resource-bundles
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -911,14 +907,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: multithreadedtc
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: munge-maven-plugin
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: mvel
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -936,10 +924,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: objectweb-asm
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: objectweb-asm3
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'

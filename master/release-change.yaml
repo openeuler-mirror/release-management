@@ -2884,3 +2884,8 @@ release-change:
   description: 560b500 !2626 knet added into openeuler2403SP4 everything
   changed_packages: knet
   date: 2026-05-19-09-49-52
+- pr: https://gitcode.com/openeuler/release-management/pull/2631
+  description: c8ad9a8 !2631 remove objectweb-asm3, multithreadedtc, munge-maven-plugin,
+    apache-rat packages from master
+  changed_packages: objectweb-asm3 multithreadedtc apache-rat munge-maven-plugin
+  date: 2026-05-19-17-45-48
