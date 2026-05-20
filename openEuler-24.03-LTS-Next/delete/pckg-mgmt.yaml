@@ -91,3 +91,6 @@ packages:
 - name: polymind
 - name: dde-network-utils
 - name: deepin-image-viewer
+- name: memlink
+- name: cdma
+- name: ummu

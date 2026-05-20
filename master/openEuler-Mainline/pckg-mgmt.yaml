@@ -5467,6 +5467,14 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-12-18'
+- name: libcdma
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-05-20'
+- name: libummu
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-05-20'
 - name: cdma
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

@@ -3,3 +3,6 @@ packages:
 - name: oceanbase-ce
 - name: dde-network-utils
 - name: deepin-image-viewer
+- name: memlink
+- name: cdma
+- name: ummu

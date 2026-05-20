@@ -1124,3 +1124,6 @@ packages:
   - name: multithreadedtc
   - name: munge-maven-plugin
   - name: apache-rat
+  - name: memlink
+  - name: cdma
+  - name: ummu
