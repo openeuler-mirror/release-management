@@ -8827,3 +8827,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-05-11'
+- name: witty-opentunex
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-05-20'
