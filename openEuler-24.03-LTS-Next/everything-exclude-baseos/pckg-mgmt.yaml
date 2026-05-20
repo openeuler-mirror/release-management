@@ -14021,24 +14021,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2026-05-20'
-- name: memlink
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2025-11-27'
-- name: cdma
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2025-11-10'
-- name: ummu
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2025-11-10'
 - name: ubutils
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next

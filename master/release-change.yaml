@@ -2889,3 +2889,8 @@ release-change:
     apache-rat packages from master
   changed_packages: objectweb-asm3 multithreadedtc apache-rat munge-maven-plugin
   date: 2026-05-19-17-45-48
+- pr: https://gitcode.com/openeuler/release-management/pull/2624
+  description: 24e1944 !2624 modify ummu, cdma and memlink in openEuler-24.03-LTS-SP4
+    openEuler-24.03-LTS-SP3 openEuler-24.03-LTS-NEXT and master
+  changed_packages: libcdma libummu cdma ummu memlink
+  date: 2026-05-20-14-47-28

@@ -104,3 +104,8 @@ release-change:
     python-aiohappyeyeballs 从epol到everything工程
   changed_packages: python-propcache python-expandvars
   date: 2026-04-27-10-22-03
+- pr: https://gitcode.com/openeuler/release-management/pull/2624
+  description: 24e1944 !2624 modify ummu, cdma and memlink in openEuler-24.03-LTS-SP4
+    openEuler-24.03-LTS-SP3 openEuler-24.03-LTS-NEXT and master
+  changed_packages: memlinkd libcdma libummu memlink cdma ummu
+  date: 2026-05-20-14-47-28

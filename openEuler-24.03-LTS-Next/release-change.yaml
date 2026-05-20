@@ -676,3 +676,8 @@ release-change:
   description: ba26fc0 !2628 add krun to openEuler-24.03-LTS and openEuler-24.03-LTS-SP4.
   changed_packages: krun
   date: 2026-05-19-14-46-35
+- pr: https://gitcode.com/openeuler/release-management/pull/2624
+  description: 24e1944 !2624 modify ummu, cdma and memlink in openEuler-24.03-LTS-SP4
+    openEuler-24.03-LTS-SP3 openEuler-24.03-LTS-NEXT and master
+  changed_packages: memlinkd libcdma libummu memlink cdma ummu
+  date: 2026-05-20-14-47-28
