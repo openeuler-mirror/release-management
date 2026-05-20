@@ -4,3 +4,6 @@ packages:
 - name: gfbgraph
 - name: openvino
 - name: oceanbase-ce
+- name: memlink
+- name: cdma
+- name: ummu
