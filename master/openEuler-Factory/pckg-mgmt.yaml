@@ -15579,3 +15579,15 @@ packages:
       obs_from: ""
       obs_to: openEuler:Factory
       date: "2026-05-19"
+    - name: tsshd
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-05-20"
+    - name: tssh
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-05-20"
+    - name: trzsz
+      obs_from: ""
+      obs_to: openEuler:Factory
+      date: "2026-05-20"
