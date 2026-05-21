@@ -109,3 +109,7 @@ release-change:
     openEuler-24.03-LTS-SP3 openEuler-24.03-LTS-NEXT and master
   changed_packages: memlinkd libcdma libummu memlink cdma ummu
   date: 2026-05-20-14-47-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2638
+  description: e62725f !2638 merge master into master
+  changed_packages: ubs-mem
+  date: 2026-05-21-19-53-44
