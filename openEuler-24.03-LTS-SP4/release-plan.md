@@ -51,6 +51,22 @@ LTS SPX版本代码继承master分支&#x20;
 | [2460](https://atomgit.com/openeuler/release-management/issues/2460) | cu-concrete | Developing | sig-security-facility | [@liuk311](https://gitcode.com/liuk311) | EPOL | cu-concrete |
 | [2461](https://atomgit.com/openeuler/release-management/issues/2461) | cu-scanner | Developing | sig-security-facility | [@caojingbo](https://gitcode.com/caojingbo) | EPOL | cu-scanner |
 | [2462](https://atomgit.com/openeuler/release-management/issues/2462) | safeguard | Developing | sig-ebpf | [@tongyx633](https://atomgit.com/tongyx633) | EPOL | safeguard |
+| [2476](https://atomgit.com/openeuler/release-management/issues/2476) | sysSentry支持节点故障快速通告 | Developing | Kernel-sig, Base-service | [@tong_1001](https://atomgit.com/tong_1001),[@minknov](https://atomgit.com/minknov) | ISO | Kernel,sysSentry |
+| [82](https://atomgit.com/openeuler/libvirt/issues/82) | UBNative支持libvirt自动管理vfio-ub驱动 | Developing | Virt-sig | [@xiangzixua](https://atomgit.com/xiangzixua) | ISO | libvirt |
+| [8929](https://atomgit.com/openeuler/kernel/issues/8929) | 混部场景，降低在线任务P99劣化率，提高整机的CPU利用率 | Developing | Kernel-sig | [@liaochang](https://atomgit.com/liaochang) | ISO | Kernel |
+| [1](https://gitcode.com/openeuler/witty-opentunex/issues/1) | 提供OS层性能分析调优skills，TopDown性能瓶颈自动化识别 | Developing | sig-intelligence | [@hubin95](https://atomgit.com/hubin95) | EPOL | witty-opentunex |
+| [8862](https://atomgit.com/openeuler/kernel/issues/8862) | EXT4支持硬件原子写  | Developing | Kernel-sig | [@lonuxli](https://atomgit.com/lonuxli) | ISO | Kernel |
+| [2478](https://atomgit.com/openeuler/release-management/issues/2478) | 针对社区kernel包的性能维度问题的自动化定位 | Developing | sig-cicd | [@xiaoniuzi](https://atomgit.com/xiaoniuzi) | 独立发布 | compass-ci |
+| [113](https://atomgit.com/src-openeuler/ignition/issues/113) | Support ignition new features | Developing | sig-k8sdistro | [@shiyang0321](https://atomgit.com/shiyang0321) | ISO | ignition |
+| [2479](https://atomgit.com/openeuler/release-management/issues/2479) | 虚拟化支持vtimer透传 | Developing | Virt | [@wanywhn](https://atomgit.com/wanywhn) | ISO | qemu,KVM |
+| [2480](https://atomgit.com/openeuler/release-management/issues/2480) | AI推理场景支持运行时/基础库行为采集、分析 | Developing | sig-intelligence | [@h3288824963](https://atomgit.com/h3288824963) | EPOL | witty-profiler |
+| [2481](https://atomgit.com/openeuler/release-management/issues/2481) | AI训练场景慢卡、慢节点检测算法增强 | Developing | sig-ops | [@JDLihoo](https://atomgit.com/JDLihoo) | EPOL | sysTrace |
+| [8424](https://atomgit.com/openeuler/kernel/issues/8424) | 支持 NPU 显存 MB 级切分及隔离 | Developing | Kernel-sig | [@lukace](https://atomgit.com/lukace) | ISO | kernel |
+| [2482](https://atomgit.com/openeuler/release-management/issues/2482) | OBMM共享内存支持GDB | Developing | Kernel-sig | [@TrueAI](https://atomgit.com/TrueAI), [@kazero00](https://atomgit.com/kazero00) | ISO | kernel |
+| [4](https://gitcode.com/openeuler/ANNC/issues/4) | AI图编译器Embedding复杂算子自动图融合&常量折叠等优化，提升搜推广性能 | Developing | Compiler SIG | [@zhaiwuyue](https://atomgit.com/zhaiwuyue) | Everything | ANNC |
+| [2](https://gitcode.com/openeuler/golang/issues/2) | Go编译器静态编译优化增强，运行时内存分区等优化，提升程序性能 | Developing | Compiler SIG, Go SIG | [@wd-gitcode](https://atomgit.com/wd-gitcode) | Everything | golang |
+| [2477](https://atomgit.com/openeuler/release-management/issues/2477) | openEuler 24.03 LTS SP4支持CGroupV2 | Developing | Kernel SIG | [@lujialin2](https://atomgit.com/lujialin2) | ISO | kernel |
+
 # 需求/特性反馈基本流程&#x20;
 
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）     &#x20;
