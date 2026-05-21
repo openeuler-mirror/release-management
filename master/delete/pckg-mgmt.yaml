@@ -1129,3 +1129,4 @@ packages:
   - name: ummu
   - name: mozjs102
   - name: R-plogr
+  - name: libgsasl
