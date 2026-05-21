@@ -685,3 +685,7 @@ release-change:
   description: 868ced9 !2627 add pcsc-tools to openEuler-2403-LTS-NEXT and openEuler-24.03-LTS-SP4
   changed_packages: pcsc-tools
   date: 2026-05-21-17-31-51
+- pr: https://gitcode.com/openeuler/release-management/pull/2629
+  description: c4fd054 !2629 merge master into master
+  changed_packages: witty-opentunex
+  date: 2026-05-21-20-07-04

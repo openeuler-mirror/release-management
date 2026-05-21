@@ -2894,3 +2894,7 @@ release-change:
     openEuler-24.03-LTS-SP3 openEuler-24.03-LTS-NEXT and master
   changed_packages: libcdma libummu cdma ummu memlink
   date: 2026-05-20-14-47-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2629
+  description: c4fd054 !2629 merge master into master
+  changed_packages: witty-opentunex
+  date: 2026-05-21-20-07-04
