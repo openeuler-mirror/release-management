@@ -681,3 +681,7 @@ release-change:
     openEuler-24.03-LTS-SP3 openEuler-24.03-LTS-NEXT and master
   changed_packages: memlinkd libcdma libummu memlink cdma ummu
   date: 2026-05-20-14-47-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2627
+  description: 868ced9 !2627 add pcsc-tools to openEuler-2403-LTS-NEXT and openEuler-24.03-LTS-SP4
+  changed_packages: pcsc-tools
+  date: 2026-05-21-17-31-51
