@@ -15491,10 +15491,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2026-03-19'
-- name: witty-opentunex
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2026-03-20'
 - name: gcc-13
   obs_from: ''
   obs_to: openEuler:Factory
