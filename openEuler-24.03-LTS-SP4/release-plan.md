@@ -66,6 +66,10 @@ LTS SPX版本代码继承master分支&#x20;
 | [4](https://gitcode.com/openeuler/ANNC/issues/4) | AI图编译器Embedding复杂算子自动图融合&常量折叠等优化，提升搜推广性能 | Developing | Compiler SIG | [@zhaiwuyue](https://atomgit.com/zhaiwuyue) | Everything | ANNC |
 | [2](https://gitcode.com/openeuler/golang/issues/2) | Go编译器静态编译优化增强，运行时内存分区等优化，提升程序性能 | Developing | Compiler SIG, Go SIG | [@wd-gitcode](https://atomgit.com/wd-gitcode) | Everything | golang |
 | [2477](https://atomgit.com/openeuler/release-management/issues/2477) | openEuler 24.03 LTS SP4支持CGroupV2 | Developing | Kernel SIG | [@lujialin2](https://atomgit.com/lujialin2) | ISO | kernel |
+| [2483](https://atomgit.com/openeuler/release-management/issues/2483) | openEuler支持64k内核发布(双内核方案) | Developing | sig-os-builder  | [@zhangqiumiao](https://atomgit.com/zhangqiumiao),  [@haoyonghao10](https://atomgit.com/haoyonghao10) | ISO | kernel, oemaker, anaconda |
+| [117](https://atomgit.com/openeuler/llvm-project/issues/117) | Dwarfutil功能增强，减少典型应用编译后Debug信息 | Developing | Compiler SIG  | [@eastb233](https://atomgit.com/eastb233) | Everything | llvm-project, llvm |
+| [2484](https://atomgit.com/openeuler/release-management/issues/2484) | 优化内核补丁回合，提升内核版本补丁合入效率 | Developing | sig-devstation  | [@duan_pengjie](https://atomgit.com/duan_pengjie) | 独立发布 | nvwa-cve-fixer |
+| [9216](https://https://atomgit.com/openeuler/kernel/issues/9216) | 大页内存支持swap机制 | Developing | Kernel-sig  | [@zhangliang5](https://atomgit.com/zhangliang5) | ISO | kernel |
 
 # 需求/特性反馈基本流程&#x20;
 
