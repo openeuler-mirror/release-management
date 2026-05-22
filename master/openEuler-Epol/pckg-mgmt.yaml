@@ -8831,3 +8831,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-05-20'
+- name: libvirt-dbus
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-05-22'
