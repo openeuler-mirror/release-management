@@ -8835,3 +8835,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-05-22'
+- name: witty-profiler
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-05-26'
