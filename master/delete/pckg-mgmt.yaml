@@ -1128,3 +1128,4 @@ packages:
   - name: cdma
   - name: ummu
   - name: mozjs102
+  - name: R-plogr
