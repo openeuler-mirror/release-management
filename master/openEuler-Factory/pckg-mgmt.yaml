@@ -11071,10 +11071,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-09-04'
-- name: libvirt-dbus
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-09-09'
 - name: python-fastecdsa
   obs_from: ''
   obs_to: openEuler:Factory
