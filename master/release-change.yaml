@@ -2898,3 +2898,7 @@ release-change:
   description: c4fd054 !2629 merge master into master
   changed_packages: witty-opentunex
   date: 2026-05-21-20-07-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2634
+  description: 8b55c1f !2634 ditch mozjs102 from future branches
+  changed_packages: mozjs102
+  date: 2026-05-25-11-25-52
