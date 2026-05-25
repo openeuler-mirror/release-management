@@ -70,6 +70,9 @@ LTS SPX版本代码继承master分支&#x20;
 | [117](https://atomgit.com/openeuler/llvm-project/issues/117) | Dwarfutil功能增强，减少典型应用编译后Debug信息 | Developing | Compiler SIG  | [@eastb233](https://atomgit.com/eastb233) | Everything | llvm-project, llvm |
 | [2484](https://atomgit.com/openeuler/release-management/issues/2484) | 优化内核补丁回合，提升内核版本补丁合入效率 | Developing | sig-devstation  | [@duan_pengjie](https://atomgit.com/duan_pengjie) | 独立发布 | nvwa-cve-fixer |
 | [9216](https://https://atomgit.com/openeuler/kernel/issues/9216) | 大页内存支持swap机制 | Developing | Kernel-sig  | [@zhangliang5](https://atomgit.com/zhangliang5) | ISO | kernel |
+| [2490](https://atomgit.com/openeuler/release-management/issues/2490) | 优化鲲鹏950虚拟化转换率 | Developing | Virt-sig  | [@cfalfie](https://atomgit.com/cfalfie) | ISO | spdk |
+| [2491](https://atomgit.com/openeuler/release-management/issues/2491) | AI软件包适配（新增30+），覆盖推理场景，兼容DeepSeek，使能沐曦 | Developing | sig-intelligence  | [@jimmy_hero](https://atomgit.com/jimmy_hero),  [@fromhsc](https://atomgit.com/fromhsc) | NA | NA |
+| [20](https://gitcode.com/openeuler/MLCacheDirect/issues/20) | RH2D多级缓存直通加速 | Developing | sig long  | [@PhoenixVang](https://atomgit.com/PhoenixVang) | EPOL | MLCacheDirect |
 
 # 需求/特性反馈基本流程&#x20;
 
