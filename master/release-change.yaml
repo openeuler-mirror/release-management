@@ -2902,3 +2902,8 @@ release-change:
   description: 8b55c1f !2634 ditch mozjs102 from future branches
   changed_packages: mozjs102
   date: 2026-05-25-11-25-52
+- pr: https://gitcode.com/openeuler/release-management/pull/2640
+  description: 96d60f8 !2640 During the installation phase of the CI test for mobile
+    libvirt-dbus support for cockpit-machines
+  changed_packages: libvirt-dbus
+  date: 2026-05-25-11-29-20
