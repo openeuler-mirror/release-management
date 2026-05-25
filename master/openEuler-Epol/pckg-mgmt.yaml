@@ -8811,6 +8811,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-03-04'
+- name: liteview
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-05-25'
 - name: qt5-qtwebkit
   obs_from: openEuler:Qt
   obs_to: openEuler:Epol
