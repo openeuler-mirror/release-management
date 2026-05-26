@@ -8131,10 +8131,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2025-06-17'
-- name: R-plogr
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2025-06-17'
 - name: R-png
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol

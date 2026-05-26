@@ -2907,3 +2907,7 @@ release-change:
     libvirt-dbus support for cockpit-machines
   changed_packages: libvirt-dbus
   date: 2026-05-25-11-29-20
+- pr: https://gitcode.com/openeuler/release-management/pull/2643
+  description: 46985a6 !2643 remove R-plogr from future releases
+  changed_packages: R-plogr
+  date: 2026-05-26-10-02-33

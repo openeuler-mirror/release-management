@@ -689,3 +689,7 @@ release-change:
   description: c4fd054 !2629 merge master into master
   changed_packages: witty-opentunex
   date: 2026-05-21-20-07-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2643
+  description: 46985a6 !2643 remove R-plogr from future releases
+  changed_packages: R-plogr
+  date: 2026-05-26-10-02-33
