@@ -693,3 +693,7 @@ release-change:
   description: 46985a6 !2643 remove R-plogr from future releases
   changed_packages: R-plogr
   date: 2026-05-26-10-02-33
+- pr: https://gitcode.com/openeuler/release-management/pull/2646
+  description: dc21941 !2646 add liteview to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP4
+  changed_packages: liteview
+  date: 2026-05-26-10-11-35
