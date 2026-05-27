@@ -5895,6 +5895,10 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:Epol
   date: '2024-03-19'
+- name: gsasl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-05-21'
 - name: gsound
   obs_from: openEuler:Meson
   obs_to: openEuler:Epol
