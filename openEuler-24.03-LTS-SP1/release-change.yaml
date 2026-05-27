@@ -153,3 +153,7 @@ release-change:
     to 24.03-LTS/24.03-LTS-SP1 for aiohttp upgrade
   changed_packages: python-propcache python-expandvars python-aiohappyeyeballs
   date: 2026-04-27-14-35-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2639
+  description: 16fdc73 !2639 obsolete libgsasl by gsasl
+  changed_packages: 389-ds-base
+  date: 2026-05-27-10-36-50

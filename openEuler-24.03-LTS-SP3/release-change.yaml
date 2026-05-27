@@ -113,3 +113,7 @@ release-change:
   description: e62725f !2638 merge master into master
   changed_packages: ubs-mem
   date: 2026-05-21-19-53-44
+- pr: https://gitcode.com/openeuler/release-management/pull/2639
+  description: 16fdc73 !2639 obsolete libgsasl by gsasl
+  changed_packages: 389-ds-base
+  date: 2026-05-27-10-36-50

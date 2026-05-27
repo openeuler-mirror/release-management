@@ -243,3 +243,7 @@ release-change:
   description: 70cdb36 !2453 perl-gettext has been renamed to perl-Locale-gettext
   changed_packages: perl-Locale-gettext
   date: 2025-11-11-14-17-55
+- pr: https://gitcode.com/openeuler/release-management/pull/2639
+  description: 16fdc73 !2639 obsolete libgsasl by gsasl
+  changed_packages: 389-ds-base
+  date: 2026-05-27-10-36-50
