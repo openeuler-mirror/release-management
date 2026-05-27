@@ -15671,7 +15671,7 @@ packages:
   obs_from: openEuler:21.09
   obs_to: openEuler:22.03:LTS:Next
   date: '2022-08-30'
-- name: three-eight-nine-ds-base
+- name: 389-ds-base
   source_dir: openEuler-21.09
   destination_dir: openEuler-22.03-LTS-Next
   obs_from: openEuler:21.09

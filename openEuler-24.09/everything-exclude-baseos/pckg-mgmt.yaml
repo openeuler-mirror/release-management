@@ -7875,7 +7875,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
-- name: three-eight-nine-ds-base
+- name: 389-ds-base
   source_dir: master
   destination_dir: openEuler-24.09
   date: '2024-07-30'
