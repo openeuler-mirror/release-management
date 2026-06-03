@@ -8847,3 +8847,19 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-05-29'
+- name: dtkmultimedia
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-03"
+- name: deepin-ocr
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-03"
+- name: dde-grand-search
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-03"
+- name: gstreamer1-plugins-ugly-free
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-03"
