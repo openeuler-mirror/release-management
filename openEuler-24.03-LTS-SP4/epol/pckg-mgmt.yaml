@@ -5187,3 +5187,27 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
   date: '2026-05-29'
+- name: a52dec
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-06-03'
+- name: ncnn
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-06-03'
+- name: gstreamer1-plugins-ugly-free
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-06-03'
+- name: dtkmultimedia
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-06-03'
+- name: deepin-ocr
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-06-03'
+- name: dde-grand-search
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-SP4
+  date: '2026-06-03'
