@@ -1130,3 +1130,9 @@ packages:
   - name: mozjs102
   - name: R-plogr
   - name: libgsasl
+  - name: jgroups
+  - name: jackson-dataformats-binary
+  - name: jackson-datatype-joda
+  - name: jackson-datatypes-collections
+  - name: hibernate-jpa-2.0-api
+  - name: weld-parent
