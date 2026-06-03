@@ -8471,3 +8471,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2026-06-03'
+- name: xdotool
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-06-03'

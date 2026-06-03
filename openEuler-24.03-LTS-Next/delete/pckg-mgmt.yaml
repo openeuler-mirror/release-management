@@ -61,7 +61,6 @@ packages:
 - name: python-pam
 - name: python-xapp
 - name: tint2
-- name: xdotool
 - name: mingw-wine-gecko
 - name: python-parse-type
 - name: libnetwork
