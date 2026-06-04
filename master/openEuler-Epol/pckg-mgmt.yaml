@@ -8863,3 +8863,11 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2026-06-03"
+- name: freeipa-healthcheck
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-04"
+- name: dogtag-pki
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-04"

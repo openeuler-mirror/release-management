@@ -1331,3 +1331,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Java
   date: '2026-03-18'
+- name: tomcat-jakartaee-migration
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-06-04'
+- name: picocli
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-06-04'
+- name: JUnitParams
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Java
+  date: '2026-06-04'
