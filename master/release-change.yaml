@@ -2923,3 +2923,9 @@ release-change:
   description: b8fef3f !2652 add Conch to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP4
   changed_packages: Conch
   date: 2026-05-29-12-00-22
+- pr: https://gitcode.com/openeuler/release-management/pull/2659
+  description: d3b43d8 !2659 add tomcat-jakartaee-migration/picocli/JUnitParams to
+    everything, and add freeipa-healthcheck/dogtag-pki to epol
+  changed_packages: freeipa-healthcheck dogtag-pki tomcat-jakartaee-migration picocli
+    JUnitParams
+  date: 2026-06-04-15-55-46
