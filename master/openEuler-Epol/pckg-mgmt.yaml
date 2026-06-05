@@ -151,6 +151,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2026-06-06"
+- name: cu-scanner
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-08'
 - name: d-feet
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
