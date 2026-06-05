@@ -714,3 +714,7 @@ release-change:
     openEuler-24.03-LTS-SP4
   changed_packages: cu-cockpit
   date: 2026-06-05-19-49-02
+- pr: https://gitcode.com/openeuler/release-management/pull/2663
+  description: 529ed9f !2663 add fastblock package to epol and sync to LTS
+  changed_packages: fastblock
+  date: 2026-06-05-19-50-42
