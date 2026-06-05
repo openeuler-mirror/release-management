@@ -709,3 +709,8 @@ release-change:
   description: e5cda28 !2657 add xdotool to openEuler-24.03-LTS-SP4
   changed_packages: xdotool
   date: 2026-06-03-17-09-10
+- pr: https://gitcode.com/openeuler/release-management/pull/2667
+  description: af065ea !2667 Add cu-cockpit to epol for openEuler-24.03-LTS-Next and
+    openEuler-24.03-LTS-SP4
+  changed_packages: cu-cockpit
+  date: 2026-06-05-19-49-02
