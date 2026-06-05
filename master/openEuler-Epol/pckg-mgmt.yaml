@@ -8879,3 +8879,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2026-06-04"
+- name: safeguard 
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-05'
