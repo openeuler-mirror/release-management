@@ -272,7 +272,7 @@ release:
   community:
   - src-openeuler
   frozen: true
-  owner:
+  owner_atomgit:
   - solarhu
   - yaqiangchen
   - paul-huang
