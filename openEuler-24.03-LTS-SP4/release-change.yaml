@@ -92,3 +92,7 @@ release-change:
   description: 529ed9f !2663 add fastblock package to epol and sync to LTS
   changed_packages: fastblock
   date: 2026-06-05-19-50-42
+- pr: https://gitcode.com/openeuler/release-management/pull/2661
+  description: 4782f89 !2661 Add safeguard package to epol and sync to LTS
+  changed_packages: safeguard
+  date: 2026-06-05-19-53-21
