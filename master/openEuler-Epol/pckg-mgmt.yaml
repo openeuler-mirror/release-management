@@ -147,6 +147,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-06-05'
+- name: cu-concrete
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-06-06"
 - name: d-feet
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
