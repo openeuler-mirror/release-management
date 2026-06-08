@@ -15575,10 +15575,6 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-05-27"
-- name: cu-scanner
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-06-03"
 - name: python-sphinx-rtd-theme
   obs_from: ""
   obs_to: openEuler:Factory
