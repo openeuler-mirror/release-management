@@ -9027,7 +9027,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: R-language
+- name: R
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
