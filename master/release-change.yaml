@@ -2947,3 +2947,7 @@ release-change:
     and openEuler-24.03-LTS-SP4
   changed_packages: cu-concrete
   date: 2026-06-08-10-35-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2668
+  description: d182533 !2668 Add cu-scanner package to epol and sync to LTS
+  changed_packages: cu-scanner
+  date: 2026-06-08-11-35-38
