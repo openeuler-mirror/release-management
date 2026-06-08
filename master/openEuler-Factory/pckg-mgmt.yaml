@@ -15611,3 +15611,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-06-08"
+- name: KASandbox
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-06-08"
