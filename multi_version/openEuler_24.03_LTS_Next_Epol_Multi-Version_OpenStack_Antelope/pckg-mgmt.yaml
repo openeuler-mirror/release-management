@@ -2486,49 +2486,73 @@ packages:
 - name: python-aiopg
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-aiosqlite
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-asyncmy
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-loguru
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-sphinx-rtd-theme
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: skyline-apiserver
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: skyline-console
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-aiounittest
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-immutables
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-sphinx-autobuild
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-tox-travis
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 - name: python-watchfiles
   source_dir: master
   destination_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-Next
-  date: '2026-06-04'
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol:Multi-Version:OpenStack:Antelope
+  date: '2026-06-08'
 
