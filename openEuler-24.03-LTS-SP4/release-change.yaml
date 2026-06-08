@@ -96,3 +96,8 @@ release-change:
   description: 4782f89 !2661 Add safeguard package to epol and sync to LTS
   changed_packages: safeguard
   date: 2026-06-05-19-53-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2669
+  description: d834507 !2669 Add cu-concrete to epol for openEuler-24.03-LTS-Next
+    and openEuler-24.03-LTS-SP4
+  changed_packages: cu-concrete
+  date: 2026-06-08-10-35-27
