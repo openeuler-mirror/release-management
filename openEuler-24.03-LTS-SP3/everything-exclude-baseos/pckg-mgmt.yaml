@@ -1671,10 +1671,6 @@ packages:
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
   date: '2025-09-29'
-- name: gala-spider
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-SP3
-  date: '2026-05-20'
 - name: galera
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
