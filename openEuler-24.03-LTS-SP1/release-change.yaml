@@ -157,3 +157,7 @@ release-change:
   description: 16fdc73 !2639 obsolete libgsasl by gsasl
   changed_packages: 389-ds-base
   date: 2026-05-27-10-36-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2670
+  description: ab824c9 !2670 rename R-langauge to R
+  changed_packages: R
+  date: 2026-06-09-12-32-56

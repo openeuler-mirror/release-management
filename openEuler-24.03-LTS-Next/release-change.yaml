@@ -731,3 +731,7 @@ release-change:
   description: d182533 !2668 Add cu-scanner package to epol and sync to LTS
   changed_packages: cu-scanner
   date: 2026-06-08-11-35-38
+- pr: https://gitcode.com/openeuler/release-management/pull/2670
+  description: ab824c9 !2670 rename R-langauge to R
+  changed_packages: R
+  date: 2026-06-09-12-32-56
