@@ -735,3 +735,7 @@ release-change:
   description: ab824c9 !2670 rename R-langauge to R
   changed_packages: R
   date: 2026-06-09-12-32-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2675
+  description: eac5387 !2675 add qt5-qtquick3d into 2403 Next
+  changed_packages: qt5-qtquick3d
+  date: 2026-06-12-11-17-49
