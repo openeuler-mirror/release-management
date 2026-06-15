@@ -7,3 +7,4 @@ packages:
 - name: memlink
 - name: cdma
 - name: ummu
+- name: witty-opencode
