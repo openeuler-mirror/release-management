@@ -15619,3 +15619,11 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-06-09"
+- name: dtksystemsettings
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-06-15"
+- name: dtkdeclarative
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-06-15"
