@@ -22618,4 +22618,4 @@ packages:
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next
-  date: '2026-06-17'
+  date: '2026-06-18'

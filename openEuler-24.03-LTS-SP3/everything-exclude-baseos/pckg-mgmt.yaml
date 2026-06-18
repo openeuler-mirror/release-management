@@ -15058,4 +15058,4 @@ packages:
 - name: ublinkdt
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP3
-  date: '2026-06-17'
+  date: '2026-06-18'
