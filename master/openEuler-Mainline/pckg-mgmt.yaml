@@ -5883,6 +5883,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2025-05-16'
+- name: rust-rpm-sequoia
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-06-18'
 - name: hunspell-si
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
