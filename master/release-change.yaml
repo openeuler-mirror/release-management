@@ -2955,3 +2955,7 @@ release-change:
   description: ab824c9 !2670 rename R-langauge to R
   changed_packages: R
   date: 2026-06-09-12-32-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2679
+  description: ce80ac3 !2679 move rust-rpm-sequoia into main
+  changed_packages: rust-rpm-sequoia
+  date: 2026-06-18-19-46-56
