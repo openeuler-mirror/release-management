@@ -8891,3 +8891,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-06-05'
+- name: rust-rpm-sequoia
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-06-18'
