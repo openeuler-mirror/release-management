@@ -739,3 +739,7 @@ release-change:
   description: eac5387 !2675 add qt5-qtquick3d into 2403 Next
   changed_packages: qt5-qtquick3d
   date: 2026-06-12-11-17-49
+- pr: https://gitcode.com/openeuler/release-management/pull/2676
+  description: 2624067 !2676 add ublinkdt to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP4
+  changed_packages: ublinkdt
+  date: 2026-06-18-09-20-54

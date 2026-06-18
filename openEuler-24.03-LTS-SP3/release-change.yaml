@@ -121,3 +121,7 @@ release-change:
   description: ab824c9 !2670 rename R-langauge to R
   changed_packages: R
   date: 2026-06-09-12-32-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2676
+  description: 2624067 !2676 add ublinkdt to openEuler-24.03-LTS-Next and openEuler-24.03-LTS-SP4
+  changed_packages: ublinkdt
+  date: 2026-06-18-09-20-54
