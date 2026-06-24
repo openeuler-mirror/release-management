@@ -2959,3 +2959,7 @@ release-change:
   description: ce80ac3 !2679 move rust-rpm-sequoia into main
   changed_packages: rust-rpm-sequoia
   date: 2026-06-18-19-46-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2683
+  description: 3c0f91c !2683 add DDE related packages to epol
+  changed_packages: dtk6log dtksystemsettings dtkdeclarative
+  date: 2026-06-24-10-54-40
