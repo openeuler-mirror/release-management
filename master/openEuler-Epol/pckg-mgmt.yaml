@@ -8891,3 +8891,15 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-06-05'
+- name: dtk6log
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-24'
+- name: dtksystemsettings
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-24'
+- name: dtkdeclarative
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-24'
