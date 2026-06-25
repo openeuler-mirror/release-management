@@ -7,3 +7,4 @@ packages:
 - name: cdma
 - name: ummu
 - name: R-plogr
+- name: vllm
