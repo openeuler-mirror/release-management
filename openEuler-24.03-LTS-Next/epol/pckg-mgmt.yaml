@@ -7781,12 +7781,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-12-26'
-- name: vllm
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-04-15'
 - name: gtk-layer-shell
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -8507,7 +8501,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2026-06-03'
-- name: safeguard 
+- name: safeguard
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
