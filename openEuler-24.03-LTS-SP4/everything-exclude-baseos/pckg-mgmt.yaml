@@ -15062,7 +15062,7 @@ packages:
 - name: opencode
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4
-  date: '2026-06-15'
+  date: '2026-06-26'
 - name: ublinkdt
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-SP4

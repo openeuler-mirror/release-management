@@ -22624,7 +22624,7 @@ packages:
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
-  date: '2026-06-15'
+  date: '2026-06-26'
 - name: ublinkdt
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
