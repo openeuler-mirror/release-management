@@ -15319,10 +15319,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2025-10-23'
-- name: foundry
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2025-10-25'
 - name: gnome-manuals
   obs_from: ''
   obs_to: openEuler:Factory
@@ -15399,10 +15395,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2025-12-18'
-- name: libpeas2
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2026-01-20'
 - name: libcups
   obs_from: ''
   obs_to: openEuler:Factory
