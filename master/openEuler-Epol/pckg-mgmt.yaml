@@ -8903,3 +8903,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-06-24'
+- name: libspelling
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-06-26'
