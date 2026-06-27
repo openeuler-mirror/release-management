@@ -747,3 +747,7 @@ release-change:
   description: b8db8e7 !2686 remove vllm in 24.03-Next
   changed_packages: vllm
   date: 2026-06-26-09-06-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2677
+  description: 16ee3ef !2677 Add xiaoO to mainline for openEuler-24.03-LTS-{SP3,Next}
+  changed_packages: xiaoO
+  date: 2026-06-27-10-03-33

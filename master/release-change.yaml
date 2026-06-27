@@ -2963,3 +2963,7 @@ release-change:
   description: 3c0f91c !2683 add DDE related packages to epol
   changed_packages: dtk6log dtksystemsettings dtkdeclarative
   date: 2026-06-24-10-54-40
+- pr: https://gitcode.com/openeuler/release-management/pull/2677
+  description: 16ee3ef !2677 Add xiaoO to mainline for openEuler-24.03-LTS-{SP3,Next}
+  changed_packages: xiaoO
+  date: 2026-06-27-10-03-33
