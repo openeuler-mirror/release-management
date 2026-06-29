@@ -375,10 +375,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: hibernate-jpa-2.0-api
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: hsqldb
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -424,18 +420,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jackson-databind
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jackson-dataformats-binary
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jackson-datatype-joda
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jackson-datatypes-collections
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -616,10 +600,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jflex
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jgroups
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -1144,10 +1124,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: velocity
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: weld-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
