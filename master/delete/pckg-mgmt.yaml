@@ -1137,3 +1137,10 @@ packages:
   - name: hibernate-jpa-2.0-api
   - name: weld-parent
   - name: telepathy-logger
+  - name: maven-processor-plugin
+  - name: jcifs
+  - name: jetty-schemas
+  - name: fastutil
+  - name: pki-core
+  - name: classmate
+  - name: datanucleus-maven-parent
