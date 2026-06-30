@@ -15627,3 +15627,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-06-27"
+- name: AgentSecurity
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-06-30"
