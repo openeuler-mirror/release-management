@@ -1136,3 +1136,4 @@ packages:
   - name: jackson-datatypes-collections
   - name: hibernate-jpa-2.0-api
   - name: weld-parent
+  - name: telepathy-logger
