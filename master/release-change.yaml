@@ -2975,3 +2975,7 @@ release-change:
   description: eeab8d3 !2680 move telepathy into epol
   changed_packages: telepathy-filesystem telepathy-glib telepathy-logger
   date: 2026-07-01-16-44-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2687
+  description: 7d0f0fb !2687 move libpeas2 & foundry into epol
+  changed_packages: libpeas2 foundry
+  date: 2026-07-01-16-49-14
