@@ -117,3 +117,7 @@ release-change:
   description: b2adae2 !2684 remove vllm in 24.03-SP4
   changed_packages: vllm
   date: 2026-06-25-10-03-44
+- pr: https://gitcode.com/openeuler/release-management/pull/2678
+  description: '5b3c2a2 !2678 chore: replace witty-opencode with opencode'
+  changed_packages: opencode
+  date: 2026-07-01-10-41-19

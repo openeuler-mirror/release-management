@@ -129,3 +129,7 @@ release-change:
   description: 16ee3ef !2677 Add xiaoO to mainline for openEuler-24.03-LTS-{SP3,Next}
   changed_packages: xiaoO
   date: 2026-06-27-10-03-33
+- pr: https://gitcode.com/openeuler/release-management/pull/2678
+  description: '5b3c2a2 !2678 chore: replace witty-opencode with opencode'
+  changed_packages: opencode witty-opencode
+  date: 2026-07-01-10-41-19
