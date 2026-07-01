@@ -1,0 +1,68 @@
+2021/12/31 openEuler 20.03 LTS SP3发布评审
+与会人：胡峰、王建民 、杨昭、江新宇、石勇、范佳臣、黄诚飘
+议题：
+ 1、openEuler 20.03 LTS SP3发布评审
+评审意见：go，no go
+QA SIG：go
+  范佳臣：go 整体版本测试活动完整，针对历史特性和继承特性都进行全量验证与回归。遗留问题风险均可控。
+Release SIG：
+  yaqiangchen：go
+  solarhu：go
+  paul-huang：go
+ ===================
+OSV：
+  麒麟：go
+  麒麟信安：go
+  拓林思：go
+  软件所：go
+
+2021/11/4
+1、openEuler 22.03 LTS 社区版本计划讨论——Huangchengpiao
+1）大体上2021.12.31完成需求收集、2022.1.25 内核冻结、2022.2.7 左右从22.03 LTS-NEXT拉22.03 LTS版本分支。计划PR https://gitee.com/openeuler/release-management/pulls/244，社区可以继续发布意见。
+2）22.03 LTS-NEXT分支近期拉出，从master还是21.09分支拉未达成一致，软件所、统信建议从master拉，SuSE、拓林思、麒麟建议从21.09拉，SW、麒麟信安都可以，release SIG整理相关情况后在TC上讨论。
+2、openEuler版本软件包及repo仓库规则讨论——chenyaqiang
+1）每个的软件包在该版本的仓库下通过pckg-mgmt.yaml文件管理，软件包根据看护策略、形态等归属到OS、everything 、EPOL、OEPKGS类型，pckg-mgmt.yaml文件建议在拉出版本分支时自动基线出来，具体方案请@chenyaqiang考虑下。
+2）上述方案、规则随后提交到https://gitee.com/openeuler/release-management仓下@chenyaqiang
+3）提交需求时，先创建需求issue然后向版本需求列表release-plan.md中增加需求条目（带上需求issue链接），需求issue便于社区讨论、以及issue状态更新后刷新需求列表中的需求状态。当前20.03 LTS SP3需求收集已经冻结。
+3、openEuler 多版本软件包CVE 修复策略讨论——Yanxiaobing
+1）与软件包多版本支持方案、软件包命名方式等一起整理出方案后发起讨论、并在TC上汇报讨论 @hufeng @yanxiaobing
+4、openEuler CVE披露范围的讨论——panchenbo
+1）加入企业成员后搜索所有的CVE修复情况，搜索方法请@yanxiaobing 整理后告知社区
+5、CVE安全补丁库与主干开发仓库分离——肆仔
+1）社区其他OS发行版的方案发出来再一起研究、讨论
+2）当前openEuler REPO支持yum update –security 只更新安全漏洞修复
+ 
+ 
+2021/10/14 议题申报：
+1.openEuler 20.03 LTS SP3版本计划
+ 
+ 
+申报议题：
+   1. 【DB SIG】Greenplum中文社区加入openEuler社区，版本包细节讨论 -- 赵波
+   描述：我们在上次的TC双周会议上讨论了同样的事情。并在TC会议上得到了良好的反馈。因此，在这次sig会议中，我们想讨论如何将greenplum包的细节定位到openEuler软件仓库中。由于Greenplum中文社区将与openEuler社区进行良好的合作，他们将负责gpdb 6.16.2包和任何来自上游社区的最新版本引入，包括包维护、bug修复、特定优化等，这对双方都有利。
+   Q: 对于将Greenplum落入20.03 LTS SP2 update的具体要求？
+   A:
+   
+   Q: 与Greenplum中文社区合作我们的考虑点是什么？
+   A:
+       
+       
+2021/08/04会议纪要
+1．openEuler 21.09整体进展   --- xuxiaosong
+2021年8月9日拉分支，计划出第一个自验证版本，最晚特性合入时间点8月底。
+构建问题偏多，策划冻结mainline合入，专题解决构建，尽快推出完整构建版本供社区验证
+各个主要sig邮件申请名额审批权限，审批通过后，请严格审批避免大规模代码合入，以修复bugfix为主。
+ 
+2．openEuler需求申请流程讲解  ---solarhu
+https://gitee.com/openeuler/release-management/blob/master/openEuler%E9%9C%80%E6%B1%82%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B.md
+ 
+3．KubeSphere进展讲解        ---FeynmanZhou
+同意合入，按照9日合入完成推进。
+特性颗粒比较大，单独组织会议做一次特性介绍。
+ 
+4．OpenResty进展讲解         --- imjoey
+同意合入，正式发布需要同步提供特性描述和文档
+ 
+5．GNOME-3.38进展讲解    ---dwl301
+同意合入，邮件提供应用清单
+ 
