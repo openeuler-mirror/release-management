@@ -1,0 +1,699 @@
+2025/12/26 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/981708172
+本次主持人：徐珊珊（临时会议）
+下次主持人：侯芳东
+与会人员： 李谦、
+议题：
+议题1. 24.03 LTS SP3版本发布评审
+华为-陈亚强：社区的多架构支持需要在双周的例会，跟各个架构owner对齐，在24.03 跟上。Go
+华为-胡峰：
+华为-黄诚飘：Go，整体质量满足社区要求，针对多架构支持，在版本ready后组织单独评审，补充到主线版本内，尽量拉齐  各个版本的发布时间，配套资料同步发布
+华为-车明道 ：
+华为-曾卫峰：
+麒麟-李谦：GO，预发布评审，需要针对RC10版本再进行质量加固测试验证，确保无严重问题遗留
+统信-何柯依：
+麒麟信安-叶青龙：
+华为-明沛：
+龙芯-侯芳东：
+超聚变-李永强：
+软件所-王经纬：Go，同意发布
+华为-范佳臣：Go，同意发布
+commiter:
+Intel-田俊：
+麒麟信安-潘晨博：Go，同意发布
+麒麟信安-廖卫：
+麒麟-杨昭：Go，同意发布
+龙芯-张文龙： Go，同意发布
+统信-吕从庆：Go，同意发布
+统信-杨飞：Go，同意发布
+
+
+2025/12/19 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：
+本次主持人：车明道
+下次主持人：侯芳东
+与会人员： 范佳臣、张诗烩、明沛、何守成、周韦彤、潘晨博、吕从庆, 徐珊珊
+议题：
+1. php 因为修复安全漏洞需要打破24.03 LTS SP3 分支锁 -- Funda Wang
+https://gitee.com/src-openeuler/php/pulls/314
+下游包已验证构建通过：
+https://eulermaker.compass-ci.openeuler.openatom.cn/project/overview?osProject=fundawang:2403SP3:qt6
+
+本版本修复三个安全漏洞 CVE-2025-14177, CVE-2025-14178, CVE-2025-14180及若干BUG
+https://www.php.net/ChangeLog-8.php#PHP_8_3
+php 在24.03 LTS生命周期内，选型为 8.3.x，由于上游ABI相当稳定，以跟随上游版本序列演进为修复手段。考虑到8.3.29可能是8.3.x序列的最后一个功能修复版本，希望打破24.03 LTS SP3分支锁，将其带入发布树。
+
+2、openEuler AI智能助手相关软件包申请从epol迁移到base os，满足开箱即用的需求； --- 周韦彤
+会议结论：需继续考虑引入BaseOS的必要性。若确需引入BaseOS，需明确witty-assistant的全部依赖（包括构建依赖），依据QA要求进行转测，并在后续对新增引入BaseOS的包进行后续维护
+
+但由于完整模式下，witty（客户端）和后端服务属于AI相关的程序，更新频率较高，只引入客户端可能会产生客户端-服务端API格式不匹配、后端引入的新功能前端无法及时使用等问题
+根据会议和小组内部讨论结果，目前的方案如下：
+方案一：
+推动客户端、后端服务对应的包及其依赖包由EPOL移至everything。用户最小化安装操作系统后，使用yum install安装客户端和后端服务，进行配置并使用。
+优势：能够让客户端和服务端版本始终匹配；能够及时修补客户端和服务端中发现的问题；能够更快速地引入新功能，增加竞争力
+劣势：用户需多执行一步yum install命令
+
+方案二：
+witty客户端及其依赖（含构建依赖）按流程引入openEuler 24.03 SP3，后端服务保持在EPOL内。后端服务演进后，要求用户使用yum update更新客户端后才可以使用
+优势：用户无需执行yum install；软件包内置于ISO镜像中，开箱即用；
+劣势：会出现旧的客户端无法匹配新的服务端的情况，此时用户仍需执行yum update；需引入所需依赖（含构建依赖）包的数量较多，降低可维护性；ISO中的客户端版本仅能在新的SP版本发布后更新
+
+3、openEuler  SP3版本进展，同步申请12/26 临时RM发布openEuler LTS SP3版本决议； --- 徐珊珊
+
+4、OpenJDK21：Backport 支持 OpenJDK master 中新增的部分RVA23扩展以及关键优化；--- 张诗烩
+https://gitee.com/openeuler/release-management/pulls/2509 
+
+5、可信计算支持虚机场景，提供基础可信虚机生命周期管理能力；   ---阮瑞
+目前TSB-agent需求仅针对24.03-SP2，提供SP2上的测试报告。之前需求误填在SP3上，现将需求挪到SP2。
+
+6、远程证明黄区报告：支持NPU和itrustee；  ---阮瑞
+
+7、海光密码模块HCT虚拟化热迁移支持，修复对新版本HCT兼容性问题； ---杨德培/童伟
+https://gitee.com/openeuler/qemu/pulls/1708
+
+2025/12/5 openEuler RM SIG例会
+会议时间：10:00~12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/982811701
+本次主持人：胡峰
+下次主持人：车明道
+与会人员：
+议题：
+1、请RM team评审一下这个PR
+https://gitee.com/openeuler/community/pulls/6835
+//已处理
+2、SA/BA整个公告对应的软件包链接404
+2025.06.24至今以下SA/BA整个公告对应的软件包链接404
+
+openEuler-SA-2025-2558
+openEuler-BA-2025-1091
+openEuler-BA-2025-1092
+openEuler-BA-2025-1094
+openEuler-BA-2025-1096
+openEuler-BA-2025-1112
+
+SA-2025-2558 cve在对应update版本release issues的发布范围中，不存在评论，对应包也不存在测试repo源中
+BA-2025-1091、BA-2025-1092、BA-2025-1094、BA-2025-1096 bugfix不在对应update版本release issues发布范围中
+BA-2025-1112 bugfix在对应update版本release issues的发布范围中，不存在评论，对应包也不存在测试repo源中
+//很高兴看到的您的反馈，感谢帮助社区发现问题。本次问题我已经条issue，并通知给对应处理人，您可以跟踪该issue进展
+//https://gitee.com/openeuler/security-committee/issues/IDAU5S?from=project-issue
+//如果没有得到解决，任然可以通过release推动
+//后续有问题可以先提issue给安全sig，
+
+2025/11/21 openEuler RM SIG例会
+会议时间：10:00~12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/968199381
+本次主持人：黄诚飘（委托 范佳臣）
+下次主持人：胡峰
+与会人员：明沛、范佳臣、王伟泽、潘晨博、叶青龙、刘福寿、徐峥
+议题：
+1、openEuler22.03 LTS版本生命周期停维意见收集 -- 范佳臣
+会议结论：通过社区工时22.03 LTS 全生命周期情况，更新生命周期官网材料描述。
+2、openEuler 24.03 LTS SP3 RISC-V 架构发布方式讨论 -- 周嘉诚
+会议结论：通过，正常推进该版本发布，和RVA20的版本至26年都会同步，整体版本质量按正式发布版本要求进行执行。在release-plan增加需求
+3、openEuler-24.03-LTS-SP3版本例外申请新增开源组件secscanner        --- 王伟泽
+会议结论：通过，以EPOL的发布方式同意引入24.03 LTS SP3，在release-plan增加需求，最后是否发布以QA的技术结论为准
+4、openEuler-24.03-LTS-SP3构建流水线中新增开源组件ubturbo、ham  ---赵兵
+会议结论：建议明确是否是已有需求相关软件，如果是，则按正常流程进行即可
+5、openEuler 24.03-LTS-SP3 构建流水线中新增 开源组件 VMAnalyzer  ---徐峥
+会议结论：通过，以EPOL的发布方式同意引入24.03 LTS SP3，在release-plan增加需求，最后是否发布以QA的技术结论为准
+
+2025/10/31  openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/982286220
+本次主持人：陈亚强
+下次主持人：黄诚飘
+与会人员：曾卫峰、范佳臣、吕从庆、杨飞、王凯、杨昭、刘福寿、徐珊珊
+
+议题：（~~ 预计10：05开始会议 先签到~~）
+1、openEuler Embedded 在25.09发布版本上新增镜像的讨论             --- 李新宇
+纪要：在满足embeded  sig/QA sig的结论前提下，同意在preview进行发布。正式的镜像发布途径，建议后续再正式汇报 
+
+2、对于仓库改名，release-management 门禁未支持，希望能增加相关文档并添加门禁支持 --- 王凯
+https://gitee.com/openeuler/release-management/pulls/2453
+https://gitee.com/openeuler/release-management/pulls/2438
+纪要：提issue跟踪，待出相关方案下次例会讲 https://gitee.com/openeuler/openeuler-jenkins/issues/ID4CRB
+3、24.03-LTS-SP3构建情况同步    --- 杨超豪
+纪要：1. 针对软件降级的情况进行公示通报；2. 降级门禁拦截的机制落地；
+
+2025/10/16 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/980618853
+本次主持人：范佳臣
+下次主持人：陈亚强
+与会人员：叶青龙、范佳臣、潘晨博、丁嘉辉、王凯、吕从庆、李谦、曾卫峰、杨飞、徐珊珊
+
+议题：（~~ 预计10：10开始会议 先签到~~）
+1、openEuler社区非RPM软件形式安装讨论 ---朱泽旭、丁嘉辉
+讨论纪要：
+a.非rpm软件脱离openEuler版本管理，软件分发平台需要管理非rpm软件与openEuler各版本的配套关系，同时要有足够的DFX手段，支持开发者对遇到的问题开展自定位。
+b.非rpm软件现阶段可以通过自主发布的方式继续演进。方案成熟后，应当通过openEuler社区统一的基础设施进行承载，发布流程、版本管理、运维工作都需要规范化。
+2、openEuler-24.03-LTS/openEuler-24.03-LTS-SP1 新增llvm-toolset-18，需要发布到update版本 -- 王凯
+结论：同意发布llvm-toolset-18到相关分支
+3、openEuler 24.03 LTS SP3 版本计划评审----徐珊珊
+问题1： riscv openEuler 2403 sp3 版本是否会支持rva23指令集？
+4、Summit峰会信息同步 --范佳臣
+时间：11/14-11/15 
+地点：北京 中关村国际创新中心
+大会官网：https://www.openeuler.openatom.cn/zh/interaction/summit-list/summit2025/
+🥳【Call for Star】 
+openEuler 2025年度贡献之星评选启动啦！
+欢迎举荐或自荐：https://shimo.im/forms/Qj4i6Bot9ebDIOQy/fill
+🥳【Call for SIG】
+本次SIG组工作会议将采用更加灵活的会议形式进行组织。欢迎了解并申请：https://shimo.im/forms/AWBrX4Sb6L4HieCE/fill
+
+
+2025/09/26 openEuler RM SIG例会（版本发布临时例会）
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/987272828
+本次主持人：范佳臣（临时发起人）
+下次主持人：范佳臣
+与会人员：曾卫峰、李谦、王经纬、吕从庆、杨飞、武碧洁、江新宇、朱金龙、杨超豪、林倩
+
+1.  25.09发布评审 -- 范佳臣
+结论：会议无反对意见，通过
+2. openEuler-24.03-LTS/openEuler-24.03-LTS-SP1 新增llvm-toolset-18/19，需要加到update版本 -- 王凯
+https://gitee.com/openeuler/release-management/pulls/2418
+结论：建议只增加llvm-toolset-18 1个版本，再评估下firefox上游对llvm后续版本的要求
+
+2025/09/19 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/984750143
+本次主持人：吕从庆(何柯依 委托)
+下次主持人：范佳臣
+与会人员：曾卫峰、吕从庆、刘鑫、李谦、杨飞、武碧洁、江新宇、杨昭、侯芳东、张文龙、范佳臣
+议题申报：
+1. 25.09：QA 部分与会者认为 valkey 特性标题引起歧义 -- Funda Wang
+https://gitee.com/openeuler/release-management/pulls/2415
+会议讨论后接受新的特性描述，合入PR
+2、欧拉容器仓库ci推进，已咨询超豪和卫军，目前未找到具体负责人---houfangdong
+https://gitee.com/openeuler/openeuler-docker-images/tree/master
+佳臣帮忙联系确认
+3. 25.09 ecopkg sig相关包处理方案讨论 --- 杨超豪
+
+2025/09/05 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/989544300
+本次主持人：叶青龙（潘晨博代）
+下次主持人：吕从庆(何柯依 委托)
+与会人员：李谦、刘庆涛、明沛、范佳臣、潘晨博
+议题申报：
+1.中兴开发贡献和版本计划申报：isa-l、snappy、openssl、lz4和gcc升级的系列编译问题解决。 -- 刘庆涛
+isa-l：https://gitee.com/openeuler/release-management/pulls/2392
+snappy：https://gitee.com/openeuler/release-management/pulls/2393
+openssl：https://gitee.com/openeuler/release-management/pulls/2394
+lz4：https://gitee.com/openeuler/release-management/pulls/2397
+gcc升级的一系列编译问题：https://gitee.com/openeuler/release-management/pulls/2395
+确认是否有源码不一致的问题，会后评审
+2.release pr检视 -- 王凯
+删除custodia包从25.09以及后续版本
+https://gitee.com/openeuler/release-management/pulls/2391
+从工程删除未初始化的空仓perl包
+https://gitee.com/openeuler/release-management/pulls/2389
+fros未从工程删除
+https://gitee.com/openeuler/release-management/pulls/2355
+接受，会后评审合入
+3.回合 GCC12 全量特性至 openEuler-22.03-LTS-SP4 GCC10 -- 黄梓锋
+与客户对齐，给出必要性说明；制定回合的规则及现状输出
+4.tensorflow25.09分支升级失败方案讨论----张亚乐
+选择方案一，先剔除，后续版本匹配后引入，需持续跟踪
+5.将 UNT 包引入到 openEuler 22.03 LTS SP4 ---- 张晓华
+确认eur分发是否可行，暂不建议合入主版本update
+临时讨论：none-free仓库进展，已完成汇报，有诉求可推送软件
+
+2025/08/22 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/962571682
+本次主持人：李谦
+下次主持人：何柯依
+与会人员：李谦，范佳臣、杨飞、叶青龙、软件所-周嘉诚
+
+遗留问题：
+
+议题申报：
+2. openEuler 25.09 RISC-V RVA23 Preview 版本计划申报 -- 软件所-周嘉诚
+1）同意版本计划，建议发版时在 release note 或官网兼容性列表里简述相关兼容性情况
+3. openEuler 25.09及master分支申请移除sig-nodejs大部分模块包及其依赖 -- 王凯
+https://gitee.com/openeuler/release-management/pulls/2363
+结论：同意，需再咨询devstation 意见
+4.25.09 版本构建情况及风险同步 -- 杨超豪
+1. 存在ceph 等组件失败问题。
+
+2025/8/8 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/962380812
+本次主持人：曾卫峰
+下次主持人：李谦
+与会人员：曾卫峰  范佳臣 顾程华、吕从庆、侯芳东、胡峰、叶青龙
+
+1. 版本生命周期变更结论同步 -- 范佳臣
+   1）同步 openEuler 生命周期变更结论，24.03 LTS 全开发周期延长至4年，26年开始应用（即26年不发布26.03 LTS，仍增发24.03 LTS SP版本，28年才发布下一代LTS版本 28.03 LTS）；后续1年1LTS版本，1创新版本
+   2）LTS版本生命周期变更后，部分软件包的生命周期会超出上游社区，需要将兼容性相关的规则 后续也完成细化落地
+   
+2. openEuler 24.03-LTS-SP2软件包新增Krun -- 顾程华
+    1）同意引入Krun软件包，建议优先考虑在 openEuler 24.03-LTS-SP3版本，跟随baseOS发布
+    2）软件包发布前需要经过QA-sig评审，满足软件包质量发布要求
+    3）软件包当前只支持鲲鹏硬件，在软件包（默认）安装时，建议做硬件检测，只在具备相关能力的硬件上安装，同时可以考虑未来进一步扩展支持其他架构
+    
+3.loongarch64容器update镜像、软件源中update软件包更新进展推动，邮件、微信均无响应，希望能有个明确时间点，每月update发布需要流程化，希望后续能与x86 arm同步发布-侯芳东
+    1）loongarch64容器update 镜像按月发布
+    2）容器镜像的update 流程化问题遗留
+    
+4. openEuler 22.03-LTS-SP3/SP4软件包新增ANNC --郑晨卉
+    1）存在合规相关风险，暂不同意接纳，待相关问题闭环后，重新上会审视
+
+2025/7/25 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/983476431
+本次主持人：侯芳东
+下次主持人：曾卫峰
+与会人员：侯芳东、黄诚飘、范佳臣、杨昭、武碧洁、吕从庆、叶青龙
+
+遗留问题：
+1. 遗留问题：openEuler-release 软件包是否移入release讨论 --- 杨超豪
+
+议题申报：
+1. authselect-compat 在版本演进过程中被上游删除 --- Funda Wang
+https://github.com/authselect/authselect/pull/364
+https://gitee.com/src-openeuler/authselect/pulls/38
+https://gitee.com/src-openeuler/oemaker/pulls/433
+涉及到自 1.5.1 版本起，authselect 包无法通过任何方式提供 /usr/sbin/authconfig 工具。升级PR时门禁提示authselect-compat 包为 oemaker 的核心关联包，提请 release sig 评审。
+由sig/sig-OS-Builder进行评审后意见。给出具体分析依赖。
+
+2、gcc-14 及 binutils-2.42 新增openEuler 22.03-LTS-SP4 多版本分支，并回合所需特性 -- 黄晓权
+议题审核通过。
+
+3 25.09 版本构建情况及风险同步 -- 杨超豪/范佳臣
+
+
+
+2025/7/11 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/986131602
+本次主持人：胡峰
+下次主持人：
+与会人员：吕从庆、侯芳东、范佳臣、胡峰、武碧洁、黄诚飘、曾卫峰
+
+议题申报：
+1.gcc for openEuler 12.3.1 版本特性回合至 openEuler 22.03 LTS SP4 gcc副版本（gcc 12） --张晓华
+评审意见：同意特性合入 22.03 LTS SP4 GCC副版本，提供完成测试报告，qa sig验收无异议后发布
+
+
+2. openEuler维护版本按周更新发布评审  和在研版本修复漏洞不发安全公告问题讨论--李亚杰
+
+1) CVE漏洞（社区issue包含CVE）相关commiter和maintainer除负责人外，其他人加为协作者, 
+源码仓和制品仓的issue全部添加
+2) 在研期间版本不发公告的CVE可以在cve官网设置为不受影响，调研分析是否展示停维版本和创新版本等相关信息
+1、停维版本的如何展示，新增相关停维版本描述，季度刷新
+2、在研版本如何展示，展示不受影响--发布版本前已修复
+创新版本在cve术语和搜索框增加提示信息，
+3)  收集客户提出的issue，分析其相关进展
+4）需进一步审视遗留CVE和遗留issue，同时检验相关sig活跃度，需去安全委员会讨论超期CVE相关处理策略
+初步审视活跃度，不活跃软件包进行降级处理，
+5）版本升级或特性 无类似SA相关的内容
+6）漏洞修复宣传 
+建议公众号宣传
+
+ceph仅在24.03-LTS发布，由于开发评论有误 ，导致工具仅收集24.03-LTS
+
+3、openEuler 22.03-LTS-SP4 新增多版本gcc-toolset-14工具包 -- 黄晓权
+遗留问题：提供compiler分支管理的机制，对gcc-14的openEuler 22.03-LTS-SP4 特性合入的策略（一次合入或2周更新），及合入特性的效益分析。
+
+4、openEuler 25.09 穿心版本构建情况同步 -- 王冲/范佳臣
+当前构建健康度如下：master整体构建成功率可控
+master(everything)：编译成功率 97.50%（4852/4976）
+master(epol)：编译成功率76.50%（1611/2107）
+
+会议结论：整体策略上同意25.09从master进行分支拉取活动，按release-plan正常开展标准动作。
+遗留问题：
+1.  通报编译失败软件包情况，正常按版本火车的情况后续进行运作。
+2. 收集各SIG 25.09相比MASTER的特殊变化选型需求，RM强跟踪核心软件选型结论。
+
+
+2025/7/4 openEuler RM SIG临时例会
+会议时间：10:00~12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/986668660
+本次主持人：范佳臣（临时会议发起人）
+下次主持人：胡峰
+与会人：吕从庆
+议题申报：
+
+1. 创新版本分支拉取规则讨论 -- 王冲/范佳臣
+2. gcc-cross降级至EPOL支持 --李彦成
+> 评审意见：同意，需在PR中审视遗留问题闭环情况，不需要再线上参加RM会议。
+> 遗留问题：
+1. 补充Compiler SIG的意见；
+2. 确认和跟进pkgship对EPOL仓库的支持情况；
+
+
+2025/6/27 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/968616502
+本次主持人：车明道
+下次主持人：胡峰
+与会人员：武碧洁、范佳臣、王凯、朱金龙、吕从庆、
+议题申报：
+
+1. 衰退掉sig-nodejs中大部分nodejs模块包 -- 王凯
+nodejs模块间耦合性高，升级版本跨度大、变化多，无法进行维护，建议衰退并解散sig-nodejs，将nodejs及个别无法衰退模块包移入Programming-language sig，衰退包移入 sig-recycle
+后续用户需要使用，可以用npm命令安装，衰退影响不大
+https://gitee.com/openeuler/community/blob/master/sig/sig-nodejs/sig-info.yaml
+结论：后续和sig-nodejs maintainer committer讨论，再上TC评审，发全局邮件公示  -王凯
+2. openEuler维护版本按周更新发布评审  --李亚杰
+遗留问题：CVE-2025-6018/CVE-2025-6018修复情况同步
+3. 安全公告/缺陷公告 rpm链接大量404
+详情 https://c.wss.pet/f/hci01u83uk5
+解压密码 Hycca3=C-6.x?Dp+#95#
+
+SA 6558/128757 5.09%
+BA 203/2681 7.57%
+遗留问题： -- 李亚杰
+1、检查软件更新404情况排查解决
+2、软件更新策略讨论
+
+4. openEuler 24.03 LTS  SP2 发布社区评审 -- 徐珊珊
+
+24.03 LTS SP2发布评审决策：
+华为-陈亚强：
+华为-胡峰（参会）：
+华为-黄诚飘：
+华为-车明道 （参会）：ok
+华为-曾卫峰：
+麒麟-李谦：
+统信-何柯依：
+麒麟信安-叶青龙：
+华为-明沛：
+龙芯-侯芳东（参会）：ok
+超聚变-李永强：
+软件所-王经纬：
+commiter:
+Intel-田俊：
+麒麟信安-潘晨博：
+麒麟信安-廖卫：
+麒麟-杨昭：
+龙芯-张文龙（参会）： ok
+统信-吕从庆（参会）：
+统信-杨飞：
+华为-范佳臣（参会）：跟踪上游社区变更对版本发布影响，ok
+5. embedded版本发布评审 -- 施楚潮
+提供测试策略、测试结果QA评审结论，特性点灯情况，针对不同硬件测试覆盖度汇总后发邮件评审。
+邮件已发送，请各位专家老师评审
+6. 遗留问题：openEuler-release 软件包是否移入release讨论 --- 徐珊珊
+
+
+2025/6/13 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/961152746
+本次主持人：黄诚飘
+下次主持人：胡峰
+与会人员：黄诚飘、陈亚强、徐珊珊、叶青龙、范佳臣、李亚杰、侯芳东 等19人
+
+遗留问题：
+1. 维护版本遗留问题进展 -- 李亚杰
+1) 长期未处理issue软件包梳理
+--联系麒麟和ai的maintainer一起讨论
+--TOP3长期挂起CVE的联系对应maintainer讨论
+2）22.03 sp3涉及CVE比22.03 sp4多的原因澄清：多出三个kernel的CVE(CVE-2022-49781，CVE-2022-49784，CVE-2023-53146)是在2025年5月NVD披露的，22.03 sp3修复pr在24年5月份已合入，22.03 sp4版本在发布之前已合入修复pr,故不涉及发布安全公告
+
+2. 海光机密计算进展  -- 潘平生、童炜
+1.引入软件需要海光这边进行维护，考虑到工作量问题，决定不进行引入
+2.containerd 云原生sig 确定在2403 版本上不会进行升级
+3.后续新的大版本会升级containerd 版本，可以满足机密计算需求
+
+3. openEuler intelligence软件包合入进展 -- 何守成、王帅
+
+4. 跨LTS不同版本 门禁规则优化 -- 范佳臣/曹志
+修改底层规则，禁止maintainer合入 不合入Next 而优先合入SP的发布分支。明确版本演进序列规则。
+-- 经和Infra沟通，明确具备门禁排他项能力（不通过指定项，不得合入）
+Master >= 创新
+Master >= LTS-Next >= SPx >= SPx-n
+
+5.openEuler官方容器镜像仓新增支持loongarch64架构.       --------侯芳东
+5.1.容器docker_img的update工程增加loongarch64容器,目前只有X86/ARM.
+5.2.update目录:https://dl-cdn.openeuler.openatom.cn/openEuler-24.03-LTS-SP1/docker_img/update/
+已和社区容器发布负责人鲁卫军沟通过.
+5.3.建议从24.03LTS-SP2版本开始.
+
+6. openEuler intelligence相关软件包引入 24.03-LTS-SP2 epol源 -- Funda Wang
+
+python-opengauss-sqlalchemy 当前(2025年6月12日)存在源代码级问题，与 sqlalchemy 2 分支的当前版本 2.0.41 不兼容。不建议纳入 openEuler 24.03-LTS-SP2 发布件。
+
+7、openEuler维护版本按周更新发布评审  --李亚杰
+
+
+2025/5/30 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/963607422
+本次主持人：陈亚强
+下次主持人：黄诚飘
+与会人员： 李谦、范佳臣、王帅、明沛
+议题申报：
+1. openEuler intelligence相关软件包引入 24.03-LTS-SP2 epol源——何守成、王帅
+遗留问题：
+1）1.Pymongo包升级需要技术结论，各sig意见
+2）2. sqlalchemy 采用多版本发布方案
+3）需要分析MongoDB部署以及配套策略是否合规可控
+评审结论：
+1）51个包需要新建仓并且纳入24.03-LTS-Next及SP2分支
+2）11个软件包需要新建24.03-LTS-Next及SP2分支
+3）pymongo和sqlalchemy需要在24.03-LTS-SP2升级
+6.12日之前完成以上所有动作闭环以及1-3的遗留问题，同意openEuler Intelligence及相关软件包随24.03-LTS-SP2版本发布
+
+
+2. openEuler维护版本按周更新发布评审  --李亚杰
+遗留问题：
+1) 长期未处理issue软件包梳理
+2）22.03 sp3涉及CVE比22.03 sp4多的原因澄清：多出三个kernel的CVE(CVE-2022-49781，CVE-2022-49784，CVE-2023-53146)是在2025年5月NVD披露的，22.03 sp3修复pr在24年5月份已合入，22.03 sp4版本在发布之前已合入修复pr,故不涉及发布安全公告
+
+3. 支持海光机密容器相关软件包引入24.03-LTS-SP2 -- 潘平生、童炜
+遗留问题：
+1） 到欧拉机密计算sig 进行讨论
+2）找欧拉相关组件maintainer 进行讨论兼容性问题和版本选择
+3）按照《维护版本软件包新增升级评审模板》填写相关需求
+4） 或者不升级系统软件包，走 (EUR) 发布流程
+
+2025/5/16 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/962729423
+本次主持人：范佳臣
+下次主持人：陈亚强
+与会人员：李谦 侯芳东 张文龙、叶青龙、吕从庆
+议题申报：
+1、LTS2403_sp1版本龙芯update源更新讨论.   ---侯芳东
+讨论
+a.同步周期：计划一个月同步一次
+b.发布的目录结构：(找maintainer收集一下意见)
+1）source为龙芯单独建目录，source与x86、arm区分。
+2）选x86的tag作为构建源码tag重新构建后发布，工程需要支持tag构建。
+c.测试集成社区mugen测试，并拿到QA结论。
+
+2、在os-release文件中能否加入ID_LIKE字段。  ---解光耀
+
+3、openEuler维护版本按周更新发布评审  和 SLO率看护版本范围策略调整 --李亚杰
+
+遗留问题：
+1. ID_LIKE字段的添加参考其他发行版的做法，验证其影响。  ---解光耀
+2. 社区发布渠道梳理，邀请最小容器镜像开发团队对该镜像的发布进行介绍 
+3. 梳理OS发行配置相关软件包（如 openEuler-release，oemaker的镜像配置等）建议release进行纳管，讨论
+
+2025/3/28 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/985137506
+本次主持人：叶青龙（潘晨博代）
+下次主持人：范佳臣
+与会人员：项宇宁、杨雨安、杨飞、范佳臣、明沛、李谦，苏锦铃、黄诚飘、刘福寿
+议题申报：
+1)  引入ray和ray依赖软件包，并在 22.03-LTS-SP4版本发布  -- 项宇宁
+       --评审通过
+     --遗留问题：
+         1.60+建仓的相关软件包需要维护漏洞，和安全sig确认
+         2.多版本软件需要持续维护更新
+         -- 解决方案，上述问题已解决并且评审通过，不阻塞ray上update：
+                        上述问题主要由于ray引入源码编译，不包含cve补丁。通过引入相关补丁打入到ray内部源码或下载src.rpm打入相关补丁修复cve，再进行ray包编译。方案已经落地
+                        -- 遗留问题：
+                                上述方案需要开发自己保证这么做。所以需要与工具确认，后续添加ray依赖软件源码带上cve的检测方案
+2) 25.03 embedded版本发布评审 -- 施楚潮
+--评审通过
+--遗留问题：1.跟踪2503文档分支
+3)  openEuler 24.03 LTS SP2 版本需求进展  --苏锦铃
+ openEuler需求申请流程，详见：
+ https://gitee.com/openeuler/release-management/blob/master/Goverance/openEuler%E9%9C%80%E6%B1%82%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B.md
+
+4) openEuler维护版本按周更新发布评审  --李亚杰
+5）openEuler 25.03 创新版本发布评审 -- 范佳臣
+-- 同意发布
+
+遗留问题：
+1. 提供软件包变更、软件包新增、软件包退出的评审模板 -- 范佳臣
+https://gitee.com/openeuler/release-management/pulls/2198
+--  增加考虑 升级场景的要求，在checklist明确标识 各子项的适用场景
+--  软件发布路径的解释，如何应用（upadte可能没办法区分 baseos和everything，epol）
+--  1.1 原则上接纳 增强能力/补齐生态短板  场景的变更，强管控everything镜像范围的软件新增和合入
+--  22.03 LTS SP1 提PR 还提醒 停维分支，需要处理（sync-bot）
+https://gitee.com/src-openeuler/ghostscript/pulls/160
+
+
+2025/3/14 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：
+本次主持人：何柯依(吕从庆代)
+下次主持人：叶青龙
+与会人员：吕从庆、范佳臣、杨飞、侯芳东、黄诚飘、徐珊珊
+遗留问题：
+1. 提供软件包变更、软件包新增、软件包退出的评审模板
+https://gitee.com/openeuler/release-management/pulls/2198
+结论：佳臣提供
+议题申报：
+1.优化issue闭环流程--issue已挂起和已取消两个状态的权限管控评审 --林倩
+结论：通过
+1、“已挂起”状态更新权限--RM maintainer
+2、“已取消”状态更新权限--QA maintainer
+3、“已验收”状态更新权限 --  提单人
+4、范围：问题类型为缺陷且里程碑不为空
+2.aws-sdk-cpp 确认打包发布形态遗留问题闭环 ——任思远
+结论：
+1、包大小不一致是手动下载了依赖的crt组件，并放到了aws-sdk-cpp仓库；
+2、Funda Wang建议在spec中先行注明tarball的具体生成来源，然后根据实际情况决定这个包是否继续在 DB Sig 看护。
+3.咨询：如何对软件包选型及衰退计划进行预告 -- Funda Wang
+暂定在 doc 中增加类似章节，并知会 doc sig。
+4.openEuler 25.03构建情况同步 &&  同步社区sw64的构建和发布进展 --杨超豪 / 吴梓萱（sw-sig）
+5. openEuler维护版本按周更新发布评审  --李亚杰
+
+
+
+2025/2/28 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/988996223
+本次主持人：李谦(委托 杨昭)
+下次主持人：何柯依（委托 吕从庆）
+与会人员：范佳臣、杨飞、叶青龙、潘晨博、明沛、黄诚飘、刘福寿、施爱春、吕从庆、徐珊珊
+
+遗留问题：
+1. 同步社区sw64的构建和发布进展  -- 范佳臣 / 吴梓萱（sw-sig）
+-- 计划4月完成24.03 LTS SPx的版本发布，本次sw-sig同学时间冲突，预约下次例会按议题进行进展同步
+
+议题申报：
+1.Kmesh软件包从openeuler 24.03 SP1 epol发布件移动到everything发布件 --刘忻（委托 田慕阳）
+结论：
+1. 需要打包vendor，移除外部网络依赖
+2. 不同分支版本需要同步到最新
+3. 25.03版本不移动到everything
+4. 通过
+2. 机密虚机 支持uefi启动  特性合入openEuler  24.03 SP1 -- 鲍鹏
+结论：
+1. 需要kernel、虚拟化sig提供技术结论
+3.komd-dinghai内核驱动24.03LTS及24.03LTS-SP1/NEXT发布epol仓库评审 --韩成飞
+结论：
+1. kabi白名单扩增问题需要在SP2之前与兼容性sig讨论
+2. 通过
+4.引入ray+vllm软件包，并在 22.03-LTS-SP4版本发布 -- 江毅文
+结论：
+1. 需要提供QA sig测试结论
+2. 可以考虑先在软件所发一个尝鲜版本或者openEuler preview仓库
+3. 建议和MS、vllm一起放在everyting仓库
+4. 计划下周提供使用文档，doc仓或者对应sig仓库
+5. openEuler维护版本按周更新发布评审  --李亚杰
+结论：
+1. 通过
+6. syssentry慢IO检测特性同步至openEuler-24.03-LTS-SP1, openEuler-24.03-LTS-Next, openEuler-22.03-LTS-SP4 --张楠
+结论：
+1. 通过 ，后续补充QA结论
+7、社区版本间同步策略讨论 --明沛
+结论：
+1. 门禁系统改进，下次汇报进展
+8. openEuler 25.03构建情况同步 --杨超豪
+结论：
+1. 继续推进
+
+遗留问题：
+1. komd-dinghai内核驱动24.03LTS及24.03LTS-SP1/NEXT发布epol仓库评审 --韩成飞
+1. 汇报最终kabi白名单扩增问题结论，以及不兼容问题处理方案
+2. 社区版本间同步策略讨论 -- 明沛
+1. 门禁系统改进，下次汇报进展
+
+
+2025/2/14 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：https://meeting.huaweicloud.com:36443/#/j/967179305
+本次主持人：侯芳东（委托 车明道）
+下次主持人：李谦
+与会人员：车明道、贾超、苏锦铃、叶青龙、潘晨博、王经纬、范佳臣、吕从庆、李永强、刘福寿、黄诚飘
+
+议题申报：
+1.openeuler 22.03 SP4分支opengauss组件评审 --刘恒
+遗留问题：1、材料发布策略需确认
+  2、aws-sdk-cpp 确认打包发布形态，如需更改发布形态，建议重新测试QA评审；
+
+2. openEuler维护版本按周更新发布评审  --李亚杰
+
+3. openEuler版本进展通报 -- 范佳臣
+https://gitee.com/openeuler/release-management/blob/master/openEuler-25.03/release-plan.md
+alpha版本已发布（标准镜像）：121.36.84.172/dailybuild/EBS-openEuler-25.03/alpha_openeuler-2025-02-09-09-07-54/
+RC1版本预计2/15发布链接（everything镜像范围 待更新）：
+构建失败涉及软件包 6个：eigen（风险高、无人维护）、level-zero、intel-gmmlib、musl（风险高、SIG投入风险）、poissonsearch-oss、qt6-qtwebengine
+
+4.openEuler 25.03 创新版本需求审视---苏锦铃
+
+遗留问题：
+1、sw64、ppcle64等架构在24.03 LTS 的规划情况，希望下次release例会讨论
+
+
+2025/1/10 openEuler RM SIG例会
+会议时间：10:00 ~ 12:00
+会议链接：
+本次主持人：曾卫峰
+下次主持人：侯芳东
+与会人员：黄诚飘、范佳臣、贾超、王经纬，苏锦铃,吕从庆，刘福寿，施爱春、杨飞，徐珊珊、王经纬
+10:10开始，大家先签到
+
+议题申报：
+
+1. committer/maintanier 例行竞选
+范佳臣 maintainer：OK
+徐珊珊 committer：OK
+苏锦铃 committer：OK
+华为-陈亚强(线下沟通)：go
+华为-胡峰（线下沟通）：go
+华为-黄诚飘（参会）：GO
+华为-车明道 （线下沟通）：go
+华为-曾卫峰（参会）：GO
+麒麟-李谦（参会）：GO
+统信-何柯依(委托 吕从庆 线下沟通)：GO
+麒麟信安-叶青龙 （线下沟通）：GO
+龙芯-侯芳东（线下沟通）：GO
+软件所-王经纬（参会）：GO
+
+commiter:
+Intel-田俊（委托施爱春）：GO
+麒麟信安-潘晨博：GO
+麒麟信安-廖卫：
+麒麟-杨昭（参会）：GO
+龙芯-张文龙： 
+统信-吕从庆（参会）：GO
+统信-杨飞（参会）：GO
+华为-范佳臣（参会）：GO
+华为-明沛（线下沟通）：go
+
+
+2. openEuler 25.03 创新版本计划同步及意见收集
+同意，线下邮件同步进行计划公示和意见收集
+
+3. RISC-V Update/Docker 发布诉求和策略 -- 王经纬
+整体同意，update的整体由RISC-V负责，包括发布频率和质量保障等
+遗留问题：
+1、update的发布策略和频率，待与李亚杰对齐后，明确
+1、测试策略需要在QA-sig评审通过
+2、docker镜像的方案找基础设施团队曹志沟通确定
+
+4. openEuler维护版本按周更新发布评审  --李亚杰
+1、推动无里程碑的issue闭环，确认是bug，要尽快解决，非bug沟通关闭
+2、建议针对高危漏洞，在update的时候，做特别提醒
+
+5.openeuler 22.03 SP4分支发布aws-sdk-cpp组件 --刘恒
+NO GO
+aws-sdk-cpp软件包更新频率过高，质量存在较大不稳定性，建议重新评估
+
+6, openEuler 25.03 创新版本需求收集-例行---苏锦铃
+
+
