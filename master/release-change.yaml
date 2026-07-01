@@ -2979,3 +2979,9 @@ release-change:
   description: 7d0f0fb !2687 move libpeas2 & foundry into epol
   changed_packages: libpeas2 foundry
   date: 2026-07-01-16-49-14
+- pr: https://gitcode.com/openeuler/release-management/pull/2690
+  description: f5840bc !2690 remove maven-processor-plugin, jcifs, jetty-schemas,
+    fastutil, pki-core, classmate, datanucleus-maven-parent packages from master
+  changed_packages: fastutil pki-core datanucleus-maven-parent classmate maven-processor-plugin
+    jcifs jetty-schemas
+  date: 2026-07-01-17-05-30

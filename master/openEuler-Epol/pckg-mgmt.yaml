@@ -150,7 +150,7 @@ packages:
 - name: cu-concrete
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-06"
+  date: '2026-06-06'
 - name: cu-scanner
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -1472,10 +1472,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2025-09-26'
 - name: pigpio
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: pki-core
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -8882,28 +8878,28 @@ packages:
 - name: dtkmultimedia
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-03"
+  date: '2026-06-03'
 - name: deepin-ocr
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-03"
+  date: '2026-06-03'
 - name: dde-grand-search
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-03"
+  date: '2026-06-03'
 - name: gstreamer1-plugins-ugly-free
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-03"
+  date: '2026-06-03'
 - name: freeipa-healthcheck
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: dogtag-pki
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-06-04"
-- name: safeguard 
+  date: '2026-06-04'
+- name: safeguard
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-06-05'

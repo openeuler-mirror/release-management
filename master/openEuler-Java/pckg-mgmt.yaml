@@ -227,10 +227,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: classmate
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: cli-parser
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -260,10 +256,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: dain-snappy
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: datanucleus-maven-parent
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -523,10 +515,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
-- name: jcifs
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
 - name: jcip-annotations
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
@@ -584,10 +572,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: jetty-parent
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: jetty-schemas
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
@@ -788,10 +772,6 @@ packages:
   obs_to: openEuler:Java
   date: '2022-07-26'
 - name: maven-plugin-tools
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Java
-  date: '2022-07-26'
-- name: maven-processor-plugin
   obs_from: openEuler:Mainline
   obs_to: openEuler:Java
   date: '2022-07-26'
