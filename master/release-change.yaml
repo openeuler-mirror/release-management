@@ -2971,3 +2971,7 @@ release-change:
   description: '5b3c2a2 !2678 chore: replace witty-opencode with opencode'
   changed_packages: opencode
   date: 2026-07-01-10-41-19
+- pr: https://gitcode.com/openeuler/release-management/pull/2680
+  description: eeab8d3 !2680 move telepathy into epol
+  changed_packages: telepathy-filesystem telepathy-glib telepathy-logger
+  date: 2026-07-01-16-44-27
