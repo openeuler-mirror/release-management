@@ -5939,6 +5939,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2024-03-19'
+- name: libpeas2
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-26'
 - name: tracker3-miners
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
@@ -7047,6 +7051,10 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2024-08-06'
+- name: foundry
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-06-26'
 - name: frozen
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
