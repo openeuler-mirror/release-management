@@ -15411,10 +15411,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2026-01-20'
-- name: opencode
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2026-01-21'
 - name: cache_tuner
   obs_from: ''
   obs_to: openEuler:Factory
