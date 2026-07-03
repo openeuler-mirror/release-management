@@ -15623,3 +15623,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-02"
+- name: AgentBoost
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-03"
