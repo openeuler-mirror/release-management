@@ -15631,3 +15631,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-07"
+- name: xkbutils
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-10"
