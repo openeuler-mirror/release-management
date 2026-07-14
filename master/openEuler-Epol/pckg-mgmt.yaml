@@ -8915,3 +8915,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-06-27'
+- name: nvwa-cve-fixer
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-07-14'
