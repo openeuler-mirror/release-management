@@ -1144,3 +1144,4 @@ packages:
   - name: pki-core
   - name: classmate
   - name: datanucleus-maven-parent
+  - name: python-m2r
