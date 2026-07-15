@@ -15635,3 +15635,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-10"
+- name: libnbd
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-15"
