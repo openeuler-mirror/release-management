@@ -15639,3 +15639,11 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-15"
+- name: podflow
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-17"
+- name: crius
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-17"
