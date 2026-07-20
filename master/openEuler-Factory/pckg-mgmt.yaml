@@ -15651,3 +15651,43 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-18"
+- name: oed-cli
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: nvwa-cve-fixer
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: erofs-utils
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: libspelling
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: libgedit-tepl
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: libgedit-gtksourceview
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: libgedit-gfls
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: libgedit-amtk
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: cargo-auditable
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
+- name: gexiv2
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-20"
