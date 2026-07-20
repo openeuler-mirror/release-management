@@ -1,5 +1,5 @@
 # Version Info
-openEuler 26.09-Devsation is an innovation release for DevStation scenarios. For the release lifecycle, see [openEuler lifecycle](https://www.openeuler.org/en/other/lifecycle/). This release focuses on developer workstations, intelligent development tools, software store, mcpmarket, skillhub, agentStore, development environment management, and desktop development experience. It provides more features and capabilities, bringing developers and users a native openEuler AI-Native Operating System experience.<br>
+openEuler 26.09-DevStation is an innovation release for DevStation scenarios. For the release lifecycle, see [openEuler lifecycle](https://www.openeuler.org/en/other/lifecycle/). This release focuses on developer workstations, intelligent development tools, software store, mcpmarket, skillhub, agentStore, development environment management, and desktop development experience. It provides more features and capabilities, bringing developers and users a native openEuler AI-Native Operating System experience.<br>
 
 
 # Release Plan
@@ -9,14 +9,14 @@ openEuler 26.09-Devsation is an innovation release for DevStation scenarios. For
 | Collect key features          |        -        | 2026/06/01 | 2026/07/30 | 60 | Collect release requirements                              |
 | Change Review 1               |        -        | 2026/07/01 | 2026/08/13 | 44 | Review package changes, including upgrade, retirement, and removal  |
 | Herited features              |        -        | 2026/07/01 | 2026/08/13 | 44 | Merge inherited features before Beta |
-| Develop                       |        -        | 2026/07/01 | 2026/09/03 | 65 | Develop new features. Merge into Master before branching, and merge into Master plus 26.09-Devsation after branching before round 6 freeze |
+| Develop                       |        -        | 2026/07/01 | 2026/09/03 | 65 | Develop new features. Merge into Master before branching, and merge into Master plus 26.09-DevStation after branching before round 6 freeze |
 | Kernel freezing               |        -        | 2026/07/01 | 2026/08/13 | 44 | Kernel freeze, aligned with the Beta version |
-| Branch 26.09-Devsation        |        -        | 2026/07/16 | 2026/07/22 | 07 | Create the 26.09-Devsation branch from Master |
+| Branch 26.09-DevStation        |        -        | 2026/07/16 | 2026/07/22 | 07 | Create the 26.09-DevStation branch from Master |
 | Build & Alpha                 |    2026/07/23   | 2026/07/25 | 2026/08/07 | 14 | Merge new features and release Alpha. Focus on software selection and build issues |
-| Test round 1                  |    2026/08/06   | 2026/08/08 | 2026/08/14 | 07 | 26.09-Devsation module test |
-| Test round 2 (Beta Version)   |    2026/08/13   | 2026/08/15 | 2026/08/21 | 07 | 26.09-Devsation Beta release and KABI baseline |
+| Test round 1                  |    2026/08/06   | 2026/08/08 | 2026/08/14 | 07 | 26.09-DevStation module test |
+| Test round 2 (Beta Version)   |    2026/08/13   | 2026/08/15 | 2026/08/21 | 07 | 26.09-DevStation Beta release and KABI baseline |
 | Change Review 2               |        -        | 2026/08/15 | 2026/08/20 | 06 | Start package removal review |
-| Test round 3                  |    2026/08/20   | 2026/08/22 | 2026/08/28 | 07 | 26.09-Devsation module test |
+| Test round 3                  |    2026/08/20   | 2026/08/22 | 2026/08/28 | 07 | 26.09-DevStation module test |
 | Test round 4                  |    2026/08/27   | 2026/08/29 | 2026/09/04 | 07 | Full validation, including full SIT |
 | Change Review 3               |        -        | 2026/08/29 | 2026/09/03 | 06 | Start package removal review |
 | Test round 5                  |    2026/09/03   | 2026/09/05 | 2026/09/11 | 07 | Branch freeze. Only bug fixes are allowed |
