@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitcode.com/openeuler/release-management/pull/2703
+  description: 1c66b0a !2703 completely drop qt5-doc
+  changed_packages: qt5-doc
+  date: 2026-07-20-11-30-25
