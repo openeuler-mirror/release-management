@@ -1547,6 +1547,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: libnbd
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-07-21'
 - name: libnma
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
