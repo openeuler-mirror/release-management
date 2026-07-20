@@ -1145,3 +1145,4 @@ packages:
   - name: classmate
   - name: datanucleus-maven-parent
   - name: python-m2r
+  - name: clutter-gst3
