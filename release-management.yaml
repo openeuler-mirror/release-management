@@ -286,3 +286,22 @@ release:
   - Jingwiw
   - x33x33
   - Jeff_GUO
+
+- branch: openEuler-26.09-DevStation
+  community:
+  - src-openeuler
+  frozen: false
+  owner_atomgit:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - Smars
+  - hekeyi
+  - yeqinglong01
+  - SmallPegasus
+  - disnight
+  - Jingwiw
+  - x33x33
+  - Jeff_GUO
