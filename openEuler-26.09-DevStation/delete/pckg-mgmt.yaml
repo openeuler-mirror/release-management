@@ -1,1 +1,3 @@
-packages: []
+packages:
+  - name: qt5-doc
+  - name: clutter-gst3
