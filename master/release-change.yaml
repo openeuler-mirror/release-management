@@ -2998,3 +2998,7 @@ release-change:
     DevStation
   changed_packages: java-uuid-generator apache-commons-csv
   date: 2026-07-21-14-28-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2708
+  description: 04c8f6b !2708 add libnbd package to master
+  changed_packages: libnbd
+  date: 2026-07-21-17-30-01
