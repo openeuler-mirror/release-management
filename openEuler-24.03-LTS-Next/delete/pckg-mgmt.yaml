@@ -96,3 +96,4 @@ packages:
 - name: R-plogr
 - name: vllm
 - name: witty-opencode
+- name: clutter-gst3
