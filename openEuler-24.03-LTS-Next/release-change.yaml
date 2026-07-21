@@ -755,3 +755,7 @@ release-change:
   description: '5b3c2a2 !2678 chore: replace witty-opencode with opencode'
   changed_packages: opencode witty-opencode
   date: 2026-07-01-10-41-19
+- pr: https://gitcode.com/openeuler/release-management/pull/2712
+  description: 810e90e !2712 recycle clutter-gst3
+  changed_packages: clutter-gst3
+  date: 2026-07-21-11-23-13
