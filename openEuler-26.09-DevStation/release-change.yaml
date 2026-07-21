@@ -1,1 +1,5 @@
-release-change: []
+release-change:
+- pr: https://gitcode.com/openeuler/release-management/pull/2714
+  description: 394f876 !2714 remove qt5-doc and clutter-gst3 from 26.09 DevStation
+  changed_packages: clutter-gst3 qt5-doc
+  date: 2026-07-21-12-48-11

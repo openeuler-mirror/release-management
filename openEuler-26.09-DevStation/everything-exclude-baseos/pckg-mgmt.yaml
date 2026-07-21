@@ -11235,10 +11235,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: qt5-doc
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: qt5-qt3d
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
