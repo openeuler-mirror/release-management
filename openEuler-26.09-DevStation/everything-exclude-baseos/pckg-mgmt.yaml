@@ -2171,10 +2171,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: apache-commons-csv
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: apache-commons-digester
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -2568,10 +2564,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: java-comment-preprocessor
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: java-uuid-generator
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'

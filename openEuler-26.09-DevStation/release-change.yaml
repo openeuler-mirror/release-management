@@ -3,3 +3,8 @@ release-change:
   description: 394f876 !2714 remove qt5-doc and clutter-gst3 from 26.09 DevStation
   changed_packages: clutter-gst3 qt5-doc
   date: 2026-07-21-12-48-11
+- pr: https://gitcode.com/openeuler/release-management/pull/2715
+  description: c521a1b !2715 remove apache-commons-csv,java-uuid-generator from 26.09
+    DevStation
+  changed_packages: java-uuid-generator apache-commons-csv
+  date: 2026-07-21-14-28-28
