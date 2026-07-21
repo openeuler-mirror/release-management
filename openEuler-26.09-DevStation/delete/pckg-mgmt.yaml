@@ -1,3 +1,5 @@
 packages:
   - name: qt5-doc
   - name: clutter-gst3
+  - name: apache-commons-csv
+  - name: java-uuid-generator
