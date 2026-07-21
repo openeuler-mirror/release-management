@@ -1146,3 +1146,5 @@ packages:
   - name: datanucleus-maven-parent
   - name: python-m2r
   - name: clutter-gst3
+  - name: apache-commons-csv
+  - name: java-uuid-generator
