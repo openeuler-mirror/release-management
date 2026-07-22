@@ -16031,3 +16031,35 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-22"
+- name: python-zun-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-zaqar-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-watcher-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-watcher-dashboard
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-venusclient
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-tosca-parser
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-telemetry-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-tackerclient
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
