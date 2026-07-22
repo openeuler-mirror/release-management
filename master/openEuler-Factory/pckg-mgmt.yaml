@@ -15987,3 +15987,47 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-22"
+- name: python-octavia-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-observabilityclient
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-neutron-fwaas-dashboard
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-mistral-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-mistral-extra
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-masakari-dashboard
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-manila-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-magnum-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-kuryr
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-heat-translator
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
+- name: python-heat-tempest-plugin
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-22"
