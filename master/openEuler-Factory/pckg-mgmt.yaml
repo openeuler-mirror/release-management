@@ -15655,10 +15655,6 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-20"
-- name: erofs-utils
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
 - name: libspelling
   obs_from: ""
   obs_to: openEuler:Factory
