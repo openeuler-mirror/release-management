@@ -97,3 +97,4 @@ packages:
 - name: vllm
 - name: witty-opencode
 - name: clutter-gst3
+- name: grantlee
