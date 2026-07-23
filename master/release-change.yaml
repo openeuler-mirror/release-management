@@ -3002,3 +3002,7 @@ release-change:
   description: 04c8f6b !2708 add libnbd package to master
   changed_packages: libnbd
   date: 2026-07-21-17-30-01
+- pr: https://gitcode.com/openeuler/release-management/pull/2694
+  description: 647a481 !2694 [新增包] src-openeuler/erofs-utils
+  changed_packages: erofs-utils
+  date: 2026-07-23-09-46-56
