@@ -15679,10 +15679,6 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-20"
-- name: gexiv2
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
 - name: kdsingleapplication
   obs_from: ""
   obs_to: openEuler:Factory
