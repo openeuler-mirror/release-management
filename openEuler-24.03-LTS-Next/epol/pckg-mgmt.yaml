@@ -1487,6 +1487,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: libei
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-07-23'
 - name: liberasurecode
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
