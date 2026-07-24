@@ -1148,3 +1148,4 @@ packages:
   - name: clutter-gst3
   - name: apache-commons-csv
   - name: java-uuid-generator
+  - name: grantlee
