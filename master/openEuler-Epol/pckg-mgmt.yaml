@@ -547,10 +547,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: grantlee
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: gromacs
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol

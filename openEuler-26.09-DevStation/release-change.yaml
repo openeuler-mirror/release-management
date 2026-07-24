@@ -8,3 +8,7 @@ release-change:
     DevStation
   changed_packages: java-uuid-generator apache-commons-csv
   date: 2026-07-21-14-28-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2719
+  description: ead7444 !2719 recycle grantlee
+  changed_packages: grantlee
+  date: 2026-07-24-11-43-48

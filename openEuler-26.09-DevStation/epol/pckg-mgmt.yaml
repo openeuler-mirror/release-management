@@ -503,10 +503,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: grantlee
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: gromacs
   source_dir: master
   destination_dir: openEuler-26.09-DevStation

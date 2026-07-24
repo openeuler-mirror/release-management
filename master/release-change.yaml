@@ -3006,3 +3006,7 @@ release-change:
   description: 647a481 !2694 [新增包] src-openeuler/erofs-utils
   changed_packages: erofs-utils
   date: 2026-07-23-09-46-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2719
+  description: ead7444 !2719 recycle grantlee
+  changed_packages: grantlee
+  date: 2026-07-24-11-43-48
