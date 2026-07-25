@@ -3811,10 +3811,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: gtksourceview4
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: gutenprint
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
