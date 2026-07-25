@@ -971,6 +971,22 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: libgedit-tepl
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-07-25"
+- name: libgedit-gtksourceview
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-07-25"
+- name: libgedit-gfls
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-07-25"
+- name: libgedit-amtk
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: "2026-07-25"
 - name: libgsasl
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
