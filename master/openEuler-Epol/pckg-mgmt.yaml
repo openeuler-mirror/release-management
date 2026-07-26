@@ -8915,3 +8915,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2026-07-23'
+- name: perl-Tie-RefHash
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-07-27'
