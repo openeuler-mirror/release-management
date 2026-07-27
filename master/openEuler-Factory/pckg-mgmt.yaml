@@ -15659,22 +15659,6 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-20"
-- name: libgedit-tepl
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
-- name: libgedit-gtksourceview
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
-- name: libgedit-gfls
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
-- name: libgedit-amtk
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
 - name: cargo-auditable
   obs_from: ""
   obs_to: openEuler:Factory
