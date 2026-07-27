@@ -15435,10 +15435,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2026-02-10'
-- name: cargo-packaging
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2026-02-27'
 - name: witty-ub
   obs_from: ''
   obs_to: openEuler:Factory
@@ -15656,10 +15652,6 @@ packages:
   obs_to: openEuler:Factory
   date: "2026-07-20"
 - name: libspelling
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-07-20"
-- name: cargo-auditable
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-20"
