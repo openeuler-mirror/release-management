@@ -567,6 +567,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: gtksourceview4
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2026-07-26'
 - name: gumbo-parser
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
