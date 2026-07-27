@@ -191,6 +191,14 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: cargo-packaging
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-07-27'
+- name: cargo-auditable
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: "2026-07-27"
 - name: cairomm
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
