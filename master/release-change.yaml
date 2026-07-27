@@ -3014,3 +3014,7 @@ release-change:
   description: 48ed093 !2722 move gedit libraries to epol
   changed_packages: libgedit-tepl libgedit-gtksourceview libgedit-gfls libgedit-amtk
   date: 2026-07-27-17-37-24
+- pr: https://gitcode.com/openeuler/release-management/pull/2727
+  description: 13b655f !2727 move cargo packaging and cargo-auditable into everything
+  changed_packages: cargo-packaging cargo-auditable
+  date: 2026-07-27-19-13-27
