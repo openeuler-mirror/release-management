@@ -16039,3 +16039,11 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-23"
+- name: networking-bgpvpn
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-28"
+- name: python-neutron-vpnaas-dashboard
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-07-28"
