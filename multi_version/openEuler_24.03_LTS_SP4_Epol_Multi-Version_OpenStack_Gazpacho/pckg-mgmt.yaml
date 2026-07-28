@@ -2819,3 +2819,33 @@ packages:
   obs_from: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Antelope
   obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Gazpacho
   date: '2026-07-27'
+- name: openstack-macros
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP4
+  destination_dir: Multi-Version_OpenStack-Gazpacho_openEuler-24.03-LTS-SP4
+  obs_from: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Gazpacho
+  date: '2026-07-28'
+- name: python-osprofiler
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP4
+  destination_dir: Multi-Version_OpenStack-Gazpacho_openEuler-24.03-LTS-SP4
+  obs_from: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Gazpacho
+  date: '2026-07-28'
+- name: python-ironic-lib
+  source_dir: Multi-Version_OpenStack-Antelope_openEuler-24.03-LTS-SP4
+  destination_dir: Multi-Version_OpenStack-Gazpacho_openEuler-24.03-LTS-SP4
+  obs_from: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Antelope
+  obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Gazpacho
+  date: '2026-07-28'
+- name: python-testrepository
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Gazpacho_openEuler-24.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Gazpacho
+  date: '2026-07-28'
+- name: crudini
+  source_dir: master
+  destination_dir: Multi-Version_OpenStack-Gazpacho_openEuler-24.03-LTS-SP4
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:SP4:Epol:Multi-Version:OpenStack:Gazpacho
+  date: '2026-07-28'
