@@ -459,6 +459,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-dataclasses
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Mainline
+  date: '2026-07-30'
 - name: python-dasbus
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
