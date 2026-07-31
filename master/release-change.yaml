@@ -3018,3 +3018,7 @@ release-change:
   description: 13b655f !2727 move cargo packaging and cargo-auditable into everything
   changed_packages: cargo-packaging cargo-auditable
   date: 2026-07-27-19-13-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2730
+  description: b95e1cc !2730 move  python-dataclasses from Epol to  Mainline
+  changed_packages: python-dataclasses
+  date: 2026-07-31-11-00-24
