@@ -947,6 +947,10 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
+- name: libnbd
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2026-08-3'
 - name: libXpresent
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
