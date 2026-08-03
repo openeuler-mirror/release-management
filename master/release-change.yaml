@@ -3022,3 +3022,8 @@ release-change:
   description: b95e1cc !2730 move  python-dataclasses from Epol to  Mainline
   changed_packages: python-dataclasses
   date: 2026-07-31-11-00-24
+- pr: https://gitcode.com/openeuler/release-management/pull/2733
+  description: e400ebb !2733 move libnbd to EPOL and python-asyncssh Factory to Python
+    to fix ceph install issue on master branch
+  changed_packages: libnbd python-asyncssh
+  date: 2026-08-03-14-39-38
