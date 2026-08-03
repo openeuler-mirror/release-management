@@ -4591,6 +4591,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
+- name: gdbus-codegen-glibmm
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-08-03'
 - name: gnome-shell
   source_dir: master
   destination_dir: openEuler-26.09-DevStation

@@ -5867,6 +5867,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2024-03-19'
+- name: gdbus-codegen-glibmm
+  obs_from: openEuler:Python
+  obs_to: openEuler:Epol
+  date: '2026-08-03'
 - name: gnome-shell
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
