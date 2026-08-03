@@ -283,6 +283,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-asyncssh
+  obs_from: 'openEuler:Factory'
+  obs_to: openEuler:Python
+  date: '2026-08-3'
 - name: python-atpublic
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
