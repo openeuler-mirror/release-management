@@ -16043,3 +16043,19 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-07-28"
+- name: google-noto-serif-cjk-vf-fonts
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-04"
+- name: google-noto-serif-cjk-fonts
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-04"
+- name: google-noto-sans-cjk-vf-fonts
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-04"
+- name: google-noto-sans-cjk-fonts
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-04"
