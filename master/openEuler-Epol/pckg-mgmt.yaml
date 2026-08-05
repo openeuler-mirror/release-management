@@ -8935,3 +8935,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2026-07-23'
+- name: python-dmiparser
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-08-05'
