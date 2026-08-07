@@ -3035,3 +3035,7 @@ release-change:
   description: e9d2003 !2741 move libnbd from Epol to main
   changed_packages: libnbd
   date: 2026-08-07-14-22-13
+- pr: https://gitcode.com/openeuler/release-management/pull/2740
+  description: 2d478a1 !2740 move pdfio into everything for libcupsfilters
+  changed_packages: pdfio
+  date: 2026-08-07-16-56-12
