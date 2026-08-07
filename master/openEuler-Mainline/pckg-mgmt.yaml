@@ -6007,3 +6007,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2026-06-25'
+- name: pdfio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-08-07'
