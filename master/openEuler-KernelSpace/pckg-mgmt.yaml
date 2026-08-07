@@ -67,6 +67,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:KernelSpace
   date: '2022-07-26'
+- name: libguestfs-tools
+  obs_from: openEuler:Factory
+  obs_to: openEuler:KernelSpace
+  date: '2026-08-06'
 - name: libkcapi
   obs_from: openEuler:Mainline
   obs_to: openEuler:KernelSpace
