@@ -264,3 +264,7 @@ release-change:
   description: ab824c9 !2670 rename R-langauge to R
   changed_packages: R
   date: 2026-06-09-12-32-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2738
+  description: b316729 !2738 labltk has been renamed to ocaml-labltk
+  changed_packages: ocaml-labltk
+  date: 2026-08-07-10-32-51

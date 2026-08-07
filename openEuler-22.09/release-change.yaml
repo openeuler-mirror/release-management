@@ -292,3 +292,7 @@ release-change:
   description: 16fdc73 !2639 obsolete libgsasl by gsasl
   changed_packages: 389-ds-base
   date: 2026-05-27-10-36-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2738
+  description: b316729 !2738 labltk has been renamed to ocaml-labltk
+  changed_packages: ocaml-labltk
+  date: 2026-08-07-10-32-51

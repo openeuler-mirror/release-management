@@ -121,3 +121,7 @@ release-change:
   description: '5b3c2a2 !2678 chore: replace witty-opencode with opencode'
   changed_packages: opencode
   date: 2026-07-01-10-41-19
+- pr: https://gitcode.com/openeuler/release-management/pull/2738
+  description: b316729 !2738 labltk has been renamed to ocaml-labltk
+  changed_packages: ocaml-labltk
+  date: 2026-08-07-10-32-51

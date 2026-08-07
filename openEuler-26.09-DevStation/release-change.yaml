@@ -12,3 +12,7 @@ release-change:
   description: ead7444 !2719 recycle grantlee
   changed_packages: grantlee
   date: 2026-07-24-11-43-48
+- pr: https://gitcode.com/openeuler/release-management/pull/2738
+  description: b316729 !2738 labltk has been renamed to ocaml-labltk
+  changed_packages: ocaml-labltk
+  date: 2026-08-07-10-32-51
