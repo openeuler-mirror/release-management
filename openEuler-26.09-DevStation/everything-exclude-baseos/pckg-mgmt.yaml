@@ -4523,7 +4523,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: labltk
+- name: ocaml-labltk
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
