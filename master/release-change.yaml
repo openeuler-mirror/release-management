@@ -3031,3 +3031,7 @@ release-change:
   description: b316729 !2738 labltk has been renamed to ocaml-labltk
   changed_packages: ocaml-labltk
   date: 2026-08-07-10-32-51
+- pr: https://gitcode.com/openeuler/release-management/pull/2741
+  description: e9d2003 !2741 move libnbd from Epol to main
+  changed_packages: libnbd
+  date: 2026-08-07-14-22-13
