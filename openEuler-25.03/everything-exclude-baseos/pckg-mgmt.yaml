@@ -6103,7 +6103,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: labltk
+- name: ocaml-labltk
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
