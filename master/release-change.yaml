@@ -3051,3 +3051,7 @@ release-change:
     to resolve ceph 20.2.2 install dependence issue
   changed_packages: python-cmd2 python-natsort
   date: 2026-08-10-12-21-52
+- pr: https://gitcode.com/openeuler/release-management/pull/2747
+  description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
+  changed_packages: qt5platform-plugins
+  date: 2026-08-10-14-55-28

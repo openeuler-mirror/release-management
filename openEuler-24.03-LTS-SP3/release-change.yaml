@@ -141,3 +141,7 @@ release-change:
   description: ab5a7e4 !2739 add Conch and erofs-utils to openEuler-24.03-LTS-SP3
   changed_packages: Conch erofs-utils
   date: 2026-08-07-16-55-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2747
+  description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
+  changed_packages: qt5platform-plugins
+  date: 2026-08-10-14-55-28

@@ -41,3 +41,7 @@ release-change:
   description: 16fdc73 !2639 obsolete libgsasl by gsasl
   changed_packages: 389-ds-base
   date: 2026-05-27-10-36-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2747
+  description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
+  changed_packages: qt5platform-plugins
+  date: 2026-08-10-14-55-28
