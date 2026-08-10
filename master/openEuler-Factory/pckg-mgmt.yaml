@@ -14643,10 +14643,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2025-06-17'
-- name: erlang-rebar3
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2025-06-25'
 - name: perl-App-cpanminus
   obs_from: ''
   obs_to: openEuler:Factory
@@ -16071,67 +16067,3 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-07"
-- name: erlang-ssl_verify_fun
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-relx
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-rebar3-gpb
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-providers
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-parse_trans
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-lager
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-hex_core
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-gpb
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-goldrush
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-eunit_formatters
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-erlware_commons
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-edown
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-cth_readable
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-cf
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-certifi
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
-- name: erlang-bbmustache
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-08-10"
