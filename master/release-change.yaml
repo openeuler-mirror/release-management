@@ -3046,3 +3046,8 @@ release-change:
     erlang-erlware_commons erlang-edown erlang-cth_readable erlang-cf erlang-certifi
     erlang-bbmustache erlang-rebar3
   date: 2026-08-10-11-42-30
+- pr: https://gitcode.com/openeuler/release-management/pull/2745
+  description: 91cd123 !2745 move python3-natsort and python3-cmd2 frome Epol to everything
+    to resolve ceph 20.2.2 install dependence issue
+  changed_packages: python-cmd2 python-natsort
+  date: 2026-08-10-12-21-52
