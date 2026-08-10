@@ -2307,7 +2307,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'
-- name: qt5dxcb-plugin
+- name: qt5platform-plugins
   source_dir: master
   destination_dir: openEuler-25.03
   date: '2025-01-23'

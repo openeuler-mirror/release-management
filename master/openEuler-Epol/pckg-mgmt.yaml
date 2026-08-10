@@ -2815,7 +2815,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: qt5dxcb-plugin
+- name: qt5platform-plugins
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'

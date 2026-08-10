@@ -2271,7 +2271,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: qt5dxcb-plugin
+- name: qt5platform-plugins
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
