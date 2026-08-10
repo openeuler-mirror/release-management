@@ -403,6 +403,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-cmd2
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2026-08-10'
 - name: python-cmdln
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
@@ -947,6 +951,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-natsort
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Python
+  date: '2026-08-10'
 - name: python-networkx
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
