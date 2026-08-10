@@ -3039,3 +3039,10 @@ release-change:
   description: 2d478a1 !2740 move pdfio into everything for libcupsfilters
   changed_packages: pdfio
   date: 2026-08-07-16-56-12
+- pr: https://gitcode.com/openeuler/release-management/pull/2746
+  description: 42c862a !2746 move erlang-rebar3 and dependencies to everything
+  changed_packages: erlang-ssl_verify_fun erlang-relx erlang-rebar3-gpb erlang-providers
+    erlang-parse_trans erlang-lager erlang-hex_core erlang-gpb erlang-goldrush erlang-eunit_formatters
+    erlang-erlware_commons erlang-edown erlang-cth_readable erlang-cf erlang-certifi
+    erlang-bbmustache erlang-rebar3
+  date: 2026-08-10-11-42-30
