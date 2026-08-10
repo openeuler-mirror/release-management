@@ -927,10 +927,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: libgsasl
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: libguess
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -4632,10 +4628,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: grilo-plugins
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: libgdata
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'

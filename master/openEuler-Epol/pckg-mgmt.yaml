@@ -991,10 +991,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: "2026-07-25"
-- name: libgsasl
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: libguess
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -5901,10 +5897,6 @@ packages:
   date: '2024-03-19'
 - name: grilo-plugins
   obs_from: openEuler:Mainline
-  obs_to: openEuler:Epol
-  date: '2024-03-19'
-- name: libgdata
-  obs_from: openEuler:Meson
   obs_to: openEuler:Epol
   date: '2024-03-19'
 - name: gnome-control-center
