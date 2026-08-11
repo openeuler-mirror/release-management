@@ -145,3 +145,7 @@ release-change:
   description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
   changed_packages: qt5platform-plugins
   date: 2026-08-10-14-55-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2749
+  description: 0d0a187 !2749 add KASandbox to openEuler-24.03-LTS-SP3
+  changed_packages: KASandbox
+  date: 2026-08-11-11-48-51
