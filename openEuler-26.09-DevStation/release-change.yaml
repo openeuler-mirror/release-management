@@ -20,3 +20,8 @@ release-change:
   description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
   changed_packages: qt5platform-plugins
   date: 2026-08-10-14-55-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2748
+  description: ce61d73 !2748 delete linux-sgx-driver from openEuler-26.09-DevStation
+    and master
+  changed_packages: linux-sgx-driver
+  date: 2026-08-12-09-13-13
