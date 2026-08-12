@@ -16063,3 +16063,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-07"
+- name: itrustee_client
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-12"
