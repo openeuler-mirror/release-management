@@ -16067,3 +16067,15 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-12"
+- name: vtzdriver
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-12"
+- name: vtz_proxy
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-12"
+- name: itrustee_tzdriver
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-12"
