@@ -8915,3 +8915,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2026-07-23'
+- name: LMcache-Ascend
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-08-13'
