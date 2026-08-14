@@ -16083,3 +16083,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-12"
+- name: witty-agents
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-14"
