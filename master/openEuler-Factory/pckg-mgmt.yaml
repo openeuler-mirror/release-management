@@ -16087,3 +16087,31 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-14"
+- name: python-resolvelib
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
+- name: python-reactivex
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
+- name: python-influxdb-client
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
+- name: python-flexparser
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
+- name: python-flexcache
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
+- name: os-resource-classes
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
+- name: ansible-core
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-17"
