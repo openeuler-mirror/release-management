@@ -5,3 +5,4 @@ packages:
   - name: java-uuid-generator
   - name: grantlee
   - name: linux-sgx-driver
+  - name: dpu-utilities
