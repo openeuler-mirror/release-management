@@ -3060,3 +3060,7 @@ release-change:
     and master
   changed_packages: linux-sgx-driver
   date: 2026-08-12-09-13-13
+- pr: https://gitcode.com/openeuler/release-management/pull/2695
+  description: 680ae4e !2695 [新增包] src-openeuler/xkbutils
+  changed_packages: xkbutils
+  date: 2026-08-18-17-01-29
