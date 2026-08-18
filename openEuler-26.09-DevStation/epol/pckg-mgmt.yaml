@@ -3439,9 +3439,9 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: dpu-utilities 
-  source_dir: master 
-  destination_dir: openEuler-26.09-DevStation 
+- name: dpu-utilities
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: astream
   source_dir: master
