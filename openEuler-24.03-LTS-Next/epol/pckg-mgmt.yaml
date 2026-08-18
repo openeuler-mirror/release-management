@@ -7319,6 +7319,12 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-19'
+- name: gdbus-codegen-glibmm
+  source_dir: openEuler-24.03-LTS-Next
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:24.03:LTS:Next
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-08-03'
 - name: gnome-shell
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-Next
