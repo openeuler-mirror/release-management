@@ -3068,3 +3068,7 @@ release-change:
   description: 9121f1c !2742 ditch qpdf from master
   changed_packages: gdbus-codegen-glibmm
   date: 2026-08-18-17-08-49
+- pr: https://gitcode.com/openeuler/release-management/pull/2750
+  description: df3cdb2 !2750 move fluidsynth into epol
+  changed_packages: fluidsynth
+  date: 2026-08-18-17-09-24
