@@ -3064,3 +3064,7 @@ release-change:
   description: 680ae4e !2695 [新增包] src-openeuler/xkbutils
   changed_packages: xkbutils
   date: 2026-08-18-17-01-29
+- pr: https://gitcode.com/openeuler/release-management/pull/2742
+  description: 9121f1c !2742 ditch qpdf from master
+  changed_packages: gdbus-codegen-glibmm
+  date: 2026-08-18-17-08-49
