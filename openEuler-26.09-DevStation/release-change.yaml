@@ -25,3 +25,7 @@ release-change:
     and master
   changed_packages: linux-sgx-driver
   date: 2026-08-12-09-13-13
+- pr: https://gitcode.com/openeuler/release-management/pull/2755
+  description: fdec4c5 !2755 delete dpu-utilities from openEuler-26.09-DevStation
+  changed_packages: dpu-utilities
+  date: 2026-08-18-11-44-16
