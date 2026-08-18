@@ -3072,3 +3072,7 @@ release-change:
   description: df3cdb2 !2750 move fluidsynth into epol
   changed_packages: fluidsynth
   date: 2026-08-18-17-09-24
+- pr: https://gitcode.com/openeuler/release-management/pull/2753
+  description: 7d96946 !2753 move libplacebo into epol for mpv
+  changed_packages: libplacebo
+  date: 2026-08-18-17-09-59
