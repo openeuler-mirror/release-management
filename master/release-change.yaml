@@ -3076,3 +3076,7 @@ release-change:
   description: 7d96946 !2753 move libplacebo into epol for mpv
   changed_packages: libplacebo
   date: 2026-08-18-17-09-59
+- pr: https://gitcode.com/openeuler/release-management/pull/2756
+  description: 97e6196 !2756 add RAM-A to master and openEuler-26.09-DevStation
+  changed_packages: RAM-A
+  date: 2026-08-19-11-01-07

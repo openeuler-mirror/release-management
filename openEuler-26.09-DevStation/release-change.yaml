@@ -29,3 +29,7 @@ release-change:
   description: fdec4c5 !2755 delete dpu-utilities from openEuler-26.09-DevStation
   changed_packages: dpu-utilities
   date: 2026-08-18-11-44-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2756
+  description: 97e6196 !2756 add RAM-A to master and openEuler-26.09-DevStation
+  changed_packages: RAM-A
+  date: 2026-08-19-11-01-07
