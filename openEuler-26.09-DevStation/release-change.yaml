@@ -33,3 +33,7 @@ release-change:
   description: 97e6196 !2756 add RAM-A to master and openEuler-26.09-DevStation
   changed_packages: RAM-A
   date: 2026-08-19-11-01-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2757
+  description: a7e3298 !2757 Remove tidb from openEuler-26.09-DevStation
+  changed_packages: tidb
+  date: 2026-08-19-13-53-04
