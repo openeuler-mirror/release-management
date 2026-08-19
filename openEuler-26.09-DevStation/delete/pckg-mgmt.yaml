@@ -7,3 +7,4 @@ packages:
   - name: linux-sgx-driver
   - name: dpu-utilities
   - name: tidb
+  - name: dtkdeclarative
