@@ -7551,3 +7551,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-26'
+- name: RAM-A
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-08-19'

@@ -15571,10 +15571,6 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-06-08"
-- name: RAM-A
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-06-08"
 - name: ublinkdt
   obs_from: ""
   obs_to: openEuler:Factory
