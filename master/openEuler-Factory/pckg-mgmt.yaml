@@ -16107,3 +16107,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-17"
+- name: sccs
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-19"
