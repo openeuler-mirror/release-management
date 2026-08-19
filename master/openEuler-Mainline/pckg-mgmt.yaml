@@ -198,7 +198,7 @@ packages:
 - name: cargo-auditable
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
-  date: "2026-07-27"
+  date: '2026-07-27'
 - name: cairomm
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -3828,10 +3828,6 @@ packages:
   obs_to: openEuler:Mainline
   date: '2022-07-26'
 - name: qgnomeplatform
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: qpdf
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
