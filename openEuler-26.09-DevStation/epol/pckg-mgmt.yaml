@@ -7551,3 +7551,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-08-19'
+- name: AcTrail
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-08-20'
