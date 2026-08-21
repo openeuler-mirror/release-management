@@ -41,3 +41,7 @@ release-change:
   description: ee4d4d5 !2758 delete dtkdeclarative from openEuler-26.09-DevStation
   changed_packages: dtkdeclarative
   date: 2026-08-20-15-51-45
+- pr: https://gitcode.com/openeuler/release-management/pull/2759
+  description: 70e92d6 !2759 add AcTrail to openEuler-26.09-DevStation
+  changed_packages: AcTrail
+  date: 2026-08-21-10-09-16
