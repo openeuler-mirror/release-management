@@ -4,27 +4,26 @@ openEuler 26.09-DevStation is an innovation release for DevStation scenarios. Fo
 
 # Release Plan
 
-| Stage Name                    | Deadline for PR | Begin Time | End Time   | Days | Note                                     |
-| ----------------------------- | --------------- | ---------- | ---------  | ---- | ---------------------------------------- |
-| Collect key features          |        -        | 2026/06/01 | 2026/07/30 | 60 | Collect release requirements                              |
-| Change Review 1               |        -        | 2026/07/01 | 2026/08/15 | 46 | Review package changes, including upgrade, retirement, and removal  |
-| Herited features              |        -        | 2026/07/01 | 2026/08/15 | 46 | Merge inherited features before Beta |
-| Develop                       |        -        | 2026/07/01 | 2026/09/02 | 64 | Develop new features. Merge into Master before branching, and merge into Master plus 26.09-DevStation after branching before round 6 freeze |
-| Kernel freezing               |        -        | 2026/07/01 | 2026/08/15 | 46 | Kernel freeze, aligned with the Beta version |
-| Branch 26.09-DevStation        |        -        | 2026/07/13 | 2026/07/16 | 04 | Create the 26.09-DevStation branch from Master |
-| Build & Alpha                 |    2026/07/22   | 2026/07/24 | 2026/08/06 | 14 | Merge new features and release Alpha. Focus on software selection and build issues |
-| Test round 1                  |    2026/08/05   | 2026/08/07 | 2026/08/13 | 07 | 26.09-DevStation module test |
-| Test round 2 (Beta Version)   |    2026/08/12   | 2026/08/14 | 2026/08/20 | 07 | 26.09-DevStation Beta release and KABI baseline |
-| Change Review 2               |        -        | 2026/08/14 | 2026/08/19 | 06 | Start package removal review |
-| Test round 3                  |    2026/08/19   | 2026/08/21 | 2026/08/27 | 07 | 26.09-DevStation module test |
-| Test round 4                  |    2026/08/26   | 2026/08/28 | 2026/09/03 | 07 | Full validation, including full SIT |
-| Change Review 3               |        -        | 2026/08/28 | 2026/09/02 | 06 | Start package removal review |
-| Test round 5                  |    2026/09/02   | 2026/09/04 | 2026/09/10 | 07 | Branch freeze. Only bug fixes are allowed |
-| Test round 6                  |    2026/09/09   | 2026/09/11 | 2026/09/17 | 07 | Regression test |
-| Test round 7 (reserved)       |    2026/09/16   | 2026/09/18 | 2026/09/23 | 06 | Regression test |
-| Release Review                |        -        | 2026/09/21 | 2026/09/24 | 04 | Release decision: Go or No Go |
-| Release preparation           |        -        | 2026/09/22 | 2026/09/24 | 03 | Prepare release deliverables |
-| Release                       |        -        | 2026/09/28 | 2026/09/30 | 03 | Official release after community Release review |
+| Stage Name | Deadline for PR | Begin Time | End Time | Days | Note |
+|------------|-----------------|------------|----------|------|------|
+| Collect key features | - | 2026/06/01 | 2026/07/30 | 60 | Collect release requirements |
+| Change Review 1 | - | 2026/07/01 | 2026/08/15 | 46 | Review package changes (upgrade, retirement, removal) |
+| Inherited features | - | 2026/07/01 | 2026/08/15 | 46 | Merge inherited features (must be completed before Beta) |
+| Development | - | 2026/07/01 | 2026/09/02 | 64 | Develop new features. Merge into Master before branching; after branching, merge into both 26.09‑DevStation and Master. The 6.6 kernel must be merged into the 26.09 branch before round 6 freeze. |
+| Kernel freezing | - | 2026/07/01 | 2026/08/15 | 46 | Kernel freeze (aligned with the Beta version) |
+| Branch 26.09‑DevStation | - | 2026/07/20 | 2026/07/31 | 12 | Create the 26.09‑DevStation branch from Master; additionally create a 26.09 kernel branch for the 6.6 version |
+| Build & Alpha | 2026/08/05 | 2026/08/07 | 2026/08/13 | 07 | Merge new features, release Alpha version (focus on software selection and build issues) |
+| Test round 1 | 2026/08/12 | 2026/08/14 | 2026/08/20 | 07 | 26.09‑DevStation module test |
+| Test round 2 (Beta Version) | 2026/08/19 | 2026/08/21 | 2026/08/27 | 07 | 26.09‑DevStation Beta release (KABI baseline) |
+| Change Review 2 | - | 2026/08/21 | 2026/08/26 | 06 | Initiate package removal review |
+| Test round 3 | 2026/08/26 | 2026/08/28 | 2026/09/03 | 07 | 26.09‑DevStation module test |
+| Test round 4 | 2026/09/02 | 2026/09/04 | 2026/09/10 | 07 | Full validation (full SIT) |
+| Change Review 3 | - | 2026/09/04 | 2026/09/09 | 06 | Initiate package removal review |
+| Test round 5 | 2026/09/09 | 2026/09/11 | 2026/09/17 | 07 | Branch freeze, only bug fixes allowed |
+| Test round 6 | 2026/09/16 | 2026/09/18 | 2026/09/23 | 07 | Regression test |
+| Release Review | - | 2026/09/21 | 2026/09/24 | 04 | Release decision / Go or No Go |
+| Release preparation | - | 2026/09/23 | 2026/09/24 | 02 | Pre‑release preparation, organize release artifacts |
+| Release | - | 2026/09/28 | 2026/09/30 | 03 | Official release after community Release review approval |
 
 * ```Deadline for PR```: Build start time, which is also the time when PRs stop being accepted for this build. The build starts after 20:00 on that day.
 * ```Begin Time```: Test handoff start time. Test images, AT smoke tests, and release preparation should be completed before 09:00 on that day.
