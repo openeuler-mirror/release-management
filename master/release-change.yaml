@@ -3080,3 +3080,7 @@ release-change:
   description: 97e6196 !2756 add RAM-A to master and openEuler-26.09-DevStation
   changed_packages: RAM-A
   date: 2026-08-19-11-01-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2688
+  description: 86fd22e !2688 [新增包] src-openeuler/libspelling
+  changed_packages: libspelling
+  date: 2026-08-25-15-27-48
