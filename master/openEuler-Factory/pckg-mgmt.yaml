@@ -16111,3 +16111,11 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-24"
+- name: witty-token-compressor
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-26"
+- name: witty-sandboxer
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-26"
