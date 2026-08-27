@@ -227,10 +227,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2024-10-02'
-- name: bind-dyndb-ldap
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: biosdevname
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -1627,10 +1623,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: libgnome-keyring
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: libgnomekbd
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -1692,10 +1684,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: libieee1284
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: libijs
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -2176,10 +2164,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: libyaml
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: libyubikey
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
@@ -2683,14 +2667,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:C
   date: '2025-10-21'
-- name: openresty-pcre
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: openresty-zlib
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: opensc
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -3924,10 +3900,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: yelp-xsl
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: ykpers
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'

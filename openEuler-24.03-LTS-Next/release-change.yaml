@@ -775,3 +775,13 @@ release-change:
   description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
   changed_packages: qt5platform-plugins
   date: 2026-08-10-14-55-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2728
+  description: 90b782f !2728 remove recycled package from future projects
+  changed_packages: fcitx-qt5 fcitx glade3 gnome-online-miners kiran-biometrics gnome-photos
+    libgnomecanvasmm26 fftw2 fcitx-configtool fcitx-sunpinyin cheese kiran-themes
+    libgnomeui tidb libglademm24 fcitx-cloudpinyin fcitx-libpinyin fros bind-dyndb-ldap
+    libijs gnome-dictionary rubygem-rspec2-expectations devhelp rubygem-rspec2 python-json-logger
+    xmms rubygem-rspec2-core pesign-obs-integration ykpers libgnome-keyring libgdl
+    gtkmm24 gnome-video-effects gtk rubygem-rspec2-mocks libyubikey lsvpd ppc64-diag
+    glib derby powerpc-utils opal-prd
+  date: 2026-08-27-10-33-44

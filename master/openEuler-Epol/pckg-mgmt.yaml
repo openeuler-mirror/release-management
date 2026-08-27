@@ -219,10 +219,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: dde-network-utils
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: dde-polkit-agent
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -300,10 +296,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: deepin-icon-theme
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: deepin-image-viewer
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -428,10 +420,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: ffmpegthumbnailer
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: fftw2
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -982,19 +970,19 @@ packages:
 - name: libgedit-tepl
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-07-25"
+  date: '2026-07-25'
 - name: libgedit-gtksourceview
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-07-25"
+  date: '2026-07-25'
 - name: libgedit-gfls
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-07-25"
+  date: '2026-07-25'
 - name: libgedit-amtk
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
-  date: "2026-07-25"
+  date: '2026-07-25'
 - name: libguess
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -1240,10 +1228,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: openconnect
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: openresty-valgrind
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -3059,10 +3043,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: tidb
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: tig
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -3523,10 +3503,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
-- name: glade3
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
 - name: cinnamon
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
@@ -3792,10 +3768,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: python-neutron-tempest-plugin
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-biometrics
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -4136,10 +4108,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2022-07-26'
 - name: gnome-initial-setup
-  obs_from: openEuler:Epol
-  obs_to: openEuler:Epol
-  date: '2022-07-26'
-- name: kiran-themes
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2022-07-26'
@@ -5827,10 +5795,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2024-03-19'
-- name: libgnomeui
-  obs_from: openEuler:C
-  obs_to: openEuler:Epol
-  date: '2024-03-19'
 - name: libbonoboui
   obs_from: openEuler:C
   obs_to: openEuler:Epol
@@ -5893,10 +5857,6 @@ packages:
   date: '2024-03-19'
 - name: xdg-desktop-portal-gtk
   obs_from: openEuler:C
-  obs_to: openEuler:Epol
-  date: '2024-03-19'
-- name: cheese
-  obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2024-03-19'
 - name: gnome-keyring
@@ -7780,10 +7740,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2025-06-06'
 - name: python-python-pptx
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-06-06'
-- name: python-sqlalchemy2
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-06'

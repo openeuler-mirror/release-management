@@ -2119,14 +2119,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
-- name: openresty
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
-- name: openresty-openssl111
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Mainline
-  date: '2022-07-26'
 - name: openscap
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
@@ -5531,22 +5523,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-01-24'
-- name: powerpc-utils
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-01-25'
-- name: lsvpd
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-01-25'
-- name: opal-prd
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-01-25'
-- name: ppc64-diag
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-01-29'
 - name: perl-Color-Library
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
@@ -5643,22 +5619,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2024-03-27'
-- name: libservicelog
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-04-07'
-- name: libvpd
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-04-07'
-- name: librtas
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-04-07'
-- name: servicelog
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Mainline
-  date: '2024-04-07'
 - name: AFLplusplus
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline

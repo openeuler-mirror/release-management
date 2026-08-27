@@ -617,42 +617,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: fcitx
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: fcitx-cloudpinyin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: fcitx-configtool
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: fcitx-libpinyin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: fcitx-qt5
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: fcitx-sunpinyin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: feedbackd
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -666,12 +630,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: ffmpegthumbnailer
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: fftw2
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -798,12 +756,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: gnome-music
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: gnome-photos
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -1506,18 +1458,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: libfastcommon
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: libglademm24
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: libgnomecanvasmm26
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -3893,12 +3833,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: tidb
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: tig
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4559,12 +4493,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: glade3
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: mate-applets
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -4884,12 +4812,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: mate-sensors-applet
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: kiran-biometrics
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -5274,12 +5196,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: gnome-initial-setup
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: kiran-themes
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -5862,12 +5778,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: libzapojit
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: gnome-online-miners
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -7283,12 +7193,6 @@ packages:
   obs_from: openEuler:24.03:LTS:Next
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-19'
-- name: libgnomeui
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-19'
 - name: libbonoboui
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-Next
@@ -7380,12 +7284,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-19'
 - name: xdg-desktop-portal-gtk
-  source_dir: openEuler-24.03-LTS-Next
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:24.03:LTS:Next
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-19'
-- name: cheese
   source_dir: openEuler-24.03-LTS-Next
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:24.03:LTS:Next

@@ -51,22 +51,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: NutShell-Kernel
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: NutShell-riscv-glibc
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: NutShell-riscv-pk
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: NutShell-systemd
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: Picard
   obs_from: ''
   obs_to: openEuler:Factory
@@ -187,18 +171,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: apisix
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: apisix-dashboard
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: apisix-deps
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: apparmor
   obs_from: ''
   obs_to: openEuler:Factory
@@ -256,10 +228,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: atlas
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: atomic
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -404,10 +372,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: c-STAR
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: caffe
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -599,10 +563,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: crda
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: csmith
   obs_from: ''
   obs_to: openEuler:Factory
@@ -648,10 +608,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: debian-keyring
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: deepin-kwin
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -863,10 +819,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: fontpackages
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: foonathan_memory_vendor
   obs_from: ''
   obs_to: openEuler:Factory
@@ -904,10 +856,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: gazebo_ros_pkgs
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: gazelle-cni
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1011,10 +959,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: gnome-python2
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: gnome-shell-extension-appindicator
   obs_from: ''
   obs_to: openEuler:Factory
@@ -1071,10 +1015,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: go-compilers
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: go-ovirt-engine-sdk4
   obs_from: ''
   obs_to: openEuler:Factory
@@ -1088,58 +1028,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: goebpf
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-coreos-go-iptables
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-cpuguy83-go-md2man
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-d2g-dhcp4
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-go-tomb-tomb
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-golang-sys
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-onsi-ginkgo
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-onsi-gomega
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-russross-blackfriday
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-vishvananda-netlink
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-github-vishvananda-netns
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-googlecode-goprotobuf
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-googlecode-tools
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: golang-gopkg-yaml
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1291,10 +1179,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: infiniband-diags
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: influxdb_exporter
   obs_from: ''
   obs_to: openEuler:Factory
@@ -1316,10 +1200,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: ioping
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: iowatcher
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1443,10 +1323,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: jetty-alpn
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: joint_state_publisher
   obs_from: ''
   obs_to: openEuler:Factory
@@ -1483,27 +1359,11 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: kdevelopkdevelop-pg-qt
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: kdl_parser
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: keybinder
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: kiran-avatar-editor
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: kiran-cpanel-menu
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: kiran-screensaver-dialog
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1631,15 +1491,7 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: libibmad
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: libisofs1
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: libkefir
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1739,15 +1591,7 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: lightdm-kiran-greeter
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: lightgbm
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: lilypond
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1768,10 +1612,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: lpg
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: lshw-B.02.18
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -1903,10 +1743,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: mesa-libGLw
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: message_filters
   obs_from: ''
   obs_to: openEuler:Factory
@@ -1955,14 +1791,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: mozjs52
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: mozjs60
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: mp
   obs_from: ''
   obs_to: openEuler:Factory
@@ -1984,10 +1812,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: mumps
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: musescore
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -2163,10 +1987,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: oci-systemd-hook
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: oec-application
   obs_from: ''
   obs_to: openEuler:Factory
@@ -2223,10 +2043,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: openresty-openssl
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: opensbi
   obs_from: ''
   obs_to: openEuler:Factory
@@ -2263,10 +2079,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: openvswitch-kmod
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: origin
   obs_from: ''
   obs_to: openEuler:Factory
@@ -2280,10 +2092,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: osrf_testing_tools_cpp
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: ostree_assembly
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -4048,10 +3856,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: perl-MP3-Info
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: perl-Mail-JMAPTalk
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -6135,19 +5939,7 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: pgadmin4-server
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: pgpool2
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: phantomjs
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: phoenix
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -6156,10 +5948,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: pidgin
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: pig
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -6176,10 +5964,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: platform
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: platform_manifests
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -6231,19 +6015,7 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: pygobject2
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: pygtk2
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: pyliblzma
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: pyorbit
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -6591,10 +6363,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: python-aspy
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: python-astroML
   obs_from: ''
   obs_to: openEuler:Factory
@@ -6640,10 +6408,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: python-babelfish
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: python-backports
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -8983,10 +8747,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: python-subprocess32
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: python-subunit2sql
   obs_from: ''
   obs_to: openEuler:Factory
@@ -9135,10 +8895,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: python-uwsgidecorators
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: python-vagrantpy
   obs_from: ''
   obs_to: openEuler:Factory
@@ -9228,10 +8984,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: python-webthing-ws
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: python-which
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -9363,10 +9115,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: python2-typing
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: python3-docs
   obs_from: ''
   obs_to: openEuler:Factory
@@ -9383,19 +9131,11 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: qstardict
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: qt-gui
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: qt-settings
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: qtwebkit
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -9632,10 +9372,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: rpm-mpi-hooks
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: rpm-ostree-toolbox
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -10135,10 +9871,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: shim-unsigned-aarch64
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: si-units
   obs_from: ''
   obs_to: openEuler:Factory
@@ -10271,10 +10003,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: swagger-codegen
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: swagger-core
   obs_from: ''
   obs_to: openEuler:Factory
@@ -10391,10 +10119,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
-- name: tpm2-abrmd-selinux
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
 - name: transmission
   obs_from: ''
   obs_to: openEuler:Factory
@@ -10412,10 +10136,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: ubu-keyring
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: uget
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -10532,10 +10252,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: vmaf
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: vnpy
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -10788,10 +10504,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2022-07-26'
 - name: python-msrest
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2022-07-26'
-- name: obs_meta
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2022-07-26'
@@ -11399,10 +11111,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2023-03-07'
-- name: qt6-qtquickcontrols2
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-03-16'
 - name: bat
   obs_from: ''
   obs_to: openEuler:Factory
@@ -13223,10 +12931,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2023-08-17'
-- name: qt6-qtactiveqt
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-08-17'
 - name: python-autoflake
   obs_from: ''
   obs_to: openEuler:Factory
@@ -13720,10 +13424,6 @@ packages:
   obs_to: openEuler:Factory
   date: '2023-12-07'
 - name: filezilla
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2023-12-07'
-- name: libstorj
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2023-12-07'
@@ -15447,10 +15147,6 @@ packages:
   obs_from: ''
   obs_to: openEuler:Factory
   date: '2026-03-24'
-- name: raspberrypi-kernel-legacy
-  obs_from: ''
-  obs_to: openEuler:Factory
-  date: '2026-04-01'
 - name: Mooncake
   obs_from: ''
   obs_to: openEuler:Factory
@@ -15528,594 +15224,594 @@ packages:
   obs_to: openEuler:Factory
   date: '2026-05-20'
 - name: yuanrong-agentruntime
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-05-26"
+  date: '2026-05-26'
 - name: skyline-console
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-05-27"
+  date: '2026-05-27'
 - name: skyline-apiserver
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-05-27"
+  date: '2026-05-27'
 - name: python-sphinx-rtd-theme
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: python-loguru
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: python-databases
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: python-asyncmy
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: python-aiosqlite
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: python-aiopg
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: xflex
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-04"
+  date: '2026-06-04'
 - name: KASandbox
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-08"
+  date: '2026-06-08'
 - name: ublinkdt
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-17"
+  date: '2026-06-17'
 - name: utwget
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-22"
+  date: '2026-06-22'
 - name: witty-insight
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-25"
+  date: '2026-06-25'
 - name: ai-shell
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-25"
+  date: '2026-06-25'
 - name: trustruntime
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-27"
+  date: '2026-06-27'
 - name: AgentSecurity
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-06-30"
+  date: '2026-06-30'
 - name: mcp-cpp-sdk
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-02"
+  date: '2026-07-02'
 - name: AgentBoost
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-03"
+  date: '2026-07-03'
 - name: witty-compat
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-07"
+  date: '2026-07-07'
 - name: podflow
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-17"
+  date: '2026-07-17'
 - name: crius
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-17"
+  date: '2026-07-17'
 - name: witty-diagnosis-agent
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-18"
+  date: '2026-07-18'
 - name: oed-cli
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-20"
+  date: '2026-07-20'
 - name: nvwa-cve-fixer
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-20"
+  date: '2026-07-20'
 - name: kdsingleapplication
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-masakari-monitors
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-manila-ui
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-magnum
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-kuryr-libnetwork
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-kayobe
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-freezer
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-freezer-web-ui
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-freezer-api
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-blazar
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-blazar-nova
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-bifrost
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-ansible-role-thales-hsm
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-ansible-role-lunasa-hsm
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-ansible-role-atos-hsm
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-ansible-collection-kolla
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-aetos
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-adjutant
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-adjutant-ui
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: networking-bagpipe
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-freezerclient
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-freezer-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-designate-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-cyborg-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-cloudkitty-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-cloudkitty-dashboard
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-brick-cinderclient-ext
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-blazar-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-blazar-dashboard
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-barbican-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-adjutantclient
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-zaqar
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-watcher
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-vswitch
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-vitrage
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-trove
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-tempest
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-swift
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-placement
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-ovn
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-oslo
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-openstacklib
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-openstack_extras
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-octavia
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-nova
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-neutron
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-mistral
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-manila
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-magnum
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-keystone
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-ironic
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-horizon
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-heat
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-gnocchi
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-glance
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-designate
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-cloudkitty
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-cinder
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-ceilometer
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-barbican
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: puppet-aodh
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-zun
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-zun-ui
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-zaqar-ui
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-watcher
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-tap-as-a-service
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-tacker
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-tacker-horizon
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-storlets
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-skyline-console
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-skyline-apiserver
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-release-test
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-ovn-bgp-agent
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-openstack-ansible
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: openstack-neutron-fwaas
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-octavia-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-observabilityclient
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-neutron-fwaas-dashboard
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-mistral-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-mistral-extra
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-masakari-dashboard
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-manila-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-magnum-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-kuryr
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-heat-translator
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-heat-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-zun-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-zaqar-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-watcher-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-watcher-dashboard
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-venusclient
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-tosca-parser
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-telemetry-tempest-plugin
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: python-tackerclient
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-22"
+  date: '2026-07-22'
 - name: heap-analyser
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-23"
+  date: '2026-07-23'
 - name: sprinkler
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-23"
+  date: '2026-07-23'
 - name: networking-bgpvpn
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-28"
+  date: '2026-07-28'
 - name: python-neutron-vpnaas-dashboard
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-07-28"
+  date: '2026-07-28'
 - name: google-noto-serif-cjk-vf-fonts
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-04"
+  date: '2026-08-04'
 - name: google-noto-serif-cjk-fonts
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-04"
+  date: '2026-08-04'
 - name: google-noto-sans-cjk-vf-fonts
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-04"
+  date: '2026-08-04'
 - name: google-noto-sans-cjk-fonts
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-04"
+  date: '2026-08-04'
 - name: qt6-qtcanvaspainter
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-04"
+  date: '2026-08-04'
 - name: spdiag
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-07"
+  date: '2026-08-07'
 - name: komin-terminal
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-07"
+  date: '2026-08-07'
 - name: itrustee_client
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-12"
+  date: '2026-08-12'
 - name: vtzdriver
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-12"
+  date: '2026-08-12'
 - name: vtz_proxy
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-12"
+  date: '2026-08-12'
 - name: itrustee_tzdriver
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-12"
+  date: '2026-08-12'
 - name: xGovernor
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-12"
+  date: '2026-08-12'
 - name: witty-agents
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-14"
+  date: '2026-08-14'
 - name: python-resolvelib
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: python-reactivex
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: python-influxdb-client
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: python-flexparser
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: python-flexcache
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: os-resource-classes
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: ansible-core
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-17"
+  date: '2026-08-17'
 - name: sccs
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-19"
+  date: '2026-08-19'
 - name: kernel-lvc
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-20"
+  date: '2026-08-20'
 - name: LMCache-Ascend
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-24"
+  date: '2026-08-24'
 - name: witty-token-compressor
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-26"
+  date: '2026-08-26'
 - name: witty-sandboxer
-  obs_from: ""
+  obs_from: ''
   obs_to: openEuler:Factory
-  date: "2026-08-26"
+  date: '2026-08-26'

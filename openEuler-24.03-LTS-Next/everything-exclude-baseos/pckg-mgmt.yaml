@@ -629,12 +629,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: glib
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: glpk
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -689,19 +683,7 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: gtk
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: gtk-murrine-engine
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: gtkmm24
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:C
@@ -1085,19 +1067,7 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: libgdl
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: libgeotiff
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: libgnome-keyring
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:C
@@ -1422,12 +1392,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: libyami
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: libyubikey
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:C
@@ -2621,12 +2585,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: xmms
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: xorg-x11-apps
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -2688,12 +2646,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: yasm
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: ykpers
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:C
@@ -3642,12 +3594,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: decentxml
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Java
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: derby
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Java
@@ -10997,12 +10943,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: pesign-obs-integration
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: phodav
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -14093,30 +14033,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: powerpc-utils
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: lsvpd
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: opal-prd
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: ppc64-diag
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: perl-Color-Library
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -14243,12 +14159,6 @@ packages:
   obs_from: openEuler:Meson
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: devhelp
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Meson
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: egl-wayland
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -14268,12 +14178,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: gnome-calculator
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Meson
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: gnome-video-effects
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Meson
@@ -19403,12 +19307,6 @@ packages:
   obs_from: openEuler:Python
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: python-json-logger
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Python
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: python-trio-websocket
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -21654,30 +21552,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: rubygem-rspec-support
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Ruby
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: rubygem-rspec2
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Ruby
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: rubygem-rspec2-core
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Ruby
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: rubygem-rspec2-expectations
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Ruby
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: rubygem-rspec2-mocks
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Ruby
