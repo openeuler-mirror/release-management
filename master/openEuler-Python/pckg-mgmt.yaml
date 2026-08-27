@@ -2219,10 +2219,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2023-11-08'
-- name: python-sphinxcontrib-github-alt
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Python
-  date: '2023-11-08'
 - name: python-rope
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
