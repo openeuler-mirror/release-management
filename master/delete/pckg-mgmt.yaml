@@ -1258,3 +1258,5 @@ packages:
   - name: ykpers
   - name: bind-dyndb-ldap
   - name: tidb
+  - name: python-sphinxcontrib-github-alt
+  - name: perl-PkgConfig-LibPkgConf
