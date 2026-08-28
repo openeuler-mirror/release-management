@@ -7559,3 +7559,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-08-29'
+- name: AgentSecurity
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-01'
