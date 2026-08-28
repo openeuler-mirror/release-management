@@ -785,3 +785,8 @@ release-change:
     gtkmm24 gnome-video-effects gtk rubygem-rspec2-mocks libyubikey lsvpd ppc64-diag
     glib derby powerpc-utils opal-prd
   date: 2026-08-27-10-33-44
+- pr: https://gitcode.com/openeuler/release-management/pull/2770
+  description: df5baae !2770 add fcitx5 into 2403 next
+  changed_packages: fcitx5 fcitx5-chinese-addons fcitx5-configtool fcitx5-gtk fcitx5-lua
+    fcitx5-qt libime xcb-imdkit
+  date: 2026-08-28-18-25-00
