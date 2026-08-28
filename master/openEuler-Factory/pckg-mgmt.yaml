@@ -15827,3 +15827,35 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-28"
+- name: libtriton_jit
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagTree
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagTensor
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagSparse
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagScale
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagQuantum
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagGems
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
+- name: FlagFFT
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-08-28"
