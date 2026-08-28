@@ -45,3 +45,7 @@ release-change:
   description: 70e92d6 !2759 add AcTrail to openEuler-26.09-DevStation
   changed_packages: AcTrail
   date: 2026-08-21-10-09-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2764
+  description: 3a7ceab !2764 add witty-service to master and openEuler-26.09-DevStation
+  changed_packages: witty-service
+  date: 2026-08-28-11-24-19

@@ -3088,3 +3088,7 @@ release-change:
   description: 82d29fb !2769 remove perl-PkgConfig-LibPkgConf and python-sphinxcontrib-github-alt
   changed_packages: perl-PkgConfig-LibPkgConf python-sphinxcontrib-github-alt
   date: 2026-08-27-15-25-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2764
+  description: 3a7ceab !2764 add witty-service to master and openEuler-26.09-DevStation
+  changed_packages: witty-service
+  date: 2026-08-28-11-24-19
