@@ -8895,3 +8895,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:Epol
   date: '2026-08-25'
+- name: witty-service
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-08-25'
