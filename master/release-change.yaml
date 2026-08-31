@@ -3092,3 +3092,7 @@ release-change:
   description: 3a7ceab !2764 add witty-service to master and openEuler-26.09-DevStation
   changed_packages: witty-service
   date: 2026-08-28-11-24-19
+- pr: https://gitcode.com/openeuler/release-management/pull/2767
+  description: cdf8b49 !2767 remove kubekey from future releases
+  changed_packages: kubekey
+  date: 2026-08-31-09-40-32

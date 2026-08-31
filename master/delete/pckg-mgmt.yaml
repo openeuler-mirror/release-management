@@ -1260,3 +1260,4 @@ packages:
   - name: tidb
   - name: python-sphinxcontrib-github-alt
   - name: perl-PkgConfig-LibPkgConf
+  - name: kubekey
