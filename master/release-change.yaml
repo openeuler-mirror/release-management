@@ -3096,3 +3096,7 @@ release-change:
   description: cdf8b49 !2767 remove kubekey from future releases
   changed_packages: kubekey
   date: 2026-08-31-09-40-32
+- pr: https://gitcode.com/openeuler/release-management/pull/2773
+  description: 5ddaf4b !2773 Remove rubygem-pry-nav
+  changed_packages: rubygem-pry-nav
+  date: 2026-08-31-11-16-15

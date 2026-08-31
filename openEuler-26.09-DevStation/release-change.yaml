@@ -49,3 +49,7 @@ release-change:
   description: 3a7ceab !2764 add witty-service to master and openEuler-26.09-DevStation
   changed_packages: witty-service
   date: 2026-08-28-11-24-19
+- pr: https://gitcode.com/openeuler/release-management/pull/2773
+  description: 5ddaf4b !2773 Remove rubygem-pry-nav
+  changed_packages: rubygem-pry-nav
+  date: 2026-08-31-11-16-15

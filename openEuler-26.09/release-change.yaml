@@ -15,3 +15,7 @@ release-change:
   description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
   changed_packages: qt5platform-plugins
   date: 2026-08-10-14-55-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2773
+  description: 5ddaf4b !2773 Remove rubygem-pry-nav
+  changed_packages: rubygem-pry-nav
+  date: 2026-08-31-11-16-15
