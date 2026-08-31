@@ -435,10 +435,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Ruby
   date: '2022-07-26'
-- name: rubygem-pry-nav
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Ruby
-  date: '2022-07-26'
 - name: rubygem-public_suffix
   obs_from: openEuler:Mainline
   obs_to: openEuler:Ruby
