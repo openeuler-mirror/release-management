@@ -1261,3 +1261,4 @@ packages:
   - name: python-sphinxcontrib-github-alt
   - name: perl-PkgConfig-LibPkgConf
   - name: kubekey
+  - name: rubygem-pry-nav

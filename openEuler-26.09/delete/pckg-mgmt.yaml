@@ -1,3 +1,4 @@
 packages:
   - name: qt5-doc
   - name: clutter-gst3
+  - name: rubygem-pry-nav

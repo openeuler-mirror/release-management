@@ -8,3 +8,4 @@ packages:
   - name: dpu-utilities
   - name: tidb
   - name: dtkdeclarative
+  - name: rubygem-pry-nav
