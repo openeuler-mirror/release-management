@@ -7555,3 +7555,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-08-25'
+- name: agent-insight
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-08-29'
