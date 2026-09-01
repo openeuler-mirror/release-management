@@ -142,3 +142,4 @@ packages:
 - name: ykpers
 - name: bind-dyndb-ldap
 - name: tidb
+- name: kubekey

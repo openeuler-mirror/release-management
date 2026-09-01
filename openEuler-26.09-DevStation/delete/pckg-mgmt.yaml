@@ -9,3 +9,4 @@ packages:
   - name: tidb
   - name: dtkdeclarative
   - name: rubygem-pry-nav
+  - name: kubekey
