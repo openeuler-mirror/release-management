@@ -27,7 +27,6 @@ packages:
 - name: afterburn
 - name: bootupd
 - name: console-login-helper-messages
-- name: ignition
 - name: nestos-installer
 - name: atk
 - name: at-spi2-atk
