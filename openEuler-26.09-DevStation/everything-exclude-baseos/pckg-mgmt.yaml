@@ -7759,10 +7759,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: sysTrace
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: libfcache
   source_dir: master
   destination_dir: openEuler-26.09-DevStation

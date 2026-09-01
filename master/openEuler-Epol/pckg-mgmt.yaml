@@ -8903,3 +8903,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-09-01'
+- name: sysTrace
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:Epol
+  date: '2026-09-01'
