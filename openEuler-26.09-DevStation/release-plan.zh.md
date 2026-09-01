@@ -50,7 +50,7 @@ openEuler 26.09-DevStation 是面向 DevStation 场景的创新版本（参见[�
 | [2567](https://atomgit.com/openeuler/release-management/issues/2567) | 【openEuler 26.09创新】【开发者生态及工具】【EPKG】完成EPKG默认集成到openEuler DevStation版本 | Developing | sig-epkg | [@w520203](https://gitcode.com/w520203)     | 独立发布 | epkg |
 | [2568](https://atomgit.com/openeuler/release-management/issues/2568) | 【openEuler 26.09创新】oeaware：提供场景化智能调优skills | Developing | sig-Intelligence | [@cloudyyy1234](https://gitcode.com/cloudyyy1234)     | EPOL | witty-opentunex |
 | [2569](https://atomgit.com/openeuler/release-management/issues/2569) | 【openEuler 26.09创新】【AI】【模型加速】ModelFS用户态模型加载优化方案 | Developing | sig-kernel | [@yubo-liu](https://gitcode.com/yubo-liu)     | ISO | kernel |
-| [2570](https://atomgit.com/openeuler/release-management/issues/2570) | 【openEuler 26.09创新】【AI Infra】【推理加速】多级KV缓存+SSD直访，结合UB加速跨节点KV传输，长序列降低TTFT | Developing | sig-kernel,sig-Long | [@qiao-yifan4](https://gitcode.com/qiao-yifan4,[@chloroethylene](https://gitcode.com/chloroethylene)     | ISO | kernel, LMCache,LMCache-Ascend |
+| [2570](https://atomgit.com/openeuler/release-management/issues/2570) | 【openEuler 26.09创新】【AI Infra】【推理加速】多级KV缓存+SSD直访，结合UB加速跨节点KV传输，长序列降低TTFT | Developing | sig-kernel,sig-Long | [@qiao-yifan4](https://gitcode.com/qiao-yifan4),[@chloroethylene](https://gitcode.com/chloroethylene)     | ISO | kernel, LMCache,LMCache-Ascend |
 
 
 
