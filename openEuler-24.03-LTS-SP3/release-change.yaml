@@ -149,3 +149,8 @@ release-change:
   description: 0d0a187 !2749 add KASandbox to openEuler-24.03-LTS-SP3
   changed_packages: KASandbox
   date: 2026-08-11-11-48-51
+- pr: https://gitcode.com/openeuler/release-management/pull/2765
+  description: 645840b !2765 add AgentSecurity mainline for openEuler-24.04-LTS-{SP3,Next},
+    openEuler-26.09-Dev
+  changed_packages: AgentSecurity
+  date: 2026-09-01-15-52-40

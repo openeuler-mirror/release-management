@@ -790,3 +790,8 @@ release-change:
   changed_packages: fcitx5 fcitx5-chinese-addons fcitx5-configtool fcitx5-gtk fcitx5-lua
     fcitx5-qt libime xcb-imdkit
   date: 2026-08-28-18-25-00
+- pr: https://gitcode.com/openeuler/release-management/pull/2765
+  description: 645840b !2765 add AgentSecurity mainline for openEuler-24.04-LTS-{SP3,Next},
+    openEuler-26.09-Dev
+  changed_packages: AgentSecurity
+  date: 2026-09-01-15-52-40

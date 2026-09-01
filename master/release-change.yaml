@@ -3104,3 +3104,8 @@ release-change:
   description: 773613a !2771 add agent-insight to master and openEuler-26.09-DevStation
   changed_packages: agent-insight
   date: 2026-09-01-11-38-23
+- pr: https://gitcode.com/openeuler/release-management/pull/2765
+  description: 645840b !2765 add AgentSecurity mainline for openEuler-24.04-LTS-{SP3,Next},
+    openEuler-26.09-Dev
+  changed_packages: AgentSecurity
+  date: 2026-09-01-15-52-40
