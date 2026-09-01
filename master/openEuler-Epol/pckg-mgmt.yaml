@@ -8899,3 +8899,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-08-29'
+- name: AgentSecurity
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-01'
