@@ -15871,3 +15871,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-08-31"
+- name: python-voice-frontend
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-09-01"
