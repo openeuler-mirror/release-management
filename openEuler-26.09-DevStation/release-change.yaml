@@ -53,3 +53,7 @@ release-change:
   description: 5ddaf4b !2773 Remove rubygem-pry-nav
   changed_packages: rubygem-pry-nav
   date: 2026-08-31-11-16-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2771
+  description: 773613a !2771 add agent-insight to master and openEuler-26.09-DevStation
+  changed_packages: agent-insight
+  date: 2026-09-01-11-38-23
