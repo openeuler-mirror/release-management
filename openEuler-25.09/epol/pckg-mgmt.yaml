@@ -6443,6 +6443,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-25.09
   date: '2025-07-23'
+- name: sysTrace
+  source_dir: master
+  destination_dir: openEuler-25.09
+  date: '2026-09-01'
 - name: tango_icon_theme
   source_dir: master
   destination_dir: openEuler-25.09
