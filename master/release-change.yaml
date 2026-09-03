@@ -3113,3 +3113,8 @@ release-change:
   description: 05ab9b0 !2762 move sysTrace into epol for all releases
   changed_packages: sysTrace
   date: 2026-09-01-17-34-43
+- pr: https://gitcode.com/openeuler/release-management/pull/2777
+  description: ab72c26 !2777 Move ghc related packages from Factory to Epol and openEuler-26.09-DevStation
+  changed_packages: ghc-timeit ghc-microlens ghc-pretty-simple ghc-generics-sop ghc-hashtables
+    ghc-terminal-size ghc-pager ghc-clock ghc-cmdargs ghc-parser-combinators ghc-Decimal
+  date: 2026-09-03-19-04-54
