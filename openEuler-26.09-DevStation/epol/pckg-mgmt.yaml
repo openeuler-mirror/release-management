@@ -7567,3 +7567,47 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-09-01'
+- name: ghc-timeit
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-microlens
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-pretty-simple
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-generics-sop
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-hashtables
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-terminal-size
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-pager
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-clock
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-cmdargs
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-parser-combinators
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'
+- name: ghc-Decimal
+  source_dir: master
+  destination_dir: openEuler-26.09-DevStation
+  date: '2026-09-03'

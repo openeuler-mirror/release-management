@@ -8907,3 +8907,47 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Epol
   date: '2026-09-01'
+- name: ghc-timeit
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-microlens
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-pretty-simple
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-generics-sop
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-hashtables
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-terminal-size
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-pager
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-clock
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-cmdargs
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-parser-combinators
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
+- name: ghc-Decimal
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-03'
