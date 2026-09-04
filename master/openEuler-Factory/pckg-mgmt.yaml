@@ -15823,3 +15823,11 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-09-01"
+- name: perl-Type-Tiny
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-09-04"
+- name: python-vcs-versioning
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-09-04"
