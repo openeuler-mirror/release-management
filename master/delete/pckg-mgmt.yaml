@@ -1262,3 +1262,4 @@ packages:
   - name: perl-PkgConfig-LibPkgConf
   - name: kubekey
   - name: rubygem-pry-nav
+  - name: python-pyusb

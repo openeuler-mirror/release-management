@@ -10,3 +10,4 @@ packages:
   - name: dtkdeclarative
   - name: rubygem-pry-nav
   - name: kubekey
+  - name: python-pyusb
