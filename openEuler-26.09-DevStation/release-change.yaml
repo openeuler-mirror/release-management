@@ -67,3 +67,7 @@ release-change:
   changed_packages: ghc-timeit ghc-microlens ghc-pretty-simple ghc-generics-sop ghc-hashtables
     ghc-terminal-size ghc-pager ghc-clock ghc-cmdargs ghc-parser-combinators ghc-Decimal
   date: 2026-09-03-19-04-54
+- pr: https://gitcode.com/openeuler/release-management/pull/2779
+  description: 427b6ac !2779 recycle duplicated python-pyusb from future distribs
+  changed_packages: python-pyusb
+  date: 2026-09-07-09-14-53
