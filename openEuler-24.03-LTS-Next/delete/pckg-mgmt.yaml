@@ -143,3 +143,4 @@ packages:
 - name: bind-dyndb-ldap
 - name: tidb
 - name: kubekey
+- name: python-pyusb
