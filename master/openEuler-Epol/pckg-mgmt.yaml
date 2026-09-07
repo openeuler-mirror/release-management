@@ -8947,3 +8947,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-09-03'
+- name: trustruntime
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-09-07'

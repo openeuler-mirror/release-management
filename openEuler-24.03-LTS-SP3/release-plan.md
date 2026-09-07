@@ -88,6 +88,7 @@ openEuler 24.03 LTS SP3 是基于6.6内核的LTS版本（参见[版本生命周�
 | [IDD4ZW](https://gitee.com/openeuler/release-management/issues/IDD4ZW?from=project-issue) | OpenJDK21：Backport 支持 OpenJDK master 中新增的部分RVA23扩展以及关键优化 | Accepted | Compiler SIG | [@jonsfy](https://gitee.com/jonsfy) | OS | openjdk-21 |
 | [2310](https://gitcode.com/openeuler/release-management/issues/2310) | Global Trust Authority: 支持ITrustee远程证明 | Accepted | sig-security-facility | [@yang8621](https://gitee.com/yang8621) | EPOL | global-trust-authority |
 | [2312](https://gitcode.com/openeuler/release-management/issues/2312) | gcc-toolset-12 编译工具链兼容性能力增强 | Accepted | Compiler SIG | [@huang-xiaoquan](https://gitee.com/huang-xiaoquan) | EPOL | gcc-12 |
+| [2590](https://atomgit.com/openeuler/release-management/issues/2590) | TrustRuntime:灵衢内存池化信任环安全组件 | Accepted | sig-security-facility | [@sakura-01](https://gitcode.com/sakura-01) | EPOL | trustruntime |
 
 # 需求/特性反馈基本流程 <br />
 1、开发者/sig在本贴的表格中填写要合入该版本的需求/特性，并同时填写需求issue及链接 （请在收集截止时间前提交）      <br>
