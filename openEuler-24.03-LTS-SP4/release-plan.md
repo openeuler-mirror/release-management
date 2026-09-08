@@ -73,6 +73,7 @@ LTS SPX版本代码继承master分支&#x20;
 | [2490](https://atomgit.com/openeuler/release-management/issues/2490) | 优化鲲鹏950虚拟化转换率 | Developing | Virt-sig  | [@cfalfie](https://atomgit.com/cfalfie) | ISO | spdk |
 | [2491](https://atomgit.com/openeuler/release-management/issues/2491) | AI软件包适配（新增30+），覆盖推理场景，兼容DeepSeek，使能沐曦 | Developing | sig-intelligence  | [@jimmy_hero](https://atomgit.com/jimmy_hero),  [@fromhsc](https://atomgit.com/fromhsc) | NA | NA |
 | [20](https://gitcode.com/openeuler/MLCacheDirect/issues/20) | RH2D多级缓存直通加速 | Developing | sig long  | [@PhoenixVang](https://atomgit.com/PhoenixVang) | EPOL | MLCacheDirect |
+| [2590](https://atomgit.com/openeuler/release-management/issues/2590) | TrustRuntime:灵衢内存池化信任环安全组件 | Accepted | sig-security-facility | [@sakura-01](https://gitcode.com/sakura-01) | EPOL | trustruntime |
 
 # 需求/特性反馈基本流程&#x20;
 
