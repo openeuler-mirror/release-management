@@ -154,3 +154,7 @@ release-change:
     openEuler-26.09-Dev
   changed_packages: AgentSecurity
   date: 2026-09-01-15-52-40
+- pr: https://gitcode.com/openeuler/release-management/pull/2778
+  description: f2fc233 !2778 add ubs-virt to openEuler-24.03-LTS-SP3
+  changed_packages: ubs-virt
+  date: 2026-09-08-11-17-15
