@@ -3122,3 +3122,8 @@ release-change:
   description: 427b6ac !2779 recycle duplicated python-pyusb from future distribs
   changed_packages: python-pyusb
   date: 2026-09-07-09-14-53
+- pr: https://gitcode.com/openeuler/release-management/pull/2781
+  description: 18ef17b !2781 Add trustruntime to Epol for openEuler-24.03-LTS-SP3/SP4,
+    LTS-Next, 25.09, 26.09, 26.09-DevStation
+  changed_packages: trustruntime
+  date: 2026-09-08-16-54-07

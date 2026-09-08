@@ -158,3 +158,8 @@ release-change:
   description: f2fc233 !2778 add ubs-virt to openEuler-24.03-LTS-SP3
   changed_packages: ubs-virt
   date: 2026-09-08-11-17-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2781
+  description: 18ef17b !2781 Add trustruntime to Epol for openEuler-24.03-LTS-SP3/SP4,
+    LTS-Next, 25.09, 26.09, 26.09-DevStation
+  changed_packages: trustruntime
+  date: 2026-09-08-16-54-07
