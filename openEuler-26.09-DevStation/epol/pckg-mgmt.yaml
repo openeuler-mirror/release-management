@@ -3,10 +3,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: accumulo
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: activemq
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -83,10 +79,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: canal
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: cgit
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -104,14 +96,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: cobbler
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: cockpit-ovirt
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: collectd
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -411,10 +395,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: flume
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: freeimage
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -568,10 +548,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: isa-l
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: java-client-kubevirt
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -1087,10 +1063,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: neo4j
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: netdata
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -1107,27 +1079,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: nispor
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: nmstate
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: novnc
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: octave
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: onboard
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: oozie
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -1151,14 +1107,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: openstack-java-sdk
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: orage
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: otopi
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -1175,23 +1123,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: ovirt-cockpit-sso
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: ovirt-dependencies
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-engine
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-engine-dwh
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-engine-extension-aaa-jdbc
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -1207,10 +1139,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: ovirt-engine-ui-extensions
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: ovirt-engine-wildfly
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -1219,27 +1147,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: ovirt-host
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-hosted-engine-ha
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-hosted-engine-setup
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: ovirt-imageio
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-jboss-modules-maven-plugin
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ovirt-provider-ovn
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -1263,10 +1171,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: parquet-format
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: partclone
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -1276,10 +1180,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: peony-extensions
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: percona-xtrabackup
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -2407,19 +2307,11 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: snmp4j
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: sofia-sip
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: startdde
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: sundials
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -2611,14 +2503,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: vdsm
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: vdsm-jsonrpc-java
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: vhostmd
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -2712,10 +2596,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: gnome-shell-extensions
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: python-async-generator
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -3123,10 +3003,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: nestos-installer
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: setroubleshoot-plugins
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -3495,10 +3371,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: qla2xxx
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: libkysdk-applications
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -3608,10 +3480,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: kconfigDetector
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: openGemini
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -4476,10 +4344,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: commonlibrary_c_utils
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: communication_ipc
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -7436,10 +7300,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: libyuv
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: TSB-agent
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'

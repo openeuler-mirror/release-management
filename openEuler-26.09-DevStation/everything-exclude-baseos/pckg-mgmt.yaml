@@ -1215,10 +1215,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: oneDNN
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: oniguruma
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -1931,10 +1927,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: virtCCA_driver
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: libtracefs
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -2436,10 +2428,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: fusesource-pom
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: geolatte-geom
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -3815,19 +3803,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: hadoop
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: hadoop-3.1
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: haproxy
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: hive
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -6271,10 +6247,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: tensorflow
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: python-tensorboard
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -7355,10 +7327,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: hbase
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: secDetector
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -7571,27 +7539,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: level-zero
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: intel-graphics-compiler
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: intel-compute-runtime
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: intel-metee
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: intel-gmmlib
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: intel-cm-compiler
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -7808,10 +7756,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: rubygem-test-unit-ruby-core
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: ub-pkg-manager
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -9007,10 +8951,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: python-keras-rl2
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: python-keyring
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -10160,10 +10100,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: python-sphinxemoji
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: python-mdformat-tables
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
