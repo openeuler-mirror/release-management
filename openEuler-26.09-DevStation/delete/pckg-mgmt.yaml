@@ -64,3 +64,4 @@ packages:
   - name: python-mdformat-tables
   - name: ub-pkg-manager
   - name: TSB-agent
+  - name: python-mitmproxy

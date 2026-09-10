@@ -1263,3 +1263,4 @@ packages:
   - name: kubekey
   - name: rubygem-pry-nav
   - name: python-pyusb
+  - name: python-mitmproxy
