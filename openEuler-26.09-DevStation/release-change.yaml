@@ -71,3 +71,7 @@ release-change:
   description: 427b6ac !2779 recycle duplicated python-pyusb from future distribs
   changed_packages: python-pyusb
   date: 2026-09-07-09-14-53
+- pr: https://gitcode.com/openeuler/release-management/pull/2788
+  description: 718157b !2788 Remove python-mitmproxy from master/openEuler-26.09-DevStation
+  changed_packages: python-mitmproxy
+  date: 2026-09-10-09-55-21
