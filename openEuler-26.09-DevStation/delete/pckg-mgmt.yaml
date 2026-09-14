@@ -65,3 +65,21 @@ packages:
   - name: ub-pkg-manager
   - name: TSB-agent
   - name: python-mitmproxy
+  - name: communication-dsoftbus
+  - name: distributeddatamgr-data-object
+  - name: distributeddatamgr-datamgr-service
+  - name: distributeddatamgr-kv-store
+  - name: distributeddatamgr-relational-store
+  - name: distributedhardware-device-manager
+  - name: security-dataclassification
+  - name: security-device-auth
+  - name: security-device-security-level
+  - name: security-huks
+  - name: systemabilitymgr-safwk
+  - name: systemabilitymgr-samgr
+  - name: python-fastapi
+  - name: python-fastapi-pagination
+  - name: sysHAX
+  - name: AgentSecurity
+  - name: agent-insight
+
