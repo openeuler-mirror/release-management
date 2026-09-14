@@ -75,3 +75,7 @@ release-change:
   description: 718157b !2788 Remove python-mitmproxy from master/openEuler-26.09-DevStation
   changed_packages: python-mitmproxy
   date: 2026-09-10-09-55-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2789
+  description: 6c4f4a5 !2789 remove communication-dsoftbus等 from openEuler-26.09-DevStation
+  changed_packages: AgentSecurity agent-insight python-fastapi-pagination sysHAX python-fastapi
+  date: 2026-09-14-18-15-26

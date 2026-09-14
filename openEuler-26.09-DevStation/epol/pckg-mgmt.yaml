@@ -6251,10 +6251,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: python-fastapi
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: python-python-jsonpath
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -6276,10 +6272,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: python-langchain-core
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: python-fastapi-pagination
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -6376,10 +6368,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: json
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: sysHAX
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -7411,14 +7399,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-08-25'
-- name: agent-insight
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-08-29'
-- name: AgentSecurity
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-09-01'
 - name: ghc-timeit
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
