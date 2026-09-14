@@ -15835,3 +15835,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-09-11"
+- name: syskits
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-09-14"
