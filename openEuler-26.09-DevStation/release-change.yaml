@@ -79,3 +79,7 @@ release-change:
   description: 6c4f4a5 !2789 remove communication-dsoftbus等 from openEuler-26.09-DevStation
   changed_packages: AgentSecurity agent-insight python-fastapi-pagination sysHAX python-fastapi
   date: 2026-09-14-18-15-26
+- pr: https://gitcode.com/openeuler/release-management/pull/2785
+  description: ef4d3e1 !2785 add LMCache-Ascend to master and openEuler-26.09-DevStation
+  changed_packages: LMCache-Ascend
+  date: 2026-09-14-20-44-21

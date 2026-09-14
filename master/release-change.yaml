@@ -3131,3 +3131,7 @@ release-change:
   description: 718157b !2788 Remove python-mitmproxy from master/openEuler-26.09-DevStation
   changed_packages: python-mitmproxy
   date: 2026-09-10-09-55-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2785
+  description: ef4d3e1 !2785 add LMCache-Ascend to master and openEuler-26.09-DevStation
+  changed_packages: LMCache-Ascend
+  date: 2026-09-14-20-44-21
