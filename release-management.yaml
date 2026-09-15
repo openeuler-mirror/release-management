@@ -287,10 +287,10 @@ release:
   - x33x33
   - Jeff_GUO
 
-- branch: openEuler-26.09-DevStation
+- branch: openEuler-26.09
   community:
   - src-openeuler
-  frozen: false
+  frozen: true
   owner_atomgit:
   - solarhu
   - yaqiangchen
@@ -303,5 +303,24 @@ release:
   - SmallPegasus
   - disnight
   - Jingwiw
-  - x33x33
   - Jeff_GUO
+  - zhu-yuncheng
+
+- branch: openEuler-26.09-DevStation
+  community:
+  - src-openeuler
+  frozen: true
+  owner_atomgit:
+  - solarhu
+  - yaqiangchen
+  - paul-huang
+  - gitee-cmd
+  - zengwefeng
+  - Smars
+  - hekeyi
+  - yeqinglong01
+  - SmallPegasus
+  - disnight
+  - Jingwiw
+  - Jeff_GUO
+  - zhu-yuncheng
