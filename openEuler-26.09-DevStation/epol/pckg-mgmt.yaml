@@ -3423,10 +3423,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: dsoftbus
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: X-diagnosis
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -4199,22 +4195,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: distributeddatamgr_kv_store
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: distributeddatamgr_datamgr_service
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: distributeddatamgr_relational_store
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: distributeddatamgr_data_object
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: PilotGo
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -4311,27 +4291,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: distributedhardware_device_manager
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: secscanner
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: security_dataclassification
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: security_device_security_level
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: security_device_auth
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: security_huks
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
@@ -4340,14 +4300,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: commonlibrary_c_utils
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: systemabilitymgr_samgr
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: systemabilitymgr_safwk
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'

@@ -83,3 +83,10 @@ release-change:
   description: ef4d3e1 !2785 add LMCache-Ascend to master and openEuler-26.09-DevStation
   changed_packages: LMCache-Ascend
   date: 2026-09-14-20-44-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2791
+  description: 9373380 !2791 remove dsoftbus等 from openEuler-26.09-DevStation
+  changed_packages: distributeddatamgr_relational_store distributeddatamgr_data_object
+    dsoftbus security_device_security_level distributeddatamgr_datamgr_service systemabilitymgr_safwk
+    distributedhardware_device_manager security_device_auth systemabilitymgr_samgr
+    distributeddatamgr_kv_store security_dataclassification security_huks
+  date: 2026-09-16-16-56-15
