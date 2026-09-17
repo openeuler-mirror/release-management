@@ -1264,3 +1264,5 @@ packages:
   - name: rubygem-pry-nav
   - name: python-pyusb
   - name: python-mitmproxy
+  - name: poissonsearch-oss
+  - name: poissonsearch-py
