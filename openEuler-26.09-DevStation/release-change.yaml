@@ -90,3 +90,7 @@ release-change:
     distributedhardware_device_manager security_device_auth systemabilitymgr_samgr
     distributeddatamgr_kv_store security_dataclassification security_huks
   date: 2026-09-16-16-56-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2792
+  description: 8c99063 !2792 remove rabbitmq-java-client from openEuler-26.09-DevStation
+  changed_packages: rabbitmq-java-client
+  date: 2026-09-17-15-10-39
