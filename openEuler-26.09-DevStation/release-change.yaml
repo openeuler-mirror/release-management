@@ -98,3 +98,7 @@ release-change:
   description: fafe622 !2794 Restore agent-insight to openEuler-26.09-DevStation
   changed_packages: agent-insight
   date: 2026-09-20-09-47-49
+- pr: https://gitcode.com/openeuler/release-management/pull/2795
+  description: 4bc01a7 !2795 remove mcp-servers from openEuler-26.09-DevStation
+  changed_packages: mcp-servers
+  date: 2026-09-20-10-28-06
