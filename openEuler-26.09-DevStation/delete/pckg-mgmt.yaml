@@ -83,4 +83,6 @@ packages:
   - name: AgentSecurity
   - name: rabbitmq-java-client
   - name: mcp-servers
+  - name: poissonsearch-oss
+  - name: poissonsearch-py
 
