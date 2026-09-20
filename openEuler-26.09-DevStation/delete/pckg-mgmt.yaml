@@ -82,4 +82,5 @@ packages:
   - name: sysHAX
   - name: AgentSecurity
   - name: rabbitmq-java-client
+  - name: mcp-servers
 
