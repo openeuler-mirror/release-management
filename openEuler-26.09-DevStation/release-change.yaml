@@ -94,3 +94,7 @@ release-change:
   description: 8c99063 !2792 remove rabbitmq-java-client from openEuler-26.09-DevStation
   changed_packages: rabbitmq-java-client
   date: 2026-09-17-15-10-39
+- pr: https://gitcode.com/openeuler/release-management/pull/2794
+  description: fafe622 !2794 Restore agent-insight to openEuler-26.09-DevStation
+  changed_packages: agent-insight
+  date: 2026-09-20-09-47-49
