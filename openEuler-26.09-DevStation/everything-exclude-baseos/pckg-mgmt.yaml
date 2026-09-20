@@ -3271,10 +3271,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: poissonsearch-oss
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: jurand
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
@@ -10748,10 +10744,6 @@ packages:
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
 - name: python-sphinxcontrib-jquery
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: poissonsearch-py
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'

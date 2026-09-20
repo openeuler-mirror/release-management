@@ -3135,3 +3135,7 @@ release-change:
   description: ef4d3e1 !2785 add LMCache-Ascend to master and openEuler-26.09-DevStation
   changed_packages: LMCache-Ascend
   date: 2026-09-14-20-44-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2793
+  description: 440cade !2793 remove poissonsearch-oss and poissonsearch-py from openEuler-26.09-DevStation
+  changed_packages: poissonsearch-oss poissonsearch-py
+  date: 2026-09-20-16-53-55

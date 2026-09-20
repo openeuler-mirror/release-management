@@ -102,3 +102,7 @@ release-change:
   description: 4bc01a7 !2795 remove mcp-servers from openEuler-26.09-DevStation
   changed_packages: mcp-servers
   date: 2026-09-20-10-28-06
+- pr: https://gitcode.com/openeuler/release-management/pull/2793
+  description: 440cade !2793 remove poissonsearch-oss and poissonsearch-py from openEuler-26.09-DevStation
+  changed_packages: poissonsearch-py poissonsearch-oss
+  date: 2026-09-20-16-53-55
