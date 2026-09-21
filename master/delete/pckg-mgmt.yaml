@@ -1266,3 +1266,4 @@ packages:
   - name: python-mitmproxy
   - name: poissonsearch-oss
   - name: poissonsearch-py
+  - name: bazel

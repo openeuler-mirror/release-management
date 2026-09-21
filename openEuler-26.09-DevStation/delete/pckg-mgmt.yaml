@@ -85,4 +85,5 @@ packages:
   - name: mcp-servers
   - name: poissonsearch-oss
   - name: poissonsearch-py
+  - name: bazel
 
