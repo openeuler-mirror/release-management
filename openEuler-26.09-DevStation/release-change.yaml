@@ -114,3 +114,7 @@ release-change:
   description: de71d88 !2797 remove umdk from openEuler-26.09-DevStation
   changed_packages: umdk
   date: 2026-09-22-11-09-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2799
+  description: 72931a9 !2799 Restore rabbitmq-java-client to openEuler-26.09-DevStation
+  changed_packages: rabbitmq-java-client
+  date: 2026-09-22-17-46-58
