@@ -7283,10 +7283,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: umdk
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: python-eventlet
   source_dir: master
   destination_dir: openEuler-26.09-DevStation

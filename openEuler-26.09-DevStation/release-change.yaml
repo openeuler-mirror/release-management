@@ -110,3 +110,7 @@ release-change:
   description: 22da6af !2796 remove bazel from master/openEuler-26.09-DevStation
   changed_packages: bazel
   date: 2026-09-21-19-33-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2797
+  description: de71d88 !2797 remove umdk from openEuler-26.09-DevStation
+  changed_packages: umdk
+  date: 2026-09-22-11-09-28
