@@ -144,3 +144,4 @@ packages:
 - name: tidb
 - name: kubekey
 - name: python-pyusb
+- name: thunderbird
