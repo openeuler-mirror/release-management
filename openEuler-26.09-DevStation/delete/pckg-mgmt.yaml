@@ -86,4 +86,5 @@ packages:
   - name: poissonsearch-oss
   - name: poissonsearch-py
   - name: bazel
+  - name: umdk
 
