@@ -3143,3 +3143,7 @@ release-change:
   description: 22da6af !2796 remove bazel from master/openEuler-26.09-DevStation
   changed_packages: bazel
   date: 2026-09-21-19-33-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2798
+  description: c4c2c79 !2798 retire thunderbird
+  changed_packages: thunderbird
+  date: 2026-09-22-17-42-14

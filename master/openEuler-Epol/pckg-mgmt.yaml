@@ -7539,10 +7539,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-03-12'
-- name: thunderbird
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-03-14'
 - name: phpy
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol

@@ -804,3 +804,7 @@ release-change:
     LTS-Next, 25.09, 26.09, 26.09-DevStation
   changed_packages: trustruntime
   date: 2026-09-08-16-54-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2798
+  description: c4c2c79 !2798 retire thunderbird
+  changed_packages: thunderbird
+  date: 2026-09-22-17-42-14
