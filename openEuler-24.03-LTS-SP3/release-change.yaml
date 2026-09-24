@@ -167,3 +167,7 @@ release-change:
   description: 61df3f5 !2801 add ubs-io to openEuler-24.03-LTS-SP3
   changed_packages: ubs-io
   date: 2026-09-24-15-39-47
+- pr: https://gitcode.com/openeuler/release-management/pull/2802
+  description: 599cbe1 !2802 add ubs-atomic to openEuler-24.03-LTS-SP3
+  changed_packages: ubs-atomic
+  date: 2026-09-24-15-41-02
