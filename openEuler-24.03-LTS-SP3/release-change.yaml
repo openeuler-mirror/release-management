@@ -163,3 +163,7 @@ release-change:
     LTS-Next, 25.09, 26.09, 26.09-DevStation
   changed_packages: trustruntime
   date: 2026-09-08-16-54-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2801
+  description: 61df3f5 !2801 add ubs-io to openEuler-24.03-LTS-SP3
+  changed_packages: ubs-io
+  date: 2026-09-24-15-39-47
