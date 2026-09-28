@@ -15843,3 +15843,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-09-28"
+- name: python-pefile
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-09-28"
