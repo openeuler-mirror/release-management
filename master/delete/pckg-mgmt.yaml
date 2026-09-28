@@ -1268,3 +1268,6 @@ packages:
   - name: poissonsearch-py
   - name: bazel
   - name: thunderbird
+  - name: python-tensorboard
+  - name: python-tensorboard-plugin-wit
+  - name: python-estimator
