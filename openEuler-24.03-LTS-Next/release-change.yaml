@@ -808,3 +808,7 @@ release-change:
   description: c4c2c79 !2798 retire thunderbird
   changed_packages: thunderbird
   date: 2026-09-22-17-42-14
+- pr: https://gitcode.com/openeuler/release-management/pull/2800
+  description: c9fdbe1 !2800 Add cinderx to openEuler-24.03-LTS-Next EPOL
+  changed_packages: cinderx
+  date: 2026-09-28-11-11-41
