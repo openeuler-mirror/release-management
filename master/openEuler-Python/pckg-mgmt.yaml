@@ -1047,6 +1047,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
   date: '2022-07-26'
+- name: python-pefile
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2026-09-30'
 - name: python-pexpect
   obs_from: openEuler:Mainline
   obs_to: openEuler:Python
