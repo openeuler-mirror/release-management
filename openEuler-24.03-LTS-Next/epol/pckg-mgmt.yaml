@@ -65,6 +65,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: automoc
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-09-28'
 - name: avro
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -2033,6 +2039,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: phonon-qt4
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-09-28'
 - name: php-pear
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -3473,12 +3485,30 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: qt
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-09-28'
+- name: qt-assistant-adp
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-09-28'
 - name: qt-at-spi
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: qt-mobility
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-09-28'
 - name: qt5-ukui-platformtheme
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -6653,6 +6683,12 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
+- name: PyQt4
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-09-28'
 - name: kuserfeedback
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
