@@ -118,3 +118,8 @@ release-change:
   description: 72931a9 !2799 Restore rabbitmq-java-client to openEuler-26.09-DevStation
   changed_packages: rabbitmq-java-client
   date: 2026-09-22-17-46-58
+- pr: https://gitcode.com/openeuler/release-management/pull/2806
+  description: 8214eeb !2806 remove python-tensorboard, python-tensorboard-plugin-wit
+    and python-estimator from master/openEuler-26.09-DevStation
+  changed_packages: python-tensorboard-plugin-wit python-estimator python-tensorboard
+  date: 2026-09-28-17-14-23

@@ -6239,19 +6239,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'
-- name: python-tensorboard
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: python-tensorboard-plugin-wit
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
 - name: flatbuffers
-  source_dir: master
-  destination_dir: openEuler-26.09-DevStation
-  date: '2026-07-18'
-- name: python-estimator
   source_dir: master
   destination_dir: openEuler-26.09-DevStation
   date: '2026-07-18'

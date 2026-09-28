@@ -3147,3 +3147,8 @@ release-change:
   description: c4c2c79 !2798 retire thunderbird
   changed_packages: thunderbird
   date: 2026-09-22-17-42-14
+- pr: https://gitcode.com/openeuler/release-management/pull/2806
+  description: 8214eeb !2806 remove python-tensorboard, python-tensorboard-plugin-wit
+    and python-estimator from master/openEuler-26.09-DevStation
+  changed_packages: python-tensorboard-plugin-wit python-estimator python-tensorboard
+  date: 2026-09-28-17-14-23
