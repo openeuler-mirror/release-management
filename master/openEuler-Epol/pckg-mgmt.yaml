@@ -8947,3 +8947,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-09-14'
+- name: python-pefile
+  obs_from: openEuler:Epol
+  obs_to: openEuler:Epol
+  date: '2026-09-29'
