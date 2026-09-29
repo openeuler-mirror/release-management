@@ -4387,6 +4387,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
   date: '2022-07-26'
+- name: vips
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-09-29'
 - name: virglrenderer
   obs_from: openEuler:Mainline
   obs_to: openEuler:Mainline
