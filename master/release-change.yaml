@@ -3152,3 +3152,7 @@ release-change:
     and python-estimator from master/openEuler-26.09-DevStation
   changed_packages: python-tensorboard-plugin-wit python-estimator python-tensorboard
   date: 2026-09-28-17-14-23
+- pr: https://gitcode.com/openeuler/release-management/pull/2811
+  description: 29596c9 !2811 move vips into everything for appstream
+  changed_packages: vips
+  date: 2026-09-29-18-32-16
