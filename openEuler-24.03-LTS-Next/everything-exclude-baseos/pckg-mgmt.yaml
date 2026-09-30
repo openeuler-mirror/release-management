@@ -7769,6 +7769,12 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: fwupd-efi
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Mainline
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-09-28'
 - name: ganglia
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -17867,6 +17873,12 @@ packages:
   obs_from: openEuler:Python
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
+- name: python-pefile
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Python
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-09-30'
 - name: python-pexpect
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
