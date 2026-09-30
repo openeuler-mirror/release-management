@@ -3160,3 +3160,7 @@ release-change:
   description: 07a888d !2812 remove erlang-rebar,erlang-protobuffs from master
   changed_packages: erlang-protobuffs erlang-rebar
   date: 2026-09-30-10-19-06
+- pr: https://gitcode.com/openeuler/release-management/pull/2805
+  description: 8e81e81 !2805 move fwupd-efi, python-pefile into everything
+  changed_packages: fwupd-efi python-pefile
+  date: 2026-09-30-18-09-56

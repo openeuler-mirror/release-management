@@ -816,3 +816,7 @@ release-change:
   description: 219697c !2813 remove Java packages idm-console-framework
   changed_packages: idm-console-framework
   date: 2026-09-30-14-20-08
+- pr: https://gitcode.com/openeuler/release-management/pull/2805
+  description: 8e81e81 !2805 move fwupd-efi, python-pefile into everything
+  changed_packages: fwupd-efi python-pefile
+  date: 2026-09-30-18-09-56
