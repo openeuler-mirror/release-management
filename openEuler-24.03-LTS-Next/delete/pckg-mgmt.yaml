@@ -145,3 +145,4 @@ packages:
 - name: kubekey
 - name: python-pyusb
 - name: thunderbird
+- name: idm-console-framework
