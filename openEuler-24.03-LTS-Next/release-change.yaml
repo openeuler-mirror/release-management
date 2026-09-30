@@ -812,3 +812,7 @@ release-change:
   description: c9fdbe1 !2800 Add cinderx to openEuler-24.03-LTS-Next EPOL
   changed_packages: cinderx
   date: 2026-09-28-11-11-41
+- pr: https://gitcode.com/openeuler/release-management/pull/2813
+  description: 219697c !2813 remove Java packages idm-console-framework
+  changed_packages: idm-console-framework
+  date: 2026-09-30-14-20-08
