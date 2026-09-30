@@ -3156,3 +3156,7 @@ release-change:
   description: 29596c9 !2811 move vips into everything for appstream
   changed_packages: vips
   date: 2026-09-29-18-32-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2812
+  description: 07a888d !2812 remove erlang-rebar,erlang-protobuffs from master
+  changed_packages: erlang-protobuffs erlang-rebar
+  date: 2026-09-30-10-19-06

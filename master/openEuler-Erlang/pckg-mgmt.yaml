@@ -27,14 +27,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:Erlang
   date: '2022-07-26'
-- name: erlang-protobuffs
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Erlang
-  date: '2022-07-26'
-- name: erlang-rebar
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:Erlang
-  date: '2022-07-26'
 - name: erlang-ssl_verify_fun
   obs_from: openEuler:Factory
   obs_to: openEuler:Erlang
