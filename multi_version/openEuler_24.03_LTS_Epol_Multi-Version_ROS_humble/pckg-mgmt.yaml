@@ -959,6 +959,12 @@ packages:
   obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
   obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
   date: '2024-04-12'
+- name: plotjuggler
+  source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
+  destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
+  obs_from: openEuler:24.03:LTS:Next:Epol:Multi-Version:ROS:humble
+  obs_to: openEuler:24.03:LTS:Epol:Multi-Version:ROS:humble
+  date: '2026-10-01'
 - name: plotjuggler_msgs
   source_dir: Multi-Version_ros-humble_openEuler-24.03-LTS-Next
   destination_dir: Multi-Version_ros-humble_openEuler-24.03-LTS
