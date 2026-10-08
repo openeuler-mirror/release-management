@@ -820,3 +820,7 @@ release-change:
   description: 8e81e81 !2805 move fwupd-efi, python-pefile into everything
   changed_packages: fwupd-efi python-pefile
   date: 2026-09-30-18-09-56
+- pr: https://gitcode.com/openeuler/release-management/pull/2817
+  description: f43151b !2817 24.03：将 geographiclib 纳入构建清单
+  changed_packages: geographiclib
+  date: 2026-10-08-09-36-51
