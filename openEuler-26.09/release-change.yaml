@@ -1,12 +1,17 @@
 release-change:
-- pr: https://gitcode.com/openeuler/release-management/pull/2703
-  description: 1c66b0a !2703 completely drop qt5-doc
-  changed_packages: qt5-doc
-  date: 2026-07-20-11-30-25
-- pr: https://gitcode.com/openeuler/release-management/pull/2712
-  description: 810e90e !2712 recycle clutter-gst3
-  changed_packages: clutter-gst3
-  date: 2026-07-21-11-23-13
+- pr: https://gitcode.com/openeuler/release-management/pull/2714
+  description: 394f876 !2714 remove qt5-doc and clutter-gst3 from 26.09 DevStation
+  changed_packages: clutter-gst3 qt5-doc
+  date: 2026-07-21-12-48-11
+- pr: https://gitcode.com/openeuler/release-management/pull/2715
+  description: c521a1b !2715 remove apache-commons-csv,java-uuid-generator from 26.09
+    DevStation
+  changed_packages: java-uuid-generator apache-commons-csv
+  date: 2026-07-21-14-28-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2719
+  description: ead7444 !2719 recycle grantlee
+  changed_packages: grantlee
+  date: 2026-07-24-11-43-48
 - pr: https://gitcode.com/openeuler/release-management/pull/2738
   description: b316729 !2738 labltk has been renamed to ocaml-labltk
   changed_packages: ocaml-labltk
@@ -15,7 +20,101 @@ release-change:
   description: 4c78bef !2747 rename qt5dxcb-plugin to qt5platform-plugins
   changed_packages: qt5platform-plugins
   date: 2026-08-10-14-55-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2748
+  description: ce61d73 !2748 delete linux-sgx-driver from openEuler-26.09-DevStation
+    and master
+  changed_packages: linux-sgx-driver
+  date: 2026-08-12-09-13-13
+- pr: https://gitcode.com/openeuler/release-management/pull/2755
+  description: fdec4c5 !2755 delete dpu-utilities from openEuler-26.09-DevStation
+  changed_packages: dpu-utilities
+  date: 2026-08-18-11-44-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2756
+  description: 97e6196 !2756 add RAM-A to master and openEuler-26.09-DevStation
+  changed_packages: RAM-A
+  date: 2026-08-19-11-01-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2757
+  description: a7e3298 !2757 Remove tidb from openEuler-26.09-DevStation
+  changed_packages: tidb
+  date: 2026-08-19-13-53-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2758
+  description: ee4d4d5 !2758 delete dtkdeclarative from openEuler-26.09-DevStation
+  changed_packages: dtkdeclarative
+  date: 2026-08-20-15-51-45
+- pr: https://gitcode.com/openeuler/release-management/pull/2759
+  description: 70e92d6 !2759 add AcTrail to openEuler-26.09-DevStation
+  changed_packages: AcTrail
+  date: 2026-08-21-10-09-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2764
+  description: 3a7ceab !2764 add witty-service to master and openEuler-26.09-DevStation
+  changed_packages: witty-service
+  date: 2026-08-28-11-24-19
 - pr: https://gitcode.com/openeuler/release-management/pull/2773
   description: 5ddaf4b !2773 Remove rubygem-pry-nav
   changed_packages: rubygem-pry-nav
   date: 2026-08-31-11-16-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2771
+  description: 773613a !2771 add agent-insight to master and openEuler-26.09-DevStation
+  changed_packages: agent-insight
+  date: 2026-09-01-11-38-23
+- pr: https://gitcode.com/openeuler/release-management/pull/2765
+  description: 645840b !2765 add AgentSecurity mainline for openEuler-24.04-LTS-{SP3,Next},
+    openEuler-26.09-Dev
+  changed_packages: AgentSecurity
+  date: 2026-09-01-15-52-40
+- pr: https://gitcode.com/openeuler/release-management/pull/2777
+  description: ab72c26 !2777 Move ghc related packages from Factory to Epol and openEuler-26.09-DevStation
+  changed_packages: ghc-timeit ghc-microlens ghc-pretty-simple ghc-generics-sop ghc-hashtables
+    ghc-terminal-size ghc-pager ghc-clock ghc-cmdargs ghc-parser-combinators ghc-Decimal
+  date: 2026-09-03-19-04-54
+- pr: https://gitcode.com/openeuler/release-management/pull/2779
+  description: 427b6ac !2779 recycle duplicated python-pyusb from future distribs
+  changed_packages: python-pyusb
+  date: 2026-09-07-09-14-53
+- pr: https://gitcode.com/openeuler/release-management/pull/2788
+  description: 718157b !2788 Remove python-mitmproxy from master/openEuler-26.09-DevStation
+  changed_packages: python-mitmproxy
+  date: 2026-09-10-09-55-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2789
+  description: 6c4f4a5 !2789 remove communication-dsoftbus等 from openEuler-26.09-DevStation
+  changed_packages: AgentSecurity agent-insight python-fastapi-pagination sysHAX python-fastapi
+  date: 2026-09-14-18-15-26
+- pr: https://gitcode.com/openeuler/release-management/pull/2785
+  description: ef4d3e1 !2785 add LMCache-Ascend to master and openEuler-26.09-DevStation
+  changed_packages: LMCache-Ascend
+  date: 2026-09-14-20-44-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2791
+  description: 9373380 !2791 remove dsoftbus等 from openEuler-26.09-DevStation
+  changed_packages: distributeddatamgr_relational_store distributeddatamgr_data_object
+    dsoftbus security_device_security_level distributeddatamgr_datamgr_service systemabilitymgr_safwk
+    distributedhardware_device_manager security_device_auth systemabilitymgr_samgr
+    distributeddatamgr_kv_store security_dataclassification security_huks
+  date: 2026-09-16-16-56-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2792
+  description: 8c99063 !2792 remove rabbitmq-java-client from openEuler-26.09-DevStation
+  changed_packages: rabbitmq-java-client
+  date: 2026-09-17-15-10-39
+- pr: https://gitcode.com/openeuler/release-management/pull/2794
+  description: fafe622 !2794 Restore agent-insight to openEuler-26.09-DevStation
+  changed_packages: agent-insight
+  date: 2026-09-20-09-47-49
+- pr: https://gitcode.com/openeuler/release-management/pull/2795
+  description: 4bc01a7 !2795 remove mcp-servers from openEuler-26.09-DevStation
+  changed_packages: mcp-servers
+  date: 2026-09-20-10-28-06
+- pr: https://gitcode.com/openeuler/release-management/pull/2793
+  description: 440cade !2793 remove poissonsearch-oss and poissonsearch-py from openEuler-26.09-DevStation
+  changed_packages: poissonsearch-py poissonsearch-oss
+  date: 2026-09-20-16-53-55
+- pr: https://gitcode.com/openeuler/release-management/pull/2796
+  description: 22da6af !2796 remove bazel from master/openEuler-26.09-DevStation
+  changed_packages: bazel
+  date: 2026-09-21-19-33-04
+- pr: https://gitcode.com/openeuler/release-management/pull/2797
+  description: de71d88 !2797 remove umdk from openEuler-26.09-DevStation
+  changed_packages: umdk
+  date: 2026-09-22-11-09-28
+- pr: https://gitcode.com/openeuler/release-management/pull/2799
+  description: 72931a9 !2799 Restore rabbitmq-java-client to openEuler-26.09-DevStation
+  changed_packages: rabbitmq-java-client
+  date: 2026-09-22-17-46-58

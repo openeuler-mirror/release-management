@@ -1215,10 +1215,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: oneDNN
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: oniguruma
   source_dir: master
   destination_dir: openEuler-26.09
@@ -1931,10 +1927,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: virtCCA_driver
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: libtracefs
   source_dir: master
   destination_dir: openEuler-26.09
@@ -2168,10 +2160,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: apache-commons-configuration
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: apache-commons-csv
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -2443,10 +2431,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: geolatte-geom
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: glassfish-jax-rs-api
   source_dir: master
   destination_dir: openEuler-26.09
@@ -2568,10 +2552,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: java-comment-preprocessor
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: java-uuid-generator
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -3291,10 +3271,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: poissonsearch-oss
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: jurand
   source_dir: master
   destination_dir: openEuler-26.09
@@ -3440,10 +3416,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: libraw1394
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: linux-sgx-driver
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -3819,10 +3791,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: gtksourceview4
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: gutenprint
   source_dir: master
   destination_dir: openEuler-26.09
@@ -3831,19 +3799,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: hadoop
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: hadoop-3.1
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: haproxy
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: hive
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -4892,10 +4848,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: opencc
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: opencl-clhpp
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -6083,10 +6035,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: rabbitmq-java-client
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: rabbitmq-server
   source_dir: master
   destination_dir: openEuler-26.09
@@ -6288,10 +6236,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: tcllib
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: tensorflow
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -7339,10 +7283,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: umdk
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: python-eventlet
   source_dir: master
   destination_dir: openEuler-26.09
@@ -7372,10 +7312,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: ubutils
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: hbase
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -7591,27 +7527,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: level-zero
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: intel-graphics-compiler
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: intel-compute-runtime
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: intel-metee
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: intel-gmmlib
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: intel-cm-compiler
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -7828,10 +7744,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: rubygem-test-unit-ruby-core
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: ub-pkg-manager
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -8355,10 +8267,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: bazel
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: dblatex
   source_dir: master
   destination_dir: openEuler-26.09
@@ -8372,10 +8280,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: future
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: gdbus-codegen-glibmm
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -9028,10 +8932,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: python-kdcproxy
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: python-keras-rl2
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -10187,10 +10087,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: python-mdformat-tables
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: python-pdfminer.six
   source_dir: master
   destination_dir: openEuler-26.09
@@ -10840,10 +10736,6 @@ packages:
   destination_dir: openEuler-26.09
   date: '2026-07-18'
 - name: python-sphinxcontrib-jquery
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
-- name: poissonsearch-py
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
@@ -12243,3 +12135,7 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
+- name: rabbitmq-java-client
+  source_dir: master
+  destination_dir: openEuler-26.09
+  date: '2026-09-22'
