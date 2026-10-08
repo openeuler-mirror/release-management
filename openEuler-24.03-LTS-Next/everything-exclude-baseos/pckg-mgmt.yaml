@@ -2003,12 +2003,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: qt
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: ragel
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7337,18 +7331,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: PyQt4
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: phonon-qt4
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: TeXamator
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7428,12 +7410,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: atmel-firmware
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: automoc
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Mainline
@@ -20319,18 +20295,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Python
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: qt-assistant-adp
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Qt
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: qt-mobility
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Qt
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: qt5-doc
