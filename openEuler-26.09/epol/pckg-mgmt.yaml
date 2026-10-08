@@ -811,10 +811,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
-- name: kubekey
-  source_dir: master
-  destination_dir: openEuler-26.09
-  date: '2026-07-18'
 - name: kwayland-integration
   source_dir: master
   destination_dir: openEuler-26.09
