@@ -824,3 +824,7 @@ release-change:
   description: f43151b !2817 24.03：将 geographiclib 纳入构建清单
   changed_packages: geographiclib
   date: 2026-10-08-09-36-51
+- pr: https://gitcode.com/openeuler/release-management/pull/2822
+  description: f18f187 !2822 remove nodejs-mock-fs from openEuler-24.03-LTS-Next
+  changed_packages: nodejs-mock-fs
+  date: 2026-10-09-15-28-23
