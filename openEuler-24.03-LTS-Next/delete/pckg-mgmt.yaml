@@ -146,3 +146,4 @@ packages:
 - name: python-pyusb
 - name: thunderbird
 - name: idm-console-framework
+- name: nodejs-mock-fs
