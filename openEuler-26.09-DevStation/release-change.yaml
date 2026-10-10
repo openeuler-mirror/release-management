@@ -123,3 +123,7 @@ release-change:
     and python-estimator from master/openEuler-26.09-DevStation
   changed_packages: python-tensorboard-plugin-wit python-estimator python-tensorboard
   date: 2026-09-28-17-14-23
+- pr: https://gitcode.com/openeuler/release-management/pull/2821
+  description: a19d17f !2821 add libnbd to 26.09 repo
+  changed_packages: libnbd
+  date: 2026-10-10-17-52-34

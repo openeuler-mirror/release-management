@@ -124,3 +124,7 @@ release-change:
     ghc-generics-sop ghc-hashtables ghc-terminal-size ghc-pager ghc-clock ghc-cmdargs
     ghc-parser-combinators ghc-Decimal LMCache-Ascend agent-insight kubekey
   date: 2026-10-08-10-07-31
+- pr: https://gitcode.com/openeuler/release-management/pull/2821
+  description: a19d17f !2821 add libnbd to 26.09 repo
+  changed_packages: libnbd
+  date: 2026-10-10-17-52-34
