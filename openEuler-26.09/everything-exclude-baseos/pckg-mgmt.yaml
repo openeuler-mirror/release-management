@@ -651,6 +651,10 @@ packages:
   source_dir: master
   destination_dir: openEuler-26.09
   date: '2026-07-18'
+- name: libnbd
+  source_dir: master
+  destination_dir: openEuler-26.09
+  date: '2026-10-09' 
 - name: libXScrnSaver
   source_dir: master
   destination_dir: openEuler-26.09
