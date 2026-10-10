@@ -828,3 +828,7 @@ release-change:
   description: f18f187 !2822 remove nodejs-mock-fs from openEuler-24.03-LTS-Next
   changed_packages: nodejs-mock-fs
   date: 2026-10-09-15-28-23
+- pr: https://gitcode.com/openeuler/release-management/pull/2824
+  description: ac4089a !2824 add perl-HTTP-CookieJar into everything
+  changed_packages: perl-HTTP-CookieJar
+  date: 2026-10-10-15-04-40
