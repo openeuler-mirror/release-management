@@ -832,3 +832,7 @@ release-change:
   description: ac4089a !2824 add perl-HTTP-CookieJar into everything
   changed_packages: perl-HTTP-CookieJar
   date: 2026-10-10-15-04-40
+- pr: https://gitcode.com/openeuler/release-management/pull/2825
+  description: 5324de6 !2825 remove node-gyp from openEuler-24.03-LTS-Next
+  changed_packages: node-gyp
+  date: 2026-10-12-15-07-16
