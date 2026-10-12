@@ -147,3 +147,4 @@ packages:
 - name: thunderbird
 - name: idm-console-framework
 - name: nodejs-mock-fs
+- name: node-gyp
