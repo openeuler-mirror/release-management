@@ -15839,3 +15839,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-10-09"
+- name: log-insight
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-14"
