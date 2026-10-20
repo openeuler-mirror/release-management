@@ -836,3 +836,7 @@ release-change:
   description: 5324de6 !2825 remove node-gyp from openEuler-24.03-LTS-Next
   changed_packages: node-gyp
   date: 2026-10-12-15-07-16
+- pr: https://gitcode.com/openeuler/release-management/pull/2828
+  description: 810aa16 !2828 request crius in openEuler 24.03 LTS EPOL
+  changed_packages: crius
+  date: 2026-10-20-14-06-50
