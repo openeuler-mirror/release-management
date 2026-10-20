@@ -3168,3 +3168,7 @@ release-change:
   description: dccd6da !2816 move qt6-qtcanvaspainter into everything
   changed_packages: qt6-qtcanvaspainter
   date: 2026-10-08-09-35-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2829
+  description: d6b2cea !2829 move s3cmd package from factory to python
+  changed_packages: s3cmd
+  date: 2026-10-20-21-03-55
