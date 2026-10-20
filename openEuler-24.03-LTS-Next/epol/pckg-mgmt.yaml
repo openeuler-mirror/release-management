@@ -8519,3 +8519,9 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2026-09-28'
+- name: crius
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Factory
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-10-20'
