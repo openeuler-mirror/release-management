@@ -15851,3 +15851,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-10-16"
+- name: llvm-toolset-22
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-22"
