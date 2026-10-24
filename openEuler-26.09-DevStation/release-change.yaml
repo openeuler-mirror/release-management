@@ -127,3 +127,7 @@ release-change:
   description: a19d17f !2821 add libnbd to 26.09 repo
   changed_packages: libnbd
   date: 2026-10-10-17-52-34
+- pr: https://gitcode.com/openeuler/release-management/pull/2810
+  description: 717434d !2810 add crius rpm to 26.09-DevStation
+  changed_packages: crius
+  date: 2026-10-24-14-35-47
