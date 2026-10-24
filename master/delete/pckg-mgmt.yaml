@@ -1274,3 +1274,5 @@ packages:
   - name: erlang-rebar
   - name: erlang-protobuffs
   - name: python-mdformat-tables
+  - name: qjson
+  - name: SDL_sound
