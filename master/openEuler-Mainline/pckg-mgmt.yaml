@@ -5951,3 +5951,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2026-08-07'
+- name: kde-qdoc-common
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-10-24'
