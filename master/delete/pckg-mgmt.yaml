@@ -1273,3 +1273,4 @@ packages:
   - name: python-estimator
   - name: erlang-rebar
   - name: erlang-protobuffs
+  - name: python-mdformat-tables
