@@ -148,3 +148,5 @@ packages:
 - name: idm-console-framework
 - name: nodejs-mock-fs
 - name: node-gyp
+- name: qjson
+- name: SDL_sound
