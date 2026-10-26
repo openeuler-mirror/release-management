@@ -3172,3 +3172,7 @@ release-change:
   description: d6b2cea !2829 move s3cmd package from factory to python
   changed_packages: s3cmd
   date: 2026-10-20-21-03-55
+- pr: https://gitcode.com/openeuler/release-management/pull/2835
+  description: 07e1612 !2835 将 kde-qdoc-common 调整为在 Mainline 中提供
+  changed_packages: kde-qdoc-common
+  date: 2026-10-26-10-10-58
