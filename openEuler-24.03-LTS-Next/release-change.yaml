@@ -840,3 +840,7 @@ release-change:
   description: 810aa16 !2828 request crius in openEuler 24.03 LTS EPOL
   changed_packages: crius
   date: 2026-10-20-14-06-50
+- pr: https://gitcode.com/openeuler/release-management/pull/2837
+  description: e535690 !2837 add firecracker to openEuler-24.03-LTS-Next
+  changed_packages: firecracker
+  date: 2026-10-26-19-35-32
