@@ -15855,3 +15855,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-10-22"
+- name: kf6-kmime
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-27"
