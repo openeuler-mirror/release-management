@@ -844,3 +844,7 @@ release-change:
   description: e535690 !2837 add firecracker to openEuler-24.03-LTS-Next
   changed_packages: firecracker
   date: 2026-10-26-19-35-32
+- pr: https://gitcode.com/openeuler/release-management/pull/2841
+  description: '76cc428 !2841 drop duplicated and empty repositories: arrow, python-pyarrow'
+  changed_packages: arrow python-pyarrow
+  date: 2026-10-29-18-30-03

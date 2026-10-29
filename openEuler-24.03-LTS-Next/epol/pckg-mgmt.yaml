@@ -8063,12 +8063,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-pyarrow
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: python-jiojio
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -8148,12 +8142,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
 - name: python-zipfile36
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
-- name: arrow
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol

@@ -3180,3 +3180,7 @@ release-change:
   description: 33f1774 !2840 add itrustee_client,itrustee_tzdriver,vtz_proxy,vtzdriver
   changed_packages: kf6-kmime
   date: 2026-10-29-10-54-27
+- pr: https://gitcode.com/openeuler/release-management/pull/2841
+  description: '76cc428 !2841 drop duplicated and empty repositories: arrow, python-pyarrow'
+  changed_packages: arrow python-pyarrow
+  date: 2026-10-29-18-30-03

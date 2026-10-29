@@ -7755,10 +7755,6 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-06'
-- name: python-pyarrow
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-06-06'
 - name: python-jiojio
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
@@ -7812,10 +7808,6 @@ packages:
   obs_to: openEuler:Epol
   date: '2025-06-06'
 - name: python-zipfile36
-  obs_from: openEuler:Factory
-  obs_to: openEuler:Epol
-  date: '2025-06-06'
-- name: arrow
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2025-06-06'
