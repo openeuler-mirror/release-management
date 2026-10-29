@@ -150,3 +150,5 @@ packages:
 - name: node-gyp
 - name: qjson
 - name: SDL_sound
+- name: arrow
+- name: python-pyarrow
