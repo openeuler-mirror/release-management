@@ -3176,3 +3176,7 @@ release-change:
   description: 07e1612 !2835 将 kde-qdoc-common 调整为在 Mainline 中提供
   changed_packages: kde-qdoc-common
   date: 2026-10-26-10-10-58
+- pr: https://gitcode.com/openeuler/release-management/pull/2840
+  description: 33f1774 !2840 add itrustee_client,itrustee_tzdriver,vtz_proxy,vtzdriver
+  changed_packages: kf6-kmime
+  date: 2026-10-29-10-54-27
