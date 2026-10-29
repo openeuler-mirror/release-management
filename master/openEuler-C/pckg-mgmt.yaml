@@ -3451,6 +3451,10 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
+- name: tree-sitter
+  obs_from: openEuler:Factory
+  obs_to: openEuler:C
+  date: '2026-10-28'
 - name: trousers
   obs_from: openEuler:Mainline
   obs_to: openEuler:C

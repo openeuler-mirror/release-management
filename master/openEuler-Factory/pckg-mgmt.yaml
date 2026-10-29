@@ -15839,10 +15839,6 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-10-14"
-- name: tree-sitter
-  obs_from: ""
-  obs_to: openEuler:Factory
-  date: "2026-10-15"
 - name: luban-meter
   obs_from: ""
   obs_to: openEuler:Factory
