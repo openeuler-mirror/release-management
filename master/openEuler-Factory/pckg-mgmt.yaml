@@ -15879,3 +15879,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-10-30"
+- name: glfw
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
