@@ -848,3 +848,11 @@ release-change:
   description: '76cc428 !2841 drop duplicated and empty repositories: arrow, python-pyarrow'
   changed_packages: arrow python-pyarrow
   date: 2026-10-29-18-30-03
+- pr: https://gitcode.com/openeuler/release-management/pull/2842
+  description: '555de66 !2842 [openEuler-24.03-Next] chore: remove empty repos from
+    2403next'
+  changed_packages: json python-fastapi-pagination python-clang python-lancedb mcp-servers
+    python-opencv-python python-opencv-contrib-python python-paddleocr python-pymupdf
+    python-langsmith python-imageio python-pymongo-4 python-tifffile python-asgi-correlation-id
+    python-opencv-python-headless python-paddlepaddle python-rapidfuzz
+  date: 2026-10-30-14-33-26
