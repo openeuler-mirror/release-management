@@ -1278,3 +1278,5 @@ packages:
   - name: SDL_sound
   - name: arrow
   - name: python-pyarrow
+  - name: libwpe
+  - name: wpebackend-fdo
