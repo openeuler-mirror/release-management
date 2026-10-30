@@ -15855,3 +15855,27 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-10-27"
+- name: python-truststore
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
+- name: python-python-discovery
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
+- name: python-httpx2
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
+- name: python-httpcore2
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
+- name: python-backports-zstd
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
+- name: perl-Net-Curl
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-10-30"
