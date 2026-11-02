@@ -1817,12 +1817,6 @@ packages:
   obs_from: openEuler:C
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: libwpe
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: libx86emu
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -2958,12 +2952,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: woff2
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:C
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: wpebackend-fdo
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:C

@@ -2135,10 +2135,6 @@ packages:
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'
-- name: libwpe
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
 - name: libx86emu
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
@@ -3656,10 +3652,6 @@ packages:
   obs_to: openEuler:C
   date: '2022-07-26'
 - name: woff2
-  obs_from: openEuler:Mainline
-  obs_to: openEuler:C
-  date: '2022-07-26'
-- name: wpebackend-fdo
   obs_from: openEuler:Mainline
   obs_to: openEuler:C
   date: '2022-07-26'

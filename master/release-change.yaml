@@ -3192,3 +3192,7 @@ release-change:
   description: '76cc428 !2841 drop duplicated and empty repositories: arrow, python-pyarrow'
   changed_packages: arrow python-pyarrow
   date: 2026-10-29-18-30-03
+- pr: https://gitcode.com/openeuler/release-management/pull/2838
+  description: '93a8b06 !2838 chore(release-change): 补录 !2830 与 !2752'
+  changed_packages: wpebackend-fdo libwpe
+  date: 2026-11-02-14-29-21
