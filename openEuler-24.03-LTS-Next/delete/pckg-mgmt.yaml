@@ -229,3 +229,4 @@ packages:
 - name: xfdashboard
 - name: xfdesktop
 - name: xfwm4
+- name: llvm-bolt
