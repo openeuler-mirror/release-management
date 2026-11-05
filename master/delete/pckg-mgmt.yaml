@@ -1280,3 +1280,5 @@ packages:
   - name: python-pyarrow
   - name: libwpe
   - name: wpebackend-fdo
+  - name: python-mitmproxy
+  - name: python-mitmproxy-wireguard
