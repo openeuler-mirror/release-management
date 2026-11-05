@@ -230,3 +230,5 @@ packages:
 - name: xfdesktop
 - name: xfwm4
 - name: llvm-bolt
+- name: python-mitmproxy
+- name: python-mitmproxy-wireguard
