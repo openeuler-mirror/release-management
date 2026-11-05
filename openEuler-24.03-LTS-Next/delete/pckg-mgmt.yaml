@@ -232,3 +232,6 @@ packages:
 - name: llvm-bolt
 - name: python-mitmproxy
 - name: python-mitmproxy-wireguard
+- name: nodejs-tiny-lr-fork
+- name: nodejs-websocket-driver
+- name: nodejs-faye-websocket
