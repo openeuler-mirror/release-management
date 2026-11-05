@@ -860,3 +860,8 @@ release-change:
   description: '93a8b06 !2838 chore(release-change): 补录 !2830 与 !2752'
   changed_packages: wpebackend-fdo libwpe
   date: 2026-11-02-14-29-21
+- pr: https://gitcode.com/openeuler/release-management/pull/2854
+  description: 1ef234f !2854 remove python-mitmproxy,python-mitmproxy-wireguard from
+    master/openEuler-24.03-LTS-Next
+  changed_packages: python-mitmproxy-wireguard python-mitmproxy
+  date: 2026-11-05-11-13-42
