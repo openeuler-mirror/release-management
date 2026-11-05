@@ -15017,12 +15017,6 @@ packages:
   obs_from: openEuler:Nodejs
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: nodejs-faye-websocket
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Nodejs
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: nodejs-figures
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -16235,12 +16229,6 @@ packages:
   obs_from: openEuler:Nodejs
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
-- name: nodejs-tiny-lr-fork
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Nodejs
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
 - name: nodejs-tough-cookie
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -16314,12 +16302,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next
   date: '2024-03-08'
 - name: nodejs-vows
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Nodejs
-  obs_to: openEuler:24.03:LTS:Next
-  date: '2024-03-08'
-- name: nodejs-websocket-driver
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Nodejs

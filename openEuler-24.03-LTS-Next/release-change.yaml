@@ -865,3 +865,8 @@ release-change:
     master/openEuler-24.03-LTS-Next
   changed_packages: python-mitmproxy-wireguard python-mitmproxy
   date: 2026-11-05-11-13-42
+- pr: https://gitcode.com/openeuler/release-management/pull/2855
+  description: 8828b81 !2855 remove nodejs-tiny-lr-fork nodejs-websocket-driver and
+    nodejs-faye-websocket
+  changed_packages: nodejs-websocket-driver nodejs-faye-websocket nodejs-tiny-lr-fork
+  date: 2026-11-05-15-12-47
