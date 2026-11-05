@@ -5,12 +5,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: Thunar
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: accumulo
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -138,12 +132,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: canal
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: catfish
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -605,12 +593,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: exo
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: fastblock
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -683,12 +665,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: garcon
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: gcc-cross
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -708,12 +684,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: genders
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: gigolo
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -1505,12 +1475,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: libmpd
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: libmpris-qt5
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -1548,12 +1512,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: libvncserver
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: libxfce4ui
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -1686,12 +1644,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: mosquitto
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: mousepad
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -1974,12 +1926,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: papirus-icon-theme
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: parole
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -2867,12 +2813,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: python-multi_key_dict
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: python-netmiko
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -3593,12 +3533,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: ristretto
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: robodoc
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -3696,12 +3630,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: scl-utils
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: setuptool
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -3821,36 +3749,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: thunar-archive-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: thunar-media-tags-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: thunar-vcs-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: thunar-volman
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: thunarx-python
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: tig
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -3876,12 +3774,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: trafficserver
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: tumbler
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4097,187 +3989,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: xarchiver
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfburn
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce-polkit
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce-theme-manager
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-appfinder
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-battery-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-calculator-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-clipman-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-cpufreq-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-cpugraph-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-datetime-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: xfce4-dev-tools
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-dict
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-diskperf-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-eyes-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-fsguard-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-genmon-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-mailwatch-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-mount-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-mpc-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-netload-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-notes-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-notifyd
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-panel
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-panel-profiles
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-places-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-power-manager
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-pulseaudio-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-screensaver
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-screenshooter
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfce4-sensors-plugin
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4374,30 +4086,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: xfce4-xkb-plugin
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfconf
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfdashboard
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfdesktop
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: xfwm4
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4500,12 +4188,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: gnome-shell-extensions
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: system-config-users
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -4758,12 +4440,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: python-plum-py
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: system-config-users-docs
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -5381,12 +5057,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
-- name: arangodb
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
 - name: NetworkManager-l2tp
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -5772,12 +5442,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-03-08'
 - name: webp-pixbuf-loader
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-03-08'
-- name: openGemini
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -7437,12 +7101,6 @@ packages:
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Factory
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2024-04-18'
-- name: oceanbase-ce
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2024-04-18'
 - name: raspberrypi-utils
