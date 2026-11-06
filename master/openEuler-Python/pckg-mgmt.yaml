@@ -3195,3 +3195,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Python
   date: '2026-10-20'
+- name: python-discovery
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Python
+  date: '2026-11-06'
