@@ -870,3 +870,8 @@ release-change:
     nodejs-faye-websocket
   changed_packages: nodejs-websocket-driver nodejs-faye-websocket nodejs-tiny-lr-fork
   date: 2026-11-05-15-12-47
+- pr: https://gitcode.com/openeuler/release-management/pull/2856
+  description: 'ea1b734 !2856 chore: remove dangling deps of removed repos from 2403next'
+  changed_packages: python-langchain-core python-scikit-image python-langchain python-langchain-text-splitters
+    python-imgaug python-langchain-openai
+  date: 2026-11-06-18-04-34

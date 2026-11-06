@@ -7547,12 +7547,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-langchain-openai
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: python-fastapi
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7583,12 +7577,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-langchain-core
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: python-albumentations
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7607,12 +7595,6 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-imgaug
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: python-pgvector
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
@@ -7625,19 +7607,7 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
-- name: python-langchain
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
 - name: python-protobuf
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
-- name: python-langchain-text-splitters
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
@@ -7650,12 +7620,6 @@ packages:
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2025-06-06'
 - name: python-jiojio
-  source_dir: master
-  destination_dir: openEuler-24.03-LTS-Next
-  obs_from: openEuler:Epol
-  obs_to: openEuler:24.03:LTS:Next:Epol
-  date: '2025-06-06'
-- name: python-scikit-image
   source_dir: master
   destination_dir: openEuler-24.03-LTS-Next
   obs_from: openEuler:Epol
