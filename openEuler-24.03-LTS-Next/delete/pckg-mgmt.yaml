@@ -235,3 +235,9 @@ packages:
 - name: nodejs-tiny-lr-fork
 - name: nodejs-websocket-driver
 - name: nodejs-faye-websocket
+- name: python-scikit-image
+- name: python-imgaug
+- name: python-langchain-core
+- name: python-langchain
+- name: python-langchain-openai
+- name: python-langchain-text-splitters
