@@ -3201,3 +3201,7 @@ release-change:
     master/openEuler-24.03-LTS-Next
   changed_packages: python-mitmproxy-wireguard
   date: 2026-11-05-11-13-42
+- pr: https://gitcode.com/openeuler/release-management/pull/2857
+  description: ec86704 !2857 Move python-discovery from factory to openEuler-Python
+  changed_packages: python-discovery
+  date: 2026-11-06-15-44-23
