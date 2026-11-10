@@ -15891,3 +15891,7 @@ packages:
   obs_from: ""
   obs_to: openEuler:Factory
   date: "2026-11-09"
+- name: kuka_external_control_sdk
+  obs_from: ""
+  obs_to: openEuler:Factory
+  date: "2026-11-10"
