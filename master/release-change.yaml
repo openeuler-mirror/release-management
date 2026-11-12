@@ -3205,3 +3205,7 @@ release-change:
   description: ec86704 !2857 Move python-discovery from factory to openEuler-Python
   changed_packages: python-discovery
   date: 2026-11-06-15-44-23
+- pr: https://gitcode.com/openeuler/release-management/pull/2862
+  description: 6728ae8 !2862 Move python-flexparser and python-flexcache to openEuler-Epol
+  changed_packages: python-flexparser python-flexcache
+  date: 2026-11-12-10-44-52
