@@ -1282,3 +1282,7 @@ packages:
   - name: wpebackend-fdo
   - name: python-mitmproxy
   - name: python-mitmproxy-wireguard
+  - name: qgnomeplatform
+  - name: system-config-users
+  - name: system-config-users-docs
+  - name: php-pear
