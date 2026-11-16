@@ -3209,3 +3209,7 @@ release-change:
   description: 6728ae8 !2862 Move python-flexparser and python-flexcache to openEuler-Epol
   changed_packages: python-flexparser python-flexcache
   date: 2026-11-12-10-44-52
+- pr: https://gitcode.com/openeuler/release-management/pull/2859
+  description: e9fe748 !2859 add golang-1.26 to openEuler-24.03-LTS-Next
+  changed_packages: golang-1.26
+  date: 2026-11-16-09-46-01
