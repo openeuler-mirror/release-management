@@ -22469,3 +22469,15 @@ packages:
   obs_from: openEuler:Golang
   obs_to: openEuler:24.03:LTS:Next
   date: '2026-11-13'
+- name: llvm-toolset-22
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-11-16'
+- name: llvm-toolset-23
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:MultiLanguage
+  obs_to: openEuler:24.03:LTS:Next
+  date: '2026-11-16'
