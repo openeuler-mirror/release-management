@@ -3213,3 +3213,7 @@ release-change:
   description: e9fe748 !2859 add golang-1.26 to openEuler-24.03-LTS-Next
   changed_packages: golang-1.26
   date: 2026-11-16-09-46-01
+- pr: https://gitcode.com/openeuler/release-management/pull/2864
+  description: 655e44b !2864 Add llvm-toolset-22 and llvm-toolset-23 to openEuler-24.03-LTS-Next
+  changed_packages: llvm-toolset-22 llvm-toolset-23
+  date: 2026-11-17-10-42-20
