@@ -883,3 +883,7 @@ release-change:
   description: 655e44b !2864 Add llvm-toolset-22 and llvm-toolset-23 to openEuler-24.03-LTS-Next
   changed_packages: llvm-toolset-22 llvm-toolset-23
   date: 2026-11-17-10-42-20
+- pr: https://gitcode.com/openeuler/release-management/pull/2866
+  description: 8c3fb03 !2866 Remove kmod-dinghai from master/openEuler-24.03-LTS-Next
+  changed_packages: kmod-dinghai
+  date: 2026-11-18-15-00-34
