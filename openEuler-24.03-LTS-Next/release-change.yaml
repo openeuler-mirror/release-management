@@ -887,3 +887,8 @@ release-change:
   description: 8c3fb03 !2866 Remove kmod-dinghai from master/openEuler-24.03-LTS-Next
   changed_packages: kmod-dinghai
   date: 2026-11-18-15-00-34
+- pr: https://gitcode.com/openeuler/release-management/pull/2867
+  description: bcfa607 !2867 remove lustre、lustre-release & add xfce4-dev-tools from
+    openEuler-24.03-LTS-Next
+  changed_packages: xfce4-dev-tools lustre-release lustre
+  date: 2026-11-19-11-27-15
