@@ -258,6 +258,7 @@ packages:
 - name: xfce4-weather-plugin
 - name: xfce4-whiskermenu-plugin
 - name: xfce4-xkb-plugin
-- name: xfce4-dev-tools
 - name: libxfce4util
 - name: kmod-dinghai
+- name: lustre-release
+- name: lustre
