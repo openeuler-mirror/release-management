@@ -7901,3 +7901,9 @@ packages:
   obs_from: openEuler:Epol
   obs_to: openEuler:24.03:LTS:Next:Epol
   date: '2026-10-26'
+- name: xfce4-dev-tools
+  source_dir: master
+  destination_dir: openEuler-24.03-LTS-Next
+  obs_from: openEuler:Epol
+  obs_to: openEuler:24.03:LTS:Next:Epol
+  date: '2026-11-19'
