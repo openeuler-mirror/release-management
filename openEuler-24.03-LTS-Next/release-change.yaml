@@ -892,3 +892,7 @@ release-change:
     openEuler-24.03-LTS-Next
   changed_packages: xfce4-dev-tools lustre-release lustre
   date: 2026-11-19-11-27-15
+- pr: https://gitcode.com/openeuler/release-management/pull/2873
+  description: f12d5fc !2873 add RAM-A to openEuler-24.03-LTS-Next
+  changed_packages: RAM-A
+  date: 2026-11-24-16-18-33
