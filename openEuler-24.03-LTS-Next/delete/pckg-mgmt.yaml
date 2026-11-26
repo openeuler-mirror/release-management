@@ -262,3 +262,6 @@ packages:
 - name: kmod-dinghai
 - name: lustre-release
 - name: lustre
+- name: qgnomeplatform
+- name: python-roman-numerals-py
+- name: php-pear
