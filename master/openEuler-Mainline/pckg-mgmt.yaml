@@ -5955,3 +5955,7 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Mainline
   date: '2026-10-24'
+- name: ubfm
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Mainline
+  date: '2026-11-26'
