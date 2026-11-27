@@ -8931,3 +8931,43 @@ packages:
   obs_from: openEuler:Factory
   obs_to: openEuler:Epol
   date: '2026-11-12'
+- name: FlagAttention
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagAudio
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagQuantum
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagCX
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: libtriton_jit
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagGems
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagBLAS
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagSparse
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagTensor
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
+- name: FlagScale
+  obs_from: openEuler:Factory
+  obs_to: openEuler:Epol
+  date: '2026-11-27'
