@@ -134,3 +134,9 @@ release-change:
     LTS-Next, 25.09, 26.09, 26.09-DevStation
   changed_packages: trustruntime
   date: 2026-09-08-16-54-07
+- pr: https://gitcode.com/openeuler/release-management/pull/2852
+  description: f431b7c !2852 move FlagOS packages from factory to epol, add to openEuler-24.03-LTS-Next
+    and SP4
+  changed_packages: FlagAttention FlagAudio FlagQuantum FlagCX libtriton_jit FlagGems
+    FlagBLAS FlagSparse FlagTensor FlagScale
+  date: 2026-11-27-14-24-57
